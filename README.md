@@ -9,7 +9,7 @@
 
 - 🔭 I'm currently working on this and that. 
 
-- 🌱 I’m currently learning **Python, Pytorch**
+- 🌱 I’m currently learning **Python, Pytorch, Langchain**
 
 - 💬 Ask me about **CFA training, Derivatives, Congressional Trading**
 
