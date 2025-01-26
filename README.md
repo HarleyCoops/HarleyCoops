@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **CFA training, Derivatives, Congressional Trading**
 
-- 📫 How to reach me @christiancooper
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
