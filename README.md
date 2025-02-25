@@ -1,9 +1,14 @@
 <h1 align="center">Hi, I'm Christian H. Cooper</h1>
 
+<!-- Profile 3D Contribution -->
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Chart" />
+</p>
+
 <!-- Animated Header Banner -->
 <p align="center">
   <a href="https://github.com/HarleyCoops">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&height=100&lines=Financial+Analyst;Machine+Learning+Engineer;Python+Developer;Data+Science+Professional;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&height=100&lines=Financial+Analyst;Quantitative+Finance+Specialist;Machine+Learning+Engineer;Python+Developer;Data+Science+Professional;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
 
@@ -145,12 +150,6 @@
 ## Contribution Graph
 [![Christian's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=harleycoops&theme=react-dark&hide_border=true&area=true)](https://github.com/harleycoops)
 
-<!-- Profile 3D Contribution -->
-<!-- Note: To set up the 3D contribution visualization:
-     1. Create a .github/workflows directory in your profile repository
-     2. Add a profile-3d.yml file with the GitHub Action configuration
-     3. The SVG will be generated in the profile-3d-contrib directory -->
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Chart" />
 
 <!-- Footer -->
 <p align="center">
