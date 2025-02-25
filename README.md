@@ -148,7 +148,9 @@
 
 <!-- GitHub Activity Graph - Shows your contribution graph -->
 ## Contribution Graph
-[![Christian's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=harleycoops&theme=react-dark&hide_border=true&area=true)](https://github.com/harleycoops)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harleycoops&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="Christian's GitHub Activity Graph" />
+</p>
 
 
 <!-- Footer -->
