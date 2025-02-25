@@ -32,8 +32,7 @@
 - I'm currently working on **AI-driven financial analysis tools**
 - I'm currently learning **Python, PyTorch, Langchain**
 - Ask me about **CFA training, Derivatives, Congressional Trading**
-- Passionate about **financial markets and data science**
-- 2025 Goals: Contribute more to open source projects
+
 
 <!-- Current Projects Section -->
 ## Current Projects
