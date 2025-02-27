@@ -81,7 +81,7 @@
 
 <p align="center">
   <a href="https://github.com/HarleyCoops/Math-To-Manim">
-    <img src="https://raw.githubusercontent.com/HarleyCoops/Math-To-Manim/main/docs/volatility_surface.gif" alt="Volatility Surface Animation" width="400"/>
+    <img src="./Public/volatility_surface.gif" alt="Volatility Surface Animation" width="400"/>
   </a>
   <br>
   <em>Volatility Surface Visualization - Options Skew Model</em>
