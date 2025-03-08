@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Christian H. Cooper</h1>
+<h1 align="center">Christian H. Cooper</h1>
 
 <!-- Profile 3D Contribution -->
 <p align="center">
