@@ -95,19 +95,6 @@
   <em>Monte Carlo Simulation for Option Pricing</em>
 </p>
 
-<!-- Wakatime Stats - Shows your coding activity -->
-<!-- Note: To use this, you need to:
-     1. Sign up at https://wakatime.com
-     2. Connect your GitHub account
-     3. Install WakaTime plugins for your code editors
-     4. Replace 'harleycoops' below with your actual WakaTime username -->
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=@6d03fac1-ebe1-4d2c-b487-cbdeefdf8b31&layout=compact&theme=react&hide_border=true" alt="Wakatime Stats" />
-</p>
-
-<!-- Skills Section with Animated Bars -removed-  -->
-
-
 <!-- Programming Languages -->
 <h3>Programming Languages</h3>
 <p>
@@ -144,13 +131,6 @@
 <a href="https://linkedin.com/in/christianhcooperus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christianhcooperus" height="30" width="40" /></a>
 <a href="https://kaggle.com/christianhcooper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="christianhcooper" height="30" width="40" /></a>
 </p>
-
-<!-- GitHub Activity Graph - Shows your contribution graph -->
-## Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harleycoops&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="Christian's GitHub Activity Graph" />
-</p>
-
 
 <!-- Footer -->
 <p align="center">
