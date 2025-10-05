@@ -123,6 +123,40 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
 
+<!-- Hugging Face Models & Datasets -->
+## Public models on Hugging Face
+
+<p align="left">
+  <a href="https://huggingface.co/HarleyCooper">
+    <img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-@HarleyCooper-FFD21E?logo=huggingface&logoColor=white&style=for-the-badge">
+  </a>
+</p>
+
+As of Oct 2025: **6 models / 4 datasets / 6 Spaces**. Below are the ones reviewers should try first:
+
+| Model (HF) | Focus | Base |
+|---|---|---|
+| **Qwen.5B-OpenR1Math** | Reasoning on math steps & answers (Open-R1 style) | Qwen/Qwen2.5-0.5B-Instruct |
+| **Qwen.5B-GSM8K** | Small-model math finetune (GSM8K emphasis) | Qwen/Qwen2.5-0.5B-Instruct |
+| **GRPOtuned / GRPOtuned2** | GRPO experiments on 0.5B LLMs | Qwen/Qwen2.5-0.5B-Instruct |
+
+**Direct links:**
+- Models: <a href="https://huggingface.co/HarleyCooper/Qwen.5B-OpenR1Math">Qwen.5B-OpenR1Math</a>, <a href="https://huggingface.co/HarleyCooper/Qwen.5B-GSM8K">Qwen.5B-GSM8K</a>, <a href="https://huggingface.co/HarleyCooper/GRPOtuned">GRPOtuned</a>, <a href="https://huggingface.co/HarleyCooper/GRPOtuned2">GRPOtuned2</a>
+- Datasets: <a href="https://huggingface.co/datasets/HarleyCooper/synthetic_stoney_data">synthetic_stoney_data</a>, <a href="https://huggingface.co/datasets/HarleyCooper/StoneyNakoda">StoneyNakoda</a>
+- Spaces (demos): <a href="https://huggingface.co/spaces/HarleyCooper/deepsitecoder">deepsitecoder</a>, <a href="https://huggingface.co/spaces/HarleyCooper/StoneyApp">Stoney-1</a>, <a href="https://huggingface.co/spaces/HarleyCooper/AskAboutCIL">Ask About Stoney</a>
+
+**Quickstart (try a model in 5 lines):**
+```python
+from transformers import AutoTokenizer, AutoModelForCausalLM
+import torch
+mdl = "HarleyCooper/Qwen.5B-OpenR1Math"  # switch to any of your model IDs
+tok = AutoTokenizer.from_pretrained(mdl)
+model = AutoModelForCausalLM.from_pretrained(mdl, torch_dtype=torch.float16, device_map="auto")
+print(tok.decode(model.generate(**tok("Solve: 13*17", return_tensors="pt").to(model.device), max_new_tokens=64)[0], skip_special_tokens=True))
+```
+
+---
+
 <!-- Connect with me section -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
