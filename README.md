@@ -89,7 +89,7 @@
 
 <p align="center">
   <a href="https://github.com/HarleyCoops/Math-To-Manim">
-    <img src="https://raw.githubusercontent.com/HarleyCoops/Math-To-Manim/main/media/videos/bouncing/1080p60/ArtisticRhombicosidodecahedron_ManimCE_v0.19.0.gif" alt="Rhombicosidodecahedron Animation" width="400"/>
+    <img src="./Public/Rhombicosidodecahedron.gif" alt="Rhombicosidodecahedron Animation" width="400"/>
   </a>
   <br>
   <em>Recursive Rhombicosidodecahedron - A complex Archimedean solid where each vertex is itself a rhombicosidodecahedron. This fractal-like structure presents significant computational challenges for LLMs to render mathematically, requiring precise coordinate transformations across 62 faces (20 triangles, 30 squares, 12 pentagons) at multiple recursive scales.</em>
