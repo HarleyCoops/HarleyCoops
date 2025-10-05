@@ -102,7 +102,7 @@
      3. Install WakaTime plugins for your code editors
      4. Replace 'harleycoops' below with your actual WakaTime username -->
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=harleycoops&layout=compact&theme=react&hide_border=true" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=@6d03fac1-ebe1-4d2c-b487-cbdeefdf8b31&layout=compact&theme=react&hide_border=true" alt="Wakatime Stats" />
 </p>
 
 <!-- Skills Section with Animated Bars -removed-  -->
