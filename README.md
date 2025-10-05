@@ -89,10 +89,10 @@
 
 <p align="center">
   <a href="https://github.com/HarleyCoops/Math-To-Manim">
-    <img src="https://raw.githubusercontent.com/HarleyCoops/Math-To-Manim/main/docs/monte_carlo_simulation.gif" alt="Monte Carlo Simulation" width="400"/>
+    <img src="https://raw.githubusercontent.com/HarleyCoops/Math-To-Manim/main/media/videos/bouncing/1080p60/ArtisticRhombicosidodecahedron_ManimCE_v0.19.0.gif" alt="Rhombicosidodecahedron Animation" width="400"/>
   </a>
   <br>
-  <em>Monte Carlo Simulation for Option Pricing</em>
+  <em>Rhombicosidodecahedron - 3D Geometric Visualization</em>
 </p>
 
 <!-- Programming Languages -->
