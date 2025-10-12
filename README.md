@@ -2,7 +2,7 @@
 
 <!-- Profile 3D Contribution -->
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Chart" />
+  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D Contribution Chart" />
 </p>
 
 <!-- Animated Header Banner -->
