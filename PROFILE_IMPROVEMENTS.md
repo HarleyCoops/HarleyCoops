@@ -81,15 +81,34 @@ This document outlines all improvements made to your GitHub profile to better sh
 - Reinforces financial expertise theme
 - Adds visual interest
 
+### 6. Weekly Profile Theme Rotation
+
+**Location:** `.github/workflows/rotate-profile-theme.yml` and `.github/scripts/rotate_profile_theme.py`
+
+**Implementation:**
+- Automatically rotates through 10 different 3D contribution graph themes
+- Runs every Monday at midnight UTC via GitHub Actions
+- Can be manually triggered via workflow_dispatch
+- Themes rotate in sequence: night-view → night-green → night-rainbow → season-animate → green-animate → gitblock → south-season-animate → south-season → season → green → (back to night-view)
+
+**Benefits:**
+- Keeps profile visually fresh and engaging
+- Showcases all available 3D contribution themes
+- No manual intervention required
+- Adds variety to profile appearance
+- Demonstrates automation expertise
+
 ## Files Modified/Created
 
 ### New Files:
-1. `.github/workflows/news-ticker.yml` - GitHub Action workflow
+1. `.github/workflows/news-ticker.yml` - GitHub Action workflow for news updates
 2. `.github/scripts/update_news.py` - Python news fetcher script
-3. `PROFILE_IMPROVEMENTS.md` - This documentation
+3. `.github/workflows/rotate-profile-theme.yml` - GitHub Action workflow for theme rotation
+4. `.github/scripts/rotate_profile_theme.py` - Python theme rotation script
+5. `PROFILE_IMPROVEMENTS.md` - This documentation
 
 ### Modified Files:
-1. `README.md` - Enhanced with all improvements listed above
+1. `README.md` - Enhanced with all improvements and rotating theme
 
 ## Maintenance
 
@@ -98,6 +117,23 @@ This document outlines all improvements made to your GitHub profile to better sh
 - Can be manually triggered via "workflow_dispatch"
 - News appears between `<!-- NEWS:START -->` and `<!-- NEWS:END -->` markers
 - To add more news sources, edit `NEWS_SOURCES` in `.github/scripts/update_news.py`
+
+### Profile Theme Rotation
+- Runs automatically every Monday at midnight UTC via GitHub Actions
+- Can be manually triggered via "workflow_dispatch"
+- Rotates through 10 different 3D contribution graph themes in sequence
+- To customize the rotation order or add/remove themes, edit `THEMES` list in `.github/scripts/rotate_profile_theme.py`
+- Current rotation order:
+  1. night-view
+  2. night-green
+  3. night-rainbow
+  4. season-animate
+  5. green-animate
+  6. gitblock
+  7. south-season-animate
+  8. south-season
+  9. season
+  10. green
 
 ### Adding New News Sources
 Edit `.github/scripts/update_news.py` and add to `NEWS_SOURCES`:
@@ -116,9 +152,9 @@ To change or add quotes, modify the quote URL in README.md:
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=YOUR_QUOTE&author=AUTHOR" />
 ```
 
-## Testing the News Ticker
+## Testing the Automated Features
 
-To test the news ticker manually:
+### Testing News Ticker
 
 ```bash
 # Install dependencies
@@ -129,6 +165,23 @@ python .github/scripts/update_news.py
 
 # Check the README.md for updates
 ```
+
+### Testing Theme Rotation
+
+```bash
+# Run the rotation script
+python .github/scripts/rotate_profile_theme.py
+
+# Check the README.md to see the new theme
+# Run again to see it rotate to the next theme
+```
+
+### Manual Workflow Triggers
+Both workflows can be manually triggered from GitHub:
+1. Go to your repository's Actions tab
+2. Select either "Financial News Ticker" or "Rotate Profile Theme"
+3. Click "Run workflow"
+4. Click the green "Run workflow" button
 
 ## Optional Future Enhancements
 
