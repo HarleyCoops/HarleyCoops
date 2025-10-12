@@ -1,0 +1,41 @@
+name: Rotate Profile Theme
+
+on:
+  schedule:
+    # Run every Monday at 00:00 UTC
+    - cron: "0 0 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  rotate-theme:
+    runs-on: ubuntu-latest
+    name: Rotate 3D Contribution Graph Theme
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          persist-credentials: false
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Rotate Profile Theme
+        run: |
+          python .github/scripts/rotate_profile_theme.py
+
+      - name: Commit and Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No theme rotation needed"
+          else
+            git commit -m "style: rotate 3D contribution graph theme (automated)"
+            git remote set-url origin https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}
+            git push origin main
+          fi
