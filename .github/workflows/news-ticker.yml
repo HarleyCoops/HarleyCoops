@@ -1,4 +1,4 @@
-name: Update News Ticker
+name: Financial News Ticker
 
 on:
   schedule:
@@ -12,38 +12,34 @@ permissions:
 jobs:
   update-news:
     runs-on: ubuntu-latest
-    name: Update Financial News Ticker
+    name: Update Financial News
     steps:
       - uses: actions/checkout@v3
         with:
           persist-credentials: false
 
-      - name: Fetch Financial News
-        id: fetch-news
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
         run: |
-          # Create a temporary file for the news
-          echo "<!-- FINANCIAL_NEWS_START -->" > news_temp.md
-          echo "## 📈 Latest Financial News" >> news_temp.md
-          echo "" >> news_temp.md
-          echo "| Date | Headline |" >> news_temp.md
-          echo "| ---- | -------- |" >> news_temp.md
-          
-          # Fetch CNBC Market news
-          curl -s "https://www.cnbc.com/id/10000664/device/rss/rss.html" | grep -E '<item>|<title>|<pubDate>|<link>' | head -15 | sed 's/<item>/\n<item>/g' | grep -A 4 '<item>' | sed -n 's/.*<title>\(.*\)<\/title>.*/\1/p; s/.*<pubDate>\(.*\)<\/pubDate>.*/\1/p; s/.*<link>\(.*\)<\/link>.*/\1/p' | awk 'NR%3==1{title=$0} NR%3==2{date=$0} NR%3==0{link=$0; gsub(/T.*/, "", date); printf "| %s | [%s](%s) |\n", date, title, link}' | head -5 >> news_temp.md
-          
-          echo "<!-- FINANCIAL_NEWS_END -->" >> news_temp.md
-          
-          # Replace the news section in README.md
-          sed -i -e '/<!-- FINANCIAL_NEWS_START -->/,/<!-- FINANCIAL_NEWS_END -->/!b' -e '/<!-- FINANCIAL_NEWS_START -->/r news_temp.md' -e '/<!-- FINANCIAL_NEWS_START -->/,/<!-- FINANCIAL_NEWS_END -->/d' README.md
-          
-          # Clean up
-          rm news_temp.md
+          pip install feedparser requests beautifulsoup4
+
+      - name: Fetch and Update News
+        run: |
+          python .github/scripts/update_news.py
 
       - name: Commit and Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add .
-          git commit -m "Updated Financial News Ticker" || echo "No changes to commit"
-          git remote set-url origin https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}
-          git push origin main || echo "No changes to push"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update financial news ticker"
+            git remote set-url origin https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}
+            git push origin main
+          fi

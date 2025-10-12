@@ -14,6 +14,11 @@
 
 <h3 align="center">Working on complex problems in a complex world</h3>
 
+<!-- Dynamic Quote of the Day -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20stock%20market%20is%20filled%20with%20individuals%20who%20know%20the%20price%20of%20everything,%20but%20the%20value%20of%20nothing.&author=Philip%20Fisher" alt="Quote" />
+</p>
+
 <!-- Profile Views Counter -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harleycoops&label=Profile%20views&color=0e75b6&style=flat" alt="harleycoops" /> </p>
 
@@ -29,13 +34,55 @@
 <!-- About Me Section -->
 ## About Me
 
-- I'm currently working on **AI-driven financial analysis tools**
-- I'm currently learning **Python, PyTorch, Langchain**
-- Ask me about **CFA training, Derivatives, Congressional Trading**
+Quantitative Finance Professional specializing in AI-driven financial analysis and machine learning applications. Combining deep expertise in derivatives, options pricing, and financial modeling with cutting-edge ML techniques to solve complex problems in quantitative finance.
 
+**Current Focus:**
+- Building AI-driven financial analysis tools leveraging LLMs and reinforcement learning
+- Training small-scale language models for specialized reasoning tasks
+- Exploring Group Relative Policy Optimization (GRPO) for model alignment
+- Developing mathematical visualization tools with Manim
+
+**Expertise Areas:**
+- CFA training, Derivatives, and Options Trading
+- Congressional Trading Analysis and Market Microstructure
+- Quantitative Finance and Risk Management
+- Machine Learning Engineering (PyTorch, TensorFlow)
+- Mathematical Visualization and 3D Graphics
+
+**Learning Journey:**
+- Advanced PyTorch implementations
+- Reinforcement Learning from Human Feedback (RLHF)
+- Large Language Model fine-tuning and alignment
+- Computational geometry and fractal mathematics
+
+
+<!-- Financial News Ticker -->
+## Latest Financial News
+
+<div align="center">
+<sub>Updated every 6 hours | Multiple trusted sources</sub>
+</div>
+
+<!-- NEWS:START -->
+| Category | Date | Headline |
+|----------|------|----------|
+| Market | Oct 11, 2025 | [New tariff threats crush stocks during a big week for Nvidia and key portfolio moves](https://www.cnbc.com/2025/10/11/new-tariff-threats-crush-stocks-during-a-big-week-for-nvidia-and-key-portfolio-moves.html) |
+| Market | Oct 11, 2025 | [BlackRock sees shift in artificial intelligence trade. Where investors are putting their money now.](https://www.cnbc.com/2025/10/11/artificial-intelligence-bitcoin-as-top-blackrock-etf-place.html) |
+| Market | Oct 10, 2025 | [Chinese stocks slide as Trump threatens tariffs, accuses Beijing of holding world ‘captive’](https://www.cnbc.com/2025/10/10/chinese-stocks-slide-as-trump-threatens-tariffs-accuses-beijing-of-holding-world-captive.html) |
+| Market | Oct 10, 2025 | [Why Wall Street's old 'wall of worry' and new 'debasement trade' are boosting gold, bitcoin in ty...](https://www.cnbc.com/2025/10/10/debasement-trade-gold-bitcoin-stock-market-risks.html) |
+| Market | Oct 10, 2025 | [Morgan Stanley drops restrictions on which wealth clients can own crypto funds](https://www.cnbc.com/2025/10/10/morgan-stanley-drops-crypto-fund-restrictions-for-wealth-clients.html) |
+| Finance | Oct 12, 2025 | [Trump to travel to Israel as country anxiously awaits hostage releases](https://www.ft.com/content/fad4e893-fa59-4862-b904-82c0da659eb0) |
+| Finance | Oct 12, 2025 | [Trump’s Gaza plan hinges on security force yet to take shape](https://www.ft.com/content/542b6c82-9499-4b0e-b7cb-ee2aee6fef44) |
+| Finance | Oct 12, 2025 | [Ukraine hit Russian energy sites with US help](https://www.ft.com/content/f9f42c10-3a30-4ee1-aff7-3368dd831c8c) |
+| Finance | Oct 12, 2025 | [A rare moment of hope in the Middle East](https://www.ft.com/content/8bdc97d9-d8d5-4651-97a4-08d10850e059) |
+| Finance | Oct 12, 2025 | [Why the economy feels so confusing right now](https://www.ft.com/content/5df25200-8eb7-4640-9511-ae4d10b73f81) |
+
+<!-- NEWS:END -->
+
+---
 
 <!-- Current Projects Section -->
-## Current Projects
+## Featured Projects & Research
 
 <a href="https://github.com/HarleyCoops/Math-To-Manim">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harleycoops&repo=Math-To-Manim&theme=react&hide_border=true" />
@@ -76,26 +123,38 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harleycoops&theme=github_dark" alt="GitHub Metrics Dashboard" />
 </p>
 
-<!-- Quantitative Finance Visualization -->
+<!-- Quantitative Finance Visualizations -->
 ## Quantitative Finance Visualizations
 
-<p align="center">
-  <a href="https://github.com/HarleyCoops/Math-To-Manim">
-    <img src="./Public/volatility_surface.gif" alt="Volatility Surface Animation" width="400"/>
-  </a>
-  <br>
-  <em>Volatility Surface Visualization - Options Skew Model</em>
-</p>
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/HarleyCoops/Math-To-Manim">
+  <img src="./Public/volatility_surface.gif" alt="Volatility Surface Animation" width="100%"/>
+</a>
+<h4 align="center">Volatility Surface Visualization</h4>
+<p align="center"><em>3D visualization of options volatility skew across strikes and maturities. This surface represents the Black-Scholes implied volatility smile, crucial for pricing exotic derivatives and understanding market risk premia.</em></p>
+</td>
+<td width="50%">
+<a href="https://github.com/HarleyCoops/Math-To-Manim">
+  <img src="./Public/Rhombicosidodecahedron.gif" alt="Rhombicosidodecahedron Animation" width="100%"/>
+</a>
+<h4 align="center">Recursive Rhombicosidodecahedron</h4>
+<p align="center"><em>A fractal Archimedean solid demonstrating computational complexity in 3D geometry. Each vertex recursively contains another complete polyhedron, requiring precise transformations across 62 unique faces - a challenging test case for LLM mathematical reasoning.</em></p>
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <a href="https://github.com/HarleyCoops/Math-To-Manim">
-    <img src="./Public/Rhombicosidodecahedron.gif" alt="Rhombicosidodecahedron Animation" width="400"/>
-  </a>
-  <br>
-  <em>Recursive Rhombicosidodecahedron - A complex Archimedean solid where each vertex is itself a rhombicosidodecahedron. This fractal-like structure presents significant computational challenges for LLMs to render mathematically, requiring precise coordinate transformations across 62 faces (20 triangles, 30 squares, 12 pentagons) at multiple recursive scales.</em>
-</p>
+### Technical Highlights
+- **Volatility Surface**: Real-time Black-Scholes implied volatility calculations
+- **3D Rendering**: Custom Manim animations for financial mathematics
+- **Computational Geometry**: Precise coordinate transformations in 3D space
+- **Data Visualization**: Market data analysis and pattern recognition
 
-<!-- Programming Languages -->
+---
+
+## Tech Stack & Skills
+
 <h3>Programming Languages</h3>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -121,7 +180,18 @@
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
 </p>
+
+<h3>Financial & Quantitative Tools</h3>
+<p>
+  <img src="https://img.shields.io/badge/Bloomberg-000000?style=for-the-badge&logo=bloomberg&logoColor=white" alt="Bloomberg" />
+  <img src="https://img.shields.io/badge/QuantLib-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="QuantLib" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>
+
+---
 
 <!-- Hugging Face Models & Datasets -->
 ## Public models on Hugging Face
