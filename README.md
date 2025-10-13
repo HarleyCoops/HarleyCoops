@@ -71,10 +71,10 @@ Quantitative Finance Professional specializing in AI-driven financial analysis a
 | Market | Oct 10, 2025 | [Chinese stocks slide as Trump threatens tariffs, accuses Beijing of holding world ‘captive’](https://www.cnbc.com/2025/10/10/chinese-stocks-slide-as-trump-threatens-tariffs-accuses-beijing-of-holding-world-captive.html) |
 | Market | Oct 10, 2025 | [Why Wall Street's old 'wall of worry' and new 'debasement trade' are boosting gold, bitcoin in ty...](https://www.cnbc.com/2025/10/10/debasement-trade-gold-bitcoin-stock-market-risks.html) |
 | Market | Oct 10, 2025 | [Morgan Stanley drops restrictions on which wealth clients can own crypto funds](https://www.cnbc.com/2025/10/10/morgan-stanley-drops-crypto-fund-restrictions-for-wealth-clients.html) |
-| Finance | Oct 12, 2025 | [Trump to travel to Israel as country anxiously awaits hostage releases](https://www.ft.com/content/fad4e893-fa59-4862-b904-82c0da659eb0) |
+| Finance | Oct 12, 2025 | [Trump travels to Israel as country anxiously awaits hostage releases](https://www.ft.com/content/fad4e893-fa59-4862-b904-82c0da659eb0) |
 | Finance | Oct 12, 2025 | [Trump’s Gaza plan hinges on security force yet to take shape](https://www.ft.com/content/542b6c82-9499-4b0e-b7cb-ee2aee6fef44) |
-| Finance | Oct 12, 2025 | [Ukraine hit Russian energy sites with US help](https://www.ft.com/content/f9f42c10-3a30-4ee1-aff7-3368dd831c8c) |
 | Finance | Oct 12, 2025 | [A rare moment of hope in the Middle East](https://www.ft.com/content/8bdc97d9-d8d5-4651-97a4-08d10850e059) |
+| Finance | Oct 12, 2025 | [UK security services step up work with business to fight cyber threats](https://www.ft.com/content/6e54967b-48ce-4788-99c7-36b5801e7dfe) |
 | Finance | Oct 12, 2025 | [Why the economy feels so confusing right now](https://www.ft.com/content/5df25200-8eb7-4640-9511-ae4d10b73f81) |
 
 <!-- NEWS:END -->
