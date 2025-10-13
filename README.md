@@ -66,16 +66,16 @@ Quantitative Finance Professional specializing in AI-driven financial analysis a
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 13, 2025 | [Wharton's Jeremy Siegel says it's 'scandalous' the U.S. doesn't have a rare earths reserve](https://www.cnbc.com/2025/10/13/siegel-says-its-scandalous-the-us-doesnt-have-a-rare-earths-reserve.html) |
 | Market | Oct 13, 2025 | [Retaliation or escalation? Trust between the U.S. and China is fading fast, analysts say](https://www.cnbc.com/2025/10/13/retaliation-or-escalation-trust-between-us-and-china-is-fading-fast.html) |
 | Market | Oct 13, 2025 | [JPMorgan Chase says it will invest $10 billion into industries critical for national security](https://www.cnbc.com/2025/10/13/jpmorgan-chase-to-invest-10-billion-into-key-industries-.html) |
 | Market | Oct 11, 2025 | [New tariff threats crush stocks during a big week for Nvidia and key portfolio moves](https://www.cnbc.com/2025/10/11/new-tariff-threats-crush-stocks-during-a-big-week-for-nvidia-and-key-portfolio-moves.html) |
 | Market | Oct 11, 2025 | [BlackRock sees shift in artificial intelligence trade. Where investors are putting their money now.](https://www.cnbc.com/2025/10/11/artificial-intelligence-bitcoin-as-top-blackrock-etf-place.html) |
-| Market | Oct 10, 2025 | [Chinese stocks slide as Trump threatens tariffs, accuses Beijing of holding world ‘captive’](https://www.cnbc.com/2025/10/10/chinese-stocks-slide-as-trump-threatens-tariffs-accuses-beijing-of-holding-world-captive.html) |
-| Finance | Oct 13, 2025 | [Trump addresses Knesset as Hamas releases remaining hostages](https://www.ft.com/content/866689a7-4ae2-4d99-ab57-edac6747d4bc) |
+| Finance | Oct 13, 2025 | [Trump attends Egypt summit after hailing ‘historic dawn of a new Middle East’](https://www.ft.com/content/866689a7-4ae2-4d99-ab57-edac6747d4bc) |
+| Finance | Oct 13, 2025 | [Hamas releases final hostages as first phase of peace plan is implemented](https://www.ft.com/content/c6a2ed43-1a93-41b3-a4bf-77d2063eb97f) |
+| Finance | Oct 13, 2025 | [‘Home, home’: Israel erupts as hostages are freed](https://www.ft.com/content/ce8c6b99-fa0a-4584-9b24-bed822ff3056) |
 | Finance | Oct 13, 2025 | [Why peace in the Middle East may still be elusive](https://www.ft.com/content/374537af-69c8-4d7e-966d-fefbd630c3ba) |
-| Finance | Oct 13, 2025 | [Hamas releases all 20 living hostages](https://www.ft.com/content/c233932d-5a8b-40df-ad11-439e40a59398) |
-| Finance | Oct 13, 2025 | [Nobel Prize for Economics awarded to Joel Mokyr, Philippe Aghion and Peter Howitt](https://www.ft.com/content/f392e6bd-f207-40b6-8b9a-59947d5670ab) |
-| Finance | Oct 13, 2025 | [The limits of the ‘Donroe doctrine’](https://www.ft.com/content/e61eabbb-99d1-46e7-b5cd-262cbb13f806) |
+| Finance | Oct 13, 2025 | [Trump to meet Zelenskyy in Washington on Friday](https://www.ft.com/content/fe9e2704-c39d-42e7-8bcb-dc9ae9748a3e) |
 
 <!-- NEWS:END -->
 
