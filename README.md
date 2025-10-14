@@ -66,16 +66,16 @@ Quantitative Finance Professional specializing in AI-driven financial analysis a
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 14, 2025 | [JPMorgan Chase is set to report third-quarter earnings – here’s what the Street expects](https://www.cnbc.com/2025/10/14/jpmorgan-chase-jpm-earnings-q3-2025.html) |
+| Market | Oct 14, 2025 | [Goldman Sachs reports third-quarter earnings before the bell](https://www.cnbc.com/2025/10/14/goldman-sachs-gs-earnings-q3-2025.html) |
 | Market | Oct 13, 2025 | [Goldman Sachs agrees to acquire $7 billion VC firm Industry Ventures](https://www.cnbc.com/2025/10/13/goldman-sachs-agrees-to-acquire-7-billion-vc-firm-industry-ventures-.html) |
 | Market | Oct 13, 2025 | [Wharton's Jeremy Siegel says it's 'scandalous' the U.S. doesn't have a rare earths reserve](https://www.cnbc.com/2025/10/13/siegel-says-its-scandalous-the-us-doesnt-have-a-rare-earths-reserve.html) |
 | Market | Oct 13, 2025 | [Retaliation or escalation? Trust between the U.S. and China is fading fast, analysts say](https://www.cnbc.com/2025/10/13/retaliation-or-escalation-trust-between-us-and-china-is-fading-fast.html) |
-| Market | Oct 13, 2025 | [JPMorgan Chase says it will invest $10 billion into industries critical for national security](https://www.cnbc.com/2025/10/13/jpmorgan-chase-to-invest-10-billion-into-key-industries-.html) |
-| Market | Oct 11, 2025 | [New tariff threats crush stocks during a big week for Nvidia and key portfolio moves](https://www.cnbc.com/2025/10/11/new-tariff-threats-crush-stocks-during-a-big-week-for-nvidia-and-key-portfolio-moves.html) |
-| Finance | Oct 13, 2025 | [Hamas releases final hostages as Trump hails ‘historic dawn’ in Middle East](https://www.ft.com/content/c6a2ed43-1a93-41b3-a4bf-77d2063eb97f) |
-| Finance | Oct 13, 2025 | [‘Home, home’: Israel erupts as hostages are freed](https://www.ft.com/content/ce8c6b99-fa0a-4584-9b24-bed822ff3056) |
-| Finance | Oct 13, 2025 | [Trump to meet Zelenskyy in Washington on Friday](https://www.ft.com/content/fe9e2704-c39d-42e7-8bcb-dc9ae9748a3e) |
-| Finance | Oct 13, 2025 | [To stop Putin’s war, punish refineries processing Russian oil](https://www.ft.com/content/c82dba72-e44d-4f6e-9a4e-d022e9a350d5) |
-| Finance | Oct 13, 2025 | [Why peace in the Middle East may still be elusive](https://www.ft.com/content/374537af-69c8-4d7e-966d-fefbd630c3ba) |
+| Finance | Oct 14, 2025 | [Scott Bessent accuses China of trying to damage global economy](https://www.ft.com/content/fbc5f7bc-b36c-4a12-9c5e-a3f0c19aad12) |
+| Finance | Oct 14, 2025 | [Western companies warn of China rare-earth supply chain chaos](https://www.ft.com/content/55322307-739c-4915-96f6-9f059b460975) |
+| Finance | Oct 14, 2025 | [With hostages freed, Netanyahu bids for political redemption](https://www.ft.com/content/22c8d410-8756-4088-b852-ec4e465baa7d) |
+| Finance | Oct 14, 2025 | [Are we about to enter an age of leisure? Don’t bet on it](https://www.ft.com/content/40119e1d-9625-4e06-9611-390aed855685) |
+| Finance | Oct 14, 2025 | [How Brexit drained the Tories’ talent pool](https://www.ft.com/content/a65fb9b9-a955-4a5d-80dd-bce014dc1cd2) |
 
 <!-- NEWS:END -->
 
