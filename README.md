@@ -66,16 +66,16 @@ Quantitative Finance Professional specializing in AI-driven financial analysis a
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 14, 2025 | [Watch Fed Chair Powell speak live on policy at the NABE conference in Philadelphia](https://www.cnbc.com/2025/10/14/watch-fed-chair-powell-speak-live-on-policy-at-the-nabe-conference-in-philadelphia.html) |
+| Market | Oct 14, 2025 | [Jamie Dimon says auto company bankruptcies reveal 'early signs' of excess in corporate lending](https://www.cnbc.com/2025/10/14/jamie-dimon-auto-bankruptcies-lending-excess.html) |
+| Market | Oct 14, 2025 | [Citi reports a rise in earnings with every business posting record third-quarter revenue](https://www.cnbc.com/2025/10/14/citigroup-earnings-q3-2025.html) |
 | Market | Oct 14, 2025 | [JPMorgan Chase tops estimates as trading revenue hits a record of nearly $9 billion](https://www.cnbc.com/2025/10/14/jpmorgan-chase-jpm-earnings-q3-2025.html) |
 | Market | Oct 14, 2025 | [Goldman Sachs beats estimates on better-than-expected investment banking, bond trading](https://www.cnbc.com/2025/10/14/goldman-sachs-gs-earnings-q3-2025.html) |
-| Market | Oct 13, 2025 | [Goldman Sachs agrees to acquire $7 billion VC firm Industry Ventures](https://www.cnbc.com/2025/10/13/goldman-sachs-agrees-to-acquire-7-billion-vc-firm-industry-ventures-.html) |
-| Market | Oct 13, 2025 | [Wharton's Jeremy Siegel says it's 'scandalous' the U.S. doesn't have a rare earths reserve](https://www.cnbc.com/2025/10/13/siegel-says-its-scandalous-the-us-doesnt-have-a-rare-earths-reserve.html) |
-| Market | Oct 13, 2025 | [Retaliation or escalation? Trust between the U.S. and China is fading fast, analysts say](https://www.cnbc.com/2025/10/13/retaliation-or-escalation-trust-between-us-and-china-is-fading-fast.html) |
-| Finance | Oct 14, 2025 | [Bessent slams China: ‘They want to pull everybody else down with them’](https://www.ft.com/content/fbc5f7bc-b36c-4a12-9c5e-a3f0c19aad12) |
-| Finance | Oct 14, 2025 | [Western companies warn of China rare-earth supply chain chaos](https://www.ft.com/content/55322307-739c-4915-96f6-9f059b460975) |
-| Finance | Oct 14, 2025 | [China slaps sanctions on Korean shipbuilder accused of helping US](https://www.ft.com/content/f8255bd7-a9ae-4a97-bcab-b79efdc02897) |
-| Finance | Oct 14, 2025 | [Goldman and JPMorgan boosted by investment banking revenues](https://www.ft.com/content/1cc61e0f-c06e-46ee-9b16-df551a6b1d2e) |
-| Finance | Oct 14, 2025 | [US-China déjà vu all over again](https://www.ft.com/content/73434f3d-6698-4e19-917d-94bb106907a9) |
+| Finance | Oct 14, 2025 | [Powell signals support for more rate cuts as US job market cools](https://www.ft.com/content/57f33655-e4b4-4bea-ac1d-c5545924f73f) |
+| Finance | Oct 14, 2025 | [UK jobs market stabilises over summer](https://www.ft.com/content/c56dcf4e-b8c4-47ac-8019-c06d64d4afda) |
+| Finance | Oct 14, 2025 | [Goldman, JPMorgan and Citi CEOs warn on markets reaching bubble territory](https://www.ft.com/content/1cc61e0f-c06e-46ee-9b16-df551a6b1d2e) |
+| Finance | Oct 14, 2025 | [The world economy in an age of disorder](https://www.ft.com/content/8176571c-9049-4b80-aede-f7a067b92646) |
+| Finance | Oct 14, 2025 | [Lime bikes need a tech fix in London](https://www.ft.com/content/c9e4f935-ed32-4c2b-b7ea-5f116303cbf6) |
 
 <!-- NEWS:END -->
 
