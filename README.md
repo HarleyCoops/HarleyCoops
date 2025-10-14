@@ -66,16 +66,16 @@ Quantitative Finance Professional specializing in AI-driven financial analysis a
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
-| Market | Oct 14, 2025 | [JPMorgan Chase is set to report third-quarter earnings – here’s what the Street expects](https://www.cnbc.com/2025/10/14/jpmorgan-chase-jpm-earnings-q3-2025.html) |
-| Market | Oct 14, 2025 | [Goldman Sachs reports third-quarter earnings before the bell](https://www.cnbc.com/2025/10/14/goldman-sachs-gs-earnings-q3-2025.html) |
+| Market | Oct 14, 2025 | [JPMorgan Chase tops estimates as trading revenue hits a record of nearly $9 billion](https://www.cnbc.com/2025/10/14/jpmorgan-chase-jpm-earnings-q3-2025.html) |
+| Market | Oct 14, 2025 | [Goldman Sachs beats estimates on better-than-expected investment banking, bond trading](https://www.cnbc.com/2025/10/14/goldman-sachs-gs-earnings-q3-2025.html) |
 | Market | Oct 13, 2025 | [Goldman Sachs agrees to acquire $7 billion VC firm Industry Ventures](https://www.cnbc.com/2025/10/13/goldman-sachs-agrees-to-acquire-7-billion-vc-firm-industry-ventures-.html) |
 | Market | Oct 13, 2025 | [Wharton's Jeremy Siegel says it's 'scandalous' the U.S. doesn't have a rare earths reserve](https://www.cnbc.com/2025/10/13/siegel-says-its-scandalous-the-us-doesnt-have-a-rare-earths-reserve.html) |
 | Market | Oct 13, 2025 | [Retaliation or escalation? Trust between the U.S. and China is fading fast, analysts say](https://www.cnbc.com/2025/10/13/retaliation-or-escalation-trust-between-us-and-china-is-fading-fast.html) |
-| Finance | Oct 14, 2025 | [Scott Bessent accuses China of trying to damage global economy](https://www.ft.com/content/fbc5f7bc-b36c-4a12-9c5e-a3f0c19aad12) |
+| Finance | Oct 14, 2025 | [Bessent slams China: ‘They want to pull everybody else down with them’](https://www.ft.com/content/fbc5f7bc-b36c-4a12-9c5e-a3f0c19aad12) |
 | Finance | Oct 14, 2025 | [Western companies warn of China rare-earth supply chain chaos](https://www.ft.com/content/55322307-739c-4915-96f6-9f059b460975) |
-| Finance | Oct 14, 2025 | [With hostages freed, Netanyahu bids for political redemption](https://www.ft.com/content/22c8d410-8756-4088-b852-ec4e465baa7d) |
-| Finance | Oct 14, 2025 | [Are we about to enter an age of leisure? Don’t bet on it](https://www.ft.com/content/40119e1d-9625-4e06-9611-390aed855685) |
-| Finance | Oct 14, 2025 | [How Brexit drained the Tories’ talent pool](https://www.ft.com/content/a65fb9b9-a955-4a5d-80dd-bce014dc1cd2) |
+| Finance | Oct 14, 2025 | [China slaps sanctions on Korean shipbuilder accused of helping US](https://www.ft.com/content/f8255bd7-a9ae-4a97-bcab-b79efdc02897) |
+| Finance | Oct 14, 2025 | [Goldman and JPMorgan boosted by investment banking revenues](https://www.ft.com/content/1cc61e0f-c06e-46ee-9b16-df551a6b1d2e) |
+| Finance | Oct 14, 2025 | [US-China déjà vu all over again](https://www.ft.com/content/73434f3d-6698-4e19-917d-94bb106907a9) |
 
 <!-- NEWS:END -->
 
