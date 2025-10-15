@@ -66,16 +66,16 @@ Quantitative Finance Professional specializing in AI-driven financial analysis a
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 15, 2025 | [Fed's Miran sees China trade tensions as a further reason for quick interest rate cuts](https://www.cnbc.com/2025/10/15/feds-miran-sees-china-trade-tensions-as-a-further-reason-for-quick-interest-rate-cuts.html) |
+| Market | Oct 15, 2025 | [Apple rival Honor launches AI phone tools that help users get online shopping discounts and more](https://www.cnbc.com/2025/10/15/honor-launches-ai-phone-tools-that-help-users-get-online-shopping-discounts.html) |
+| Market | Oct 15, 2025 | [Honor reveals a new smartphone with a fold-out robotic camera arm](https://www.cnbc.com/2025/10/15/honor-reveals-a-new-smartphone-with-a-fold-out-robotic-camera-arm.html) |
 | Market | Oct 15, 2025 | [Morgan Stanley posts massive third-quarter earnings beat](https://www.cnbc.com/2025/10/15/morgan-stanley-ms-earnings-q3-2025.html) |
 | Market | Oct 15, 2025 | [Bank of America tops expectations on 43% surge in investment banking revenue](https://www.cnbc.com/2025/10/15/bank-of-america-bac-earnings-q3-2025.html) |
-| Market | Oct 14, 2025 | [Watch Fed Chair Powell speak live on policy at the NABE conference in Philadelphia](https://www.cnbc.com/2025/10/14/watch-fed-chair-powell-speak-live-on-policy-at-the-nabe-conference-in-philadelphia.html) |
-| Market | Oct 14, 2025 | [Jamie Dimon says auto company bankruptcies reveal 'early signs' of excess in corporate lending](https://www.cnbc.com/2025/10/14/jamie-dimon-auto-bankruptcies-lending-excess.html) |
-| Market | Oct 14, 2025 | [Citi reports a rise in earnings with every business posting record third-quarter revenue](https://www.cnbc.com/2025/10/14/citigroup-earnings-q3-2025.html) |
-| Finance | Oct 15, 2025 | [Bank of England loosens bonus rules](https://www.ft.com/content/1da21635-d7c1-4a2e-9a3e-2045a66d65ee) |
-| Finance | Oct 15, 2025 | [How Israeli jails became a Palestinian training ground](https://www.ft.com/content/0f786461-5c7d-4409-b7bc-c7cf90d86083) |
-| Finance | Oct 15, 2025 | [Why the US could not shake off the Middle East](https://www.ft.com/content/1804d6d3-76e6-4a1e-a69b-a424c996eb9a) |
+| Finance | Oct 15, 2025 | [US warns world will ‘decouple’ from China if it imposes new export controls](https://www.ft.com/content/15a957a7-104e-431a-807e-441e5c2c753f) |
+| Finance | Oct 15, 2025 | [The secretive First Brands founder, his $12bn debt and the future of private credit](https://www.ft.com/content/83734e55-f3a6-46b6-865e-f16667d2fd3b) |
 | Finance | Oct 15, 2025 | [No need for a moral panic about the welfare system](https://www.ft.com/content/ee67c643-01bc-41f6-a4e2-c738deef129e) |
-| Finance | Oct 15, 2025 | [Starmer to publish key witness statements in China spy case](https://www.ft.com/content/b58fff7f-65ed-470c-bcbd-9371f4b78bf3) |
+| Finance | Oct 15, 2025 | [Why the US could not shake off the Middle East](https://www.ft.com/content/1804d6d3-76e6-4a1e-a69b-a424c996eb9a) |
+| Finance | Oct 15, 2025 | [Reeves revives plans to overhaul cash Isas](https://www.ft.com/content/93879eba-d742-4d45-ab72-6cedf4e273b9) |
 
 <!-- NEWS:END -->
 
