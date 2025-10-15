@@ -71,11 +71,11 @@ Quantitative Finance Professional specializing in AI-driven financial analysis a
 | Market | Oct 14, 2025 | [Citi reports a rise in earnings with every business posting record third-quarter revenue](https://www.cnbc.com/2025/10/14/citigroup-earnings-q3-2025.html) |
 | Market | Oct 14, 2025 | [JPMorgan Chase tops estimates as trading revenue hits a record of nearly $9 billion](https://www.cnbc.com/2025/10/14/jpmorgan-chase-jpm-earnings-q3-2025.html) |
 | Market | Oct 14, 2025 | [Goldman Sachs beats estimates on better-than-expected investment banking, bond trading](https://www.cnbc.com/2025/10/14/goldman-sachs-gs-earnings-q3-2025.html) |
-| Finance | Oct 14, 2025 | [Rachel Reeves revives plans to overhaul cash Isas](https://www.ft.com/content/93879eba-d742-4d45-ab72-6cedf4e273b9) |
+| Finance | Oct 15, 2025 | [Top US financiers sound alarm on lending standards](https://www.ft.com/content/f1b61807-c199-4fee-9bd4-dea738e1a0ac) |
 | Finance | Oct 14, 2025 | [Banks caution over bubble as they report bumper profits](https://www.ft.com/content/87d746a7-728e-4fe1-bc72-ec2946aa5eb5) |
+| Finance | Oct 15, 2025 | [How Israeli jails became a Palestinian training ground](https://www.ft.com/content/0f786461-5c7d-4409-b7bc-c7cf90d86083) |
 | Finance | Oct 14, 2025 | [The world economy in an age of disorder](https://www.ft.com/content/8176571c-9049-4b80-aede-f7a067b92646) |
-| Finance | Oct 14, 2025 | [Lime bikes need a tech fix in London](https://www.ft.com/content/c9e4f935-ed32-4c2b-b7ea-5f116303cbf6) |
-| Finance | Oct 14, 2025 | [Powell signals support for more rate cuts as US job market cools](https://www.ft.com/content/57f33655-e4b4-4bea-ac1d-c5545924f73f) |
+| Finance | Oct 15, 2025 | [Can molecular Lego save the planet?](https://www.ft.com/content/e8aaba79-6a0d-497e-860b-4a91f4e34bf7) |
 
 <!-- NEWS:END -->
 
