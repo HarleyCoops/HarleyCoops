@@ -66,16 +66,16 @@ Quantitative Finance Professional specializing in AI-driven financial analysis a
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 15, 2025 | [Morgan Stanley posts massive third-quarter earnings beat](https://www.cnbc.com/2025/10/15/morgan-stanley-ms-earnings-q3-2025.html) |
+| Market | Oct 15, 2025 | [Bank of America tops expectations on 43% surge in investment banking revenue](https://www.cnbc.com/2025/10/15/bank-of-america-bac-earnings-q3-2025.html) |
 | Market | Oct 14, 2025 | [Watch Fed Chair Powell speak live on policy at the NABE conference in Philadelphia](https://www.cnbc.com/2025/10/14/watch-fed-chair-powell-speak-live-on-policy-at-the-nabe-conference-in-philadelphia.html) |
 | Market | Oct 14, 2025 | [Jamie Dimon says auto company bankruptcies reveal 'early signs' of excess in corporate lending](https://www.cnbc.com/2025/10/14/jamie-dimon-auto-bankruptcies-lending-excess.html) |
 | Market | Oct 14, 2025 | [Citi reports a rise in earnings with every business posting record third-quarter revenue](https://www.cnbc.com/2025/10/14/citigroup-earnings-q3-2025.html) |
-| Market | Oct 14, 2025 | [JPMorgan Chase tops estimates as trading revenue hits a record of nearly $9 billion](https://www.cnbc.com/2025/10/14/jpmorgan-chase-jpm-earnings-q3-2025.html) |
-| Market | Oct 14, 2025 | [Goldman Sachs beats estimates on better-than-expected investment banking, bond trading](https://www.cnbc.com/2025/10/14/goldman-sachs-gs-earnings-q3-2025.html) |
-| Finance | Oct 15, 2025 | [Top US financiers sound alarm on lending standards](https://www.ft.com/content/f1b61807-c199-4fee-9bd4-dea738e1a0ac) |
-| Finance | Oct 14, 2025 | [Banks caution over bubble as they report bumper profits](https://www.ft.com/content/87d746a7-728e-4fe1-bc72-ec2946aa5eb5) |
+| Finance | Oct 15, 2025 | [Bank of England loosens bonus rules](https://www.ft.com/content/1da21635-d7c1-4a2e-9a3e-2045a66d65ee) |
 | Finance | Oct 15, 2025 | [How Israeli jails became a Palestinian training ground](https://www.ft.com/content/0f786461-5c7d-4409-b7bc-c7cf90d86083) |
-| Finance | Oct 14, 2025 | [The world economy in an age of disorder](https://www.ft.com/content/8176571c-9049-4b80-aede-f7a067b92646) |
-| Finance | Oct 15, 2025 | [Can molecular Lego save the planet?](https://www.ft.com/content/e8aaba79-6a0d-497e-860b-4a91f4e34bf7) |
+| Finance | Oct 15, 2025 | [Why the US could not shake off the Middle East](https://www.ft.com/content/1804d6d3-76e6-4a1e-a69b-a424c996eb9a) |
+| Finance | Oct 15, 2025 | [No need for a moral panic about the welfare system](https://www.ft.com/content/ee67c643-01bc-41f6-a4e2-c738deef129e) |
+| Finance | Oct 15, 2025 | [Starmer to publish key witness statements in China spy case](https://www.ft.com/content/b58fff7f-65ed-470c-bcbd-9371f4b78bf3) |
 
 <!-- NEWS:END -->
 
