@@ -71,11 +71,11 @@ Quantitative Finance Professional specializing in AI-driven financial analysis a
 | Market | Oct 14, 2025 | [Citi reports a rise in earnings with every business posting record third-quarter revenue](https://www.cnbc.com/2025/10/14/citigroup-earnings-q3-2025.html) |
 | Market | Oct 14, 2025 | [JPMorgan Chase tops estimates as trading revenue hits a record of nearly $9 billion](https://www.cnbc.com/2025/10/14/jpmorgan-chase-jpm-earnings-q3-2025.html) |
 | Market | Oct 14, 2025 | [Goldman Sachs beats estimates on better-than-expected investment banking, bond trading](https://www.cnbc.com/2025/10/14/goldman-sachs-gs-earnings-q3-2025.html) |
-| Finance | Oct 14, 2025 | [Powell signals support for more rate cuts as US job market cools](https://www.ft.com/content/57f33655-e4b4-4bea-ac1d-c5545924f73f) |
-| Finance | Oct 14, 2025 | [UK jobs market stabilises over summer](https://www.ft.com/content/c56dcf4e-b8c4-47ac-8019-c06d64d4afda) |
-| Finance | Oct 14, 2025 | [Goldman, JPMorgan and Citi CEOs warn on markets reaching bubble territory](https://www.ft.com/content/1cc61e0f-c06e-46ee-9b16-df551a6b1d2e) |
+| Finance | Oct 14, 2025 | [Rachel Reeves revives plans to overhaul cash Isas](https://www.ft.com/content/93879eba-d742-4d45-ab72-6cedf4e273b9) |
+| Finance | Oct 14, 2025 | [Banks caution over bubble as they report bumper profits](https://www.ft.com/content/87d746a7-728e-4fe1-bc72-ec2946aa5eb5) |
 | Finance | Oct 14, 2025 | [The world economy in an age of disorder](https://www.ft.com/content/8176571c-9049-4b80-aede-f7a067b92646) |
 | Finance | Oct 14, 2025 | [Lime bikes need a tech fix in London](https://www.ft.com/content/c9e4f935-ed32-4c2b-b7ea-5f116303cbf6) |
+| Finance | Oct 14, 2025 | [Powell signals support for more rate cuts as US job market cools](https://www.ft.com/content/57f33655-e4b4-4bea-ac1d-c5545924f73f) |
 
 <!-- NEWS:END -->
 
