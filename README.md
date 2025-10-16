@@ -66,16 +66,16 @@ Quantitative Finance Professional specializing in AI-driven financial analysis a
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 16, 2025 | [Fed Governor Miran wants a half-point cut this month, while Waller backs another quarter-point move](https://www.cnbc.com/2025/10/16/fed-governor-miran-wants-a-half-point-cut-this-month-while-waller-backs-another-quarter-point-move.html) |
+| Market | Oct 16, 2025 | [BlackRock’s crypto push deepens with a retooled product to serve stablecoin issuers](https://www.cnbc.com/2025/10/16/blackrocks-crypto-push-deepens-with-a-retooled-product-to-serve-stablecoin-issuers.html) |
 | Market | Oct 16, 2025 | [Alibaba says its AI spending in e-commerce is already breaking even](https://www.cnbc.com/2025/10/16/alibaba-says-ai-spending-for-e-commerce-taobao-tmall-is-breaking-even.html) |
 | Market | Oct 16, 2025 | [Fintech startup Upgrade valued at $7.3 billion in new funding round](https://www.cnbc.com/2025/10/16/fintech-startup-upgrade-valued-at-7point3-billion-in-new-funding-round.html) |
-| Market | Oct 15, 2025 | [CEOs of Wells Fargo and Pfizer caution the U.S. could lose its edge to China without innovation](https://www.cnbc.com/2025/10/15/wells-fargo-pfizer-ceos-china-innovation.html) |
-| Market | Oct 15, 2025 | [Big banks like JPMorgan Chase and Goldman Sachs are already using AI to hire fewer people](https://www.cnbc.com/2025/10/15/jpmorgan-chase-goldman-sachs-ai-hiring.html) |
-| Market | Oct 15, 2025 | [Fed's Miran sees China trade tensions as a further reason for quick interest rate cuts](https://www.cnbc.com/2025/10/15/feds-miran-sees-china-trade-tensions-as-a-further-reason-for-quick-interest-rate-cuts.html) |
-| Finance | Oct 16, 2025 | [MI5 boss ‘frustrated’ by China espionage case collapse](https://www.ft.com/content/5e449d3a-ea1b-4fcc-9a3f-bfec1742ba13) |
-| Finance | Oct 16, 2025 | [Testimony in China spy case ‘more than adequate’, says ex-CPS head](https://www.ft.com/content/fef3a6ec-6d16-4cdf-8f63-8b1becce418d) |
+| Market | Oct 16, 2025 | [CEOs of Wells Fargo and Pfizer caution the U.S. could lose its edge to China without innovation](https://www.cnbc.com/2025/10/15/wells-fargo-pfizer-ceos-china-innovation.html) |
+| Finance | Oct 16, 2025 | [China attacks UK efforts to ‘smear and defame’ it over spy case](https://www.ft.com/content/5e449d3a-ea1b-4fcc-9a3f-bfec1742ba13) |
+| Finance | Oct 16, 2025 | [Cai Qi: Xi Jinping’s right-hand man drawn into UK spy drama](https://www.ft.com/content/f8832fa6-1482-4f95-ad7c-b964d2271847) |
 | Finance | Oct 16, 2025 | [How the Trump companies made $1bn from crypto](https://www.ft.com/content/2ea2b35b-e009-42ed-b4d3-6b21aa9b2a13) |
+| Finance | Oct 16, 2025 | [AI’s double bubble trouble](https://www.ft.com/content/da16e2b1-4fc2-4868-8a37-17030b8c5498) |
 | Finance | Oct 16, 2025 | [Britain is inviting its companies to emigrate](https://www.ft.com/content/6d956e0f-af16-4bb8-a5d7-4f0a8a20988d) |
-| Finance | Oct 16, 2025 | [UK economy grew 0.1% in August](https://www.ft.com/content/058b3378-3f13-4da1-ba5f-20d828c98bd5) |
 
 <!-- NEWS:END -->
 
