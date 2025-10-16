@@ -71,11 +71,11 @@ Quantitative Finance Professional specializing in AI-driven financial analysis a
 | Market | Oct 15, 2025 | [Fed's Miran sees China trade tensions as a further reason for quick interest rate cuts](https://www.cnbc.com/2025/10/15/feds-miran-sees-china-trade-tensions-as-a-further-reason-for-quick-interest-rate-cuts.html) |
 | Market | Oct 15, 2025 | [Apple rival Honor launches AI phone tools that help users get online shopping discounts and more](https://www.cnbc.com/2025/10/15/honor-launches-ai-phone-tools-that-help-users-get-online-shopping-discounts.html) |
 | Market | Oct 15, 2025 | [Honor reveals a new smartphone with a fold-out robotic camera arm](https://www.cnbc.com/2025/10/15/honor-reveals-a-new-smartphone-with-a-fold-out-robotic-camera-arm.html) |
-| Finance | Oct 15, 2025 | [Reeves needs to fill £22bn hole in UK public finances, IFS says](https://www.ft.com/content/57afbb4a-93a6-4829-b135-86d62d97a69b) |
-| Finance | Oct 15, 2025 | [The secretive First Brands founder, his $12bn debt and the future of private credit](https://www.ft.com/content/83734e55-f3a6-46b6-865e-f16667d2fd3b) |
-| Finance | Oct 15, 2025 | [No need for a moral panic about the welfare system](https://www.ft.com/content/ee67c643-01bc-41f6-a4e2-c738deef129e) |
-| Finance | Oct 15, 2025 | [Why the US could not shake off the Middle East](https://www.ft.com/content/1804d6d3-76e6-4a1e-a69b-a424c996eb9a) |
-| Finance | Oct 15, 2025 | [UK government’s spy case testimony spoke of desire for ‘positive’ ties with China](https://www.ft.com/content/b58fff7f-65ed-470c-bcbd-9371f4b78bf3) |
+| Finance | Oct 16, 2025 | [Big investors scale back risky bond exposure after storming rally](https://www.ft.com/content/2667cba1-5a44-4463-b20b-c2216c7899d8) |
+| Finance | Oct 16, 2025 | [FT Investigation: How the Trump companies made $1bn from crypto](https://www.ft.com/content/2ea2b35b-e009-42ed-b4d3-6b21aa9b2a13) |
+| Finance | Oct 16, 2025 | [The Tomahawk missiles Trump is considering for Ukraine](https://www.ft.com/content/654a4d90-8b49-4aff-a05c-fc7a9f842432) |
+| Finance | Oct 16, 2025 | [What Nobel economics prize winners teach us about growth](https://www.ft.com/content/1d39ead5-a683-4702-9c02-0c4a22094aff) |
+| Finance | Oct 16, 2025 | [UK economy grew 0.1% in August](https://www.ft.com/content/058b3378-3f13-4da1-ba5f-20d828c98bd5) |
 
 <!-- NEWS:END -->
 
