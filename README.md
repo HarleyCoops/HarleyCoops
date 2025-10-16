@@ -66,16 +66,16 @@ Quantitative Finance Professional specializing in AI-driven financial analysis a
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 15, 2025 | [CEOs of Wells Fargo and Pfizer caution the U.S. could lose its edge to China without innovation](https://www.cnbc.com/2025/10/15/wells-fargo-pfizer-ceos-china-innovation.html) |
+| Market | Oct 15, 2025 | [Big banks like JPMorgan Chase and Goldman Sachs are already using AI to hire fewer people](https://www.cnbc.com/2025/10/15/jpmorgan-chase-goldman-sachs-ai-hiring.html) |
 | Market | Oct 15, 2025 | [Fed's Miran sees China trade tensions as a further reason for quick interest rate cuts](https://www.cnbc.com/2025/10/15/feds-miran-sees-china-trade-tensions-as-a-further-reason-for-quick-interest-rate-cuts.html) |
 | Market | Oct 15, 2025 | [Apple rival Honor launches AI phone tools that help users get online shopping discounts and more](https://www.cnbc.com/2025/10/15/honor-launches-ai-phone-tools-that-help-users-get-online-shopping-discounts.html) |
 | Market | Oct 15, 2025 | [Honor reveals a new smartphone with a fold-out robotic camera arm](https://www.cnbc.com/2025/10/15/honor-reveals-a-new-smartphone-with-a-fold-out-robotic-camera-arm.html) |
-| Market | Oct 15, 2025 | [Morgan Stanley posts massive third-quarter earnings beat](https://www.cnbc.com/2025/10/15/morgan-stanley-ms-earnings-q3-2025.html) |
-| Market | Oct 15, 2025 | [Bank of America tops expectations on 43% surge in investment banking revenue](https://www.cnbc.com/2025/10/15/bank-of-america-bac-earnings-q3-2025.html) |
-| Finance | Oct 15, 2025 | [US warns world will ‘decouple’ from China if it imposes new export controls](https://www.ft.com/content/15a957a7-104e-431a-807e-441e5c2c753f) |
+| Finance | Oct 15, 2025 | [Reeves needs to fill £22bn hole in UK public finances, IFS says](https://www.ft.com/content/57afbb4a-93a6-4829-b135-86d62d97a69b) |
 | Finance | Oct 15, 2025 | [The secretive First Brands founder, his $12bn debt and the future of private credit](https://www.ft.com/content/83734e55-f3a6-46b6-865e-f16667d2fd3b) |
 | Finance | Oct 15, 2025 | [No need for a moral panic about the welfare system](https://www.ft.com/content/ee67c643-01bc-41f6-a4e2-c738deef129e) |
 | Finance | Oct 15, 2025 | [Why the US could not shake off the Middle East](https://www.ft.com/content/1804d6d3-76e6-4a1e-a69b-a424c996eb9a) |
-| Finance | Oct 15, 2025 | [Reeves revives plans to overhaul cash Isas](https://www.ft.com/content/93879eba-d742-4d45-ab72-6cedf4e273b9) |
+| Finance | Oct 15, 2025 | [UK government’s spy case testimony spoke of desire for ‘positive’ ties with China](https://www.ft.com/content/b58fff7f-65ed-470c-bcbd-9371f4b78bf3) |
 
 <!-- NEWS:END -->
 
