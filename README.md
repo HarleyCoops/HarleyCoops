@@ -66,15 +66,15 @@ Quantitative Finance Professional specializing in AI-driven financial analysis a
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 16, 2025 | [Alibaba says its AI spending in e-commerce is already breaking even](https://www.cnbc.com/2025/10/16/alibaba-says-ai-spending-for-e-commerce-taobao-tmall-is-breaking-even.html) |
+| Market | Oct 16, 2025 | [Fintech startup Upgrade valued at $7.3 billion in new funding round](https://www.cnbc.com/2025/10/16/fintech-startup-upgrade-valued-at-7point3-billion-in-new-funding-round.html) |
 | Market | Oct 15, 2025 | [CEOs of Wells Fargo and Pfizer caution the U.S. could lose its edge to China without innovation](https://www.cnbc.com/2025/10/15/wells-fargo-pfizer-ceos-china-innovation.html) |
 | Market | Oct 15, 2025 | [Big banks like JPMorgan Chase and Goldman Sachs are already using AI to hire fewer people](https://www.cnbc.com/2025/10/15/jpmorgan-chase-goldman-sachs-ai-hiring.html) |
 | Market | Oct 15, 2025 | [Fed's Miran sees China trade tensions as a further reason for quick interest rate cuts](https://www.cnbc.com/2025/10/15/feds-miran-sees-china-trade-tensions-as-a-further-reason-for-quick-interest-rate-cuts.html) |
-| Market | Oct 15, 2025 | [Apple rival Honor launches AI phone tools that help users get online shopping discounts and more](https://www.cnbc.com/2025/10/15/honor-launches-ai-phone-tools-that-help-users-get-online-shopping-discounts.html) |
-| Market | Oct 15, 2025 | [Honor reveals a new smartphone with a fold-out robotic camera arm](https://www.cnbc.com/2025/10/15/honor-reveals-a-new-smartphone-with-a-fold-out-robotic-camera-arm.html) |
-| Finance | Oct 16, 2025 | [Big investors scale back risky bond exposure after storming rally](https://www.ft.com/content/2667cba1-5a44-4463-b20b-c2216c7899d8) |
-| Finance | Oct 16, 2025 | [FT Investigation: How the Trump companies made $1bn from crypto](https://www.ft.com/content/2ea2b35b-e009-42ed-b4d3-6b21aa9b2a13) |
-| Finance | Oct 16, 2025 | [The Tomahawk missiles Trump is considering for Ukraine](https://www.ft.com/content/654a4d90-8b49-4aff-a05c-fc7a9f842432) |
-| Finance | Oct 16, 2025 | [What Nobel economics prize winners teach us about growth](https://www.ft.com/content/1d39ead5-a683-4702-9c02-0c4a22094aff) |
+| Finance | Oct 16, 2025 | [MI5 boss ‘frustrated’ by China espionage case collapse](https://www.ft.com/content/5e449d3a-ea1b-4fcc-9a3f-bfec1742ba13) |
+| Finance | Oct 16, 2025 | [Testimony in China spy case ‘more than adequate’, says ex-CPS head](https://www.ft.com/content/fef3a6ec-6d16-4cdf-8f63-8b1becce418d) |
+| Finance | Oct 16, 2025 | [How the Trump companies made $1bn from crypto](https://www.ft.com/content/2ea2b35b-e009-42ed-b4d3-6b21aa9b2a13) |
+| Finance | Oct 16, 2025 | [Britain is inviting its companies to emigrate](https://www.ft.com/content/6d956e0f-af16-4bb8-a5d7-4f0a8a20988d) |
 | Finance | Oct 16, 2025 | [UK economy grew 0.1% in August](https://www.ft.com/content/058b3378-3f13-4da1-ba5f-20d828c98bd5) |
 
 <!-- NEWS:END -->
