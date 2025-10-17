@@ -69,13 +69,13 @@ Quantitative Finance Professional specializing in AI-driven financial analysis a
 | Market | Oct 16, 2025 | [U.S. regulators toss out rules requiring banks to prepare for climate change](https://www.cnbc.com/2025/10/16/regulators-toss-out-rules-requiring-banks-to-prepare-for-climate-change.html) |
 | Market | Oct 16, 2025 | [Fed Governor Miran wants a half-point cut this month, while Waller backs another quarter-point move](https://www.cnbc.com/2025/10/16/fed-governor-miran-wants-a-half-point-cut-this-month-while-waller-backs-another-quarter-point-move.html) |
 | Market | Oct 16, 2025 | [BlackRock’s crypto push deepens with a retooled product to serve stablecoin issuers](https://www.cnbc.com/2025/10/16/blackrocks-crypto-push-deepens-with-a-retooled-product-to-serve-stablecoin-issuers.html) |
-| Market | Oct 16, 2025 | [Alibaba says its AI spending in e-commerce is already breaking even](https://www.cnbc.com/2025/10/16/alibaba-says-ai-spending-for-e-commerce-taobao-tmall-is-breaking-even.html) |
+| Market | Oct 17, 2025 | [Alibaba says its AI spending in e-commerce is already breaking even](https://www.cnbc.com/2025/10/16/alibaba-says-ai-spending-for-e-commerce-taobao-tmall-is-breaking-even.html) |
 | Market | Oct 16, 2025 | [Fintech startup Upgrade valued at $7.3 billion in new funding round](https://www.cnbc.com/2025/10/16/fintech-startup-upgrade-valued-at-7point3-billion-in-new-funding-round.html) |
-| Finance | Oct 16, 2025 | [Trump’s former national security adviser John Bolton indicted by justice department](https://www.ft.com/content/47efbdcc-6d04-435e-9417-2235471f4043) |
-| Finance | Oct 16, 2025 | [Cai Qi: Xi Jinping’s right-hand man drawn into UK’s China spy drama](https://www.ft.com/content/f8832fa6-1482-4f95-ad7c-b964d2271847) |
-| Finance | Oct 16, 2025 | [Britain is inviting its companies to emigrate](https://www.ft.com/content/6d956e0f-af16-4bb8-a5d7-4f0a8a20988d) |
-| Finance | Oct 16, 2025 | [OpenAI wants to own it all](https://www.ft.com/content/5859c6f2-d89b-4958-bcee-bb2b548c6c35) |
-| Finance | Oct 16, 2025 | [Trump says he will meet Putin in Budapest](https://www.ft.com/content/9502303b-f103-406b-9df2-886e449bd9a6) |
+| Finance | Oct 17, 2025 | [Saudi Arabia in talks with US for defence pact](https://www.ft.com/content/4140e25a-fc96-40ef-89b1-a31bf674ce73) |
+| Finance | Oct 17, 2025 | [How dozens of Trump’s donors have benefited from his second term](https://www.ft.com/content/0ab138a5-76de-4371-8f20-3ca31f27e170) |
+| Finance | Oct 17, 2025 | [Are we earning enough? The new squeeze on the middle classes](https://www.ft.com/content/eef94ba2-eaab-4507-a1c0-4ad1d997bd4c) |
+| Finance | Oct 17, 2025 | [AI has a cargo cult problem](https://www.ft.com/content/f2025ac7-a71f-464f-a3a6-1e39c98612c7) |
+| Finance | Oct 17, 2025 | [Ferrari cuts supply of cars to UK after non-dom tax changes](https://www.ft.com/content/42bc3b09-8c06-4480-880e-b3d6982d79a6) |
 
 <!-- NEWS:END -->
 
