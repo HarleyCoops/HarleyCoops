@@ -66,16 +66,16 @@ Quantitative Finance Professional specializing in AI-driven financial analysis a
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 17, 2025 | [Gold's record run could usher in biggest change ever to market's classic 60/40 stock bond investi...](https://www.cnbc.com/2025/10/17/gold-record-run-sell-traditional-60-40-stock-bond-market-portfolio.html) |
+| Market | Oct 17, 2025 | [Moody's says the banking system, private credit markets are sound despite worries over bad loans](https://www.cnbc.com/2025/10/17/moodys-says-the-banking-system-private-credit-markets-are-sound-despite-worries-over-bad-loans.html) |
 | Market | Oct 17, 2025 | [Chinese robotaxi company Pony.ai to work with Stellantis on Europe expansion](https://www.cnbc.com/2025/10/17/chinese-robotaxi-company-ponyai-to-work-with-stellantis-on-europe-expansion.html) |
 | Market | Oct 16, 2025 | [U.S. regulators toss out rules requiring banks to prepare for climate change](https://www.cnbc.com/2025/10/16/regulators-toss-out-rules-requiring-banks-to-prepare-for-climate-change.html) |
 | Market | Oct 16, 2025 | [Fed Governor Miran wants a half-point cut this month, while Waller backs another quarter-point move](https://www.cnbc.com/2025/10/16/fed-governor-miran-wants-a-half-point-cut-this-month-while-waller-backs-another-quarter-point-move.html) |
-| Market | Oct 16, 2025 | [BlackRock’s crypto push deepens with a retooled product to serve stablecoin issuers](https://www.cnbc.com/2025/10/16/blackrocks-crypto-push-deepens-with-a-retooled-product-to-serve-stablecoin-issuers.html) |
-| Market | Oct 17, 2025 | [Alibaba says its AI spending in e-commerce is already breaking even](https://www.cnbc.com/2025/10/16/alibaba-says-ai-spending-for-e-commerce-taobao-tmall-is-breaking-even.html) |
-| Finance | Oct 17, 2025 | [China warns UK of ‘consequences’ after latest delay to new London embassy](https://www.ft.com/content/73e16c22-1c35-46c1-8c8e-09f6484c41f1) |
-| Finance | Oct 17, 2025 | [How dozens of Trump’s donors have benefited from his second term](https://www.ft.com/content/0ab138a5-76de-4371-8f20-3ca31f27e170) |
+| Finance | Oct 17, 2025 | [Jefferies was ‘defrauded’ by First Brands, says chief executive](https://www.ft.com/content/5cc3fad1-71a9-42ed-8e38-2cfcce57e16a) |
+| Finance | Oct 17, 2025 | [US stocks steady as investors shrug off banking jitters](https://www.ft.com/content/e6cd65b5-a70b-467e-9a93-6c484afb18bf) |
+| Finance | Oct 17, 2025 | [Investors warn on leveraged loan risks after First Brands collapse](https://www.ft.com/content/2cd2144b-ef91-4704-9483-2b718c824b4f) |
+| Finance | Oct 17, 2025 | [Chief Raoni: ‘The Amazon is our biggest chance to keep living on this Earth’](https://www.ft.com/content/58e12408-2245-433a-9062-cf8f05a86d20) |
 | Finance | Oct 17, 2025 | [Are we earning enough? The new squeeze on the middle classes](https://www.ft.com/content/eef94ba2-eaab-4507-a1c0-4ad1d997bd4c) |
-| Finance | Oct 17, 2025 | [AI has a cargo cult problem](https://www.ft.com/content/f2025ac7-a71f-464f-a3a6-1e39c98612c7) |
-| Finance | Oct 17, 2025 | [Global stocks slip on US regional bank jitters](https://www.ft.com/content/e6cd65b5-a70b-467e-9a93-6c484afb18bf) |
 
 <!-- NEWS:END -->
 
