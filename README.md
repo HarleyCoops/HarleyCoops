@@ -66,16 +66,16 @@ Quantitative Finance Professional specializing in AI-driven financial analysis a
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 16, 2025 | [U.S. regulators toss out rules requiring banks to prepare for climate change](https://www.cnbc.com/2025/10/16/regulators-toss-out-rules-requiring-banks-to-prepare-for-climate-change.html) |
 | Market | Oct 16, 2025 | [Fed Governor Miran wants a half-point cut this month, while Waller backs another quarter-point move](https://www.cnbc.com/2025/10/16/fed-governor-miran-wants-a-half-point-cut-this-month-while-waller-backs-another-quarter-point-move.html) |
 | Market | Oct 16, 2025 | [BlackRock’s crypto push deepens with a retooled product to serve stablecoin issuers](https://www.cnbc.com/2025/10/16/blackrocks-crypto-push-deepens-with-a-retooled-product-to-serve-stablecoin-issuers.html) |
 | Market | Oct 16, 2025 | [Alibaba says its AI spending in e-commerce is already breaking even](https://www.cnbc.com/2025/10/16/alibaba-says-ai-spending-for-e-commerce-taobao-tmall-is-breaking-even.html) |
 | Market | Oct 16, 2025 | [Fintech startup Upgrade valued at $7.3 billion in new funding round](https://www.cnbc.com/2025/10/16/fintech-startup-upgrade-valued-at-7point3-billion-in-new-funding-round.html) |
-| Market | Oct 16, 2025 | [CEOs of Wells Fargo and Pfizer caution the U.S. could lose its edge to China without innovation](https://www.cnbc.com/2025/10/15/wells-fargo-pfizer-ceos-china-innovation.html) |
-| Finance | Oct 16, 2025 | [China attacks UK efforts to ‘smear and defame’ it over spy case](https://www.ft.com/content/5e449d3a-ea1b-4fcc-9a3f-bfec1742ba13) |
-| Finance | Oct 16, 2025 | [Cai Qi: Xi Jinping’s right-hand man drawn into UK spy drama](https://www.ft.com/content/f8832fa6-1482-4f95-ad7c-b964d2271847) |
-| Finance | Oct 16, 2025 | [How the Trump companies made $1bn from crypto](https://www.ft.com/content/2ea2b35b-e009-42ed-b4d3-6b21aa9b2a13) |
-| Finance | Oct 16, 2025 | [AI’s double bubble trouble](https://www.ft.com/content/da16e2b1-4fc2-4868-8a37-17030b8c5498) |
+| Finance | Oct 16, 2025 | [Trump’s former national security adviser John Bolton indicted by justice department](https://www.ft.com/content/47efbdcc-6d04-435e-9417-2235471f4043) |
+| Finance | Oct 16, 2025 | [Cai Qi: Xi Jinping’s right-hand man drawn into UK’s China spy drama](https://www.ft.com/content/f8832fa6-1482-4f95-ad7c-b964d2271847) |
 | Finance | Oct 16, 2025 | [Britain is inviting its companies to emigrate](https://www.ft.com/content/6d956e0f-af16-4bb8-a5d7-4f0a8a20988d) |
+| Finance | Oct 16, 2025 | [OpenAI wants to own it all](https://www.ft.com/content/5859c6f2-d89b-4958-bcee-bb2b548c6c35) |
+| Finance | Oct 16, 2025 | [Trump says he will meet Putin in Budapest](https://www.ft.com/content/9502303b-f103-406b-9df2-886e449bd9a6) |
 
 <!-- NEWS:END -->
 
