@@ -66,15 +66,15 @@ Quantitative Finance Professional specializing in AI-driven financial analysis a
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 18, 2025 | [This ETF strategy could help risk-averse investors ride out wild market swings](https://www.cnbc.com/2025/10/18/market-volatility-relief-invesco-looks-at-income-portfolio-strategies.html) |
 | Market | Oct 18, 2025 | [‘The tide went out’: How a string of bad loans has bank investors hunting for hidden risks](https://www.cnbc.com/2025/10/17/ndfi-loan-exposure-bank-stocks.html) |
 | Market | Oct 17, 2025 | [Gold's record run could usher in biggest change ever to market's classic 60/40 stock bond investi...](https://www.cnbc.com/2025/10/17/gold-record-run-sell-traditional-60-40-stock-bond-market-portfolio.html) |
 | Market | Oct 17, 2025 | [Moody's says the banking system, private credit markets are sound despite worries over bad loans](https://www.cnbc.com/2025/10/17/moodys-says-the-banking-system-private-credit-markets-are-sound-despite-worries-over-bad-loans.html) |
 | Market | Oct 17, 2025 | [Chinese robotaxi company Pony.ai to work with Stellantis on Europe expansion](https://www.cnbc.com/2025/10/17/chinese-robotaxi-company-ponyai-to-work-with-stellantis-on-europe-expansion.html) |
-| Market | Oct 16, 2025 | [U.S. regulators toss out rules requiring banks to prepare for climate change](https://www.cnbc.com/2025/10/16/regulators-toss-out-rules-requiring-banks-to-prepare-for-climate-change.html) |
 | Finance | Oct 18, 2025 | [Blackstone says Wall Street is complacent about AI disruption](https://www.ft.com/content/35d80b4d-eecd-424b-9350-8da138036d7e) |
 | Finance | Oct 18, 2025 | [Could AI help identify skill in fund managers?](https://www.ft.com/content/23992b20-f00f-4fba-b466-01a7476a1744) |
-| Finance | Oct 18, 2025 | [Trump had to choose between Israel and Qatar. He chose Qatar](https://www.ft.com/content/addc8c16-4d41-45a6-9573-78f175df73b8) |
-| Finance | Oct 18, 2025 | [Free the government’s hands by taking back its fiscal brain](https://www.ft.com/content/16472c25-9645-4b4d-ae5f-50f90dab68ec) |
+| Finance | Oct 18, 2025 | [Trump aims to topple Venezuela’s leader with military build-up](https://www.ft.com/content/bd217091-84bb-4af2-b08b-9d9556dbb6d6) |
+| Finance | Oct 18, 2025 | [Why are parents behaving so badly on the sidelines?](https://www.ft.com/content/74406a56-4367-4e48-8fb5-2b502771f4c8) |
 | Finance | Oct 18, 2025 | [Trump and the return of Great Man theory](https://www.ft.com/content/2b4b89f3-8594-47d9-9947-75ae41b1d45b) |
 
 <!-- NEWS:END -->
