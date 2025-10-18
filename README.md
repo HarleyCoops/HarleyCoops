@@ -73,9 +73,9 @@ Quantitative Finance Professional specializing in AI-driven financial analysis a
 | Market | Oct 16, 2025 | [U.S. regulators toss out rules requiring banks to prepare for climate change](https://www.cnbc.com/2025/10/16/regulators-toss-out-rules-requiring-banks-to-prepare-for-climate-change.html) |
 | Finance | Oct 17, 2025 | [Reeves looks to include minimum UK shareholding in Isa overhaul](https://www.ft.com/content/99b91223-aced-4262-b7ff-356cee84a185) |
 | Finance | Oct 17, 2025 | [Gilts stage rally as Reeves looks at tax rises and spending cuts](https://www.ft.com/content/32958e26-07f1-4241-8d3c-37e39a457652) |
-| Finance | Oct 17, 2025 | [America’s gravity-defying economy](https://www.ft.com/content/83939127-eb9f-4145-9736-ded26c6f4d96) |
-| Finance | Oct 17, 2025 | [Are we earning enough? The new squeeze on the middle classes](https://www.ft.com/content/eef94ba2-eaab-4507-a1c0-4ad1d997bd4c) |
-| Finance | Oct 17, 2025 | [China spy case has an aroma of appeasement](https://www.ft.com/content/791baf76-010a-4f72-8c5b-60d77406d2bc) |
+| Finance | Oct 18, 2025 | [Trump had to choose between Israel and Qatar. He chose Qatar](https://www.ft.com/content/addc8c16-4d41-45a6-9573-78f175df73b8) |
+| Finance | Oct 18, 2025 | [Free the government’s hands by taking back its fiscal brain](https://www.ft.com/content/16472c25-9645-4b4d-ae5f-50f90dab68ec) |
+| Finance | Oct 18, 2025 | [Trump and the return of Great Man theory](https://www.ft.com/content/2b4b89f3-8594-47d9-9947-75ae41b1d45b) |
 
 <!-- NEWS:END -->
 
