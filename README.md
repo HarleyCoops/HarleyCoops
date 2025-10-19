@@ -71,11 +71,11 @@ Quantitative Finance Professional specializing in AI-driven financial analysis a
 | Market | Oct 17, 2025 | [Gold's record run could usher in biggest change ever to market's classic 60/40 stock bond investi...](https://www.cnbc.com/2025/10/17/gold-record-run-sell-traditional-60-40-stock-bond-market-portfolio.html) |
 | Market | Oct 17, 2025 | [Moody's says the banking system, private credit markets are sound despite worries over bad loans](https://www.cnbc.com/2025/10/17/moodys-says-the-banking-system-private-credit-markets-are-sound-despite-worries-over-bad-loans.html) |
 | Market | Oct 17, 2025 | [Chinese robotaxi company Pony.ai to work with Stellantis on Europe expansion](https://www.cnbc.com/2025/10/17/chinese-robotaxi-company-ponyai-to-work-with-stellantis-on-europe-expansion.html) |
-| Finance | Oct 18, 2025 | [Blackstone says Wall Street is complacent about AI disruption](https://www.ft.com/content/35d80b4d-eecd-424b-9350-8da138036d7e) |
-| Finance | Oct 18, 2025 | [Could AI help identify skill in fund managers?](https://www.ft.com/content/23992b20-f00f-4fba-b466-01a7476a1744) |
-| Finance | Oct 18, 2025 | [Trump aims to topple Venezuela’s leader with military build-up](https://www.ft.com/content/bd217091-84bb-4af2-b08b-9d9556dbb6d6) |
-| Finance | Oct 18, 2025 | [Why are parents behaving so badly on the sidelines?](https://www.ft.com/content/74406a56-4367-4e48-8fb5-2b502771f4c8) |
-| Finance | Oct 18, 2025 | [Trump and the return of Great Man theory](https://www.ft.com/content/2b4b89f3-8594-47d9-9947-75ae41b1d45b) |
+| Finance | Oct 19, 2025 | [Chinese tech giants pause stablecoin plans after Beijing steps in](https://www.ft.com/content/8bc1fcfa-8c69-4de0-b6cb-ab6f7117558b) |
+| Finance | Oct 19, 2025 | [AI is killing the magic](https://www.ft.com/content/d003cdfc-aded-4a9d-9a24-e1aff5261cfa) |
+| Finance | Oct 19, 2025 | [Is your workplace a theatre of the absurd?](https://www.ft.com/content/8d279f5b-f780-4ca8-99dc-634728bb4c3e) |
+| Finance | Oct 19, 2025 | [France’s wealthy shift funds to Luxembourg and Switzerland](https://www.ft.com/content/ac16066a-b385-42c7-8ed2-cca25dfa9d50) |
+| Finance | Oct 19, 2025 | [Apple’s biggest iPhone overhaul in years ignites upgrade frenzy](https://www.ft.com/content/be3f6853-286b-4296-9cef-fd0a9da624f8) |
 
 <!-- NEWS:END -->
 
