@@ -71,11 +71,11 @@ Quantitative Finance Professional specializing in AI-driven financial analysis a
 | Market | Oct 17, 2025 | [Gold's record run could usher in biggest change ever to market's classic 60/40 stock bond investi...](https://www.cnbc.com/2025/10/17/gold-record-run-sell-traditional-60-40-stock-bond-market-portfolio.html) |
 | Market | Oct 17, 2025 | [Moody's says the banking system, private credit markets are sound despite worries over bad loans](https://www.cnbc.com/2025/10/17/moodys-says-the-banking-system-private-credit-markets-are-sound-despite-worries-over-bad-loans.html) |
 | Market | Oct 17, 2025 | [Chinese robotaxi company Pony.ai to work with Stellantis on Europe expansion](https://www.cnbc.com/2025/10/17/chinese-robotaxi-company-ponyai-to-work-with-stellantis-on-europe-expansion.html) |
-| Finance | Oct 19, 2025 | [Apollo’s Marc Rowan says Europe ‘at war with itself’ over finance regulation](https://www.ft.com/content/221e5dd4-6d99-48fb-af4d-4326fe61c37a) |
-| Finance | Oct 19, 2025 | [AI is killing the magic](https://www.ft.com/content/d003cdfc-aded-4a9d-9a24-e1aff5261cfa) |
-| Finance | Oct 19, 2025 | [China’s innovation paradox](https://www.ft.com/content/b44458cc-03fd-46a1-b003-b7a097419e66) |
-| Finance | Oct 19, 2025 | [Ceasefire under strain after Israeli strikes in Gaza](https://www.ft.com/content/740c7d42-fa8f-4bec-908c-3fefb959def8) |
-| Finance | Oct 19, 2025 | [UK considers plans to cut VAT on household energy bills](https://www.ft.com/content/3a88e363-c231-4314-b2cb-e9896ef363ca) |
+| Finance | Oct 19, 2025 | [Trump urged Zelenskyy to accept Putin’s terms or be ‘destroyed’ by Russia](https://www.ft.com/content/7960c6aa-dbfa-4a55-91e8-ae44601842ec) |
+| Finance | Oct 19, 2025 | [America’s rare earth delusion](https://www.ft.com/content/583abbd2-ffa8-4232-931f-66f55949b5d5) |
+| Finance | Oct 19, 2025 | [Gen Z is the new force in global politics](https://www.ft.com/content/7716d45b-7bbb-4c56-9399-498a4d0a4c4a) |
+| Finance | Oct 19, 2025 | [CKI calls for Thames Water renationalisation after ‘high-risk’ creditor plan](https://www.ft.com/content/e3daaa25-996c-435b-8820-18d5a9bc09d1) |
+| Finance | Oct 19, 2025 | [Apple’s biggest iPhone overhaul in years ignites upgrade frenzy](https://www.ft.com/content/be3f6853-286b-4296-9cef-fd0a9da624f8) |
 
 <!-- NEWS:END -->
 
