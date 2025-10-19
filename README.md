@@ -71,11 +71,11 @@ Quantitative Finance Professional specializing in AI-driven financial analysis a
 | Market | Oct 17, 2025 | [Gold's record run could usher in biggest change ever to market's classic 60/40 stock bond investi...](https://www.cnbc.com/2025/10/17/gold-record-run-sell-traditional-60-40-stock-bond-market-portfolio.html) |
 | Market | Oct 17, 2025 | [Moody's says the banking system, private credit markets are sound despite worries over bad loans](https://www.cnbc.com/2025/10/17/moodys-says-the-banking-system-private-credit-markets-are-sound-despite-worries-over-bad-loans.html) |
 | Market | Oct 17, 2025 | [Chinese robotaxi company Pony.ai to work with Stellantis on Europe expansion](https://www.cnbc.com/2025/10/17/chinese-robotaxi-company-ponyai-to-work-with-stellantis-on-europe-expansion.html) |
-| Finance | Oct 19, 2025 | [Chinese tech giants pause stablecoin plans after Beijing steps in](https://www.ft.com/content/8bc1fcfa-8c69-4de0-b6cb-ab6f7117558b) |
+| Finance | Oct 19, 2025 | [Apollo’s Marc Rowan says Europe ‘at war with itself’ over finance regulation](https://www.ft.com/content/221e5dd4-6d99-48fb-af4d-4326fe61c37a) |
 | Finance | Oct 19, 2025 | [AI is killing the magic](https://www.ft.com/content/d003cdfc-aded-4a9d-9a24-e1aff5261cfa) |
-| Finance | Oct 19, 2025 | [Is your workplace a theatre of the absurd?](https://www.ft.com/content/8d279f5b-f780-4ca8-99dc-634728bb4c3e) |
-| Finance | Oct 19, 2025 | [France’s wealthy shift funds to Luxembourg and Switzerland](https://www.ft.com/content/ac16066a-b385-42c7-8ed2-cca25dfa9d50) |
-| Finance | Oct 19, 2025 | [Apple’s biggest iPhone overhaul in years ignites upgrade frenzy](https://www.ft.com/content/be3f6853-286b-4296-9cef-fd0a9da624f8) |
+| Finance | Oct 19, 2025 | [China’s innovation paradox](https://www.ft.com/content/b44458cc-03fd-46a1-b003-b7a097419e66) |
+| Finance | Oct 19, 2025 | [Ceasefire under strain after Israeli strikes in Gaza](https://www.ft.com/content/740c7d42-fa8f-4bec-908c-3fefb959def8) |
+| Finance | Oct 19, 2025 | [UK considers plans to cut VAT on household energy bills](https://www.ft.com/content/3a88e363-c231-4314-b2cb-e9896ef363ca) |
 
 <!-- NEWS:END -->
 
