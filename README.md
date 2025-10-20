@@ -66,16 +66,16 @@ Quantitative Finance Professional specializing in AI-driven financial analysis a
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
-| Market | Oct 19, 2025 | [China's economic growth likely slowed in third quarter](https://www.cnbc.com/2025/10/20/china-economic-growth-gdp-september-third-quarter-q3-retail-sales-industrial-output-urban-investment-fixed-income.html) |
+| Market | Oct 20, 2025 | [China’s economy grows 4.8% in third quarter as expected, but investment sees 'rare and alarming' ...](https://www.cnbc.com/2025/10/20/china-economic-growth-gdp-september-third-quarter-q3-retail-sales-industrial-output-urban-investment-fixed-income.html) |
 | Market | Oct 18, 2025 | [This ETF strategy could help risk-averse investors ride out wild market swings](https://www.cnbc.com/2025/10/18/market-volatility-relief-invesco-looks-at-income-portfolio-strategies.html) |
 | Market | Oct 18, 2025 | [‘The tide went out’: How a string of bad loans has bank investors hunting for hidden risks](https://www.cnbc.com/2025/10/17/ndfi-loan-exposure-bank-stocks.html) |
 | Market | Oct 17, 2025 | [Gold's record run could usher in biggest change ever to market's classic 60/40 stock bond investi...](https://www.cnbc.com/2025/10/17/gold-record-run-sell-traditional-60-40-stock-bond-market-portfolio.html) |
 | Market | Oct 17, 2025 | [Moody's says the banking system, private credit markets are sound despite worries over bad loans](https://www.cnbc.com/2025/10/17/moodys-says-the-banking-system-private-credit-markets-are-sound-despite-worries-over-bad-loans.html) |
 | Finance | Oct 19, 2025 | [Trump urged Zelenskyy to accept Putin’s terms or be ‘destroyed’ by Russia](https://www.ft.com/content/7960c6aa-dbfa-4a55-91e8-ae44601842ec) |
-| Finance | Oct 19, 2025 | [French police on manhunt after thieves steal royal jewels from Louvre](https://www.ft.com/content/546d58bb-8dcd-4d99-9fac-890709d955b3) |
-| Finance | Oct 19, 2025 | [America’s rare earth delusion](https://www.ft.com/content/583abbd2-ffa8-4232-931f-66f55949b5d5) |
-| Finance | Oct 19, 2025 | [Gen Z is the new force in global politics](https://www.ft.com/content/7716d45b-7bbb-4c56-9399-498a4d0a4c4a) |
-| Finance | Oct 19, 2025 | [CKI calls for Thames Water renationalisation after ‘high-risk’ creditor plan](https://www.ft.com/content/e3daaa25-996c-435b-8820-18d5a9bc09d1) |
+| Finance | Oct 20, 2025 | [How Portland became ground zero in Trump’s battle with Democratic cities](https://www.ft.com/content/167f7b2f-7eb3-4c56-9cf4-5e50f664ec66) |
+| Finance | Oct 20, 2025 | [Blaming the OBR for the Budget maths is a waste of time](https://www.ft.com/content/a06df3b9-474c-4d42-a17d-e72534f834bd) |
+| Finance | Oct 20, 2025 | [Why gold and stocks are partying together](https://www.ft.com/content/f54be5f0-7d6b-43b5-8aad-a4b9d7e3cae5) |
+| Finance | Oct 20, 2025 | [Rare earths shares soar as US and China battle over export controls](https://www.ft.com/content/755d7413-c71a-4a6e-bbe9-2b821032bdee) |
 
 <!-- NEWS:END -->
 
