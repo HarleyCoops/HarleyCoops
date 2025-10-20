@@ -66,16 +66,16 @@ Quantitative Finance Professional specializing in AI-driven financial analysis a
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 20, 2025 | [Activist investor Jana Partners takes stake in medical device maker Cooper Companies, WSJ says](https://www.cnbc.com/2025/10/20/activist-investor-jana-partners-takes-stake-in-cooper-cos-wsj-says.html) |
 | Market | Oct 20, 2025 | [China’s economy grows 4.8% in third quarter as expected, but investment sees 'rare and alarming' ...](https://www.cnbc.com/2025/10/20/china-economic-growth-gdp-september-third-quarter-q3-retail-sales-industrial-output-urban-investment-fixed-income.html) |
-| Market | Oct 18, 2025 | [This ETF strategy could help risk-averse investors ride out wild market swings](https://www.cnbc.com/2025/10/18/market-volatility-relief-invesco-looks-at-income-portfolio-strategies.html) |
+| Market | Oct 20, 2025 | [This ETF strategy could help risk-averse investors ride out wild market swings](https://www.cnbc.com/2025/10/18/market-volatility-relief-invesco-looks-at-income-portfolio-strategies.html) |
 | Market | Oct 18, 2025 | [‘The tide went out’: How a string of bad loans has bank investors hunting for hidden risks](https://www.cnbc.com/2025/10/17/ndfi-loan-exposure-bank-stocks.html) |
 | Market | Oct 17, 2025 | [Gold's record run could usher in biggest change ever to market's classic 60/40 stock bond investi...](https://www.cnbc.com/2025/10/17/gold-record-run-sell-traditional-60-40-stock-bond-market-portfolio.html) |
-| Market | Oct 17, 2025 | [Moody's says the banking system, private credit markets are sound despite worries over bad loans](https://www.cnbc.com/2025/10/17/moodys-says-the-banking-system-private-credit-markets-are-sound-despite-worries-over-bad-loans.html) |
-| Finance | Oct 20, 2025 | [Trump urged Zelenskyy to accept Putin’s terms or be ‘destroyed’ by Russia](https://www.ft.com/content/7960c6aa-dbfa-4a55-91e8-ae44601842ec) |
-| Finance | Oct 20, 2025 | [How Portland became ground zero in Trump’s battle with Democratic cities](https://www.ft.com/content/167f7b2f-7eb3-4c56-9cf4-5e50f664ec66) |
+| Finance | Oct 20, 2025 | [Europeans rush to Zelenskyy’s defence after tense Trump meeting](https://www.ft.com/content/d26d9203-7ca6-4477-a251-7d4c81f195a1) |
+| Finance | Oct 20, 2025 | [Europe needs its own channels to the Kremlin](https://www.ft.com/content/882c10b0-97bd-41be-bfe6-efb2656ca8e9) |
+| Finance | Oct 20, 2025 | [Claude enters the lab: Anthropic bets big on life sciences](https://www.ft.com/content/b9c6b9d0-c418-45b1-a266-72605ccc8aaa) |
+| Finance | Oct 20, 2025 | [China is well positioned for a trade showdown with Trump](https://www.ft.com/content/c2fd550d-cbca-4e39-a9a5-29a1e9d902c4) |
 | Finance | Oct 20, 2025 | [Why gold and stocks are partying together](https://www.ft.com/content/f54be5f0-7d6b-43b5-8aad-a4b9d7e3cae5) |
-| Finance | Oct 20, 2025 | [Blaming the OBR for the Budget maths is a waste of time](https://www.ft.com/content/a06df3b9-474c-4d42-a17d-e72534f834bd) |
-| Finance | Oct 20, 2025 | [Amazon’s cloud business hit by widespread outage](https://www.ft.com/content/f9d13a0e-9378-429c-9be0-5f15f649cc3f) |
 
 <!-- NEWS:END -->
 
