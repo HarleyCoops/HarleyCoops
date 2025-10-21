@@ -75,7 +75,7 @@ Quantitative Finance Professional specializing in AI-driven financial analysis a
 | Finance | Oct 20, 2025 | [Europe needs its own channels to the Kremlin](https://www.ft.com/content/882c10b0-97bd-41be-bfe6-efb2656ca8e9) |
 | Finance | Oct 20, 2025 | [Claude enters the lab: Anthropic bets big on life sciences](https://www.ft.com/content/b9c6b9d0-c418-45b1-a266-72605ccc8aaa) |
 | Finance | Oct 20, 2025 | [China is well positioned for a trade showdown with Trump](https://www.ft.com/content/c2fd550d-cbca-4e39-a9a5-29a1e9d902c4) |
-| Finance | Oct 20, 2025 | [Why gold and stocks are partying together](https://www.ft.com/content/f54be5f0-7d6b-43b5-8aad-a4b9d7e3cae5) |
+| Finance | Oct 20, 2025 | [The boardroom bet on Trump’s industrial policy](https://www.ft.com/content/59368796-5a1c-460e-b6b1-bb431e62275d) |
 
 <!-- NEWS:END -->
 
