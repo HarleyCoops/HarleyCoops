@@ -66,16 +66,16 @@ Quantitative Finance Professional specializing in AI-driven financial analysis a
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 21, 2025 | [Investor Lauren Taylor Wolfe says we are 'absolutely' in an AI bubble now](https://www.cnbc.com/2025/10/21/investor-lauren-taylor-wolfe-says-we-are-absolutely-in-an-ai-bubble-now.html) |
+| Market | Oct 21, 2025 | [One-time penny stock Beyond Meat soars after addition to meme ETF, jumps 90% on Tuesday](https://www.cnbc.com/2025/10/21/one-time-penny-stock-beyond-meat-soars-after-addition-to-meme-etf-jumps-47percent-on-tuesday.html) |
 | Market | Oct 20, 2025 | [Activist investor Jana Partners takes stake in medical device maker Cooper Companies, WSJ says](https://www.cnbc.com/2025/10/20/activist-investor-jana-partners-takes-stake-in-cooper-cos-wsj-says.html) |
 | Market | Oct 20, 2025 | [China’s economy grows 4.8% in third quarter as expected, but investment sees 'rare and alarming' ...](https://www.cnbc.com/2025/10/20/china-economic-growth-gdp-september-third-quarter-q3-retail-sales-industrial-output-urban-investment-fixed-income.html) |
-| Market | Oct 20, 2025 | [This ETF strategy could help risk-averse investors ride out wild market swings](https://www.cnbc.com/2025/10/18/market-volatility-relief-invesco-looks-at-income-portfolio-strategies.html) |
-| Market | Oct 18, 2025 | [‘The tide went out’: How a string of bad loans has bank investors hunting for hidden risks](https://www.cnbc.com/2025/10/17/ndfi-loan-exposure-bank-stocks.html) |
-| Market | Oct 17, 2025 | [Gold's record run could usher in biggest change ever to market's classic 60/40 stock bond investi...](https://www.cnbc.com/2025/10/17/gold-record-run-sell-traditional-60-40-stock-bond-market-portfolio.html) |
-| Finance | Oct 21, 2025 | [UK borrowing hits five-year high](https://www.ft.com/content/86f78b0b-d45d-467f-be87-5cd215a647f2) |
-| Finance | Oct 21, 2025 | [Friedrich Merz is testing Germany’s patience](https://www.ft.com/content/bc18dfca-2120-43bc-b522-d48352b63457) |
-| Finance | Oct 21, 2025 | [Putin’s mesmeric sway on Trump](https://www.ft.com/content/7debcf11-5213-44ac-96ff-f18525bc42b5) |
+| Market | Oct 21, 2025 | [This ETF strategy could help risk-averse investors ride out wild market swings](https://www.cnbc.com/2025/10/18/market-volatility-relief-invesco-looks-at-income-portfolio-strategies.html) |
+| Finance | Oct 21, 2025 | [BoE governor warns ‘alarm bells’ ringing over private credit market](https://www.ft.com/content/cd0e2790-7ac7-49cf-b3e3-9c506a7d0ba8) |
+| Finance | Oct 21, 2025 | [Stolen Louvre treasures are uninsured, France says](https://www.ft.com/content/e8fb0912-f98f-44fe-b41a-bce50ac7e321) |
+| Finance | Oct 21, 2025 | [The hard task of exiting the populist trap](https://www.ft.com/content/212907cf-0ab6-492f-8bad-db05dd91af31) |
 | Finance | Oct 21, 2025 | [Kraken’s software is swallowing Octopus Energy](https://www.ft.com/content/ef5f2373-dc85-4f7d-bf19-269efdfe87a7) |
-| Finance | Oct 21, 2025 | [Boris Johnson denies UK failed to plan for Covid school closures](https://www.ft.com/content/0650bc7d-688d-4314-9cda-d719b5ca536f) |
+| Finance | Oct 21, 2025 | [Gold tumbles 5% in biggest sell-off since 2020](https://www.ft.com/content/5ad25988-da6f-4d2c-98a7-76ba1dd31736) |
 
 <!-- NEWS:END -->
 
