@@ -71,11 +71,11 @@ Quantitative Finance Professional specializing in AI-driven financial analysis a
 | Market | Oct 20, 2025 | [This ETF strategy could help risk-averse investors ride out wild market swings](https://www.cnbc.com/2025/10/18/market-volatility-relief-invesco-looks-at-income-portfolio-strategies.html) |
 | Market | Oct 18, 2025 | [‘The tide went out’: How a string of bad loans has bank investors hunting for hidden risks](https://www.cnbc.com/2025/10/17/ndfi-loan-exposure-bank-stocks.html) |
 | Market | Oct 17, 2025 | [Gold's record run could usher in biggest change ever to market's classic 60/40 stock bond investi...](https://www.cnbc.com/2025/10/17/gold-record-run-sell-traditional-60-40-stock-bond-market-portfolio.html) |
-| Finance | Oct 21, 2025 | [US army taps private equity groups to help fund $150bn revamp](https://www.ft.com/content/0e9228db-9fa5-4f90-ab8a-93aadcb62d57) |
-| Finance | Oct 21, 2025 | [How Friedrich Merz is testing Germany’s patience](https://www.ft.com/content/bc18dfca-2120-43bc-b522-d48352b63457) |
-| Finance | Oct 21, 2025 | [Why can’t I buy a small smartphone?](https://www.ft.com/content/63320013-9831-4940-b79d-a26d76ecb4bd) |
-| Finance | Oct 21, 2025 | [Demographic doom-mongering isn’t helping](https://www.ft.com/content/4fb31d3f-67ff-4382-bb25-583f9e96212f) |
-| Finance | Oct 20, 2025 | [Reeves launches ‘blitz’ on red tape in bid to save £6bn a year for UK business](https://www.ft.com/content/cffa3bf8-1576-4148-9535-c104c83838ab) |
+| Finance | Oct 21, 2025 | [UK borrowing hits five-year high](https://www.ft.com/content/86f78b0b-d45d-467f-be87-5cd215a647f2) |
+| Finance | Oct 21, 2025 | [Friedrich Merz is testing Germany’s patience](https://www.ft.com/content/bc18dfca-2120-43bc-b522-d48352b63457) |
+| Finance | Oct 21, 2025 | [Putin’s mesmeric sway on Trump](https://www.ft.com/content/7debcf11-5213-44ac-96ff-f18525bc42b5) |
+| Finance | Oct 21, 2025 | [Kraken’s software is swallowing Octopus Energy](https://www.ft.com/content/ef5f2373-dc85-4f7d-bf19-269efdfe87a7) |
+| Finance | Oct 21, 2025 | [Boris Johnson denies UK failed to plan for Covid school closures](https://www.ft.com/content/0650bc7d-688d-4314-9cda-d719b5ca536f) |
 
 <!-- NEWS:END -->
 
