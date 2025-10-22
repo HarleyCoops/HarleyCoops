@@ -2,7 +2,7 @@
 
 <!-- Profile 3D Contribution -->
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Chart" />
+  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Chart" />
 </p>
 
 <!-- Animated Header Banner -->
@@ -76,16 +76,16 @@ Quantitative Finance Professional specializing in AI-driven financial analysis a
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
-| Market | Oct 11, 2025 | [New tariff threats crush stocks during a big week for Nvidia and key portfolio moves](https://www.cnbc.com/2025/10/11/new-tariff-threats-crush-stocks-during-a-big-week-for-nvidia-and-key-portfolio-moves.html) |
-| Market | Oct 11, 2025 | [BlackRock sees shift in artificial intelligence trade. Where investors are putting their money now.](https://www.cnbc.com/2025/10/11/artificial-intelligence-bitcoin-as-top-blackrock-etf-place.html) |
-| Market | Oct 10, 2025 | [Chinese stocks slide as Trump threatens tariffs, accuses Beijing of holding world ‘captive’](https://www.cnbc.com/2025/10/10/chinese-stocks-slide-as-trump-threatens-tariffs-accuses-beijing-of-holding-world-captive.html) |
-| Market | Oct 10, 2025 | [Why Wall Street's old 'wall of worry' and new 'debasement trade' are boosting gold, bitcoin in ty...](https://www.cnbc.com/2025/10/10/debasement-trade-gold-bitcoin-stock-market-risks.html) |
-| Market | Oct 10, 2025 | [Morgan Stanley drops restrictions on which wealth clients can own crypto funds](https://www.cnbc.com/2025/10/10/morgan-stanley-drops-crypto-fund-restrictions-for-wealth-clients.html) |
-| Finance | Oct 12, 2025 | [Trump to travel to Israel as country anxiously awaits hostage releases](https://www.ft.com/content/fad4e893-fa59-4862-b904-82c0da659eb0) |
-| Finance | Oct 12, 2025 | [Trump’s Gaza plan hinges on security force yet to take shape](https://www.ft.com/content/542b6c82-9499-4b0e-b7cb-ee2aee6fef44) |
-| Finance | Oct 12, 2025 | [Ukraine hit Russian energy sites with US help](https://www.ft.com/content/f9f42c10-3a30-4ee1-aff7-3368dd831c8c) |
-| Finance | Oct 12, 2025 | [A rare moment of hope in the Middle East](https://www.ft.com/content/8bdc97d9-d8d5-4651-97a4-08d10850e059) |
-| Finance | Oct 12, 2025 | [Why the economy feels so confusing right now](https://www.ft.com/content/5df25200-8eb7-4640-9511-ae4d10b73f81) |
+| Market | Oct 22, 2025 | [Baidu's Apollo Go plans to launch taxis with no steering wheels in Switzerland as the race for ro...](https://www.cnbc.com/2025/10/22/chinas-baidu-to-test-robotaxis-in-switzerland-in-race-for-europe.html) |
+| Market | Oct 22, 2025 | [Barclays ups guidance, announces surprise $670 million share buyback](https://www.cnbc.com/2025/10/22/barclays-q3-earnings.html) |
+| Market | Oct 21, 2025 | [Travis Kelce joins activist investor Jana Partners in push to revive Six Flags](https://www.cnbc.com/2025/10/21/travis-kelce-joins-activist-investor-jana-partners-in-push-to-revive-six-flags.html) |
+| Market | Oct 21, 2025 | [Investor Lauren Taylor Wolfe says we are 'absolutely' in an AI bubble now](https://www.cnbc.com/2025/10/21/investor-lauren-taylor-wolfe-says-we-are-absolutely-in-an-ai-bubble-now.html) |
+| Market | Oct 21, 2025 | [Beyond Meat soars 146% after addition to meme ETF, Walmart deal](https://www.cnbc.com/2025/10/21/one-time-penny-stock-beyond-meat-soars-after-addition-to-meme-etf-jumps-47percent-on-tuesday.html) |
+| Finance | Oct 22, 2025 | [UK inflation unexpectedly holds steady at 3.8% in September](https://www.ft.com/content/aa0e8c7c-848c-40cc-a818-efd3ad40fffd) |
+| Finance | Oct 21, 2025 | [Reeves targets tax partnerships in crackdown on wealthy Britons](https://www.ft.com/content/fad95547-c888-401e-ac7e-c86b9de8f380) |
+| Finance | Oct 21, 2025 | [UK’s ‘real living wage’ to rise almost 7%](https://www.ft.com/content/05157335-6170-4e87-92d3-bd0e3fc9069a) |
+| Finance | Oct 22, 2025 | [Inside Oklo: the $20bn nuclear start-up without any revenue](https://www.ft.com/content/cdf09f0e-d673-41f4-8faa-fe795a2b872e) |
+| Finance | Oct 22, 2025 | [Politics not tech makes the world go round](https://www.ft.com/content/519a7fc9-5ccf-493e-876c-0656c8f00cd4) |
 
 <!-- NEWS:END -->
 
