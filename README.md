@@ -66,16 +66,16 @@ Quantitative Finance Professional specializing in AI-driven financial analysis a
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 21, 2025 | [Travis Kelce joins activist investor Jana Partners in push to revive Six Flags](https://www.cnbc.com/2025/10/21/travis-kelce-joins-activist-investor-jana-partners-in-push-to-revive-six-flags.html) |
 | Market | Oct 21, 2025 | [Investor Lauren Taylor Wolfe says we are 'absolutely' in an AI bubble now](https://www.cnbc.com/2025/10/21/investor-lauren-taylor-wolfe-says-we-are-absolutely-in-an-ai-bubble-now.html) |
-| Market | Oct 21, 2025 | [One-time penny stock Beyond Meat soars after addition to meme ETF, jumps 90% on Tuesday](https://www.cnbc.com/2025/10/21/one-time-penny-stock-beyond-meat-soars-after-addition-to-meme-etf-jumps-47percent-on-tuesday.html) |
+| Market | Oct 21, 2025 | [Beyond Meat soars 146% after addition to meme ETF, Walmart deal](https://www.cnbc.com/2025/10/21/one-time-penny-stock-beyond-meat-soars-after-addition-to-meme-etf-jumps-47percent-on-tuesday.html) |
 | Market | Oct 20, 2025 | [Activist investor Jana Partners takes stake in medical device maker Cooper Companies, WSJ says](https://www.cnbc.com/2025/10/20/activist-investor-jana-partners-takes-stake-in-cooper-cos-wsj-says.html) |
 | Market | Oct 20, 2025 | [China’s economy grows 4.8% in third quarter as expected, but investment sees 'rare and alarming' ...](https://www.cnbc.com/2025/10/20/china-economic-growth-gdp-september-third-quarter-q3-retail-sales-industrial-output-urban-investment-fixed-income.html) |
-| Market | Oct 21, 2025 | [This ETF strategy could help risk-averse investors ride out wild market swings](https://www.cnbc.com/2025/10/18/market-volatility-relief-invesco-looks-at-income-portfolio-strategies.html) |
-| Finance | Oct 21, 2025 | [BoE governor warns ‘alarm bells’ ringing over private credit market](https://www.ft.com/content/cd0e2790-7ac7-49cf-b3e3-9c506a7d0ba8) |
-| Finance | Oct 21, 2025 | [Stolen Louvre treasures are uninsured, France says](https://www.ft.com/content/e8fb0912-f98f-44fe-b41a-bce50ac7e321) |
+| Finance | Oct 21, 2025 | [Reeves vows to clear way for BoE rate cuts with cost of living pledge](https://www.ft.com/content/bfe69f64-98f4-4bd3-9c16-df58526fc0ea) |
+| Finance | Oct 21, 2025 | [Chancellor targets tax partnerships in crackdown on UK’s wealthy](https://www.ft.com/content/fad95547-c888-401e-ac7e-c86b9de8f380) |
+| Finance | Oct 21, 2025 | [Japan is falling in love with private equity. Can it last?](https://www.ft.com/content/9c4b8ea7-708e-4f7f-93d5-de86ca87572d) |
 | Finance | Oct 21, 2025 | [The hard task of exiting the populist trap](https://www.ft.com/content/212907cf-0ab6-492f-8bad-db05dd91af31) |
 | Finance | Oct 21, 2025 | [Kraken’s software is swallowing Octopus Energy](https://www.ft.com/content/ef5f2373-dc85-4f7d-bf19-269efdfe87a7) |
-| Finance | Oct 21, 2025 | [Gold tumbles 5% in biggest sell-off since 2020](https://www.ft.com/content/5ad25988-da6f-4d2c-98a7-76ba1dd31736) |
 
 <!-- NEWS:END -->
 
