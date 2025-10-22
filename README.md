@@ -66,16 +66,16 @@ Quantitative Finance Professional specializing in AI-driven financial analysis a
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 22, 2025 | [Baidu's Apollo Go plans to launch taxis with no steering wheels in Switzerland as the race for ro...](https://www.cnbc.com/2025/10/22/chinas-baidu-to-test-robotaxis-in-switzerland-in-race-for-europe.html) |
+| Market | Oct 22, 2025 | [Barclays ups guidance, announces surprise $670 million share buyback](https://www.cnbc.com/2025/10/22/barclays-q3-earnings.html) |
 | Market | Oct 21, 2025 | [Travis Kelce joins activist investor Jana Partners in push to revive Six Flags](https://www.cnbc.com/2025/10/21/travis-kelce-joins-activist-investor-jana-partners-in-push-to-revive-six-flags.html) |
 | Market | Oct 21, 2025 | [Investor Lauren Taylor Wolfe says we are 'absolutely' in an AI bubble now](https://www.cnbc.com/2025/10/21/investor-lauren-taylor-wolfe-says-we-are-absolutely-in-an-ai-bubble-now.html) |
 | Market | Oct 21, 2025 | [Beyond Meat soars 146% after addition to meme ETF, Walmart deal](https://www.cnbc.com/2025/10/21/one-time-penny-stock-beyond-meat-soars-after-addition-to-meme-etf-jumps-47percent-on-tuesday.html) |
-| Market | Oct 20, 2025 | [Activist investor Jana Partners takes stake in medical device maker Cooper Companies, WSJ says](https://www.cnbc.com/2025/10/20/activist-investor-jana-partners-takes-stake-in-cooper-cos-wsj-says.html) |
-| Market | Oct 20, 2025 | [China’s economy grows 4.8% in third quarter as expected, but investment sees 'rare and alarming' ...](https://www.cnbc.com/2025/10/20/china-economic-growth-gdp-september-third-quarter-q3-retail-sales-industrial-output-urban-investment-fixed-income.html) |
 | Finance | Oct 22, 2025 | [UK inflation unexpectedly holds steady at 3.8% in September](https://www.ft.com/content/aa0e8c7c-848c-40cc-a818-efd3ad40fffd) |
-| Finance | Oct 21, 2025 | [Chancellor targets tax partnerships in crackdown on wealthy Britons](https://www.ft.com/content/fad95547-c888-401e-ac7e-c86b9de8f380) |
-| Finance | Oct 22, 2025 | [Inside Oklo: the $20bn nuclear start-up still waiting to power up](https://www.ft.com/content/cdf09f0e-d673-41f4-8faa-fe795a2b872e) |
-| Finance | Oct 22, 2025 | [Bubble-talk is breaking out everywhere](https://www.ft.com/content/ce8bc257-5f06-4005-bd36-b094a9b91938) |
-| Finance | Oct 22, 2025 | [Why the ‘thrifty gene’ hypothesis is back](https://www.ft.com/content/41203b8e-e39f-4183-91e4-5c091cb0d238) |
+| Finance | Oct 21, 2025 | [Reeves targets tax partnerships in crackdown on wealthy Britons](https://www.ft.com/content/fad95547-c888-401e-ac7e-c86b9de8f380) |
+| Finance | Oct 21, 2025 | [UK’s ‘real living wage’ to rise almost 7%](https://www.ft.com/content/05157335-6170-4e87-92d3-bd0e3fc9069a) |
+| Finance | Oct 22, 2025 | [Inside Oklo: the $20bn nuclear start-up without any revenue](https://www.ft.com/content/cdf09f0e-d673-41f4-8faa-fe795a2b872e) |
+| Finance | Oct 22, 2025 | [Politics not tech makes the world go round](https://www.ft.com/content/519a7fc9-5ccf-493e-876c-0656c8f00cd4) |
 
 <!-- NEWS:END -->
 
