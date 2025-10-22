@@ -14,11 +14,6 @@
 
 <h3 align="center">Working on complex problems in a complex world</h3>
 
-<!-- Dynamic Quote of the Day -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20stock%20market%20is%20filled%20with%20individuals%20who%20know%20the%20price%20of%20everything,%20but%20the%20value%20of%20nothing.&author=Philip%20Fisher" alt="Quote" />
-</p>
-
 <!-- Profile Views Counter -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harleycoops&label=Profile%20views&color=0e75b6&style=flat" alt="harleycoops" /> </p>
 
@@ -55,6 +50,21 @@ Quantitative Finance Professional specializing in AI-driven financial analysis a
 - Large Language Model fine-tuning and alignment
 - Computational geometry and fractal mathematics
 
+---
+
+## Nerd Trophy Case
+
+**Karpathy Reply**
+<p align="center">
+  <img src="./Public/reply.jpg" alt="Karpathy Comment" width="80%"/>
+</p>
+
+**Google Scholar**
+<p align="center">
+  <img src="./Public/HubleGoogleScholar.jpg" alt="Google Scholar" width="80%"/>
+</p>
+
+---
 
 <!-- Financial News Ticker -->
 ## Latest Financial News
