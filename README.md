@@ -76,16 +76,16 @@ Quantitative Finance Professional specializing in AI-driven financial analysis a
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 22, 2025 | [Western Alliance CEO says alleged loan fraud is 'incredibly frustrating' but isolated issue](https://www.cnbc.com/2025/10/22/western-alliance-ceo-alleged-loan-fraud-isolated.html) |
+| Market | Oct 22, 2025 | [The biggest crypto wipeout was led not by bitcoin, but much smaller tokens. Here's what happened](https://www.cnbc.com/2025/10/22/the-biggest-crypto-wipeout-was-led-not-by-bitcoin-but-much-smaller-tokens-heres-what-happened.html) |
+| Market | Oct 22, 2025 | [Beyond Meat shares slash gains, briefly dipping into the red as meme rally falters](https://www.cnbc.com/2025/10/22/beyond-meat-shares-surge-for-a-third-day-in-a-row-as-meme-traders-jump-on-board.html) |
 | Market | Oct 22, 2025 | [Baidu's Apollo Go plans to launch taxis with no steering wheels in Switzerland as the race for ro...](https://www.cnbc.com/2025/10/22/chinas-baidu-to-test-robotaxis-in-switzerland-in-race-for-europe.html) |
 | Market | Oct 22, 2025 | [Barclays ups guidance, announces surprise $670 million share buyback](https://www.cnbc.com/2025/10/22/barclays-q3-earnings.html) |
-| Market | Oct 21, 2025 | [Travis Kelce joins activist investor Jana Partners in push to revive Six Flags](https://www.cnbc.com/2025/10/21/travis-kelce-joins-activist-investor-jana-partners-in-push-to-revive-six-flags.html) |
-| Market | Oct 21, 2025 | [Investor Lauren Taylor Wolfe says we are 'absolutely' in an AI bubble now](https://www.cnbc.com/2025/10/21/investor-lauren-taylor-wolfe-says-we-are-absolutely-in-an-ai-bubble-now.html) |
-| Market | Oct 21, 2025 | [Beyond Meat soars 146% after addition to meme ETF, Walmart deal](https://www.cnbc.com/2025/10/21/one-time-penny-stock-beyond-meat-soars-after-addition-to-meme-etf-jumps-47percent-on-tuesday.html) |
-| Finance | Oct 22, 2025 | [UK inflation unexpectedly holds steady at 3.8% in September](https://www.ft.com/content/aa0e8c7c-848c-40cc-a818-efd3ad40fffd) |
-| Finance | Oct 21, 2025 | [Reeves targets tax partnerships in crackdown on wealthy Britons](https://www.ft.com/content/fad95547-c888-401e-ac7e-c86b9de8f380) |
-| Finance | Oct 21, 2025 | [UK’s ‘real living wage’ to rise almost 7%](https://www.ft.com/content/05157335-6170-4e87-92d3-bd0e3fc9069a) |
-| Finance | Oct 22, 2025 | [Inside Oklo: the $20bn nuclear start-up without any revenue](https://www.ft.com/content/cdf09f0e-d673-41f4-8faa-fe795a2b872e) |
-| Finance | Oct 22, 2025 | [Politics not tech makes the world go round](https://www.ft.com/content/519a7fc9-5ccf-493e-876c-0656c8f00cd4) |
+| Finance | Oct 22, 2025 | [Lawyers and accountants warn Reeves against tax raid on partnerships](https://www.ft.com/content/ab17390a-8595-4de1-b3fa-219e408e926b) |
+| Finance | Oct 22, 2025 | [Why is Rachel Reeves targeting the tax affairs of professionals?](https://www.ft.com/content/dd061da9-a612-449c-a489-a952d9c3a5b0) |
+| Finance | Oct 22, 2025 | [Investors bet on Argentine peso devaluation after weekend elections](https://www.ft.com/content/a4ac78be-ad69-4e54-8e8b-9692d11d07e6) |
+| Finance | Oct 22, 2025 | [Bubble-talk is breaking out everywhere](https://www.ft.com/content/ce8bc257-5f06-4005-bd36-b094a9b91938) |
+| Finance | Oct 22, 2025 | [In the age of AI, what should your kids study at university?](https://www.ft.com/content/24332e6e-513e-489e-adc3-9527449a4027) |
 
 <!-- NEWS:END -->
 
