@@ -76,16 +76,16 @@ Quantitative Finance Professional specializing in AI-driven financial analysis a
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 23, 2025 | [China's property slump is far from bottoming. But Beijing is prioritizing tech growth](https://www.cnbc.com/2025/10/23/chinas-property-slump-is-far-from-bottoming-but-beijing-is-prioritizing-tech-growth.html) |
 | Market | Oct 22, 2025 | [Western Alliance CEO says alleged loan fraud is 'incredibly frustrating' but isolated issue](https://www.cnbc.com/2025/10/22/western-alliance-ceo-alleged-loan-fraud-isolated.html) |
 | Market | Oct 22, 2025 | [The biggest crypto wipeout was led not by bitcoin, but much smaller tokens. Here's what happened](https://www.cnbc.com/2025/10/22/the-biggest-crypto-wipeout-was-led-not-by-bitcoin-but-much-smaller-tokens-heres-what-happened.html) |
 | Market | Oct 22, 2025 | [Beyond Meat shares fall 1%, giving up a triple-digit gain as meme rally fizzles](https://www.cnbc.com/2025/10/22/beyond-meat-shares-surge-for-a-third-day-in-a-row-as-meme-traders-jump-on-board.html) |
 | Market | Oct 22, 2025 | [Baidu's Apollo Go plans to launch taxis with no steering wheels in Switzerland as the race for ro...](https://www.cnbc.com/2025/10/22/chinas-baidu-to-test-robotaxis-in-switzerland-in-race-for-europe.html) |
-| Market | Oct 22, 2025 | [Barclays ups guidance, announces surprise $670 million share buyback](https://www.cnbc.com/2025/10/22/barclays-q3-earnings.html) |
-| Finance | Oct 22, 2025 | [US puts sanctions on Russia’s Rosneft and Lukoil](https://www.ft.com/content/7bcc7206-db12-4aab-b84d-7e02e1a1400f) |
+| Finance | Oct 23, 2025 | [Reliance looks at halting oil purchases from sanctions-hit Russian supplier](https://www.ft.com/content/94acd635-d772-4fae-99b7-f907ba3b0075) |
+| Finance | Oct 23, 2025 | [US imposes sanctions on Russia’s Rosneft and Lukoil](https://www.ft.com/content/7bcc7206-db12-4aab-b84d-7e02e1a1400f) |
 | Finance | Oct 23, 2025 | [Milei’s make-or-break moment](https://www.ft.com/content/e2b6ec0b-98f9-4589-9a31-95b54d29d130) |
+| Finance | Oct 23, 2025 | [A defining crisis for Britain’s royals](https://www.ft.com/content/09493772-e0be-4028-b7a7-bfbcda41d708) |
 | Finance | Oct 23, 2025 | [Let’s fall in love with cars again](https://www.ft.com/content/0cb6f525-8ac5-47c9-b917-5795a62f9069) |
-| Finance | Oct 23, 2025 | [Taking a swipe at dating apps](https://www.ft.com/content/0e97ff59-47cb-48db-b416-b5bcd48cd137) |
-| Finance | Oct 23, 2025 | [Tesla profits drop more than a quarter despite record car sales](https://www.ft.com/content/8476bce8-fa5c-4476-bfff-e7cc742a105a) |
 
 <!-- NEWS:END -->
 
