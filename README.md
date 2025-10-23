@@ -78,12 +78,12 @@ Quantitative Finance Professional specializing in AI-driven financial analysis a
 |----------|------|----------|
 | Market | Oct 22, 2025 | [Western Alliance CEO says alleged loan fraud is 'incredibly frustrating' but isolated issue](https://www.cnbc.com/2025/10/22/western-alliance-ceo-alleged-loan-fraud-isolated.html) |
 | Market | Oct 22, 2025 | [The biggest crypto wipeout was led not by bitcoin, but much smaller tokens. Here's what happened](https://www.cnbc.com/2025/10/22/the-biggest-crypto-wipeout-was-led-not-by-bitcoin-but-much-smaller-tokens-heres-what-happened.html) |
-| Market | Oct 22, 2025 | [Beyond Meat shares slash gains, briefly dipping into the red as meme rally falters](https://www.cnbc.com/2025/10/22/beyond-meat-shares-surge-for-a-third-day-in-a-row-as-meme-traders-jump-on-board.html) |
+| Market | Oct 22, 2025 | [Beyond Meat shares fall 1%, giving up a triple-digit gain as meme rally fizzles](https://www.cnbc.com/2025/10/22/beyond-meat-shares-surge-for-a-third-day-in-a-row-as-meme-traders-jump-on-board.html) |
 | Market | Oct 22, 2025 | [Baidu's Apollo Go plans to launch taxis with no steering wheels in Switzerland as the race for ro...](https://www.cnbc.com/2025/10/22/chinas-baidu-to-test-robotaxis-in-switzerland-in-race-for-europe.html) |
 | Market | Oct 22, 2025 | [Barclays ups guidance, announces surprise $670 million share buyback](https://www.cnbc.com/2025/10/22/barclays-q3-earnings.html) |
-| Finance | Oct 22, 2025 | [Lawyers and accountants warn Reeves against tax raid on partnerships](https://www.ft.com/content/ab17390a-8595-4de1-b3fa-219e408e926b) |
-| Finance | Oct 22, 2025 | [Why is Rachel Reeves targeting the tax affairs of professionals?](https://www.ft.com/content/dd061da9-a612-449c-a489-a952d9c3a5b0) |
-| Finance | Oct 22, 2025 | [Investors bet on Argentine peso devaluation after weekend elections](https://www.ft.com/content/a4ac78be-ad69-4e54-8e8b-9692d11d07e6) |
+| Finance | Oct 22, 2025 | [US sanctions Russia’s Rosneft and Lukoil](https://www.ft.com/content/7bcc7206-db12-4aab-b84d-7e02e1a1400f) |
+| Finance | Oct 22, 2025 | [Russia strikes Ukraine after Trump-Putin meeting cancelled](https://www.ft.com/content/1eef1df3-0da0-4e17-9073-085d178003d9) |
+| Finance | Oct 23, 2025 | [Tesla profits drop more than a quarter despite record car sales](https://www.ft.com/content/8476bce8-fa5c-4476-bfff-e7cc742a105a) |
 | Finance | Oct 22, 2025 | [Bubble-talk is breaking out everywhere](https://www.ft.com/content/ce8bc257-5f06-4005-bd36-b094a9b91938) |
 | Finance | Oct 22, 2025 | [In the age of AI, what should your kids study at university?](https://www.ft.com/content/24332e6e-513e-489e-adc3-9527449a4027) |
 
