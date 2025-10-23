@@ -81,11 +81,11 @@ Quantitative Finance Professional specializing in AI-driven financial analysis a
 | Market | Oct 22, 2025 | [Beyond Meat shares fall 1%, giving up a triple-digit gain as meme rally fizzles](https://www.cnbc.com/2025/10/22/beyond-meat-shares-surge-for-a-third-day-in-a-row-as-meme-traders-jump-on-board.html) |
 | Market | Oct 22, 2025 | [Baidu's Apollo Go plans to launch taxis with no steering wheels in Switzerland as the race for ro...](https://www.cnbc.com/2025/10/22/chinas-baidu-to-test-robotaxis-in-switzerland-in-race-for-europe.html) |
 | Market | Oct 22, 2025 | [Barclays ups guidance, announces surprise $670 million share buyback](https://www.cnbc.com/2025/10/22/barclays-q3-earnings.html) |
-| Finance | Oct 22, 2025 | [US sanctions Russia’s Rosneft and Lukoil](https://www.ft.com/content/7bcc7206-db12-4aab-b84d-7e02e1a1400f) |
-| Finance | Oct 22, 2025 | [Russia strikes Ukraine after Trump-Putin meeting cancelled](https://www.ft.com/content/1eef1df3-0da0-4e17-9073-085d178003d9) |
+| Finance | Oct 22, 2025 | [US puts sanctions on Russia’s Rosneft and Lukoil](https://www.ft.com/content/7bcc7206-db12-4aab-b84d-7e02e1a1400f) |
+| Finance | Oct 23, 2025 | [Milei’s make-or-break moment](https://www.ft.com/content/e2b6ec0b-98f9-4589-9a31-95b54d29d130) |
+| Finance | Oct 23, 2025 | [Let’s fall in love with cars again](https://www.ft.com/content/0cb6f525-8ac5-47c9-b917-5795a62f9069) |
+| Finance | Oct 23, 2025 | [Taking a swipe at dating apps](https://www.ft.com/content/0e97ff59-47cb-48db-b416-b5bcd48cd137) |
 | Finance | Oct 23, 2025 | [Tesla profits drop more than a quarter despite record car sales](https://www.ft.com/content/8476bce8-fa5c-4476-bfff-e7cc742a105a) |
-| Finance | Oct 22, 2025 | [Bubble-talk is breaking out everywhere](https://www.ft.com/content/ce8bc257-5f06-4005-bd36-b094a9b91938) |
-| Finance | Oct 22, 2025 | [In the age of AI, what should your kids study at university?](https://www.ft.com/content/24332e6e-513e-489e-adc3-9527449a4027) |
 
 <!-- NEWS:END -->
 
