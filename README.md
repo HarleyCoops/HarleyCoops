@@ -18,7 +18,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harleycoops&label=Profile%20views&color=0e75b6&style=flat" alt="harleycoops" /> </p>
 
 <!-- GitHub Trophies - Achievements showcase -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harleycoops&theme=darkhub&margin-w=15&margin-h=15&column=7" alt="harleycoops" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harleycoops&theme=darkhub&margin-w=15&margin-h=15&column=7&title=-PullRequest,-Issues,-Reviews" alt="harleycoops" /></a> </p>
 
 <!-- Social Media Badges -->
 <p align="left">
@@ -28,8 +28,6 @@
 
 <!-- About Me Section -->
 ## About Me
-
-Quantitative Finance Professional specializing in AI-driven financial analysis and machine learning applications. Combining deep expertise in derivatives, options pricing, and financial modeling with cutting-edge ML techniques to solve complex problems in quantitative finance.
 
 **Current Focus:**
 - Building AI-driven financial analysis tools leveraging LLMs and reinforcement learning
@@ -54,12 +52,12 @@ Quantitative Finance Professional specializing in AI-driven financial analysis a
 
 ## Nerd Trophy Case
 
-**Karpathy Reply**
+**I once got Karpathy to reply "Nice."**
 <p align="center">
   <img src="./Public/reply.jpg" alt="Karpathy Comment" width="80%"/>
 </p>
 
-**Google Scholar**
+**My meager Google Scholar reference**
 <p align="center">
   <img src="./Public/HubleGoogleScholar.jpg" alt="Google Scholar" width="80%"/>
 </p>
