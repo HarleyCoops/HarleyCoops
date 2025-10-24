@@ -74,16 +74,16 @@
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
-| Market | Oct 22, 2025 | [Baidu's Apollo Go plans to launch taxis with no steering wheels in Switzerland as the race for ro...](https://www.cnbc.com/2025/10/22/chinas-baidu-to-test-robotaxis-in-switzerland-in-race-for-europe.html) |
-| Market | Oct 22, 2025 | [Barclays ups guidance, announces surprise $670 million share buyback](https://www.cnbc.com/2025/10/22/barclays-q3-earnings.html) |
-| Market | Oct 21, 2025 | [Travis Kelce joins activist investor Jana Partners in push to revive Six Flags](https://www.cnbc.com/2025/10/21/travis-kelce-joins-activist-investor-jana-partners-in-push-to-revive-six-flags.html) |
-| Market | Oct 21, 2025 | [Investor Lauren Taylor Wolfe says we are 'absolutely' in an AI bubble now](https://www.cnbc.com/2025/10/21/investor-lauren-taylor-wolfe-says-we-are-absolutely-in-an-ai-bubble-now.html) |
-| Market | Oct 21, 2025 | [Beyond Meat soars 146% after addition to meme ETF, Walmart deal](https://www.cnbc.com/2025/10/21/one-time-penny-stock-beyond-meat-soars-after-addition-to-meme-etf-jumps-47percent-on-tuesday.html) |
-| Finance | Oct 22, 2025 | [UK inflation unexpectedly holds steady at 3.8% in September](https://www.ft.com/content/aa0e8c7c-848c-40cc-a818-efd3ad40fffd) |
-| Finance | Oct 21, 2025 | [Reeves targets tax partnerships in crackdown on wealthy Britons](https://www.ft.com/content/fad95547-c888-401e-ac7e-c86b9de8f380) |
-| Finance | Oct 21, 2025 | [UK’s ‘real living wage’ to rise almost 7%](https://www.ft.com/content/05157335-6170-4e87-92d3-bd0e3fc9069a) |
-| Finance | Oct 22, 2025 | [Inside Oklo: the $20bn nuclear start-up without any revenue](https://www.ft.com/content/cdf09f0e-d673-41f4-8faa-fe795a2b872e) |
-| Finance | Oct 22, 2025 | [Politics not tech makes the world go round](https://www.ft.com/content/519a7fc9-5ccf-493e-876c-0656c8f00cd4) |
+| Market | Oct 24, 2025 | [China strikes conciliatory tone ahead of expected Trump-Xi meeting](https://www.cnbc.com/2025/10/24/china-strikes-conciliatory-tone-ahead-of-expected-trump-xi-meeting.html) |
+| Market | Oct 23, 2025 | [With stock market concentration risk at peak, 'it's cash, precious metals, and then crypto' as ne...](https://www.cnbc.com/2025/10/23/cash-precious-metals-crypto-is-new-norm-for-peak-stock-market-risk.html) |
+| Market | Oct 24, 2025 | [China vows to boost domestic consumption, tech self-reliance in next five years as Fourth Plenum ...](https://www.cnbc.com/2025/10/23/china-to-bolster-consumption-tech-development-as-us-tensions-simmer.html) |
+| Market | Oct 23, 2025 | [China's property slump is far from bottoming. But Beijing is prioritizing tech growth](https://www.cnbc.com/2025/10/23/chinas-property-slump-is-far-from-bottoming-but-beijing-is-prioritizing-tech-growth.html) |
+| Market | Oct 22, 2025 | [Western Alliance CEO says alleged loan fraud is 'incredibly frustrating' but isolated issue](https://www.cnbc.com/2025/10/22/western-alliance-ceo-alleged-loan-fraud-isolated.html) |
+| Finance | Oct 24, 2025 | [Labour suffers seismic by-election defeat to Plaid Cymru in Caerphilly](https://www.ft.com/content/d9977aea-f167-49ec-a714-2753f0f23755) |
+| Finance | Oct 24, 2025 | [Labour’s Caerphilly humiliation is a bad omen](https://www.ft.com/content/4d58fa47-30eb-4f3b-b236-a028195cbeb6) |
+| Finance | Oct 24, 2025 | [The Trump Supremacy](https://www.ft.com/content/13772e91-de69-48df-9a51-1c27dae44fc1) |
+| Finance | Oct 24, 2025 | [Will AI lengthen lifespans or shorten them?](https://www.ft.com/content/eac9e5e4-5401-4411-9a69-c037b609c0cb) |
+| Finance | Oct 24, 2025 | [America’s risky bid to make Argentina great again](https://www.ft.com/content/6965ed28-4fb0-47dd-8a76-a8c3c39a9ca8) |
 
 <!-- NEWS:END -->
 
