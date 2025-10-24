@@ -82,10 +82,10 @@ Quantitative Finance Professional specializing in AI-driven financial analysis a
 | Market | Oct 23, 2025 | [China's property slump is far from bottoming. But Beijing is prioritizing tech growth](https://www.cnbc.com/2025/10/23/chinas-property-slump-is-far-from-bottoming-but-beijing-is-prioritizing-tech-growth.html) |
 | Market | Oct 22, 2025 | [Western Alliance CEO says alleged loan fraud is 'incredibly frustrating' but isolated issue](https://www.cnbc.com/2025/10/22/western-alliance-ceo-alleged-loan-fraud-isolated.html) |
 | Finance | Oct 24, 2025 | [Labour suffers seismic by-election defeat to Plaid Cymru in Caerphilly](https://www.ft.com/content/d9977aea-f167-49ec-a714-2753f0f23755) |
+| Finance | Oct 24, 2025 | [Labour’s Caerphilly humiliation is a bad omen](https://www.ft.com/content/4d58fa47-30eb-4f3b-b236-a028195cbeb6) |
 | Finance | Oct 24, 2025 | [The Trump Supremacy](https://www.ft.com/content/13772e91-de69-48df-9a51-1c27dae44fc1) |
 | Finance | Oct 24, 2025 | [Will AI lengthen lifespans or shorten them?](https://www.ft.com/content/eac9e5e4-5401-4411-9a69-c037b609c0cb) |
 | Finance | Oct 24, 2025 | [America’s risky bid to make Argentina great again](https://www.ft.com/content/6965ed28-4fb0-47dd-8a76-a8c3c39a9ca8) |
-| Finance | Oct 24, 2025 | [Trump says he is ending trade negotiations with Canada](https://www.ft.com/content/72c04f48-d221-487b-9858-1a35a577d880) |
 
 <!-- NEWS:END -->
 
