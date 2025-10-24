@@ -76,16 +76,16 @@ Quantitative Finance Professional specializing in AI-driven financial analysis a
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 24, 2025 | [China strikes conciliatory tone ahead of expected Trump-Xi meeting](https://www.cnbc.com/2025/10/24/china-strikes-conciliatory-tone-ahead-of-expected-trump-xi-meeting.html) |
 | Market | Oct 23, 2025 | [With stock market concentration risk at peak, 'it's cash, precious metals, and then crypto' as ne...](https://www.cnbc.com/2025/10/23/cash-precious-metals-crypto-is-new-norm-for-peak-stock-market-risk.html) |
-| Market | Oct 23, 2025 | [China to bolster consumption, tech development as U.S. tensions simmer](https://www.cnbc.com/2025/10/23/china-to-bolster-consumption-tech-development-as-us-tensions-simmer.html) |
+| Market | Oct 24, 2025 | [China vows to boost domestic consumption, tech self-reliance in next five years as Fourth Plenum ...](https://www.cnbc.com/2025/10/23/china-to-bolster-consumption-tech-development-as-us-tensions-simmer.html) |
 | Market | Oct 23, 2025 | [China's property slump is far from bottoming. But Beijing is prioritizing tech growth](https://www.cnbc.com/2025/10/23/chinas-property-slump-is-far-from-bottoming-but-beijing-is-prioritizing-tech-growth.html) |
 | Market | Oct 22, 2025 | [Western Alliance CEO says alleged loan fraud is 'incredibly frustrating' but isolated issue](https://www.cnbc.com/2025/10/22/western-alliance-ceo-alleged-loan-fraud-isolated.html) |
-| Market | Oct 23, 2025 | [The biggest crypto wipeout was led not by bitcoin, but much smaller tokens. Here's what happened](https://www.cnbc.com/2025/10/22/the-biggest-crypto-wipeout-was-led-not-by-bitcoin-but-much-smaller-tokens-heres-what-happened.html) |
-| Finance | Oct 23, 2025 | [Trump’s Russian oil sanctions hit India and China’s imports](https://www.ft.com/content/94acd635-d772-4fae-99b7-f907ba3b0075) |
-| Finance | Oct 23, 2025 | [Oil supply glut paves way for Trump to tighten screws on Russia](https://www.ft.com/content/3ee6a2ee-b515-497f-a2da-ca248d3d17e1) |
-| Finance | Oct 23, 2025 | [Germany races to secure US sanctions exemption for Rosneft refineries](https://www.ft.com/content/0d9a5946-1cb6-4c0b-aa5b-7f5383dedef7) |
-| Finance | Oct 23, 2025 | [EU leaders stall €140bn Ukraine loan using frozen Russian assets](https://www.ft.com/content/9ec35777-2dc5-48ca-97bf-ae760f06eda0) |
-| Finance | Oct 23, 2025 | [OpenAI should make a phone](https://www.ft.com/content/3ba3ee1a-9d81-41ff-a463-b51b83097c90) |
+| Finance | Oct 24, 2025 | [Labour suffers seismic by-election defeat to Plaid Cymru in Caerphilly](https://www.ft.com/content/d9977aea-f167-49ec-a714-2753f0f23755) |
+| Finance | Oct 24, 2025 | [The Trump Supremacy](https://www.ft.com/content/13772e91-de69-48df-9a51-1c27dae44fc1) |
+| Finance | Oct 24, 2025 | [Will AI lengthen lifespans or shorten them?](https://www.ft.com/content/eac9e5e4-5401-4411-9a69-c037b609c0cb) |
+| Finance | Oct 24, 2025 | [America’s risky bid to make Argentina great again](https://www.ft.com/content/6965ed28-4fb0-47dd-8a76-a8c3c39a9ca8) |
+| Finance | Oct 24, 2025 | [Trump says he is ending trade negotiations with Canada](https://www.ft.com/content/72c04f48-d221-487b-9858-1a35a577d880) |
 
 <!-- NEWS:END -->
 
