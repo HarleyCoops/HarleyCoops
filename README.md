@@ -76,15 +76,15 @@ Quantitative Finance Professional specializing in AI-driven financial analysis a
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
-| Market | Oct 23, 2025 | [With stock market concentration risk at peak, 'cash, precious metals, and crypto' is new normal](https://www.cnbc.com/2025/10/23/cash-precious-metals-crypto-is-new-norm-for-peak-stock-market-risk.html) |
+| Market | Oct 23, 2025 | [With stock market concentration risk at peak, 'it's cash, precious metals, and then crypto' as ne...](https://www.cnbc.com/2025/10/23/cash-precious-metals-crypto-is-new-norm-for-peak-stock-market-risk.html) |
 | Market | Oct 23, 2025 | [China to bolster consumption, tech development as U.S. tensions simmer](https://www.cnbc.com/2025/10/23/china-to-bolster-consumption-tech-development-as-us-tensions-simmer.html) |
 | Market | Oct 23, 2025 | [China's property slump is far from bottoming. But Beijing is prioritizing tech growth](https://www.cnbc.com/2025/10/23/chinas-property-slump-is-far-from-bottoming-but-beijing-is-prioritizing-tech-growth.html) |
 | Market | Oct 22, 2025 | [Western Alliance CEO says alleged loan fraud is 'incredibly frustrating' but isolated issue](https://www.cnbc.com/2025/10/22/western-alliance-ceo-alleged-loan-fraud-isolated.html) |
 | Market | Oct 23, 2025 | [The biggest crypto wipeout was led not by bitcoin, but much smaller tokens. Here's what happened](https://www.cnbc.com/2025/10/22/the-biggest-crypto-wipeout-was-led-not-by-bitcoin-but-much-smaller-tokens-heres-what-happened.html) |
 | Finance | Oct 23, 2025 | [Trump’s Russian oil sanctions hit India and China’s imports](https://www.ft.com/content/94acd635-d772-4fae-99b7-f907ba3b0075) |
+| Finance | Oct 23, 2025 | [Oil supply glut paves way for Trump to tighten screws on Russia](https://www.ft.com/content/3ee6a2ee-b515-497f-a2da-ca248d3d17e1) |
 | Finance | Oct 23, 2025 | [Germany races to secure US sanctions exemption for Rosneft refineries](https://www.ft.com/content/0d9a5946-1cb6-4c0b-aa5b-7f5383dedef7) |
-| Finance | Oct 23, 2025 | [Can Trump stop India and China from buying Russian oil?](https://www.ft.com/content/55738281-fa09-4d41-965c-decb83d371fa) |
-| Finance | Oct 23, 2025 | [Blackstone says era of bumper private-credit returns has ended](https://www.ft.com/content/9659a5fc-939d-451e-bb06-6ac0dffe2d19) |
+| Finance | Oct 23, 2025 | [EU leaders stall €140bn Ukraine loan using frozen Russian assets](https://www.ft.com/content/9ec35777-2dc5-48ca-97bf-ae760f06eda0) |
 | Finance | Oct 23, 2025 | [OpenAI should make a phone](https://www.ft.com/content/3ba3ee1a-9d81-41ff-a463-b51b83097c90) |
 
 <!-- NEWS:END -->
