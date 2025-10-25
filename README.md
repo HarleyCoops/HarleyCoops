@@ -79,10 +79,10 @@
 | Market | Oct 24, 2025 | [China vows to boost domestic consumption, tech self-reliance in next five years as Fourth Plenum ...](https://www.cnbc.com/2025/10/23/china-to-bolster-consumption-tech-development-as-us-tensions-simmer.html) |
 | Market | Oct 23, 2025 | [China's property slump is far from bottoming. But Beijing is prioritizing tech growth](https://www.cnbc.com/2025/10/23/chinas-property-slump-is-far-from-bottoming-but-beijing-is-prioritizing-tech-growth.html) |
 | Market | Oct 22, 2025 | [Western Alliance CEO says alleged loan fraud is 'incredibly frustrating' but isolated issue](https://www.cnbc.com/2025/10/22/western-alliance-ceo-alleged-loan-fraud-isolated.html) |
-| Finance | Oct 24, 2025 | [Trump clears way for new China tariffs and hits out at Canada](https://www.ft.com/content/a0f47d0c-964d-491f-a88d-05c120c868f7) |
-| Finance | Oct 24, 2025 | [Canada’s PM Carney courts Asia to cut economic dependence on US](https://www.ft.com/content/6b18c86b-fb1d-49fd-a674-b9fbdee0c8be) |
-| Finance | Oct 25, 2025 | [How fan power is reshaping pop](https://www.ft.com/content/35ffb134-0778-4374-ab09-667af3f2a2c4) |
+| Finance | Oct 25, 2025 | [Lucy Powell elected deputy Labour leader](https://www.ft.com/content/2290c701-db11-4e56-bee5-d67ab9f28992) |
 | Finance | Oct 25, 2025 | [Starmer needs to get serious about governing — and quick](https://www.ft.com/content/94e0bde1-61dd-4115-88eb-30ed1519251b) |
+| Finance | Oct 25, 2025 | [‘Where the hell is the market risk?’ Scott Bessent takes on his critics](https://www.ft.com/content/96ac2e66-77cb-43ed-804a-15b0ac078633) |
+| Finance | Oct 25, 2025 | [The lo-fi charm of the audacious Louvre heist](https://www.ft.com/content/d0e3e9bf-c146-4c7d-acec-e204fcabbf1e) |
 | Finance | Oct 25, 2025 | [The Temu theory of populism](https://www.ft.com/content/891b2fc6-d2ee-47cc-bdc4-1b5d8be0bcf2) |
 
 <!-- NEWS:END -->
