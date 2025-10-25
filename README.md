@@ -81,9 +81,9 @@
 | Market | Oct 22, 2025 | [Western Alliance CEO says alleged loan fraud is 'incredibly frustrating' but isolated issue](https://www.cnbc.com/2025/10/22/western-alliance-ceo-alleged-loan-fraud-isolated.html) |
 | Finance | Oct 24, 2025 | [Trump clears way for new China tariffs and hits out at Canada](https://www.ft.com/content/a0f47d0c-964d-491f-a88d-05c120c868f7) |
 | Finance | Oct 24, 2025 | [Canada’s PM Carney courts Asia to cut economic dependence on US](https://www.ft.com/content/6b18c86b-fb1d-49fd-a674-b9fbdee0c8be) |
-| Finance | Oct 24, 2025 | [Trump says he is ending trade negotiations with Canada](https://www.ft.com/content/72c04f48-d221-487b-9858-1a35a577d880) |
-| Finance | Oct 24, 2025 | [The Trump Supremacy](https://www.ft.com/content/13772e91-de69-48df-9a51-1c27dae44fc1) |
+| Finance | Oct 24, 2025 | [The rise of the eat-at-home economy](https://www.ft.com/content/60b3decf-d7bc-44ab-a621-f9d874224190) |
 | Finance | Oct 24, 2025 | [Here’s how Britain can escape the debt doom loop](https://www.ft.com/content/02e58aa3-8578-4e1c-992c-b771b0ca3127) |
+| Finance | Oct 24, 2025 | [The investor gold rush is an outbreak of huge overthinking](https://www.ft.com/content/56055035-7034-4b3f-80df-1f0b964d3265) |
 
 <!-- NEWS:END -->
 
