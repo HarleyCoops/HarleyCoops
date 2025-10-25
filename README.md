@@ -81,9 +81,9 @@
 | Market | Oct 22, 2025 | [Western Alliance CEO says alleged loan fraud is 'incredibly frustrating' but isolated issue](https://www.cnbc.com/2025/10/22/western-alliance-ceo-alleged-loan-fraud-isolated.html) |
 | Finance | Oct 24, 2025 | [Trump clears way for new China tariffs and hits out at Canada](https://www.ft.com/content/a0f47d0c-964d-491f-a88d-05c120c868f7) |
 | Finance | Oct 24, 2025 | [Canada’s PM Carney courts Asia to cut economic dependence on US](https://www.ft.com/content/6b18c86b-fb1d-49fd-a674-b9fbdee0c8be) |
-| Finance | Oct 24, 2025 | [The rise of the eat-at-home economy](https://www.ft.com/content/60b3decf-d7bc-44ab-a621-f9d874224190) |
-| Finance | Oct 24, 2025 | [Here’s how Britain can escape the debt doom loop](https://www.ft.com/content/02e58aa3-8578-4e1c-992c-b771b0ca3127) |
-| Finance | Oct 24, 2025 | [The investor gold rush is an outbreak of huge overthinking](https://www.ft.com/content/56055035-7034-4b3f-80df-1f0b964d3265) |
+| Finance | Oct 25, 2025 | [How fan power is reshaping pop](https://www.ft.com/content/35ffb134-0778-4374-ab09-667af3f2a2c4) |
+| Finance | Oct 25, 2025 | [Starmer needs to get serious about governing — and quick](https://www.ft.com/content/94e0bde1-61dd-4115-88eb-30ed1519251b) |
+| Finance | Oct 25, 2025 | [The Temu theory of populism](https://www.ft.com/content/891b2fc6-d2ee-47cc-bdc4-1b5d8be0bcf2) |
 
 <!-- NEWS:END -->
 
