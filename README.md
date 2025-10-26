@@ -79,8 +79,8 @@
 | Market | Oct 23, 2025 | [With stock market concentration risk at peak, 'it's cash, precious metals, and then crypto' as ne...](https://www.cnbc.com/2025/10/23/cash-precious-metals-crypto-is-new-norm-for-peak-stock-market-risk.html) |
 | Market | Oct 24, 2025 | [China vows to boost domestic consumption, tech self-reliance in next five years as Fourth Plenum ...](https://www.cnbc.com/2025/10/23/china-to-bolster-consumption-tech-development-as-us-tensions-simmer.html) |
 | Market | Oct 23, 2025 | [China's property slump is far from bottoming. But Beijing is prioritizing tech growth](https://www.cnbc.com/2025/10/23/chinas-property-slump-is-far-from-bottoming-but-beijing-is-prioritizing-tech-growth.html) |
-| Finance | Oct 25, 2025 | [Powell calls on Labour to show more ‘purpose’ after winning deputy leadership race](https://www.ft.com/content/2290c701-db11-4e56-bee5-d67ab9f28992) |
-| Finance | Oct 25, 2025 | [Starmer needs to get serious about governing — and quick](https://www.ft.com/content/94e0bde1-61dd-4115-88eb-30ed1519251b) |
+| Finance | Oct 25, 2025 | [Trump to raise tariffs on Canada by 10% over Ontario’s Reagan ad](https://www.ft.com/content/8e90d02c-13d6-4bad-8795-68a5c81f7aa6) |
+| Finance | Oct 25, 2025 | [US and China kick off trade talks ahead of high-stakes Trump-Xi summit](https://www.ft.com/content/219b23f2-a189-4137-a58e-acd0f60f4ed0) |
 | Finance | Oct 25, 2025 | [‘Where the hell is the market risk?’ Scott Bessent takes on his critics](https://www.ft.com/content/96ac2e66-77cb-43ed-804a-15b0ac078633) |
 | Finance | Oct 25, 2025 | [The Temu theory of populism](https://www.ft.com/content/891b2fc6-d2ee-47cc-bdc4-1b5d8be0bcf2) |
 | Finance | Oct 25, 2025 | [The lo-fi charm of the audacious Louvre heist](https://www.ft.com/content/d0e3e9bf-c146-4c7d-acec-e204fcabbf1e) |
