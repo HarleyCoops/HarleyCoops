@@ -79,11 +79,11 @@
 | Market | Oct 23, 2025 | [With stock market concentration risk at peak, 'it's cash, precious metals, and then crypto' as ne...](https://www.cnbc.com/2025/10/23/cash-precious-metals-crypto-is-new-norm-for-peak-stock-market-risk.html) |
 | Market | Oct 24, 2025 | [China vows to boost domestic consumption, tech self-reliance in next five years as Fourth Plenum ...](https://www.cnbc.com/2025/10/23/china-to-bolster-consumption-tech-development-as-us-tensions-simmer.html) |
 | Market | Oct 23, 2025 | [China's property slump is far from bottoming. But Beijing is prioritizing tech growth](https://www.cnbc.com/2025/10/23/chinas-property-slump-is-far-from-bottoming-but-beijing-is-prioritizing-tech-growth.html) |
-| Finance | Oct 26, 2025 | [‘Positive framework’ agreed for Trump-Xi summit, says Bessent](https://www.ft.com/content/daac2dfc-921c-4178-908e-0de16ce2180b) |
-| Finance | Oct 26, 2025 | [Trump to raise tariffs on Canada by 10% over Ontario’s Reagan ad](https://www.ft.com/content/8e90d02c-13d6-4bad-8795-68a5c81f7aa6) |
+| Finance | Oct 26, 2025 | [US expects China to delay rare earth export controls as trade deal nears](https://www.ft.com/content/3ae00c92-f216-4da5-9217-220ec42d37cc) |
+| Finance | Oct 26, 2025 | [Did Ronald Reagan ‘love tariffs’ as Trump claims?](https://www.ft.com/content/1e4afc0d-ab7e-4a2c-a02c-fe895c842b4e) |
+| Finance | Oct 26, 2025 | [A new education landscape emerges for England](https://www.ft.com/content/9da3685b-7aec-45ea-b38b-eb4dc2ddbfd0) |
 | Finance | Oct 26, 2025 | [Not another work email with exclamation marks!](https://www.ft.com/content/dd8111ae-4b30-48a3-a35a-e918a024e230) |
-| Finance | Oct 26, 2025 | [Polarisation paralyses the US economy](https://www.ft.com/content/20376247-58eb-4ba8-92ff-39188cd352f9) |
-| Finance | Oct 26, 2025 | [Markets brace as Argentines go to the polls](https://www.ft.com/content/9492ca39-1cfe-451a-83df-ff4a340bbb15) |
+| Finance | Oct 26, 2025 | [Sunak urges Reeves to build more fiscal headroom in next UK Budget](https://www.ft.com/content/b444b284-dabb-4af4-8ab5-54c3436f203b) |
 
 <!-- NEWS:END -->
 
