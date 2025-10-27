@@ -79,11 +79,11 @@
 | Market | Oct 24, 2025 | [China strikes conciliatory tone ahead of expected Trump-Xi meeting](https://www.cnbc.com/2025/10/24/china-strikes-conciliatory-tone-ahead-of-expected-trump-xi-meeting.html) |
 | Market | Oct 23, 2025 | [With stock market concentration risk at peak, 'it's cash, precious metals, and then crypto' as ne...](https://www.cnbc.com/2025/10/23/cash-precious-metals-crypto-is-new-norm-for-peak-stock-market-risk.html) |
 | Market | Oct 24, 2025 | [China vows to boost domestic consumption, tech self-reliance in next five years as Fourth Plenum ...](https://www.cnbc.com/2025/10/23/china-to-bolster-consumption-tech-development-as-us-tensions-simmer.html) |
-| Finance | Oct 26, 2025 | [OpenAI shunned advisers on $1.5tn of deals](https://www.ft.com/content/967b0d78-62df-4eea-a441-8ce3a5d03564) |
-| Finance | Oct 26, 2025 | [‘Do not trust your eyes’: AI generates surge in expense fraud](https://www.ft.com/content/0849f8fe-2674-4eae-a134-587340829a58) |
-| Finance | Oct 26, 2025 | [Did Ronald Reagan ‘love tariffs’ as Trump claims?](https://www.ft.com/content/1e4afc0d-ab7e-4a2c-a02c-fe895c842b4e) |
-| Finance | Oct 26, 2025 | [A new education landscape emerges for England](https://www.ft.com/content/9da3685b-7aec-45ea-b38b-eb4dc2ddbfd0) |
-| Finance | Oct 26, 2025 | [Not another work email with exclamation marks!](https://www.ft.com/content/dd8111ae-4b30-48a3-a35a-e918a024e230) |
+| Finance | Oct 27, 2025 | [Argentina’s Milei secures big victory in midterm elections](https://www.ft.com/content/766f134b-63c3-41b5-8d5b-bda10cd91760) |
+| Finance | Oct 27, 2025 | [Can Pakistan’s military strongman fix a failing nation?](https://www.ft.com/content/9fb7dc91-0678-452f-8865-05ee0a1c0704) |
+| Finance | Oct 27, 2025 | [The need to tighten UK fiscal policy is also an opportunity](https://www.ft.com/content/10444f44-e288-4616-8a60-7dd29b2ac6fa) |
+| Finance | Oct 27, 2025 | [CEOs don’t call the shots](https://www.ft.com/content/da0848ee-8ca9-405b-9f09-0745674d7f5b) |
+| Finance | Oct 27, 2025 | [Home Office wasted billions on asylum hotels due to ‘flawed contracts’, MPs say](https://www.ft.com/content/f6e2348d-2514-4086-bdd7-dd6e46c28c44) |
 
 <!-- NEWS:END -->
 
