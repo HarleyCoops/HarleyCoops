@@ -74,16 +74,16 @@
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 27, 2025 | [HSBC to recognize $1.1 billion provision in third quarter after court ruling in Madoff case](https://www.cnbc.com/2025/10/27/hsbc-1point1-billion-in-provision-third-quarter-madoff-case.html) |
 | Market | Oct 25, 2025 | ['VOO and chill:' Why this popular investment strategy may be losing its appeal — even with stocks...](https://www.cnbc.com/2025/10/25/popular-investing-strategy-losing-appeal-with-stocks-at-record-finding.html) |
 | Market | Oct 24, 2025 | [China strikes conciliatory tone ahead of expected Trump-Xi meeting](https://www.cnbc.com/2025/10/24/china-strikes-conciliatory-tone-ahead-of-expected-trump-xi-meeting.html) |
 | Market | Oct 23, 2025 | [With stock market concentration risk at peak, 'it's cash, precious metals, and then crypto' as ne...](https://www.cnbc.com/2025/10/23/cash-precious-metals-crypto-is-new-norm-for-peak-stock-market-risk.html) |
 | Market | Oct 24, 2025 | [China vows to boost domestic consumption, tech self-reliance in next five years as Fourth Plenum ...](https://www.cnbc.com/2025/10/23/china-to-bolster-consumption-tech-development-as-us-tensions-simmer.html) |
-| Market | Oct 23, 2025 | [China's property slump is far from bottoming. But Beijing is prioritizing tech growth](https://www.cnbc.com/2025/10/23/chinas-property-slump-is-far-from-bottoming-but-beijing-is-prioritizing-tech-growth.html) |
-| Finance | Oct 26, 2025 | [US expects China to delay rare earth export controls as trade deal nears](https://www.ft.com/content/3ae00c92-f216-4da5-9217-220ec42d37cc) |
+| Finance | Oct 26, 2025 | [OpenAI shunned advisers on $1.5tn of deals](https://www.ft.com/content/967b0d78-62df-4eea-a441-8ce3a5d03564) |
+| Finance | Oct 26, 2025 | [‘Do not trust your eyes’: AI generates surge in expense fraud](https://www.ft.com/content/0849f8fe-2674-4eae-a134-587340829a58) |
 | Finance | Oct 26, 2025 | [Did Ronald Reagan ‘love tariffs’ as Trump claims?](https://www.ft.com/content/1e4afc0d-ab7e-4a2c-a02c-fe895c842b4e) |
 | Finance | Oct 26, 2025 | [A new education landscape emerges for England](https://www.ft.com/content/9da3685b-7aec-45ea-b38b-eb4dc2ddbfd0) |
 | Finance | Oct 26, 2025 | [Not another work email with exclamation marks!](https://www.ft.com/content/dd8111ae-4b30-48a3-a35a-e918a024e230) |
-| Finance | Oct 26, 2025 | [Sunak urges Reeves to build more fiscal headroom in next UK Budget](https://www.ft.com/content/b444b284-dabb-4af4-8ab5-54c3436f203b) |
 
 <!-- NEWS:END -->
 
