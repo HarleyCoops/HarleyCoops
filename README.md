@@ -74,16 +74,16 @@
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 27, 2025 | [Bessent lists five finalists for Fed chair job, and Trump says decision coming before the end of ...](https://www.cnbc.com/2025/10/27/bessent-lists-five-finalists-for-fed-chair-job-and-trump-says-decision-coming-before-the-end-of-the-year.html) |
 | Market | Oct 27, 2025 | [HSBC to recognize $1.1 billion provision in third quarter after court ruling in Madoff case](https://www.cnbc.com/2025/10/27/hsbc-1point1-billion-in-provision-third-quarter-madoff-case.html) |
 | Market | Oct 25, 2025 | ['VOO and chill:' Why this popular investment strategy may be losing its appeal — even with stocks...](https://www.cnbc.com/2025/10/25/popular-investing-strategy-losing-appeal-with-stocks-at-record-finding.html) |
 | Market | Oct 24, 2025 | [China strikes conciliatory tone ahead of expected Trump-Xi meeting](https://www.cnbc.com/2025/10/24/china-strikes-conciliatory-tone-ahead-of-expected-trump-xi-meeting.html) |
 | Market | Oct 23, 2025 | [With stock market concentration risk at peak, 'it's cash, precious metals, and then crypto' as ne...](https://www.cnbc.com/2025/10/23/cash-precious-metals-crypto-is-new-norm-for-peak-stock-market-risk.html) |
-| Market | Oct 24, 2025 | [China vows to boost domestic consumption, tech self-reliance in next five years as Fourth Plenum ...](https://www.cnbc.com/2025/10/23/china-to-bolster-consumption-tech-development-as-us-tensions-simmer.html) |
-| Finance | Oct 27, 2025 | [Argentina’s Javier Milei hails ‘historic’ win in pivotal elections](https://www.ft.com/content/766f134b-63c3-41b5-8d5b-bda10cd91760) |
-| Finance | Oct 27, 2025 | [Can Pakistan’s military strongman fix a failing nation?](https://www.ft.com/content/9fb7dc91-0678-452f-8865-05ee0a1c0704) |
+| Finance | Oct 27, 2025 | [Reeves faces £20bn hit to UK public finances from productivity downgrade](https://www.ft.com/content/0e2de708-f7b5-470d-a716-93eb3b1ac174) |
+| Finance | Oct 27, 2025 | [Argentine bonds and currency surge after victory for Javier Milei’s party](https://www.ft.com/content/af4472e0-c0a3-4dca-bb29-bab4f969b624) |
 | Finance | Oct 27, 2025 | [The need to tighten UK fiscal policy is also an opportunity](https://www.ft.com/content/10444f44-e288-4616-8a60-7dd29b2ac6fa) |
-| Finance | Oct 27, 2025 | [CEOs don’t call the shots](https://www.ft.com/content/da0848ee-8ca9-405b-9f09-0745674d7f5b) |
-| Finance | Oct 27, 2025 | [Tax advantage of UK self-employment at record high, analysis finds](https://www.ft.com/content/00703334-b00e-4ce9-b9b9-36dad40b8c6b) |
+| Finance | Oct 27, 2025 | [Trump, Xi and the danger for Taiwan](https://www.ft.com/content/f2de89a3-0604-47bf-bd3e-d301e48855c2) |
+| Finance | Oct 27, 2025 | [Gold falls below $4,000 an ounce as market ‘froth’ subsides](https://www.ft.com/content/d6c040ca-c885-410b-a6b5-9de5205bc456) |
 
 <!-- NEWS:END -->
 
