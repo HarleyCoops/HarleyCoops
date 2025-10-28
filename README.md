@@ -74,16 +74,16 @@
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 28, 2025 | ['We're trying to shame them': Upstart activist investors target America's underperforming banks](https://www.cnbc.com/2025/10/28/activist-investor-holdco-targets-americas-underperforming-banks.html) |
 | Market | Oct 28, 2025 | [BlackRock-linked tokenization firm Securitize to go public via SPAC deal](https://www.cnbc.com/2025/10/28/-blackrock-linked-tokenization-firm-securitize-to-go-public-via-spac-deal.html) |
-| Market | Oct 28, 2025 | [PayPal shares surge 14% after OpenAI deal to become the first payments wallet in ChatGPT](https://www.cnbc.com/2025/10/28/paypal-openai-chatgpt-payments-deal.html) |
+| Market | Oct 28, 2025 | [PayPal shares surge 13% after OpenAI deal to become the first payments wallet in ChatGPT](https://www.cnbc.com/2025/10/28/paypal-openai-chatgpt-payments-deal.html) |
 | Market | Oct 27, 2025 | [Bessent lists five finalists for Fed chair job, and Trump says decision coming before the end of ...](https://www.cnbc.com/2025/10/27/bessent-lists-five-finalists-for-fed-chair-job-and-trump-says-decision-coming-before-the-end-of-the-year.html) |
 | Market | Oct 28, 2025 | [HSBC to set aside $1.1 billion in third quarter for potential hit from Madoff case](https://www.cnbc.com/2025/10/27/hsbc-1point1-billion-in-provision-third-quarter-madoff-case.html) |
-| Market | Oct 25, 2025 | ['VOO and chill:' Why this popular investment strategy may be losing its appeal — even with stocks...](https://www.cnbc.com/2025/10/25/popular-investing-strategy-losing-appeal-with-stocks-at-record-finding.html) |
+| Finance | Oct 28, 2025 | [OpenAI restructuring pushes Microsoft valuation above $4tn](https://www.ft.com/content/74d537c6-bd80-4797-9897-3d5455dfc414) |
+| Finance | Oct 28, 2025 | [Apple joins Microsoft and Nvidia in elite $4tn valuation club](https://www.ft.com/content/cac347b9-279f-4652-9b42-4f01f3b8f040) |
 | Finance | Oct 28, 2025 | [$100bn stock swings expose ‘fragility’ beneath Wall Street rally](https://www.ft.com/content/e4b22a0f-2584-47b5-b476-dbd481066d14) |
-| Finance | Oct 28, 2025 | [Will Trump push south-east Asia towards China?](https://www.ft.com/content/4d72bb29-2d61-44bd-ae55-cd18eee83b41) |
-| Finance | Oct 28, 2025 | [The political economy of Trump’s luck](https://www.ft.com/content/dcea6bc1-ee1d-46cd-b23c-043e1dcfa964) |
-| Finance | Oct 28, 2025 | [Lessons from success: how job prospects improved for the young](https://www.ft.com/content/a749c297-a707-4958-9088-6ebbe659ccd2) |
-| Finance | Oct 28, 2025 | [Kirkland & Ellis trains lawyers on communication style after investor tensions](https://www.ft.com/content/ad10900c-7c07-4760-8fa9-d056e3e85838) |
+| Finance | Oct 28, 2025 | [Netanyahu orders Israeli military to escalate attacks on Hamas in Gaza](https://www.ft.com/content/f2b25bc1-58ac-40cc-96c1-756672fee14e) |
+| Finance | Oct 28, 2025 | [Reeves must get whatever growth she can](https://www.ft.com/content/20d6d434-0ae7-4305-b1c9-db1e26182931) |
 
 <!-- NEWS:END -->
 
