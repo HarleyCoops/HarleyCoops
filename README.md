@@ -80,10 +80,10 @@
 | Market | Oct 24, 2025 | [China strikes conciliatory tone ahead of expected Trump-Xi meeting](https://www.cnbc.com/2025/10/24/china-strikes-conciliatory-tone-ahead-of-expected-trump-xi-meeting.html) |
 | Market | Oct 23, 2025 | [With stock market concentration risk at peak, 'it's cash, precious metals, and then crypto' as ne...](https://www.cnbc.com/2025/10/23/cash-precious-metals-crypto-is-new-norm-for-peak-stock-market-risk.html) |
 | Finance | Oct 27, 2025 | [Reeves faces £20bn hit to UK public finances from productivity downgrade](https://www.ft.com/content/0e2de708-f7b5-470d-a716-93eb3b1ac174) |
-| Finance | Oct 27, 2025 | [Argentine bonds and currency surge after victory for Javier Milei’s party](https://www.ft.com/content/af4472e0-c0a3-4dca-bb29-bab4f969b624) |
+| Finance | Oct 27, 2025 | [How bad will UK productivity downgrade be for Reeves?](https://www.ft.com/content/655bcc4f-c2fb-45ef-85ab-f39595d7511a) |
+| Finance | Oct 27, 2025 | [Milei’s moment? Election triumph hands libertarian shot at reform](https://www.ft.com/content/fbcf2af4-f4d8-4f8b-bd3d-cfe5265f5c8a) |
 | Finance | Oct 27, 2025 | [The need to tighten UK fiscal policy is also an opportunity](https://www.ft.com/content/10444f44-e288-4616-8a60-7dd29b2ac6fa) |
 | Finance | Oct 27, 2025 | [Trump, Xi and the danger for Taiwan](https://www.ft.com/content/f2de89a3-0604-47bf-bd3e-d301e48855c2) |
-| Finance | Oct 27, 2025 | [Gold falls below $4,000 an ounce as market ‘froth’ subsides](https://www.ft.com/content/d6c040ca-c885-410b-a6b5-9de5205bc456) |
 
 <!-- NEWS:END -->
 
