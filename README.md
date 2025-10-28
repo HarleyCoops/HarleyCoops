@@ -74,15 +74,15 @@
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 28, 2025 | [BlackRock-linked tokenization firm Securitize to go public via SPAC deal](https://www.cnbc.com/2025/10/28/-blackrock-linked-tokenization-firm-securitize-to-go-public-via-spac-deal.html) |
+| Market | Oct 28, 2025 | [PayPal shares surge 14% after OpenAI deal to become the first payments wallet in ChatGPT](https://www.cnbc.com/2025/10/28/paypal-openai-chatgpt-payments-deal.html) |
 | Market | Oct 27, 2025 | [Bessent lists five finalists for Fed chair job, and Trump says decision coming before the end of ...](https://www.cnbc.com/2025/10/27/bessent-lists-five-finalists-for-fed-chair-job-and-trump-says-decision-coming-before-the-end-of-the-year.html) |
 | Market | Oct 28, 2025 | [HSBC to set aside $1.1 billion in third quarter for potential hit from Madoff case](https://www.cnbc.com/2025/10/27/hsbc-1point1-billion-in-provision-third-quarter-madoff-case.html) |
 | Market | Oct 25, 2025 | ['VOO and chill:' Why this popular investment strategy may be losing its appeal — even with stocks...](https://www.cnbc.com/2025/10/25/popular-investing-strategy-losing-appeal-with-stocks-at-record-finding.html) |
-| Market | Oct 24, 2025 | [China strikes conciliatory tone ahead of expected Trump-Xi meeting](https://www.cnbc.com/2025/10/24/china-strikes-conciliatory-tone-ahead-of-expected-trump-xi-meeting.html) |
-| Market | Oct 23, 2025 | [With stock market concentration risk at peak, 'it's cash, precious metals, and then crypto' as ne...](https://www.cnbc.com/2025/10/23/cash-precious-metals-crypto-is-new-norm-for-peak-stock-market-risk.html) |
 | Finance | Oct 28, 2025 | [$100bn stock swings expose ‘fragility’ beneath Wall Street rally](https://www.ft.com/content/e4b22a0f-2584-47b5-b476-dbd481066d14) |
 | Finance | Oct 28, 2025 | [Will Trump push south-east Asia towards China?](https://www.ft.com/content/4d72bb29-2d61-44bd-ae55-cd18eee83b41) |
-| Finance | Oct 28, 2025 | [Trump and Takaichi promise ‘golden age’ for US-Japan alliance](https://www.ft.com/content/84e962b4-c8b1-43b6-9fc1-c040808fd703) |
-| Finance | Oct 28, 2025 | [Europe needs a fix to its rules on markets and finance](https://www.ft.com/content/0c4c0f28-d1c2-41f5-b64a-edc56c5bcd30) |
+| Finance | Oct 28, 2025 | [The political economy of Trump’s luck](https://www.ft.com/content/dcea6bc1-ee1d-46cd-b23c-043e1dcfa964) |
+| Finance | Oct 28, 2025 | [Lessons from success: how job prospects improved for the young](https://www.ft.com/content/a749c297-a707-4958-9088-6ebbe659ccd2) |
 | Finance | Oct 28, 2025 | [Kirkland & Ellis trains lawyers on communication style after investor tensions](https://www.ft.com/content/ad10900c-7c07-4760-8fa9-d056e3e85838) |
 
 <!-- NEWS:END -->
