@@ -75,15 +75,15 @@
 | Category | Date | Headline |
 |----------|------|----------|
 | Market | Oct 27, 2025 | [Bessent lists five finalists for Fed chair job, and Trump says decision coming before the end of ...](https://www.cnbc.com/2025/10/27/bessent-lists-five-finalists-for-fed-chair-job-and-trump-says-decision-coming-before-the-end-of-the-year.html) |
-| Market | Oct 27, 2025 | [HSBC to recognize $1.1 billion provision in third quarter after court ruling in Madoff case](https://www.cnbc.com/2025/10/27/hsbc-1point1-billion-in-provision-third-quarter-madoff-case.html) |
+| Market | Oct 28, 2025 | [HSBC to set aside $1.1 billion in third quarter for potential hit from Madoff case](https://www.cnbc.com/2025/10/27/hsbc-1point1-billion-in-provision-third-quarter-madoff-case.html) |
 | Market | Oct 25, 2025 | ['VOO and chill:' Why this popular investment strategy may be losing its appeal — even with stocks...](https://www.cnbc.com/2025/10/25/popular-investing-strategy-losing-appeal-with-stocks-at-record-finding.html) |
 | Market | Oct 24, 2025 | [China strikes conciliatory tone ahead of expected Trump-Xi meeting](https://www.cnbc.com/2025/10/24/china-strikes-conciliatory-tone-ahead-of-expected-trump-xi-meeting.html) |
 | Market | Oct 23, 2025 | [With stock market concentration risk at peak, 'it's cash, precious metals, and then crypto' as ne...](https://www.cnbc.com/2025/10/23/cash-precious-metals-crypto-is-new-norm-for-peak-stock-market-risk.html) |
-| Finance | Oct 27, 2025 | [Reeves faces £20bn hit to UK public finances from productivity downgrade](https://www.ft.com/content/0e2de708-f7b5-470d-a716-93eb3b1ac174) |
-| Finance | Oct 27, 2025 | [How bad will UK productivity downgrade be for Reeves?](https://www.ft.com/content/655bcc4f-c2fb-45ef-85ab-f39595d7511a) |
-| Finance | Oct 27, 2025 | [Milei’s moment? Election triumph hands libertarian shot at reform](https://www.ft.com/content/fbcf2af4-f4d8-4f8b-bd3d-cfe5265f5c8a) |
-| Finance | Oct 27, 2025 | [The need to tighten UK fiscal policy is also an opportunity](https://www.ft.com/content/10444f44-e288-4616-8a60-7dd29b2ac6fa) |
-| Finance | Oct 27, 2025 | [Trump, Xi and the danger for Taiwan](https://www.ft.com/content/f2de89a3-0604-47bf-bd3e-d301e48855c2) |
+| Finance | Oct 28, 2025 | [$100bn stock swings expose ‘fragility’ beneath Wall Street rally](https://www.ft.com/content/e4b22a0f-2584-47b5-b476-dbd481066d14) |
+| Finance | Oct 28, 2025 | [Will Trump push south-east Asia towards China?](https://www.ft.com/content/4d72bb29-2d61-44bd-ae55-cd18eee83b41) |
+| Finance | Oct 28, 2025 | [Trump and Takaichi promise ‘golden age’ for US-Japan alliance](https://www.ft.com/content/84e962b4-c8b1-43b6-9fc1-c040808fd703) |
+| Finance | Oct 28, 2025 | [Europe needs a fix to its rules on markets and finance](https://www.ft.com/content/0c4c0f28-d1c2-41f5-b64a-edc56c5bcd30) |
+| Finance | Oct 28, 2025 | [Kirkland & Ellis trains lawyers on communication style after investor tensions](https://www.ft.com/content/ad10900c-7c07-4760-8fa9-d056e3e85838) |
 
 <!-- NEWS:END -->
 
