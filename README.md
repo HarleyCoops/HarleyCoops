@@ -79,11 +79,11 @@
 | Market | Oct 28, 2025 | [BlackRock-linked tokenization firm Securitize to go public via SPAC deal](https://www.cnbc.com/2025/10/28/-blackrock-linked-tokenization-firm-securitize-to-go-public-via-spac-deal.html) |
 | Market | Oct 28, 2025 | [PayPal signs deal with OpenAI to become the first payments wallet in ChatGPT](https://www.cnbc.com/2025/10/28/paypal-openai-chatgpt-payments-deal.html) |
 | Market | Oct 27, 2025 | [Bessent lists five finalists for Fed chair job, and Trump says decision coming before the end of ...](https://www.cnbc.com/2025/10/27/bessent-lists-five-finalists-for-fed-chair-job-and-trump-says-decision-coming-before-the-end-of-the-year.html) |
-| Finance | Oct 28, 2025 | [OpenAI restructuring pushes Microsoft’s valuation above $4tn](https://www.ft.com/content/74d537c6-bd80-4797-9897-3d5455dfc414) |
-| Finance | Oct 28, 2025 | [Apple joins Microsoft and Nvidia in elite $4tn valuation club](https://www.ft.com/content/cac347b9-279f-4652-9b42-4f01f3b8f040) |
-| Finance | Oct 28, 2025 | [Israel launches strikes on Gaza after accusing Hamas of ceasefire violations](https://www.ft.com/content/f2b25bc1-58ac-40cc-96c1-756672fee14e) |
-| Finance | Oct 28, 2025 | [Reeves must get whatever growth she can](https://www.ft.com/content/20d6d434-0ae7-4305-b1c9-db1e26182931) |
-| Finance | Oct 28, 2025 | [The political economy of Trump’s luck](https://www.ft.com/content/dcea6bc1-ee1d-46cd-b23c-043e1dcfa964) |
+| Finance | Oct 29, 2025 | [Lakshmi Mittal’s energy venture bought Russian oil transported on blacklisted ships](https://www.ft.com/content/52999650-6a10-4666-a5f7-a58c236bff62) |
+| Finance | Oct 29, 2025 | [Who will be Trump’s next Fed chair — and what will they do?](https://www.ft.com/content/88c7be12-abc0-4ecf-8f39-9684b1fe95ca) |
+| Finance | Oct 29, 2025 | [Deregulation will pour extra fuel on the private credit bonfire](https://www.ft.com/content/fddbcf03-f89c-451f-b882-6386d23ba368) |
+| Finance | Oct 29, 2025 | [Revenge against the banking nerds is near](https://www.ft.com/content/0b7f6551-3662-404a-820e-df0995c16575) |
+| Finance | Oct 29, 2025 | [Citi probe did not interview women who complained about executive’s conduct](https://www.ft.com/content/be4ab80a-40f8-4cb2-81a3-cde101b5fa7a) |
 
 <!-- NEWS:END -->
 
