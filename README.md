@@ -74,16 +74,16 @@
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
-| Market | Oct 28, 2025 | [The Fed has a rate cut plus a bunch of other things on its plate this week. Here's what to expect](https://www.cnbc.com/2025/10/28/fed-rate-cut-preview.html) |
+| Market | Oct 29, 2025 | [The Fed is expected to approve another rate cut Wednesday. Here's what else to expect](https://www.cnbc.com/2025/10/28/fed-rate-cut-preview.html) |
 | Market | Oct 28, 2025 | ['We're trying to shame them': Upstart activist investors target America's underperforming banks](https://www.cnbc.com/2025/10/28/activist-investor-holdco-targets-americas-underperforming-banks.html) |
 | Market | Oct 28, 2025 | [BlackRock-linked tokenization firm Securitize to go public via SPAC deal](https://www.cnbc.com/2025/10/28/-blackrock-linked-tokenization-firm-securitize-to-go-public-via-spac-deal.html) |
 | Market | Oct 28, 2025 | [PayPal signs deal with OpenAI to become the first payments wallet in ChatGPT](https://www.cnbc.com/2025/10/28/paypal-openai-chatgpt-payments-deal.html) |
 | Market | Oct 27, 2025 | [Bessent lists five finalists for Fed chair job, and Trump says decision coming before the end of ...](https://www.cnbc.com/2025/10/27/bessent-lists-five-finalists-for-fed-chair-job-and-trump-says-decision-coming-before-the-end-of-the-year.html) |
 | Finance | Oct 29, 2025 | [Lakshmi Mittal’s energy venture bought Russian oil transported on blacklisted ships](https://www.ft.com/content/52999650-6a10-4666-a5f7-a58c236bff62) |
-| Finance | Oct 29, 2025 | [Who will be Trump’s next Fed chair — and what will they do?](https://www.ft.com/content/88c7be12-abc0-4ecf-8f39-9684b1fe95ca) |
+| Finance | Oct 29, 2025 | [Bessent’s top five picks to replace Powell](https://www.ft.com/content/88c7be12-abc0-4ecf-8f39-9684b1fe95ca) |
 | Finance | Oct 29, 2025 | [Deregulation will pour extra fuel on the private credit bonfire](https://www.ft.com/content/fddbcf03-f89c-451f-b882-6386d23ba368) |
 | Finance | Oct 29, 2025 | [Revenge against the banking nerds is near](https://www.ft.com/content/0b7f6551-3662-404a-820e-df0995c16575) |
-| Finance | Oct 29, 2025 | [Citi probe did not interview women who complained about executive’s conduct](https://www.ft.com/content/be4ab80a-40f8-4cb2-81a3-cde101b5fa7a) |
+| Finance | Oct 29, 2025 | [Nvidia poised to become world’s first $5tn company](https://www.ft.com/content/62933c70-261c-4b7a-a045-3f9f9cceccd7) |
 
 <!-- NEWS:END -->
 
