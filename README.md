@@ -74,16 +74,16 @@
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 30, 2025 | [China says it’s willing to work with U.S. on TikTok — but offers few details](https://www.cnbc.com/2025/10/30/china-says-its-willing-to-work-with-us-on-tiktok.html) |
+| Market | Oct 30, 2025 | [Beijing’s buzzing after Trump-Xi talks and betting a trade ‘honeymoon’ could be next](https://www.cnbc.com/2025/10/30/xi-trump-meeting-sparks-optimism-in-china-but-many-wonder-what-comes-next.html) |
 | Market | Oct 30, 2025 | [Chinese e-commerce giants now dominate Southeast Asia’s online shopping scene](https://www.cnbc.com/2025/10/30/chinese-companies-have-begun-to-dominate-southeast-asias-online-shopping-market.html) |
 | Market | Oct 29, 2025 | [Here are the five key takeaways from the Fed meeting and Powell news conference](https://www.cnbc.com/2025/10/29/fed-five-takeaways.html) |
 | Market | Oct 29, 2025 | [There were two Fed dissenters: Miran wanted a bigger cut and Schmid voted for no easing at all](https://www.cnbc.com/2025/10/29/there-were-two-fed-dissenters-miran-wanted-a-bigger-cut-and-schmid-voted-for-no-easing-at-all.html) |
-| Market | Oct 29, 2025 | [Here's what changed in the new Fed statement](https://www.cnbc.com/2025/10/29/october-fed-statement-heres-what-changed-in-the-new-statement.html) |
-| Market | Oct 29, 2025 | [Fed cuts rates again, but Powell raises doubts about easing at next meeting](https://www.cnbc.com/2025/10/29/fed-rate-decision-october-2025.html) |
-| Finance | Oct 30, 2025 | [Trump says China’s Xi agrees to one-year trade deal](https://www.ft.com/content/ceb9d271-09b4-4066-87a7-1e93b6908640) |
+| Finance | Oct 30, 2025 | [US and China agree 1-year trade truce after Trump-Xi talks](https://www.ft.com/content/ceb9d271-09b4-4066-87a7-1e93b6908640) |
 | Finance | Oct 30, 2025 | [The race to launch a pill for weight loss](https://www.ft.com/content/82327b1b-0f19-4f43-9a03-8831586e0281) |
-| Finance | Oct 30, 2025 | [Big Tech tests investors’ patience with $80bn AI investment spree](https://www.ft.com/content/86bb929f-e0ec-4e50-b429-e9259c3834e2) |
-| Finance | Oct 30, 2025 | [Our devices work for Big Tech, not us](https://www.ft.com/content/c4030657-354a-4000-88d0-3a7bf1c71744) |
-| Finance | Oct 30, 2025 | [Trump says South Korea can build nuclear-powered submarines in US](https://www.ft.com/content/a6ee6741-5a66-41b1-80b6-5e01e4a823a5) |
+| Finance | Oct 30, 2025 | [Starmer needs more than anti-racist soundbites to stop Farage](https://www.ft.com/content/c54df62f-a68c-43a5-a067-13039b94d518) |
+| Finance | Oct 30, 2025 | [New homes: even if you build them, there’s no one to buy them](https://www.ft.com/content/90802404-9313-45b9-bb57-683f7132fbd4) |
+| Finance | Oct 30, 2025 | [Trump orders immediate resumption of nuclear weapons testing](https://www.ft.com/content/6e4fb93f-38e5-4d31-85f0-60628c282048) |
 
 <!-- NEWS:END -->
 
