@@ -74,16 +74,16 @@
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 30, 2025 | [Chinese e-commerce giants now dominate Southeast Asia’s online shopping scene](https://www.cnbc.com/2025/10/30/chinese-companies-have-begun-to-dominate-southeast-asias-online-shopping-market.html) |
 | Market | Oct 29, 2025 | [Here are the five key takeaways from the Fed meeting and Powell news conference](https://www.cnbc.com/2025/10/29/fed-five-takeaways.html) |
 | Market | Oct 29, 2025 | [There were two Fed dissenters: Miran wanted a bigger cut and Schmid voted for no easing at all](https://www.cnbc.com/2025/10/29/there-were-two-fed-dissenters-miran-wanted-a-bigger-cut-and-schmid-voted-for-no-easing-at-all.html) |
 | Market | Oct 29, 2025 | [Here's what changed in the new Fed statement](https://www.cnbc.com/2025/10/29/october-fed-statement-heres-what-changed-in-the-new-statement.html) |
 | Market | Oct 29, 2025 | [Fed cuts rates again, but Powell raises doubts about easing at next meeting](https://www.cnbc.com/2025/10/29/fed-rate-decision-october-2025.html) |
-| Market | Oct 29, 2025 | [Fiserv stock craters 44% for worst day ever after company slashes guidance](https://www.cnbc.com/2025/10/29/fiserv-stock-guidance-earnings.html) |
-| Finance | Oct 29, 2025 | [Fed trims US rates by quarter point but casts doubt on December cut](https://www.ft.com/content/dd938de1-f8c3-4e5f-b58b-412ac80579fd) |
-| Finance | Oct 29, 2025 | [Bessent’s top five picks to replace Powell](https://www.ft.com/content/88c7be12-abc0-4ecf-8f39-9684b1fe95ca) |
-| Finance | Oct 29, 2025 | [Meta share knocked by huge AI spending while Alphabet rallies on record revenue](https://www.ft.com/content/32615d88-91a9-4fa8-8ad8-e6abb8e83397) |
-| Finance | Oct 29, 2025 | [Europe and the curse of geography](https://www.ft.com/content/00e98e75-fda7-4483-84b3-436488025f44) |
-| Finance | Oct 29, 2025 | [The bridge that bursts Britain’s public spending myths](https://www.ft.com/content/f0861743-bd84-4190-b7fd-d3b9fa6899db) |
+| Finance | Oct 30, 2025 | [Trump says China’s Xi agrees to one-year trade deal](https://www.ft.com/content/ceb9d271-09b4-4066-87a7-1e93b6908640) |
+| Finance | Oct 30, 2025 | [The race to launch a pill for weight loss](https://www.ft.com/content/82327b1b-0f19-4f43-9a03-8831586e0281) |
+| Finance | Oct 30, 2025 | [Big Tech tests investors’ patience with $80bn AI investment spree](https://www.ft.com/content/86bb929f-e0ec-4e50-b429-e9259c3834e2) |
+| Finance | Oct 30, 2025 | [Our devices work for Big Tech, not us](https://www.ft.com/content/c4030657-354a-4000-88d0-3a7bf1c71744) |
+| Finance | Oct 30, 2025 | [Trump says South Korea can build nuclear-powered submarines in US](https://www.ft.com/content/a6ee6741-5a66-41b1-80b6-5e01e4a823a5) |
 
 <!-- NEWS:END -->
 
