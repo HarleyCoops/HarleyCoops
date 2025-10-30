@@ -79,11 +79,11 @@
 | Market | Oct 30, 2025 | [Chinese e-commerce giants now dominate Southeast Asia’s online shopping scene](https://www.cnbc.com/2025/10/30/chinese-companies-have-begun-to-dominate-southeast-asias-online-shopping-market.html) |
 | Market | Oct 29, 2025 | [Here are the five key takeaways from the Fed meeting and Powell news conference](https://www.cnbc.com/2025/10/29/fed-five-takeaways.html) |
 | Market | Oct 29, 2025 | [There were two Fed dissenters: Miran wanted a bigger cut and Schmid voted for no easing at all](https://www.cnbc.com/2025/10/29/there-were-two-fed-dissenters-miran-wanted-a-bigger-cut-and-schmid-voted-for-no-easing-at-all.html) |
-| Finance | Oct 30, 2025 | [US and China agree 1-year trade truce after Trump-Xi talks](https://www.ft.com/content/ceb9d271-09b4-4066-87a7-1e93b6908640) |
+| Finance | Oct 30, 2025 | [Reeves may be forced to repay £38,000 in rent after breaching housing rules](https://www.ft.com/content/b1edcd6e-7629-4240-b01c-3ad651fd24ee) |
 | Finance | Oct 30, 2025 | [The race to launch a pill for weight loss](https://www.ft.com/content/82327b1b-0f19-4f43-9a03-8831586e0281) |
-| Finance | Oct 30, 2025 | [Starmer needs more than anti-racist soundbites to stop Farage](https://www.ft.com/content/c54df62f-a68c-43a5-a067-13039b94d518) |
-| Finance | Oct 30, 2025 | [New homes: even if you build them, there’s no one to buy them](https://www.ft.com/content/90802404-9313-45b9-bb57-683f7132fbd4) |
-| Finance | Oct 30, 2025 | [Trump orders immediate resumption of nuclear weapons testing](https://www.ft.com/content/6e4fb93f-38e5-4d31-85f0-60628c282048) |
+| Finance | Oct 30, 2025 | [Tips are taking the place of restaurant wages](https://www.ft.com/content/44b5b1dc-754b-4343-a943-465241b18f92) |
+| Finance | Oct 30, 2025 | [Why Starmer can’t rely on a ‘stop Farage’ campaign](https://www.ft.com/content/c54df62f-a68c-43a5-a067-13039b94d518) |
+| Finance | Oct 30, 2025 | [US and China agree one-year trade truce after Trump-Xi talks](https://www.ft.com/content/ceb9d271-09b4-4066-87a7-1e93b6908640?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
