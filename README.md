@@ -74,16 +74,16 @@
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 31, 2025 | [China's Xi urges Asian nations to keep supply chains stable, work together during ‘turbulent’ times](https://www.cnbc.com/2025/10/31/chinas-xi-urges-asian-nations-to-keep-supply-chains-stable-work-together-during-turbulent-times.html) |
 | Market | Oct 30, 2025 | [Powell forced to stave off uprisings in markets and on his own Fed board as his term ends](https://www.cnbc.com/2025/10/30/powell-forced-to-stave-off-uprisings-in-markets-and-on-his-own-fed-board-as-his-term-ends.html) |
-| Market | Oct 30, 2025 | [China says it’s willing to work with U.S. on TikTok — but offers few details](https://www.cnbc.com/2025/10/30/china-says-its-willing-to-work-with-us-on-tiktok.html) |
+| Market | Oct 31, 2025 | [China says it’s willing to work with U.S. on TikTok — but offers few details](https://www.cnbc.com/2025/10/30/china-says-its-willing-to-work-with-us-on-tiktok.html) |
 | Market | Oct 30, 2025 | [Beijing’s buzzing after Trump-Xi talks and betting a trade ‘honeymoon’ could be next](https://www.cnbc.com/2025/10/30/xi-trump-meeting-sparks-optimism-in-china-but-many-wonder-what-comes-next.html) |
 | Market | Oct 30, 2025 | [Chinese e-commerce giants now dominate Southeast Asia’s online shopping scene](https://www.cnbc.com/2025/10/30/chinese-companies-have-begun-to-dominate-southeast-asias-online-shopping-market.html) |
-| Market | Oct 29, 2025 | [Here are the five key takeaways from the Fed meeting and Powell news conference](https://www.cnbc.com/2025/10/29/fed-five-takeaways.html) |
-| Finance | Oct 30, 2025 | [Apple predicts holiday boom in iPhone sales](https://www.ft.com/content/7e4e5c42-6b67-4e92-aaec-4c5714f672f6) |
-| Finance | Oct 30, 2025 | [Amazon shares jump 13% as AI powers fastest cloud growth in years](https://www.ft.com/content/71e29546-661e-4c9f-b401-0428585fbc42) |
-| Finance | Oct 30, 2025 | [Xi-Trump summit underlines China’s growing confidence as a US peer](https://www.ft.com/content/b505bd49-66bf-4848-9f6d-642c83a1c9b5) |
-| Finance | Oct 30, 2025 | [In the AI boom, not all capex is created equal](https://www.ft.com/content/53958078-be2e-43fc-ba70-13a68b5fddf1) |
-| Finance | Oct 30, 2025 | [Why Starmer can’t rely on a ‘stop Farage’ campaign](https://www.ft.com/content/c54df62f-a68c-43a5-a067-13039b94d518) |
+| Finance | Oct 31, 2025 | [Full abolition of two-child benefit cap not expected in Budget](https://www.ft.com/content/e5333ac0-30df-43ed-bb05-e8412a7b5d15) |
+| Finance | Oct 30, 2025 | [Starmer puts Labour MPs on notice for Budget tax rises](https://www.ft.com/content/5c8fe54d-2494-4b36-9374-882ff86fbd7f) |
+| Finance | Oct 31, 2025 | [‘Rely on America at your peril’: the vagaries of Trump’s foreign policy](https://www.ft.com/content/28f0ea53-c4ec-4376-9e22-ff087d71ac86) |
+| Finance | Oct 31, 2025 | [Are Britain and the US losing their allure to top international talent?](https://www.ft.com/content/d70c4037-396f-4304-a85d-10eb10c74eae) |
+| Finance | Oct 30, 2025 | [China emerges as US ‘peer rival’ at Xi-Trump summit](https://www.ft.com/content/b505bd49-66bf-4848-9f6d-642c83a1c9b5) |
 
 <!-- NEWS:END -->
 
