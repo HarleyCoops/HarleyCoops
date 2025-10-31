@@ -74,16 +74,16 @@
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 31, 2025 | [More retirement investors opting for 'good enough' stock portfolio strategy to protect their mark...](https://www.cnbc.com/2025/10/31/more-retirees-opting-for-good-enough-stock-strategy-to-protect-money.html) |
 | Market | Oct 31, 2025 | [Pony.ai becomes first to win citywide robotaxi permit in China's Silicon Valley](https://www.cnbc.com/2025/10/31/chinas-ponyai-gets-the-first-permit-for-robotaxis-in-all-of-shenzhen.html) |
 | Market | Oct 31, 2025 | [China's Xi urges Asian nations to keep supply chains stable, work together during ‘turbulent’ times](https://www.cnbc.com/2025/10/31/chinas-xi-urges-asian-nations-to-keep-supply-chains-stable-work-together-during-turbulent-times.html) |
 | Market | Oct 30, 2025 | [Powell forced to stave off uprisings in markets and on his own Fed board as his term ends](https://www.cnbc.com/2025/10/30/powell-forced-to-stave-off-uprisings-in-markets-and-on-his-own-fed-board-as-his-term-ends.html) |
 | Market | Oct 31, 2025 | [China says it’s willing to work with U.S. on TikTok — but offers few details](https://www.cnbc.com/2025/10/30/china-says-its-willing-to-work-with-us-on-tiktok.html) |
-| Market | Oct 30, 2025 | [Beijing’s buzzing after Trump-Xi talks and betting a trade ‘honeymoon’ could be next](https://www.cnbc.com/2025/10/30/xi-trump-meeting-sparks-optimism-in-china-but-many-wonder-what-comes-next.html) |
+| Finance | Oct 31, 2025 | [Credit market hit with $200bn ‘flood’ of AI-related issuance](https://www.ft.com/content/82f63f23-db20-4f6c-84f1-e7b45ca09f46) |
+| Finance | Oct 31, 2025 | [China ‘made a real mistake’ by ‘firing shots’ on rare earths, says Scott Bessent](https://www.ft.com/content/399ad440-ecd3-4fb0-b97d-a0d8e0a8a22c) |
+| Finance | Oct 31, 2025 | [Carelessness costs political lives](https://www.ft.com/content/add8f251-336c-4e6b-8bcb-33b95efc0b2b) |
+| Finance | Oct 31, 2025 | [Universal basic credit would create a fair AI economy](https://www.ft.com/content/9b93e02a-c693-4070-9094-a2f532dfa929) |
 | Finance | Oct 31, 2025 | [Full abolition of two-child benefit cap not expected in Budget](https://www.ft.com/content/e5333ac0-30df-43ed-bb05-e8412a7b5d15) |
-| Finance | Oct 30, 2025 | [Starmer puts Labour MPs on notice for Budget tax rises](https://www.ft.com/content/5c8fe54d-2494-4b36-9374-882ff86fbd7f) |
-| Finance | Oct 31, 2025 | [The Trump doctrine: don’t rely on America](https://www.ft.com/content/28f0ea53-c4ec-4376-9e22-ff087d71ac86) |
-| Finance | Oct 31, 2025 | [Are Britain and the US losing their allure for top international talent?](https://www.ft.com/content/d70c4037-396f-4304-a85d-10eb10c74eae) |
-| Finance | Oct 31, 2025 | [What exactly are we paying for? The UK’s legacy of privatising utilities](https://www.ft.com/content/0995f726-fef4-4782-bcc8-0c8ec51a8523) |
 
 <!-- NEWS:END -->
 
