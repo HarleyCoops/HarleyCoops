@@ -74,16 +74,16 @@
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 30, 2025 | [Powell forced to stave off uprisings in markets and on his own Fed board as his term ends](https://www.cnbc.com/2025/10/30/powell-forced-to-stave-off-uprisings-in-markets-and-on-his-own-fed-board-as-his-term-ends.html) |
 | Market | Oct 30, 2025 | [China says it’s willing to work with U.S. on TikTok — but offers few details](https://www.cnbc.com/2025/10/30/china-says-its-willing-to-work-with-us-on-tiktok.html) |
 | Market | Oct 30, 2025 | [Beijing’s buzzing after Trump-Xi talks and betting a trade ‘honeymoon’ could be next](https://www.cnbc.com/2025/10/30/xi-trump-meeting-sparks-optimism-in-china-but-many-wonder-what-comes-next.html) |
 | Market | Oct 30, 2025 | [Chinese e-commerce giants now dominate Southeast Asia’s online shopping scene](https://www.cnbc.com/2025/10/30/chinese-companies-have-begun-to-dominate-southeast-asias-online-shopping-market.html) |
 | Market | Oct 29, 2025 | [Here are the five key takeaways from the Fed meeting and Powell news conference](https://www.cnbc.com/2025/10/29/fed-five-takeaways.html) |
-| Market | Oct 29, 2025 | [There were two Fed dissenters: Miran wanted a bigger cut and Schmid voted for no easing at all](https://www.cnbc.com/2025/10/29/there-were-two-fed-dissenters-miran-wanted-a-bigger-cut-and-schmid-voted-for-no-easing-at-all.html) |
-| Finance | Oct 30, 2025 | [Reeves may be forced to repay £38,000 in rent after breaching housing rules](https://www.ft.com/content/b1edcd6e-7629-4240-b01c-3ad651fd24ee) |
-| Finance | Oct 30, 2025 | [The race to launch a pill for weight loss](https://www.ft.com/content/82327b1b-0f19-4f43-9a03-8831586e0281) |
-| Finance | Oct 30, 2025 | [Tips are taking the place of restaurant wages](https://www.ft.com/content/44b5b1dc-754b-4343-a943-465241b18f92) |
+| Finance | Oct 30, 2025 | [Apple predicts holiday boom in iPhone sales](https://www.ft.com/content/7e4e5c42-6b67-4e92-aaec-4c5714f672f6) |
+| Finance | Oct 30, 2025 | [Amazon shares jump 13% as AI powers fastest cloud growth in years](https://www.ft.com/content/71e29546-661e-4c9f-b401-0428585fbc42) |
+| Finance | Oct 30, 2025 | [Xi-Trump summit underlines China’s growing confidence as a US peer](https://www.ft.com/content/b505bd49-66bf-4848-9f6d-642c83a1c9b5) |
+| Finance | Oct 30, 2025 | [In the AI boom, not all capex is created equal](https://www.ft.com/content/53958078-be2e-43fc-ba70-13a68b5fddf1) |
 | Finance | Oct 30, 2025 | [Why Starmer can’t rely on a ‘stop Farage’ campaign](https://www.ft.com/content/c54df62f-a68c-43a5-a067-13039b94d518) |
-| Finance | Oct 30, 2025 | [US and China agree one-year trade truce after Trump-Xi talks](https://www.ft.com/content/ceb9d271-09b4-4066-87a7-1e93b6908640?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
