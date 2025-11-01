@@ -81,9 +81,9 @@
 | Market | Oct 31, 2025 | [China says it’s willing to work with U.S. on TikTok — but offers few details](https://www.cnbc.com/2025/10/30/china-says-its-willing-to-work-with-us-on-tiktok.html) |
 | Finance | Oct 31, 2025 | [Rachel Reeves plans Budget tax raid on expensive homes](https://www.ft.com/content/8fce8947-a283-45cc-a31c-bdd4a2daeef3) |
 | Finance | Oct 31, 2025 | [Carelessness costs political lives](https://www.ft.com/content/add8f251-336c-4e6b-8bcb-33b95efc0b2b) |
-| Finance | Oct 31, 2025 | [Big Tech’s market dominance is becoming ever more extreme](https://www.ft.com/content/ae4d7961-cf59-4369-8e64-8a9c9da956d1) |
-| Finance | Oct 31, 2025 | [Animal spirits have returned to M&A](https://www.ft.com/content/5a3fe5c7-f1b9-4dc6-a97a-f241b5f0eed1) |
-| Finance | Oct 31, 2025 | [Trump stirs global alarm with pledge to restart nuclear testing](https://www.ft.com/content/051f592c-9913-47bf-899a-91fea13bb167) |
+| Finance | Nov 01, 2025 | [He rescued the Michael Jackson estate. Can he save the star’s legacy?](https://www.ft.com/content/f425ca55-e6a3-4111-b55b-1b8cd46b6401) |
+| Finance | Nov 01, 2025 | [To boost UK productivity, ordinary workers must bear more of the tax burden](https://www.ft.com/content/99c5ce4b-d3cd-4601-8f69-b1eccbe581ef) |
+| Finance | Nov 01, 2025 | [The cosmopolitan conservative](https://www.ft.com/content/9875ce01-58d1-4c16-91bc-bbc5a45fadae) |
 
 <!-- NEWS:END -->
 
