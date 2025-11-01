@@ -74,16 +74,16 @@
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Nov 01, 2025 | [Interest rate backdrop supports playing offense with bonds, according to Goldman Sachs former ETF...](https://www.cnbc.com/2025/11/01/bonds-fed-rate-cuts-former-goldman-sachs-etf-head.html) |
+| Market | Nov 01, 2025 | [Berkshire's operating earnings jump 34%, Buffett buys back no stock and raises cash hoard to $381...](https://www.cnbc.com/2025/11/01/berkshire-hathaway-brk-earnings-q3-2025.html) |
 | Market | Oct 31, 2025 | [More retirement investors opting for 'good enough' stock portfolio strategy to protect their mark...](https://www.cnbc.com/2025/10/31/more-retirees-opting-for-good-enough-stock-strategy-to-protect-money.html) |
 | Market | Oct 31, 2025 | [Pony.ai becomes first to win citywide robotaxi permit in China's Silicon Valley](https://www.cnbc.com/2025/10/31/chinas-ponyai-gets-the-first-permit-for-robotaxis-in-all-of-shenzhen.html) |
 | Market | Oct 31, 2025 | [China's Xi urges Asian nations to keep supply chains stable, work together during ‘turbulent’ times](https://www.cnbc.com/2025/10/31/chinas-xi-urges-asian-nations-to-keep-supply-chains-stable-work-together-during-turbulent-times.html) |
-| Market | Oct 30, 2025 | [Powell forced to stave off uprisings in markets and on his own Fed board as his term ends](https://www.cnbc.com/2025/10/30/powell-forced-to-stave-off-uprisings-in-markets-and-on-his-own-fed-board-as-his-term-ends.html) |
-| Market | Oct 31, 2025 | [China says it’s willing to work with U.S. on TikTok — but offers few details](https://www.cnbc.com/2025/10/30/china-says-its-willing-to-work-with-us-on-tiktok.html) |
-| Finance | Oct 31, 2025 | [Rachel Reeves plans Budget tax raid on expensive homes](https://www.ft.com/content/8fce8947-a283-45cc-a31c-bdd4a2daeef3) |
-| Finance | Nov 01, 2025 | [To boost UK productivity, ordinary workers must bear more of the tax burden](https://www.ft.com/content/99c5ce4b-d3cd-4601-8f69-b1eccbe581ef) |
+| Finance | Nov 01, 2025 | [Berkshire Hathaway offloads $6.1bn of stock](https://www.ft.com/content/bfaac196-fbc5-4c4e-bfe0-a78a63149cb4) |
 | Finance | Nov 01, 2025 | [He rescued the Michael Jackson estate. Can he save the star’s legacy?](https://www.ft.com/content/f425ca55-e6a3-4111-b55b-1b8cd46b6401) |
+| Finance | Nov 01, 2025 | [Populists of the left and right unite behind the politics of easy answers](https://www.ft.com/content/21ef6579-1845-466c-847a-739d6decd284) |
 | Finance | Nov 01, 2025 | [The cosmopolitan conservative](https://www.ft.com/content/9875ce01-58d1-4c16-91bc-bbc5a45fadae) |
-| Finance | Nov 01, 2025 | [Safety strategies for a bubble market](https://www.ft.com/content/af887742-efec-408e-924a-8b3cf7450828) |
+| Finance | Nov 01, 2025 | [Surge in offshore bond sales as UK investors look to cut tax bills](https://www.ft.com/content/28f8848c-1f65-4199-aca5-ab479671e2b4) |
 
 <!-- NEWS:END -->
 
