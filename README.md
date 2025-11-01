@@ -80,10 +80,10 @@
 | Market | Oct 30, 2025 | [Powell forced to stave off uprisings in markets and on his own Fed board as his term ends](https://www.cnbc.com/2025/10/30/powell-forced-to-stave-off-uprisings-in-markets-and-on-his-own-fed-board-as-his-term-ends.html) |
 | Market | Oct 31, 2025 | [China says it’s willing to work with U.S. on TikTok — but offers few details](https://www.cnbc.com/2025/10/30/china-says-its-willing-to-work-with-us-on-tiktok.html) |
 | Finance | Oct 31, 2025 | [Rachel Reeves plans Budget tax raid on expensive homes](https://www.ft.com/content/8fce8947-a283-45cc-a31c-bdd4a2daeef3) |
-| Finance | Oct 31, 2025 | [Carelessness costs political lives](https://www.ft.com/content/add8f251-336c-4e6b-8bcb-33b95efc0b2b) |
-| Finance | Nov 01, 2025 | [He rescued the Michael Jackson estate. Can he save the star’s legacy?](https://www.ft.com/content/f425ca55-e6a3-4111-b55b-1b8cd46b6401) |
 | Finance | Nov 01, 2025 | [To boost UK productivity, ordinary workers must bear more of the tax burden](https://www.ft.com/content/99c5ce4b-d3cd-4601-8f69-b1eccbe581ef) |
+| Finance | Nov 01, 2025 | [He rescued the Michael Jackson estate. Can he save the star’s legacy?](https://www.ft.com/content/f425ca55-e6a3-4111-b55b-1b8cd46b6401) |
 | Finance | Nov 01, 2025 | [The cosmopolitan conservative](https://www.ft.com/content/9875ce01-58d1-4c16-91bc-bbc5a45fadae) |
+| Finance | Nov 01, 2025 | [Safety strategies for a bubble market](https://www.ft.com/content/af887742-efec-408e-924a-8b3cf7450828) |
 
 <!-- NEWS:END -->
 
