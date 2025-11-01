@@ -79,11 +79,11 @@
 | Market | Oct 31, 2025 | [China's Xi urges Asian nations to keep supply chains stable, work together during ‘turbulent’ times](https://www.cnbc.com/2025/10/31/chinas-xi-urges-asian-nations-to-keep-supply-chains-stable-work-together-during-turbulent-times.html) |
 | Market | Oct 30, 2025 | [Powell forced to stave off uprisings in markets and on his own Fed board as his term ends](https://www.cnbc.com/2025/10/30/powell-forced-to-stave-off-uprisings-in-markets-and-on-his-own-fed-board-as-his-term-ends.html) |
 | Market | Oct 31, 2025 | [China says it’s willing to work with U.S. on TikTok — but offers few details](https://www.cnbc.com/2025/10/30/china-says-its-willing-to-work-with-us-on-tiktok.html) |
-| Finance | Oct 31, 2025 | [Credit market hit with $200bn ‘flood’ of AI-related issuance](https://www.ft.com/content/82f63f23-db20-4f6c-84f1-e7b45ca09f46) |
-| Finance | Oct 31, 2025 | [China ‘made a real mistake’ by ‘firing shots’ on rare earths, says Scott Bessent](https://www.ft.com/content/399ad440-ecd3-4fb0-b97d-a0d8e0a8a22c) |
+| Finance | Oct 31, 2025 | [Rachel Reeves plans Budget tax raid on expensive homes](https://www.ft.com/content/8fce8947-a283-45cc-a31c-bdd4a2daeef3) |
 | Finance | Oct 31, 2025 | [Carelessness costs political lives](https://www.ft.com/content/add8f251-336c-4e6b-8bcb-33b95efc0b2b) |
-| Finance | Oct 31, 2025 | [Universal basic credit would create a fair AI economy](https://www.ft.com/content/9b93e02a-c693-4070-9094-a2f532dfa929) |
-| Finance | Oct 31, 2025 | [Full abolition of two-child benefit cap not expected in Budget](https://www.ft.com/content/e5333ac0-30df-43ed-bb05-e8412a7b5d15) |
+| Finance | Oct 31, 2025 | [Big Tech’s market dominance is becoming ever more extreme](https://www.ft.com/content/ae4d7961-cf59-4369-8e64-8a9c9da956d1) |
+| Finance | Oct 31, 2025 | [Animal spirits have returned to M&A](https://www.ft.com/content/5a3fe5c7-f1b9-4dc6-a97a-f241b5f0eed1) |
+| Finance | Oct 31, 2025 | [Trump stirs global alarm with pledge to restart nuclear testing](https://www.ft.com/content/051f592c-9913-47bf-899a-91fea13bb167) |
 
 <!-- NEWS:END -->
 
