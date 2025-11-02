@@ -79,11 +79,11 @@
 | Market | Oct 31, 2025 | [More retirement investors opting for 'good enough' stock portfolio strategy to protect their mark...](https://www.cnbc.com/2025/10/31/more-retirees-opting-for-good-enough-stock-strategy-to-protect-money.html) |
 | Market | Oct 31, 2025 | [Pony.ai becomes first to win citywide robotaxi permit in China's Silicon Valley](https://www.cnbc.com/2025/10/31/chinas-ponyai-gets-the-first-permit-for-robotaxis-in-all-of-shenzhen.html) |
 | Market | Oct 31, 2025 | [China's Xi urges Asian nations to keep supply chains stable, work together during ‘turbulent’ times](https://www.cnbc.com/2025/10/31/chinas-xi-urges-asian-nations-to-keep-supply-chains-stable-work-together-during-turbulent-times.html) |
-| Finance | Nov 01, 2025 | [Berkshire Hathaway offloads $6.1bn of stock](https://www.ft.com/content/bfaac196-fbc5-4c4e-bfe0-a78a63149cb4) |
-| Finance | Nov 01, 2025 | [He rescued the Michael Jackson estate. Can he save the star’s legacy?](https://www.ft.com/content/f425ca55-e6a3-4111-b55b-1b8cd46b6401) |
-| Finance | Nov 01, 2025 | [Populists of the left and right unite behind the politics of easy answers](https://www.ft.com/content/21ef6579-1845-466c-847a-739d6decd284) |
-| Finance | Nov 01, 2025 | [The cosmopolitan conservative](https://www.ft.com/content/9875ce01-58d1-4c16-91bc-bbc5a45fadae) |
-| Finance | Nov 01, 2025 | [Surge in offshore bond sales as UK investors look to cut tax bills](https://www.ft.com/content/28f8848c-1f65-4199-aca5-ab479671e2b4) |
+| Finance | Nov 02, 2025 | [Private capital zombie firms will pile up in next decade, says EQT chief](https://www.ft.com/content/49d2cb79-5e0b-4c71-9258-b3fea4ca70c4) |
+| Finance | Nov 02, 2025 | [Elon Musk’s Grokipedia is a major own goal](https://www.ft.com/content/5ada1835-bdee-4326-adc0-e90a33123588) |
+| Finance | Nov 02, 2025 | [Sí, oui, ja! You can learn a language late in life](https://www.ft.com/content/e9f574a9-fa9a-4ff3-82ee-b6614d248ac8) |
+| Finance | Nov 02, 2025 | [Two arrested after mass stabbing on train north of London](https://www.ft.com/content/b8240a58-8b1b-46be-b31c-2b6b1d2731ea) |
+| Finance | Nov 02, 2025 | [London becomes ‘quant’ powerhouse as traders rake in revenues](https://www.ft.com/content/8a6502c3-f244-4b61-880b-b20cf03299cc) |
 
 <!-- NEWS:END -->
 
