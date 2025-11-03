@@ -79,11 +79,11 @@
 | Market | Oct 31, 2025 | [More retirement investors opting for 'good enough' stock portfolio strategy to protect their mark...](https://www.cnbc.com/2025/10/31/more-retirees-opting-for-good-enough-stock-strategy-to-protect-money.html) |
 | Market | Oct 31, 2025 | [Pony.ai becomes first to win citywide robotaxi permit in China's Silicon Valley](https://www.cnbc.com/2025/10/31/chinas-ponyai-gets-the-first-permit-for-robotaxis-in-all-of-shenzhen.html) |
 | Market | Oct 31, 2025 | [China's Xi urges Asian nations to keep supply chains stable, work together during ‘turbulent’ times](https://www.cnbc.com/2025/10/31/chinas-xi-urges-asian-nations-to-keep-supply-chains-stable-work-together-during-turbulent-times.html) |
-| Finance | Nov 02, 2025 | [London becomes ‘quant’ powerhouse as traders rake in revenues](https://www.ft.com/content/8a6502c3-f244-4b61-880b-b20cf03299cc) |
+| Finance | Nov 02, 2025 | [City bosses warn on pay as UK minimum wage closes in on graduate salaries](https://www.ft.com/content/b436f945-be2b-47ff-ad80-b94540a4d077) |
+| Finance | Nov 02, 2025 | [Train stabbing fuels UK public’s feeling of insecurity](https://www.ft.com/content/f784b070-c6b0-4175-9be1-c14b1bb8f8a9) |
 | Finance | Nov 02, 2025 | [Elon Musk’s Grokipedia is a major own goal](https://www.ft.com/content/5ada1835-bdee-4326-adc0-e90a33123588) |
-| Finance | Nov 02, 2025 | [The economic upsides of Trump’s second term](https://www.ft.com/content/b72eca2c-554d-4148-b571-c5a8d73fc311) |
-| Finance | Nov 02, 2025 | [Police say ‘nothing to suggest’ Cambridgeshire train stabbings were terrorism](https://www.ft.com/content/ebad259e-222b-48c1-9312-fa33b62add31) |
-| Finance | Nov 02, 2025 | [Private capital zombie firms will pile up in next decade, says EQT chief](https://www.ft.com/content/49d2cb79-5e0b-4c71-9258-b3fea4ca70c4) |
+| Finance | Nov 02, 2025 | [A welcome revival of the Dutch political centre](https://www.ft.com/content/37f287ad-78f1-483a-8981-772b9e0bdbe5) |
+| Finance | Nov 02, 2025 | [One remaining suspect held in train stabbing case as police say no suggestion of terrorism](https://www.ft.com/content/ebad259e-222b-48c1-9312-fa33b62add31) |
 
 <!-- NEWS:END -->
 
