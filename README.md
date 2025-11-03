@@ -74,16 +74,16 @@
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Nov 03, 2025 | [China's Baidu says weekly robotaxi rides hit 250,000 — same as Alphabet's Waymo this spring](https://www.cnbc.com/2025/11/03/china-baidu-robotaxis-alphabet-waymo-.html) |
 | Market | Nov 01, 2025 | [Interest rate backdrop supports playing offense with bonds, according to Goldman Sachs former ETF...](https://www.cnbc.com/2025/11/01/bonds-fed-rate-cuts-former-goldman-sachs-etf-head.html) |
 | Market | Nov 01, 2025 | [Berkshire's operating earnings jump 34%, Buffett buys back no stock and raises cash hoard to $381...](https://www.cnbc.com/2025/11/01/berkshire-hathaway-brk-earnings-q3-2025.html) |
 | Market | Oct 31, 2025 | [More retirement investors opting for 'good enough' stock portfolio strategy to protect their mark...](https://www.cnbc.com/2025/10/31/more-retirees-opting-for-good-enough-stock-strategy-to-protect-money.html) |
 | Market | Oct 31, 2025 | [Pony.ai becomes first to win citywide robotaxi permit in China's Silicon Valley](https://www.cnbc.com/2025/10/31/chinas-ponyai-gets-the-first-permit-for-robotaxis-in-all-of-shenzhen.html) |
-| Market | Oct 31, 2025 | [China's Xi urges Asian nations to keep supply chains stable, work together during ‘turbulent’ times](https://www.cnbc.com/2025/10/31/chinas-xi-urges-asian-nations-to-keep-supply-chains-stable-work-together-during-turbulent-times.html) |
 | Finance | Nov 02, 2025 | [City bosses warn on pay as UK minimum wage closes in on graduate salaries](https://www.ft.com/content/b436f945-be2b-47ff-ad80-b94540a4d077) |
-| Finance | Nov 02, 2025 | [Train stabbing fuels UK public’s feeling of insecurity](https://www.ft.com/content/f784b070-c6b0-4175-9be1-c14b1bb8f8a9) |
-| Finance | Nov 02, 2025 | [Elon Musk’s Grokipedia is a major own goal](https://www.ft.com/content/5ada1835-bdee-4326-adc0-e90a33123588) |
-| Finance | Nov 02, 2025 | [A welcome revival of the Dutch political centre](https://www.ft.com/content/37f287ad-78f1-483a-8981-772b9e0bdbe5) |
-| Finance | Nov 02, 2025 | [One remaining suspect held in train stabbing case as police say no suggestion of terrorism](https://www.ft.com/content/ebad259e-222b-48c1-9312-fa33b62add31) |
+| Finance | Nov 03, 2025 | [What next for Andrea Orcel’s UniCredit?](https://www.ft.com/content/4285c83e-944a-4050-aa29-91fbf829e503) |
+| Finance | Nov 03, 2025 | [The UK bank bashing must stop](https://www.ft.com/content/b5708992-7c0e-46c2-a277-c99056d1df8f) |
+| Finance | Nov 03, 2025 | [Books, malls and cars: where the physical world still rules](https://www.ft.com/content/50111113-8816-4f2d-8ec4-ee59a2eeecc5) |
+| Finance | Nov 03, 2025 | [Young Britons’ attitudes hardening on crime and welfare](https://www.ft.com/content/23c7e232-947a-4029-9b58-f4408a00c1ef) |
 
 <!-- NEWS:END -->
 
