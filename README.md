@@ -80,10 +80,10 @@
 | Market | Oct 31, 2025 | [More retirement investors opting for 'good enough' stock portfolio strategy to protect their mark...](https://www.cnbc.com/2025/10/31/more-retirees-opting-for-good-enough-stock-strategy-to-protect-money.html) |
 | Market | Oct 31, 2025 | [Pony.ai becomes first to win citywide robotaxi permit in China's Silicon Valley](https://www.cnbc.com/2025/10/31/chinas-ponyai-gets-the-first-permit-for-robotaxis-in-all-of-shenzhen.html) |
 | Finance | Nov 02, 2025 | [City bosses warn on pay as UK minimum wage closes in on graduate salaries](https://www.ft.com/content/b436f945-be2b-47ff-ad80-b94540a4d077) |
-| Finance | Nov 03, 2025 | [What next for Andrea Orcel’s UniCredit?](https://www.ft.com/content/4285c83e-944a-4050-aa29-91fbf829e503) |
-| Finance | Nov 03, 2025 | [The UK bank bashing must stop](https://www.ft.com/content/b5708992-7c0e-46c2-a277-c99056d1df8f) |
-| Finance | Nov 03, 2025 | [Books, malls and cars: where the physical world still rules](https://www.ft.com/content/50111113-8816-4f2d-8ec4-ee59a2eeecc5) |
 | Finance | Nov 03, 2025 | [Young Britons’ attitudes hardening on crime and welfare](https://www.ft.com/content/23c7e232-947a-4029-9b58-f4408a00c1ef) |
+| Finance | Nov 03, 2025 | [The far right can win in Europe but it struggles to govern](https://www.ft.com/content/b7fde818-fe26-49f3-b109-d6fced89c130) |
+| Finance | Nov 03, 2025 | [The UK bank bashing must stop](https://www.ft.com/content/b5708992-7c0e-46c2-a277-c99056d1df8f) |
+| Finance | Nov 03, 2025 | [US allows Microsoft to ship Nvidia AI chips to use in UAE for first time](https://www.ft.com/content/03b30ba3-d0c6-4f63-92f8-077fcd8dc472) |
 
 <!-- NEWS:END -->
 
