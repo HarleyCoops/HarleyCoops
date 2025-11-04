@@ -81,9 +81,9 @@
 | Market | Nov 01, 2025 | [Interest rate backdrop supports playing offense with bonds, according to Goldman Sachs former ETF...](https://www.cnbc.com/2025/11/01/bonds-fed-rate-cuts-former-goldman-sachs-etf-head.html) |
 | Finance | Nov 04, 2025 | [Starmer fuels expectations of income tax rise in the Budget](https://www.ft.com/content/e502560d-b677-424e-a8b6-2234cb8f3729) |
 | Finance | Nov 03, 2025 | [What are Rachel Reeves’ tax options in the Budget?](https://www.ft.com/content/7776533f-4706-48d4-848b-afa276c6a2d3) |
-| Finance | Nov 03, 2025 | [Inside Black Cube: how notorious intelligence firm rakes in client fees](https://www.ft.com/content/487f9b89-7e7c-4d3e-ab92-2e1b2a517b5c) |
-| Finance | Nov 03, 2025 | [The far right can win in Europe but it struggles to govern](https://www.ft.com/content/b7fde818-fe26-49f3-b109-d6fced89c130) |
-| Finance | Nov 03, 2025 | [The Renters’ Rights Act risks creating a two-tier rental market](https://www.ft.com/content/a9439c01-6fb9-460a-afe0-35e4c605988a) |
+| Finance | Nov 04, 2025 | [The meaning of Zohran Mamdani](https://www.ft.com/content/92bf9fba-dc24-4384-9e84-a6f63473eb2f) |
+| Finance | Nov 04, 2025 | [Britain’s quantum software start-ups might be giants](https://www.ft.com/content/c691caf6-3a54-440a-97dd-61fb0b6b0848) |
+| Finance | Nov 04, 2025 | [Why the job ladder matters for migrants](https://www.ft.com/content/57161251-20af-4470-aeeb-93ec37929401) |
 
 <!-- NEWS:END -->
 
