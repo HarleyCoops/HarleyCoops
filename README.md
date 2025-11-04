@@ -74,16 +74,16 @@
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Nov 03, 2025 | [Ether falls 7% following a multimillion dollar hack of a decentralized finance protocol](https://www.cnbc.com/2025/11/03/ether-falls-9percent-following-a-multimillion-dollar-hack-of-a-decentralized-finance-protocol-.html) |
+| Market | Nov 03, 2025 | [Fed Governor Lisa Cook, in first policy speech since Trump suit, says she's undecided on Dec. rat...](https://www.cnbc.com/2025/11/03/fed-governor-lisa-cook-in-first-policy-speech-since-trump-suit-says-shes-undecided-on-dec-rate-cut.html) |
 | Market | Nov 03, 2025 | [Warren Buffett may have cut Berkshire's stake in Apple again in the third quarter](https://www.cnbc.com/2025/11/03/warren-buffett-may-have-again-cut-berkshires-stake-in-apple-in-q3-.html) |
 | Market | Nov 03, 2025 | [China's Baidu says weekly robotaxi rides hit 250,000 — same as Alphabet's Waymo this spring](https://www.cnbc.com/2025/11/03/china-baidu-robotaxis-alphabet-waymo-.html) |
 | Market | Nov 01, 2025 | [Interest rate backdrop supports playing offense with bonds, according to Goldman Sachs former ETF...](https://www.cnbc.com/2025/11/01/bonds-fed-rate-cuts-former-goldman-sachs-etf-head.html) |
-| Market | Nov 03, 2025 | [Berkshire's operating earnings jump 34%, Buffett buys back no stock and raises cash hoard to $381...](https://www.cnbc.com/2025/11/01/berkshire-hathaway-brk-earnings-q3-2025.html) |
-| Market | Oct 31, 2025 | [More retirement investors opting for 'good enough' stock portfolio strategy to protect their mark...](https://www.cnbc.com/2025/10/31/more-retirees-opting-for-good-enough-stock-strategy-to-protect-money.html) |
-| Finance | Nov 03, 2025 | [OpenAI strikes $38bn computing deal with Amazon](https://www.ft.com/content/74d79365-efdc-4446-b0ed-d53ad4b55f59) |
-| Finance | Nov 03, 2025 | [US allows Microsoft to ship Nvidia AI chips to use in UAE for first time](https://www.ft.com/content/03b30ba3-d0c6-4f63-92f8-077fcd8dc472) |
-| Finance | Nov 03, 2025 | [Is China about to win the race?](https://www.ft.com/content/794caa5d-1039-4c21-9883-9374912fe1a9) |
+| Finance | Nov 04, 2025 | [Starmer fuels expectations of income tax rise in the Budget](https://www.ft.com/content/e502560d-b677-424e-a8b6-2234cb8f3729) |
+| Finance | Nov 03, 2025 | [What are Rachel Reeves’ tax options in the Budget?](https://www.ft.com/content/7776533f-4706-48d4-848b-afa276c6a2d3) |
 | Finance | Nov 03, 2025 | [Inside Black Cube: how notorious intelligence firm rakes in client fees](https://www.ft.com/content/487f9b89-7e7c-4d3e-ab92-2e1b2a517b5c) |
 | Finance | Nov 03, 2025 | [The far right can win in Europe but it struggles to govern](https://www.ft.com/content/b7fde818-fe26-49f3-b109-d6fced89c130) |
+| Finance | Nov 03, 2025 | [The Renters’ Rights Act risks creating a two-tier rental market](https://www.ft.com/content/a9439c01-6fb9-460a-afe0-35e4c605988a) |
 
 <!-- NEWS:END -->
 
