@@ -79,11 +79,11 @@
 | Market | Nov 03, 2025 | [Warren Buffett may have cut Berkshire's stake in Apple again in the third quarter](https://www.cnbc.com/2025/11/03/warren-buffett-may-have-again-cut-berkshires-stake-in-apple-in-q3-.html) |
 | Market | Nov 03, 2025 | [China's Baidu says weekly robotaxi rides hit 250,000 — same as Alphabet's Waymo this spring](https://www.cnbc.com/2025/11/03/china-baidu-robotaxis-alphabet-waymo-.html) |
 | Market | Nov 01, 2025 | [Interest rate backdrop supports playing offense with bonds, according to Goldman Sachs former ETF...](https://www.cnbc.com/2025/11/01/bonds-fed-rate-cuts-former-goldman-sachs-etf-head.html) |
-| Finance | Nov 04, 2025 | [Starmer fuels expectations of income tax rise in the Budget](https://www.ft.com/content/e502560d-b677-424e-a8b6-2234cb8f3729) |
-| Finance | Nov 03, 2025 | [What are Rachel Reeves’ tax options in the Budget?](https://www.ft.com/content/7776533f-4706-48d4-848b-afa276c6a2d3) |
+| Finance | Nov 04, 2025 | [Reeves prepares public for manifesto-breaking income tax rise](https://www.ft.com/content/75c67ea8-2123-4864-adf9-ea1d2469af3f) |
+| Finance | Nov 04, 2025 | [Chancellor bets on the long-term — will she be around to reap the benefits?](https://www.ft.com/content/222a5781-df94-434c-891f-bd5a4243739d) |
+| Finance | Nov 04, 2025 | [Reeves pledges to build bigger cushion in Budget to ‘withstand global turbulence’](https://www.ft.com/content/67188660-013a-45ce-8769-504479fc8b5e) |
 | Finance | Nov 04, 2025 | [The meaning of Zohran Mamdani](https://www.ft.com/content/92bf9fba-dc24-4384-9e84-a6f63473eb2f) |
-| Finance | Nov 04, 2025 | [Britain’s quantum software start-ups might be giants](https://www.ft.com/content/c691caf6-3a54-440a-97dd-61fb0b6b0848) |
-| Finance | Nov 04, 2025 | [Why the job ladder matters for migrants](https://www.ft.com/content/57161251-20af-4470-aeeb-93ec37929401) |
+| Finance | Nov 03, 2025 | [UK welfare reform is unavoidable](https://www.ft.com/content/0bd791ae-7172-4352-9392-18bf5e65d572) |
 
 <!-- NEWS:END -->
 
