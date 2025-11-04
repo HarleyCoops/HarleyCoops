@@ -74,16 +74,16 @@
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Nov 04, 2025 | [Bitcoin's November sell-off worsens as investors reduce risk on worries about the AI trade](https://www.cnbc.com/2025/11/04/bitcoins-november-sell-off-worsens-as-investors-take-risk-off-on-worries-about-the-ai-trade-.html) |
 | Market | Nov 03, 2025 | [Ether falls 7% following a multimillion dollar hack of a decentralized finance protocol](https://www.cnbc.com/2025/11/03/ether-falls-9percent-following-a-multimillion-dollar-hack-of-a-decentralized-finance-protocol-.html) |
 | Market | Nov 03, 2025 | [Fed Governor Lisa Cook, in first policy speech since Trump suit, says she's undecided on Dec. rat...](https://www.cnbc.com/2025/11/03/fed-governor-lisa-cook-in-first-policy-speech-since-trump-suit-says-shes-undecided-on-dec-rate-cut.html) |
 | Market | Nov 03, 2025 | [Warren Buffett may have cut Berkshire's stake in Apple again in the third quarter](https://www.cnbc.com/2025/11/03/warren-buffett-may-have-again-cut-berkshires-stake-in-apple-in-q3-.html) |
 | Market | Nov 03, 2025 | [China's Baidu says weekly robotaxi rides hit 250,000 — same as Alphabet's Waymo this spring](https://www.cnbc.com/2025/11/03/china-baidu-robotaxis-alphabet-waymo-.html) |
-| Market | Nov 01, 2025 | [Interest rate backdrop supports playing offense with bonds, according to Goldman Sachs former ETF...](https://www.cnbc.com/2025/11/01/bonds-fed-rate-cuts-former-goldman-sachs-etf-head.html) |
 | Finance | Nov 04, 2025 | [Reeves prepares public for manifesto-breaking income tax rise](https://www.ft.com/content/75c67ea8-2123-4864-adf9-ea1d2469af3f) |
 | Finance | Nov 04, 2025 | [Chancellor bets on the long-term — will she be around to reap the benefits?](https://www.ft.com/content/222a5781-df94-434c-891f-bd5a4243739d) |
-| Finance | Nov 04, 2025 | [Reeves pledges to build bigger cushion in Budget to ‘withstand global turbulence’](https://www.ft.com/content/67188660-013a-45ce-8769-504479fc8b5e) |
 | Finance | Nov 04, 2025 | [The meaning of Zohran Mamdani](https://www.ft.com/content/92bf9fba-dc24-4384-9e84-a6f63473eb2f) |
-| Finance | Nov 03, 2025 | [UK welfare reform is unavoidable](https://www.ft.com/content/0bd791ae-7172-4352-9392-18bf5e65d572) |
+| Finance | Nov 04, 2025 | [The UK tax system is a mess — these are priorities for Reeves to reform](https://www.ft.com/content/79680dd5-8b00-4493-9cb5-2fdfe7749451) |
+| Finance | Nov 04, 2025 | [Don’t blame the left for US antisemitism](https://www.ft.com/content/77d75614-23d1-4c66-879d-b6602c7c4d87) |
 
 <!-- NEWS:END -->
 
