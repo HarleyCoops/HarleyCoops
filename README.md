@@ -79,11 +79,11 @@
 | Market | Nov 03, 2025 | [Ether falls 7% following a multimillion dollar hack of a decentralized finance protocol](https://www.cnbc.com/2025/11/03/ether-falls-9percent-following-a-multimillion-dollar-hack-of-a-decentralized-finance-protocol-.html) |
 | Market | Nov 03, 2025 | [Fed Governor Lisa Cook, in first policy speech since Trump suit, says she's undecided on Dec. rat...](https://www.cnbc.com/2025/11/03/fed-governor-lisa-cook-in-first-policy-speech-since-trump-suit-says-shes-undecided-on-dec-rate-cut.html) |
 | Market | Nov 03, 2025 | [Warren Buffett may have cut Berkshire's stake in Apple again in the third quarter](https://www.cnbc.com/2025/11/03/warren-buffett-may-have-again-cut-berkshires-stake-in-apple-in-q3-.html) |
-| Finance | Nov 05, 2025 | [Democrats win Virginia governor race as US voters offer verdict on Trump](https://www.ft.com/content/f47cbd25-0971-45e5-a69b-d79331c7160b) |
-| Finance | Nov 04, 2025 | [America votes: five states to watch in the off-year elections](https://www.ft.com/content/0c95788b-05dd-4b55-bf8f-3ccc048c368a) |
-| Finance | Nov 04, 2025 | [US stocks slide as investors fret over high valuations for AI companies](https://www.ft.com/content/a07c97d6-0780-4c3c-abc6-246fe19e5c5e) |
-| Finance | Nov 04, 2025 | [The UK tax system is a mess — these are priorities for Reeves to reform](https://www.ft.com/content/79680dd5-8b00-4493-9cb5-2fdfe7749451) |
-| Finance | Nov 04, 2025 | [Don’t blame the left for US antisemitism](https://www.ft.com/content/77d75614-23d1-4c66-879d-b6602c7c4d87) |
+| Finance | Nov 05, 2025 | [Mamdani wins New York as Democratic US electoral sweep deals blow to Trump](https://www.ft.com/content/8669125f-4a01-4185-aaa1-73ec7e7e93cf) |
+| Finance | Nov 05, 2025 | [US regional elections — as it happened: Virginia and New Jersey governor wins give Democrats conf...](https://www.ft.com/content/f47cbd25-0971-45e5-a69b-d79331c7160b) |
+| Finance | Nov 05, 2025 | [Wall Street offers cautious support to NY mayor-elect Zohran Mamdani](https://www.ft.com/content/a985953b-9e00-4b8f-9e08-2871e275b6aa) |
+| Finance | Nov 05, 2025 | [Bond markets are winning the Budget stand-off](https://www.ft.com/content/ae58fbcf-605f-4e97-b0f7-50bf7af4ff9b) |
+| Finance | Nov 05, 2025 | [Russia adds jet engines to Soviet-era ‘dumb bombs’](https://www.ft.com/content/b6d493dc-bd36-4140-bff8-c1bcdf992364) |
 
 <!-- NEWS:END -->
 
