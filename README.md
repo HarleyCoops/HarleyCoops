@@ -79,11 +79,11 @@
 | Market | Nov 05, 2025 | [Xpeng to let other carmakers use its partly-autonomous driving system](https://www.cnbc.com/2025/11/05/xpeng-to-let-other-carmakers-use-its-partly-autonomous-driving-system.html) |
 | Market | Nov 05, 2025 | [Chinese EV maker Xpeng to launch robotaxis, humanoid robots with self-developed AI chips](https://www.cnbc.com/2025/11/05/china-xpeng-to-launch-robotaxis-humanoid-robots-with-own-ai-chips.html) |
 | Market | Nov 05, 2025 | [Bitcoin retail investor at 'max desperation,' says Bitwise CIO, but crypto winter not coming](https://www.cnbc.com/2025/11/04/bitcoin-price-crypto-selling-retail-investor.html) |
-| Finance | Nov 05, 2025 | [Nvidia’s Jensen Huang says China ‘will win’ AI race with US](https://www.ft.com/content/53295276-ba8d-4ec2-b0de-081e73b3ba43) |
-| Finance | Nov 05, 2025 | [AI may fatally wound web’s ad model, warns Tim Berners-Lee](https://www.ft.com/content/20592619-1bb9-451e-b4af-fcd33d981076) |
 | Finance | Nov 05, 2025 | [Reeves set to spare UK banks from Budget tax raid](https://www.ft.com/content/efa985a0-c303-4f0a-8d6a-d1318550490c) |
-| Finance | Nov 05, 2025 | [Bond markets are winning the Budget stand-off](https://www.ft.com/content/ae58fbcf-605f-4e97-b0f7-50bf7af4ff9b) |
-| Finance | Nov 05, 2025 | [Mamdani and the new challenge for nation states](https://www.ft.com/content/f9c2c963-ad7e-45fb-ac20-3c1e028a3e9d) |
+| Finance | Nov 06, 2025 | [Reeves poised to unveil Budget plan for EV drivers to pay per mile charges](https://www.ft.com/content/9f90dee4-8afc-4623-90e9-bc5252874849) |
+| Finance | Nov 06, 2025 | [End of The Line: how Saudi Arabia’s Neom dream unravelled](https://ig.ft.com/saudi-neom-line/) |
+| Finance | Nov 06, 2025 | [Are bubbles good, actually?](https://www.ft.com/content/e860d0b3-1b06-40fb-ae0a-0070a4f5e4bb) |
+| Finance | Nov 06, 2025 | [KPMG axes ‘busy season’ overtime pay for junior auditors](https://www.ft.com/content/4831e9ea-62b6-4413-9594-92db9a2ccada) |
 
 <!-- NEWS:END -->
 
