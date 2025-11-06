@@ -74,14 +74,14 @@
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Nov 05, 2025 | [Prediction market traders slash odds Trump tariffs survive Supreme Court ruling](https://www.cnbc.com/2025/11/05/traders-on-prediction-markets-see-a-30percent-chance-supreme-court-backs-trumps-tariffs-.html) |
 | Market | Nov 05, 2025 | [Auto repair chain Monro soars after Carl Icahn takes 15% stake to become largest shareholder](https://www.cnbc.com/2025/11/05/auto-repair-chain-monro-soars-after-carl-icahn-takes-15percent-stake.html) |
 | Market | Nov 05, 2025 | [Xpeng to let other carmakers use its partly-autonomous driving system](https://www.cnbc.com/2025/11/05/xpeng-to-let-other-carmakers-use-its-partly-autonomous-driving-system.html) |
 | Market | Nov 05, 2025 | [Chinese EV maker Xpeng to launch robotaxis, humanoid robots with self-developed AI chips](https://www.cnbc.com/2025/11/05/china-xpeng-to-launch-robotaxis-humanoid-robots-with-own-ai-chips.html) |
 | Market | Nov 05, 2025 | [Bitcoin retail investor at 'max desperation,' says Bitwise CIO, but crypto winter not coming](https://www.cnbc.com/2025/11/04/bitcoin-price-crypto-selling-retail-investor.html) |
-| Market | Nov 04, 2025 | [Bitcoin falls below $100,000 for the first time since late June](https://www.cnbc.com/2025/11/04/bitcoins-november-sell-off-worsens-as-investors-take-risk-off-on-worries-about-the-ai-trade-.html) |
-| Finance | Nov 05, 2025 | [Democrats’ electoral sweep deals blow to Trump](https://www.ft.com/content/8669125f-4a01-4185-aaa1-73ec7e7e93cf) |
-| Finance | Nov 05, 2025 | [The Democrats find reasons for cheer](https://www.ft.com/content/f0a1f4c5-f0ef-43c8-9089-904b711f9241) |
-| Finance | Nov 05, 2025 | [Mamdani wins cautious support from Wall Street after New York victory](https://www.ft.com/content/a985953b-9e00-4b8f-9e08-2871e275b6aa) |
+| Finance | Nov 05, 2025 | [Nvidia’s Jensen Huang says China ‘will win’ AI race with US](https://www.ft.com/content/53295276-ba8d-4ec2-b0de-081e73b3ba43) |
+| Finance | Nov 05, 2025 | [AI may fatally wound web’s ad model, warns Tim Berners-Lee](https://www.ft.com/content/20592619-1bb9-451e-b4af-fcd33d981076) |
+| Finance | Nov 05, 2025 | [Reeves set to spare UK banks from Budget tax raid](https://www.ft.com/content/efa985a0-c303-4f0a-8d6a-d1318550490c) |
 | Finance | Nov 05, 2025 | [Bond markets are winning the Budget stand-off](https://www.ft.com/content/ae58fbcf-605f-4e97-b0f7-50bf7af4ff9b) |
 | Finance | Nov 05, 2025 | [Mamdani and the new challenge for nation states](https://www.ft.com/content/f9c2c963-ad7e-45fb-ac20-3c1e028a3e9d) |
 
