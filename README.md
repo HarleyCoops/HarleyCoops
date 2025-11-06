@@ -74,16 +74,16 @@
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Nov 06, 2025 | [Alibaba-backed Moonshot releases its second AI update in four months as China’s AI race heats up](https://www.cnbc.com/2025/11/06/alibaba-backed-moonshot-releases-new-ai-model-kimi-k2-thinking.html) |
 | Market | Nov 05, 2025 | [Prediction market traders slash odds Trump tariffs survive Supreme Court ruling](https://www.cnbc.com/2025/11/05/traders-on-prediction-markets-see-a-30percent-chance-supreme-court-backs-trumps-tariffs-.html) |
 | Market | Nov 05, 2025 | [Auto repair chain Monro soars after Carl Icahn takes 15% stake to become largest shareholder](https://www.cnbc.com/2025/11/05/auto-repair-chain-monro-soars-after-carl-icahn-takes-15percent-stake.html) |
 | Market | Nov 05, 2025 | [Xpeng to let other carmakers use its partly-autonomous driving system](https://www.cnbc.com/2025/11/05/xpeng-to-let-other-carmakers-use-its-partly-autonomous-driving-system.html) |
 | Market | Nov 05, 2025 | [Chinese EV maker Xpeng to launch robotaxis, humanoid robots with self-developed AI chips](https://www.cnbc.com/2025/11/05/china-xpeng-to-launch-robotaxis-humanoid-robots-with-own-ai-chips.html) |
-| Market | Nov 05, 2025 | [Bitcoin retail investor at 'max desperation,' says Bitwise CIO, but crypto winter not coming](https://www.cnbc.com/2025/11/04/bitcoin-price-crypto-selling-retail-investor.html) |
-| Finance | Nov 06, 2025 | [BoE keeps rates on hold at 4% in knife-edge decision](https://www.ft.com/content/9558b6ff-3fa9-4da9-80bb-67be07e1f153) |
-| Finance | Nov 06, 2025 | [Why Rachel Reeves won’t raise income tax](https://www.ft.com/content/54803787-c454-433e-b03a-96fc95805d90) |
+| Finance | Nov 06, 2025 | [US stocks slide as tech jitters return](https://www.ft.com/content/a05ce491-9b32-4de9-b878-b34805a861a3) |
+| Finance | Nov 05, 2025 | [Nvidia’s Huang says China ‘will win’ AI race with US](https://www.ft.com/content/53295276-ba8d-4ec2-b0de-081e73b3ba43) |
 | Finance | Nov 06, 2025 | [End of The Line: how Saudi Arabia’s Neom dream unravelled](https://ig.ft.com/saudi-neom-line/) |
-| Finance | Nov 06, 2025 | [The US can’t force Asian countries into its trade camp](https://www.ft.com/content/62e54b1e-1558-4692-b825-c4a6d08f8bc4) |
-| Finance | Nov 06, 2025 | [Are bubbles good, actually?](https://www.ft.com/content/e860d0b3-1b06-40fb-ae0a-0070a4f5e4bb) |
+| Finance | Nov 06, 2025 | [The inescapable logic of Labour’s choices](https://www.ft.com/content/00a57168-d04d-49cb-a8f9-71c3cc25e46f) |
+| Finance | Nov 06, 2025 | [It’s no surprise mistakes were made — prisons are in chaos](https://www.ft.com/content/6d4920ba-c906-44fd-8efd-b0c49dd6b747) |
 
 <!-- NEWS:END -->
 
