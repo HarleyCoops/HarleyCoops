@@ -79,11 +79,11 @@
 | Market | Nov 05, 2025 | [Auto repair chain Monro soars after Carl Icahn takes 15% stake to become largest shareholder](https://www.cnbc.com/2025/11/05/auto-repair-chain-monro-soars-after-carl-icahn-takes-15percent-stake.html) |
 | Market | Nov 05, 2025 | [Xpeng to let other carmakers use its partly-autonomous driving system](https://www.cnbc.com/2025/11/05/xpeng-to-let-other-carmakers-use-its-partly-autonomous-driving-system.html) |
 | Market | Nov 05, 2025 | [Chinese EV maker Xpeng to launch robotaxis, humanoid robots with self-developed AI chips](https://www.cnbc.com/2025/11/05/china-xpeng-to-launch-robotaxis-humanoid-robots-with-own-ai-chips.html) |
-| Finance | Nov 06, 2025 | [US stocks slide as tech jitters return](https://www.ft.com/content/a05ce491-9b32-4de9-b878-b34805a861a3) |
-| Finance | Nov 05, 2025 | [Nvidia’s Huang says China ‘will win’ AI race with US](https://www.ft.com/content/53295276-ba8d-4ec2-b0de-081e73b3ba43) |
-| Finance | Nov 06, 2025 | [End of The Line: how Saudi Arabia’s Neom dream unravelled](https://ig.ft.com/saudi-neom-line/) |
+| Finance | Nov 06, 2025 | [Tesla shareholders approve Elon Musk’s $1tn pay deal](https://www.ft.com/content/47ac6557-7ded-4f63-a767-173459a4df68) |
+| Finance | Nov 06, 2025 | [Gunvor drops $22bn bid for Lukoil assets after US moves to block deal](https://www.ft.com/content/19e5e9ce-781b-450f-aac0-f11bb404fb9b) |
 | Finance | Nov 06, 2025 | [The inescapable logic of Labour’s choices](https://www.ft.com/content/00a57168-d04d-49cb-a8f9-71c3cc25e46f) |
-| Finance | Nov 06, 2025 | [It’s no surprise mistakes were made — prisons are in chaos](https://www.ft.com/content/6d4920ba-c906-44fd-8efd-b0c49dd6b747) |
+| Finance | Nov 06, 2025 | [Sequoia’s shake-up may be a VC turning point](https://www.ft.com/content/1d8f4e92-bda6-4bc6-8aa6-3315b416b053) |
+| Finance | Nov 06, 2025 | [US money market at risk of fresh bout of stress, Wall Street banks say](https://www.ft.com/content/f4702f27-a632-459c-b518-aece20f1665e) |
 
 <!-- NEWS:END -->
 
