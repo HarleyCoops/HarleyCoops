@@ -79,10 +79,10 @@
 | Market | Nov 05, 2025 | [Auto repair chain Monro soars after Carl Icahn takes 15% stake to become largest shareholder](https://www.cnbc.com/2025/11/05/auto-repair-chain-monro-soars-after-carl-icahn-takes-15percent-stake.html) |
 | Market | Nov 05, 2025 | [Xpeng to let other carmakers use its partly-autonomous driving system](https://www.cnbc.com/2025/11/05/xpeng-to-let-other-carmakers-use-its-partly-autonomous-driving-system.html) |
 | Market | Nov 05, 2025 | [Chinese EV maker Xpeng to launch robotaxis, humanoid robots with self-developed AI chips](https://www.cnbc.com/2025/11/05/china-xpeng-to-launch-robotaxis-humanoid-robots-with-own-ai-chips.html) |
-| Finance | Nov 07, 2025 | [Elon Musk celebrates $1tn Tesla pay vote victory](https://www.ft.com/content/1062c6cb-c56d-4525-be57-28cadf273cea) |
-| Finance | Nov 07, 2025 | [UK military top brass mix with defence executives at luxury Alpine event](https://www.ft.com/content/5d6f3183-c8c0-4dc0-9d11-c1deac5e4ad9) |
+| Finance | Nov 07, 2025 | [EU set to water down landmark AI act after Big Tech pressure](https://www.ft.com/content/af6c6dbe-ce63-47cc-8923-8bce4007f6e1) |
+| Finance | Nov 07, 2025 | [The book that China watchers count on](https://www.ft.com/content/06611bfa-5705-4f58-9ed1-5d4c869769b3) |
 | Finance | Nov 07, 2025 | [Beware the three Ls: leverage, liquidity and lunacy](https://www.ft.com/content/f142e341-c618-42e6-8f45-46aa60d42e41) |
-| Finance | Nov 07, 2025 | [The cable news-ification of everything](https://www.ft.com/content/50603d73-49fe-4d2d-b9e9-5cfe39be0353) |
+| Finance | Nov 07, 2025 | [Why American-style polarisation is spreading across the west](https://www.ft.com/content/50603d73-49fe-4d2d-b9e9-5cfe39be0353) |
 | Finance | Nov 07, 2025 | [EU demands UK pay into budget as part of relationship ‘reset’](https://www.ft.com/content/89635a56-1436-498c-bded-f185342ad619) |
 
 <!-- NEWS:END -->
