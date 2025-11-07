@@ -74,15 +74,15 @@
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Nov 07, 2025 | [$1.7 trillion-dollar ETF giant State Street says 401(k) market about to face new low-cost challenger](https://www.cnbc.com/2025/11/07/etf-giant-state-street-401k-plan-retirement-market-new-low-cost-challenge.html) |
 | Market | Nov 06, 2025 | [Alibaba-backed Moonshot releases its second AI update in four months as China’s AI race heats up](https://www.cnbc.com/2025/11/06/alibaba-backed-moonshot-releases-new-ai-model-kimi-k2-thinking.html) |
 | Market | Nov 05, 2025 | [Prediction market traders slash odds Trump tariffs survive Supreme Court ruling](https://www.cnbc.com/2025/11/05/traders-on-prediction-markets-see-a-30percent-chance-supreme-court-backs-trumps-tariffs-.html) |
 | Market | Nov 05, 2025 | [Auto repair chain Monro soars after Carl Icahn takes 15% stake to become largest shareholder](https://www.cnbc.com/2025/11/05/auto-repair-chain-monro-soars-after-carl-icahn-takes-15percent-stake.html) |
 | Market | Nov 05, 2025 | [Xpeng to let other carmakers use its partly-autonomous driving system](https://www.cnbc.com/2025/11/05/xpeng-to-let-other-carmakers-use-its-partly-autonomous-driving-system.html) |
-| Market | Nov 05, 2025 | [Chinese EV maker Xpeng to launch robotaxis, humanoid robots with self-developed AI chips](https://www.cnbc.com/2025/11/05/china-xpeng-to-launch-robotaxis-humanoid-robots-with-own-ai-chips.html) |
-| Finance | Nov 07, 2025 | [EU set to water down landmark AI act after Big Tech pressure](https://www.ft.com/content/af6c6dbe-ce63-47cc-8923-8bce4007f6e1) |
-| Finance | Nov 07, 2025 | [The book that China watchers count on](https://www.ft.com/content/06611bfa-5705-4f58-9ed1-5d4c869769b3) |
-| Finance | Nov 07, 2025 | [Beware the three Ls: leverage, liquidity and lunacy](https://www.ft.com/content/f142e341-c618-42e6-8f45-46aa60d42e41) |
-| Finance | Nov 07, 2025 | [Why American-style polarisation is spreading across the west](https://www.ft.com/content/50603d73-49fe-4d2d-b9e9-5cfe39be0353) |
+| Finance | Nov 07, 2025 | [Tech stocks head for worst week since April after $1.2tn AI sell-off](https://www.ft.com/content/8c6e3c18-c5a0-4f60-bac4-fcdab6328bf8) |
+| Finance | Nov 07, 2025 | [Bridget Riley: ‘I want my paintings to make people feel alive’](https://www.ft.com/content/dc741457-0b0e-44f8-8a5a-837734b211de) |
+| Finance | Nov 07, 2025 | [Has Trump passed his peak?](https://www.ft.com/content/7913d3ad-9e87-4640-8ea8-0593f6647ccb) |
+| Finance | Nov 07, 2025 | [It’s time to stop passing the parcel on welfare](https://www.ft.com/content/eb0c2d17-81b5-4741-a9fd-3f1dcbbfc8cc) |
 | Finance | Nov 07, 2025 | [EU demands UK pay into budget as part of relationship ‘reset’](https://www.ft.com/content/89635a56-1436-498c-bded-f185342ad619) |
 
 <!-- NEWS:END -->
