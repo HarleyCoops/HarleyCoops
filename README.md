@@ -74,16 +74,16 @@
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
-| Market | Nov 07, 2025 | [$1.7 trillion-dollar ETF giant State Street says 401(k) market about to face new low-cost challenger](https://www.cnbc.com/2025/11/07/etf-giant-state-street-401k-plan-retirement-market-new-low-cost-challenge.html) |
+| Market | Nov 07, 2025 | [Fed's Miran says stablecoin surge could help push interest rates lower](https://www.cnbc.com/2025/11/07/feds-miran-says-stablecoin-surge-could-help-push-interest-rates-lower.html) |
+| Market | Nov 07, 2025 | [Low-cost ETFs in 401(k) retirement plan? Fund giant State Street says you may soon see something ...](https://www.cnbc.com/2025/11/07/etf-giant-state-street-401k-plan-retirement-market-new-low-cost-challenge.html) |
 | Market | Nov 06, 2025 | [Alibaba-backed Moonshot releases its second AI update in four months as China’s AI race heats up](https://www.cnbc.com/2025/11/06/alibaba-backed-moonshot-releases-new-ai-model-kimi-k2-thinking.html) |
 | Market | Nov 05, 2025 | [Prediction market traders slash odds Trump tariffs survive Supreme Court ruling](https://www.cnbc.com/2025/11/05/traders-on-prediction-markets-see-a-30percent-chance-supreme-court-backs-trumps-tariffs-.html) |
 | Market | Nov 05, 2025 | [Auto repair chain Monro soars after Carl Icahn takes 15% stake to become largest shareholder](https://www.cnbc.com/2025/11/05/auto-repair-chain-monro-soars-after-carl-icahn-takes-15percent-stake.html) |
-| Market | Nov 05, 2025 | [Xpeng to let other carmakers use its partly-autonomous driving system](https://www.cnbc.com/2025/11/05/xpeng-to-let-other-carmakers-use-its-partly-autonomous-driving-system.html) |
-| Finance | Nov 07, 2025 | [Tech stocks head for worst week since April after $1.2tn AI sell-off](https://www.ft.com/content/8c6e3c18-c5a0-4f60-bac4-fcdab6328bf8) |
-| Finance | Nov 07, 2025 | [Bridget Riley: ‘I want my paintings to make people feel alive’](https://www.ft.com/content/dc741457-0b0e-44f8-8a5a-837734b211de) |
+| Finance | Nov 07, 2025 | [Reeves plans £2bn Budget raid on UK retirement savings](https://www.ft.com/content/556ba05c-6a30-4d8c-834d-7125856215e4) |
+| Finance | Nov 07, 2025 | [Income tax rise in manifesto’s ‘spirit’, say Labour figures](https://www.ft.com/content/421f581e-0803-44ab-a333-e8c5fc684264) |
+| Finance | Nov 07, 2025 | [The politics of breaking manifesto promises](https://www.ft.com/content/9e5655f7-85fe-4157-8ef4-709c238efa77) |
+| Finance | Nov 07, 2025 | [Tech stocks suffer worst week since April after $800bn AI sell-off](https://www.ft.com/content/8c6e3c18-c5a0-4f60-bac4-fcdab6328bf8) |
 | Finance | Nov 07, 2025 | [Has Trump passed his peak?](https://www.ft.com/content/7913d3ad-9e87-4640-8ea8-0593f6647ccb) |
-| Finance | Nov 07, 2025 | [It’s time to stop passing the parcel on welfare](https://www.ft.com/content/eb0c2d17-81b5-4741-a9fd-3f1dcbbfc8cc) |
-| Finance | Nov 07, 2025 | [EU demands UK pay into budget as part of relationship ‘reset’](https://www.ft.com/content/89635a56-1436-498c-bded-f185342ad619) |
 
 <!-- NEWS:END -->
 
