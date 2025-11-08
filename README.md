@@ -80,10 +80,10 @@
 | Market | Nov 05, 2025 | [Prediction market traders slash odds Trump tariffs survive Supreme Court ruling](https://www.cnbc.com/2025/11/05/traders-on-prediction-markets-see-a-30percent-chance-supreme-court-backs-trumps-tariffs-.html) |
 | Market | Nov 05, 2025 | [Auto repair chain Monro soars after Carl Icahn takes 15% stake to become largest shareholder](https://www.cnbc.com/2025/11/05/auto-repair-chain-monro-soars-after-carl-icahn-takes-15percent-stake.html) |
 | Finance | Nov 07, 2025 | [Reeves plans £2bn Budget raid on UK retirement savings](https://www.ft.com/content/556ba05c-6a30-4d8c-834d-7125856215e4) |
-| Finance | Nov 07, 2025 | [Income tax rise in manifesto’s ‘spirit’, say Labour figures](https://www.ft.com/content/421f581e-0803-44ab-a333-e8c5fc684264) |
 | Finance | Nov 07, 2025 | [The politics of breaking manifesto promises](https://www.ft.com/content/9e5655f7-85fe-4157-8ef4-709c238efa77) |
-| Finance | Nov 07, 2025 | [Tech stocks suffer worst week since April after $800bn AI sell-off](https://www.ft.com/content/8c6e3c18-c5a0-4f60-bac4-fcdab6328bf8) |
-| Finance | Nov 07, 2025 | [Has Trump passed his peak?](https://www.ft.com/content/7913d3ad-9e87-4640-8ea8-0593f6647ccb) |
+| Finance | Nov 08, 2025 | [More than 1mn paid highest rate of tax last year due to frozen thresholds](https://www.ft.com/content/593354b4-581d-4547-ab6a-ffe1bb38d5e7) |
+| Finance | Nov 08, 2025 | [Yuval Noah Harari: Only generosity can secure peace between Israelis and Palestinians](https://www.ft.com/content/04078017-18b1-4c63-8521-198c69684255) |
+| Finance | Nov 08, 2025 | [The tragedy of specialisation](https://www.ft.com/content/5752caa5-7318-418a-b8ac-b7dcba2f7256) |
 
 <!-- NEWS:END -->
 
