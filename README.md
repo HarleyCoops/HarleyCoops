@@ -79,11 +79,11 @@
 | Market | Nov 07, 2025 | [Low-cost ETFs in 401(k) retirement plan? Fund giant State Street says you may soon see something ...](https://www.cnbc.com/2025/11/07/etf-giant-state-street-401k-plan-retirement-market-new-low-cost-challenge.html) |
 | Market | Nov 06, 2025 | [Alibaba-backed Moonshot releases its second AI update in four months as China’s AI race heats up](https://www.cnbc.com/2025/11/06/alibaba-backed-moonshot-releases-new-ai-model-kimi-k2-thinking.html) |
 | Market | Nov 05, 2025 | [Prediction market traders slash odds Trump tariffs survive Supreme Court ruling](https://www.cnbc.com/2025/11/05/traders-on-prediction-markets-see-a-30percent-chance-supreme-court-backs-trumps-tariffs-.html) |
-| Finance | Nov 09, 2025 | [Private equity steps in as Europe’s last industrial groups splinter](https://www.ft.com/content/b2861b49-f10d-4f12-b8c6-d866bb4eb84e) |
+| Finance | Nov 09, 2025 | [Dollar volatility tumbles as currency markets move past ‘Trump shock’](https://www.ft.com/content/c81711f8-c5df-464b-95cc-3e66f86ee989) |
+| Finance | Nov 09, 2025 | [Gulf between rich and poor risks US downturn, Fed official warns](https://www.ft.com/content/32e292ca-c906-4a47-8662-3e6f7b1a5327) |
+| Finance | Nov 09, 2025 | [Here’s what a new US-Mexico-Canada trade deal should look like](https://www.ft.com/content/191e3601-9838-45cb-a976-c265ea9a9263) |
 | Finance | Nov 09, 2025 | [What Mamdani and Martha Stewart tell us about the vibe shift](https://www.ft.com/content/a95c76cd-57ac-40ba-9e1c-7f45da4dcc43) |
-| Finance | Nov 09, 2025 | [The CEO trying to end the curse of the pointless meeting](https://www.ft.com/content/a27b57df-7515-4a2e-bc42-8e6894a7957a) |
-| Finance | Nov 09, 2025 | [Lloyds quietly builds £2bn rental portfolio to become major UK landlord](https://www.ft.com/content/3c59c0bd-5f8c-491b-8f25-c0dab8669c48) |
-| Finance | Nov 09, 2025 | [Lloyds Bank’s landlord experiment starts to earn its keep](https://www.ft.com/content/751b58db-b22c-40ab-8451-ed93aff4a679) |
+| Finance | Nov 09, 2025 | [Wealthy Chinese sidestep Singapore for Dubai](https://www.ft.com/content/120e6bc7-a90b-4e86-9d56-1d06519ad17c) |
 
 <!-- NEWS:END -->
 
