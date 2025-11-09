@@ -79,11 +79,11 @@
 | Market | Nov 07, 2025 | [Low-cost ETFs in 401(k) retirement plan? Fund giant State Street says you may soon see something ...](https://www.cnbc.com/2025/11/07/etf-giant-state-street-401k-plan-retirement-market-new-low-cost-challenge.html) |
 | Market | Nov 06, 2025 | [Alibaba-backed Moonshot releases its second AI update in four months as China’s AI race heats up](https://www.cnbc.com/2025/11/06/alibaba-backed-moonshot-releases-new-ai-model-kimi-k2-thinking.html) |
 | Market | Nov 05, 2025 | [Prediction market traders slash odds Trump tariffs survive Supreme Court ruling](https://www.cnbc.com/2025/11/05/traders-on-prediction-markets-see-a-30percent-chance-supreme-court-backs-trumps-tariffs-.html) |
-| Finance | Nov 08, 2025 | [More than 1mn paid highest rate of tax last year due to frozen thresholds](https://www.ft.com/content/593354b4-581d-4547-ab6a-ffe1bb38d5e7) |
-| Finance | Nov 08, 2025 | [Yuval Noah Harari: Only generosity can secure peace between Israelis and Palestinians](https://www.ft.com/content/04078017-18b1-4c63-8521-198c69684255) |
-| Finance | Nov 08, 2025 | [The tragedy of specialisation](https://www.ft.com/content/5752caa5-7318-418a-b8ac-b7dcba2f7256) |
-| Finance | Nov 08, 2025 | [Trump’s Maga coalition fractures over far-right interview](https://www.ft.com/content/17fc151e-a2f2-47f5-b5f2-329894182eba) |
-| Finance | Nov 08, 2025 | [More young adults to leave UK because of low salaries and rising tax burden, wealth managers say](https://www.ft.com/content/8463d8f3-e4ae-4ffa-9b7b-b32d4f54e1e4) |
+| Finance | Nov 09, 2025 | [Private equity steps in as Europe’s last industrial groups splinter](https://www.ft.com/content/b2861b49-f10d-4f12-b8c6-d866bb4eb84e) |
+| Finance | Nov 09, 2025 | [What Mamdani and Martha Stewart tell us about the vibe shift](https://www.ft.com/content/a95c76cd-57ac-40ba-9e1c-7f45da4dcc43) |
+| Finance | Nov 09, 2025 | [The CEO trying to end the curse of the pointless meeting](https://www.ft.com/content/a27b57df-7515-4a2e-bc42-8e6894a7957a) |
+| Finance | Nov 09, 2025 | [Lloyds quietly builds £2bn rental portfolio to become major UK landlord](https://www.ft.com/content/3c59c0bd-5f8c-491b-8f25-c0dab8669c48) |
+| Finance | Nov 09, 2025 | [Lloyds Bank’s landlord experiment starts to earn its keep](https://www.ft.com/content/751b58db-b22c-40ab-8451-ed93aff4a679) |
 
 <!-- NEWS:END -->
 
