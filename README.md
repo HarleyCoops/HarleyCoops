@@ -79,11 +79,11 @@
 | Market | Nov 07, 2025 | [Low-cost ETFs in 401(k) retirement plan? Fund giant State Street says you may soon see something ...](https://www.cnbc.com/2025/11/07/etf-giant-state-street-401k-plan-retirement-market-new-low-cost-challenge.html) |
 | Market | Nov 06, 2025 | [Alibaba-backed Moonshot releases its second AI update in four months as China’s AI race heats up](https://www.cnbc.com/2025/11/06/alibaba-backed-moonshot-releases-new-ai-model-kimi-k2-thinking.html) |
 | Market | Nov 05, 2025 | [Prediction market traders slash odds Trump tariffs survive Supreme Court ruling](https://www.cnbc.com/2025/11/05/traders-on-prediction-markets-see-a-30percent-chance-supreme-court-backs-trumps-tariffs-.html) |
-| Finance | Nov 09, 2025 | [Dollar volatility tumbles as currency markets move past ‘Trump shock’](https://www.ft.com/content/c81711f8-c5df-464b-95cc-3e66f86ee989) |
-| Finance | Nov 09, 2025 | [Gulf between rich and poor risks US downturn, Fed official warns](https://www.ft.com/content/32e292ca-c906-4a47-8662-3e6f7b1a5327) |
-| Finance | Nov 09, 2025 | [Here’s what a new US-Mexico-Canada trade deal should look like](https://www.ft.com/content/191e3601-9838-45cb-a976-c265ea9a9263) |
-| Finance | Nov 09, 2025 | [What Mamdani and Martha Stewart tell us about the vibe shift](https://www.ft.com/content/a95c76cd-57ac-40ba-9e1c-7f45da4dcc43) |
+| Finance | Nov 09, 2025 | [BBC boss Tim Davie resigns](https://www.ft.com/content/ccc0ec9a-aba6-4380-aeaa-ffe5fe803578) |
+| Finance | Nov 09, 2025 | [Officials warn of big hit to air travel and GDP as US government shutdown drags on](https://www.ft.com/content/8780f61f-e40d-4e5c-8867-49cdd75d29a7) |
+| Finance | Nov 09, 2025 | [Voice phishing is AI fraud in real time](https://www.ft.com/content/2134dc55-c994-426e-98eb-ee4221819053) |
 | Finance | Nov 09, 2025 | [Wealthy Chinese sidestep Singapore for Dubai](https://www.ft.com/content/120e6bc7-a90b-4e86-9d56-1d06519ad17c) |
+| Finance | Nov 09, 2025 | [Dollar volatility tumbles as currency markets move past ‘Trump shock’](https://www.ft.com/content/c81711f8-c5df-464b-95cc-3e66f86ee989) |
 
 <!-- NEWS:END -->
 
