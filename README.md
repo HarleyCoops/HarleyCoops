@@ -79,11 +79,11 @@
 | Market | Nov 07, 2025 | [Low-cost ETFs in 401(k) retirement plan? Fund giant State Street says you may soon see something ...](https://www.cnbc.com/2025/11/07/etf-giant-state-street-401k-plan-retirement-market-new-low-cost-challenge.html) |
 | Market | Nov 06, 2025 | [Alibaba-backed Moonshot releases its second AI update in four months as China’s AI race heats up](https://www.cnbc.com/2025/11/06/alibaba-backed-moonshot-releases-new-ai-model-kimi-k2-thinking.html) |
 | Market | Nov 05, 2025 | [Prediction market traders slash odds Trump tariffs survive Supreme Court ruling](https://www.cnbc.com/2025/11/05/traders-on-prediction-markets-see-a-30percent-chance-supreme-court-backs-trumps-tariffs-.html) |
-| Finance | Nov 07, 2025 | [The politics of breaking manifesto promises](https://www.ft.com/content/9e5655f7-85fe-4157-8ef4-709c238efa77) |
-| Finance | Nov 07, 2025 | [Reeves plans £2bn Budget raid on UK retirement savings](https://www.ft.com/content/556ba05c-6a30-4d8c-834d-7125856215e4) |
 | Finance | Nov 08, 2025 | [More than 1mn paid highest rate of tax last year due to frozen thresholds](https://www.ft.com/content/593354b4-581d-4547-ab6a-ffe1bb38d5e7) |
 | Finance | Nov 08, 2025 | [Yuval Noah Harari: Only generosity can secure peace between Israelis and Palestinians](https://www.ft.com/content/04078017-18b1-4c63-8521-198c69684255) |
 | Finance | Nov 08, 2025 | [The tragedy of specialisation](https://www.ft.com/content/5752caa5-7318-418a-b8ac-b7dcba2f7256) |
+| Finance | Nov 08, 2025 | [Trump’s Maga coalition fractures over far-right interview](https://www.ft.com/content/17fc151e-a2f2-47f5-b5f2-329894182eba) |
+| Finance | Nov 08, 2025 | [More young adults to leave UK because of low salaries and rising tax burden, wealth managers say](https://www.ft.com/content/8463d8f3-e4ae-4ffa-9b7b-b32d4f54e1e4) |
 
 <!-- NEWS:END -->
 
