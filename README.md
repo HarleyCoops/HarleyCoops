@@ -79,11 +79,11 @@
 | Market | Nov 07, 2025 | [Low-cost ETFs in 401(k) retirement plan? Fund giant State Street says you may soon see something ...](https://www.cnbc.com/2025/11/07/etf-giant-state-street-401k-plan-retirement-market-new-low-cost-challenge.html) |
 | Market | Nov 06, 2025 | [Alibaba-backed Moonshot releases its second AI update in four months as China’s AI race heats up](https://www.cnbc.com/2025/11/06/alibaba-backed-moonshot-releases-new-ai-model-kimi-k2-thinking.html) |
 | Market | Nov 05, 2025 | [Prediction market traders slash odds Trump tariffs survive Supreme Court ruling](https://www.cnbc.com/2025/11/05/traders-on-prediction-markets-see-a-30percent-chance-supreme-court-backs-trumps-tariffs-.html) |
-| Finance | Nov 09, 2025 | [BBC boss Tim Davie resigns over Trump documentary edit](https://www.ft.com/content/ccc0ec9a-aba6-4380-aeaa-ffe5fe803578) |
-| Finance | Nov 10, 2025 | [US senators take first step to end government shutdown](https://www.ft.com/content/66869481-4189-438b-9c16-94560861c08f) |
-| Finance | Nov 10, 2025 | [The disturbing victory of Old Labour over New Labour](https://www.ft.com/content/b88e6cce-f2f4-46fb-9278-65497ab540cd) |
+| Finance | Nov 10, 2025 | [BBC boss Tim Davie resigns over Trump documentary edit](https://www.ft.com/content/ccc0ec9a-aba6-4380-aeaa-ffe5fe803578) |
+| Finance | Nov 10, 2025 | [To fix the BBC, focus on competence and cash](https://www.ft.com/content/676c3c30-aee5-427f-afa8-f12cb917e26c) |
 | Finance | Nov 10, 2025 | [The new crop of rating agencies behind the private credit boom](https://www.ft.com/content/213c8c74-33e2-4a31-9633-38153f25fa78) |
-| Finance | Nov 10, 2025 | [Von der Leyen dodged Starmer request for meeting on EU money demands](https://www.ft.com/content/03ef60b7-809f-4a24-b2c1-339b9529d758) |
+| Finance | Nov 10, 2025 | [The disturbing victory of Old Labour over New Labour](https://www.ft.com/content/b88e6cce-f2f4-46fb-9278-65497ab540cd) |
+| Finance | Nov 10, 2025 | [Reasons to be bearish about China’s rise](https://www.ft.com/content/146750fa-acd4-4814-afc8-a814a726c555) |
 
 <!-- NEWS:END -->
 
