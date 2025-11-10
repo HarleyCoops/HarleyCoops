@@ -80,10 +80,10 @@
 | Market | Nov 06, 2025 | [Alibaba-backed Moonshot releases its second AI update in four months as China’s AI race heats up](https://www.cnbc.com/2025/11/06/alibaba-backed-moonshot-releases-new-ai-model-kimi-k2-thinking.html) |
 | Market | Nov 05, 2025 | [Prediction market traders slash odds Trump tariffs survive Supreme Court ruling](https://www.cnbc.com/2025/11/05/traders-on-prediction-markets-see-a-30percent-chance-supreme-court-backs-trumps-tariffs-.html) |
 | Finance | Nov 09, 2025 | [BBC boss Tim Davie resigns over Trump documentary edit](https://www.ft.com/content/ccc0ec9a-aba6-4380-aeaa-ffe5fe803578) |
-| Finance | Nov 10, 2025 | [US senators strike deal in first step to ending government shutdown](https://www.ft.com/content/66869481-4189-438b-9c16-94560861c08f) |
-| Finance | Nov 09, 2025 | [Voice phishing is AI fraud in real time](https://www.ft.com/content/2134dc55-c994-426e-98eb-ee4221819053) |
-| Finance | Nov 09, 2025 | [Wealthy Chinese sidestep Singapore for Dubai](https://www.ft.com/content/120e6bc7-a90b-4e86-9d56-1d06519ad17c) |
-| Finance | Nov 09, 2025 | [Dollar volatility tumbles as currency markets move past ‘Trump shock’](https://www.ft.com/content/c81711f8-c5df-464b-95cc-3e66f86ee989) |
+| Finance | Nov 10, 2025 | [US senators take first step to end government shutdown](https://www.ft.com/content/66869481-4189-438b-9c16-94560861c08f) |
+| Finance | Nov 10, 2025 | [The disturbing victory of Old Labour over New Labour](https://www.ft.com/content/b88e6cce-f2f4-46fb-9278-65497ab540cd) |
+| Finance | Nov 10, 2025 | [The new crop of rating agencies behind the private credit boom](https://www.ft.com/content/213c8c74-33e2-4a31-9633-38153f25fa78) |
+| Finance | Nov 10, 2025 | [Von der Leyen dodged Starmer request for meeting on EU money demands](https://www.ft.com/content/03ef60b7-809f-4a24-b2c1-339b9529d758) |
 
 <!-- NEWS:END -->
 
