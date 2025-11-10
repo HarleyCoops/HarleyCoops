@@ -74,16 +74,16 @@
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Nov 10, 2025 | [Trump proposes 50-year mortgage, but some say homeowner savings would be minimal](https://www.cnbc.com/2025/11/10/trump-proposes-50-year-mortgage-but-homeowner-savings-could-be-minimal.html) |
+| Market | Nov 10, 2025 | [Warren Buffett to step up giving away fortune to his children’s foundations, while supporting suc...](https://www.cnbc.com/2025/11/10/warren-buffett-to-step-up-giving-away-fortune-to-his-childrens-foundations-while-supporting-successor-abel.html) |
+| Market | Nov 10, 2025 | [Miran says half-point cut 'appropriate' for December, but Fed should at least reduce by a quarter...](https://www.cnbc.com/2025/11/10/miran-says-half-point-cut-appropriate-for-december-but-fed-should-at-least-reduce-by-a-quarter-point.html) |
 | Market | Nov 08, 2025 | [Too early to bet against AI trade, State Street suggests](https://www.cnbc.com/2025/11/08/ai-big-tech-bull-case-despite-nasdaqs-worst-week-since-april-.html) |
 | Market | Nov 07, 2025 | [Fed's Miran says stablecoin surge could help push interest rates lower](https://www.cnbc.com/2025/11/07/feds-miran-says-stablecoin-surge-could-help-push-interest-rates-lower.html) |
-| Market | Nov 07, 2025 | [Low-cost ETFs in 401(k) retirement plan? Fund giant State Street says you may soon see something ...](https://www.cnbc.com/2025/11/07/etf-giant-state-street-401k-plan-retirement-market-new-low-cost-challenge.html) |
-| Market | Nov 06, 2025 | [Alibaba-backed Moonshot releases its second AI update in four months as China’s AI race heats up](https://www.cnbc.com/2025/11/06/alibaba-backed-moonshot-releases-new-ai-model-kimi-k2-thinking.html) |
-| Market | Nov 05, 2025 | [Prediction market traders slash odds Trump tariffs survive Supreme Court ruling](https://www.cnbc.com/2025/11/05/traders-on-prediction-markets-see-a-30percent-chance-supreme-court-backs-trumps-tariffs-.html) |
-| Finance | Nov 10, 2025 | [BBC boss Tim Davie resigns over Trump documentary edit](https://www.ft.com/content/ccc0ec9a-aba6-4380-aeaa-ffe5fe803578) |
+| Finance | Nov 10, 2025 | [Trump threatens to sue BBC for $1bn over January 6 speech edit](https://www.ft.com/content/758d5947-1574-416f-938d-6f8b1bc276ef) |
 | Finance | Nov 10, 2025 | [To fix the BBC, focus on competence and cash](https://www.ft.com/content/676c3c30-aee5-427f-afa8-f12cb917e26c) |
 | Finance | Nov 10, 2025 | [The new crop of rating agencies behind the private credit boom](https://www.ft.com/content/213c8c74-33e2-4a31-9633-38153f25fa78) |
+| Finance | Nov 10, 2025 | [The nuclear arms race is back](https://www.ft.com/content/3c303425-95f4-408b-be0a-e2f08ab93cf7) |
 | Finance | Nov 10, 2025 | [The disturbing victory of Old Labour over New Labour](https://www.ft.com/content/b88e6cce-f2f4-46fb-9278-65497ab540cd) |
-| Finance | Nov 10, 2025 | [Reasons to be bearish about China’s rise](https://www.ft.com/content/146750fa-acd4-4814-afc8-a814a726c555) |
 
 <!-- NEWS:END -->
 
