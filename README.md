@@ -79,11 +79,11 @@
 | Market | Nov 10, 2025 | [Miran says half-point cut 'appropriate' for December, but Fed should at least reduce by a quarter...](https://www.cnbc.com/2025/11/10/miran-says-half-point-cut-appropriate-for-december-but-fed-should-at-least-reduce-by-a-quarter-point.html) |
 | Market | Nov 08, 2025 | [Too early to bet against AI trade, State Street suggests](https://www.cnbc.com/2025/11/08/ai-big-tech-bull-case-despite-nasdaqs-worst-week-since-april-.html) |
 | Market | Nov 07, 2025 | [Fed's Miran says stablecoin surge could help push interest rates lower](https://www.cnbc.com/2025/11/07/feds-miran-says-stablecoin-surge-could-help-push-interest-rates-lower.html) |
-| Finance | Nov 10, 2025 | [Trump threatens to sue BBC for $1bn over January 6 speech edit](https://www.ft.com/content/758d5947-1574-416f-938d-6f8b1bc276ef) |
-| Finance | Nov 10, 2025 | [To fix the BBC, focus on competence and cash](https://www.ft.com/content/676c3c30-aee5-427f-afa8-f12cb917e26c) |
-| Finance | Nov 10, 2025 | [The new crop of rating agencies behind the private credit boom](https://www.ft.com/content/213c8c74-33e2-4a31-9633-38153f25fa78) |
-| Finance | Nov 10, 2025 | [The nuclear arms race is back](https://www.ft.com/content/3c303425-95f4-408b-be0a-e2f08ab93cf7) |
-| Finance | Nov 10, 2025 | [The disturbing victory of Old Labour over New Labour](https://www.ft.com/content/b88e6cce-f2f4-46fb-9278-65497ab540cd) |
+| Finance | Nov 10, 2025 | [Reeves signals she will break manifesto pledge with Budget tax rises](https://www.ft.com/content/a50292e5-d74b-4472-9154-865e581bc712) |
+| Finance | Nov 10, 2025 | [Cap on UK salary sacrifice benefits is ‘short-term’ choice, warn experts](https://www.ft.com/content/11602ac1-44fc-4b58-8b17-af5e851f5c95) |
+| Finance | Nov 10, 2025 | [Higher UK dividend taxes risk hurting small business, wealth managers warn](https://www.ft.com/content/a3977458-5fec-4fec-bcbc-dade35c5c49c) |
+| Finance | Nov 10, 2025 | [BBC faces ‘existential’ threat after exit of top executives](https://www.ft.com/content/28b40d2f-f4e0-4976-87ca-584a0938076c) |
+| Finance | Nov 10, 2025 | [Crucial lessons for the BBC](https://www.ft.com/content/406ea226-9ab5-4400-8b37-ba9fe475f9fe) |
 
 <!-- NEWS:END -->
 
