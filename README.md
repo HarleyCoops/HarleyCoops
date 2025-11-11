@@ -79,11 +79,11 @@
 | Market | Nov 10, 2025 | [Miran says half-point cut 'appropriate' for December, but Fed should at least reduce by a quarter...](https://www.cnbc.com/2025/11/10/miran-says-half-point-cut-appropriate-for-december-but-fed-should-at-least-reduce-by-a-quarter-point.html) |
 | Market | Nov 08, 2025 | [Too early to bet against AI trade, State Street suggests](https://www.cnbc.com/2025/11/08/ai-big-tech-bull-case-despite-nasdaqs-worst-week-since-april-.html) |
 | Market | Nov 07, 2025 | [Fed's Miran says stablecoin surge could help push interest rates lower](https://www.cnbc.com/2025/11/07/feds-miran-says-stablecoin-surge-could-help-push-interest-rates-lower.html) |
-| Finance | Nov 10, 2025 | [Reeves signals she will break manifesto pledge with Budget tax rises](https://www.ft.com/content/a50292e5-d74b-4472-9154-865e581bc712) |
-| Finance | Nov 10, 2025 | [Cap on UK salary sacrifice benefits is ‘short-term’ choice, warn experts](https://www.ft.com/content/11602ac1-44fc-4b58-8b17-af5e851f5c95) |
-| Finance | Nov 10, 2025 | [Higher UK dividend taxes risk hurting small business, wealth managers warn](https://www.ft.com/content/a3977458-5fec-4fec-bcbc-dade35c5c49c) |
-| Finance | Nov 10, 2025 | [BBC faces ‘existential’ threat after exit of top executives](https://www.ft.com/content/28b40d2f-f4e0-4976-87ca-584a0938076c) |
-| Finance | Nov 10, 2025 | [Crucial lessons for the BBC](https://www.ft.com/content/406ea226-9ab5-4400-8b37-ba9fe475f9fe) |
+| Finance | Nov 11, 2025 | [Investor angst over Big Tech’s AI spending spills into bond market](https://www.ft.com/content/d2bf6c25-fb42-4f13-b81c-a72883632f50) |
+| Finance | Nov 11, 2025 | [How the world’s biggest mining project is a win for China](https://www.ft.com/content/9fe8f588-5383-4fde-b2f7-11fcbb206384) |
+| Finance | Nov 11, 2025 | [The UK’s fiscal problems aren’t just about growth](https://www.ft.com/content/a2ef55c2-3a0e-434e-b7c1-a40462730202) |
+| Finance | Nov 11, 2025 | [The British company filling the world’s airport lounges](https://www.ft.com/content/e14764b6-ac74-49ca-bd12-ccac6372959a) |
+| Finance | Nov 10, 2025 | [Warren Buffett says he is ‘going quiet’](https://www.ft.com/content/b862426a-955e-4ef5-a116-31dbe1f6e35e) |
 
 <!-- NEWS:END -->
 
