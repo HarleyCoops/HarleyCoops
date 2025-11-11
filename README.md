@@ -64,31 +64,6 @@
 
 ---
 
-<!-- Financial News Ticker -->
-## Latest Financial News
-
-<div align="center">
-<sub>Updated every 6 hours | Multiple trusted sources</sub>
-</div>
-
-<!-- NEWS:START -->
-| Category | Date | Headline |
-|----------|------|----------|
-| Market | Nov 11, 2025 | ['Big Short' investor Michael Burry accuses AI hyperscalers of artificially boosting earnings](https://www.cnbc.com/2025/11/11/big-short-investor-michael-burry-accuses-ai-hyperscalers-of-artificially-boosting-earnings.html) |
-| Market | Nov 10, 2025 | [Trump proposes 50-year mortgage, but some say homeowner savings would be minimal](https://www.cnbc.com/2025/11/10/trump-proposes-50-year-mortgage-but-homeowner-savings-could-be-minimal.html) |
-| Market | Nov 10, 2025 | [Warren Buffett to step up giving away fortune to his children’s foundations, while supporting suc...](https://www.cnbc.com/2025/11/10/warren-buffett-to-step-up-giving-away-fortune-to-his-childrens-foundations-while-supporting-successor-abel.html) |
-| Market | Nov 10, 2025 | [Miran says half-point cut 'appropriate' for December, but Fed should at least reduce by a quarter...](https://www.cnbc.com/2025/11/10/miran-says-half-point-cut-appropriate-for-december-but-fed-should-at-least-reduce-by-a-quarter-point.html) |
-| Market | Nov 08, 2025 | [Too early to bet against AI trade, State Street suggests](https://www.cnbc.com/2025/11/08/ai-big-tech-bull-case-despite-nasdaqs-worst-week-since-april-.html) |
-| Finance | Nov 11, 2025 | [UK unemployment rate rises more than expected to 5%](https://www.ft.com/content/cabfdcd8-393e-4bba-b802-38fc8f8b09c1) |
-| Finance | Nov 11, 2025 | [The UK’s fiscal problems aren’t just about growth](https://www.ft.com/content/a2ef55c2-3a0e-434e-b7c1-a40462730202) |
-| Finance | Nov 11, 2025 | [Meta chief AI scientist Yann LeCun plans to exit and launch own start-up](https://www.ft.com/content/c586eb77-a16e-4363-ab0b-e877898b70de) |
-| Finance | Nov 11, 2025 | [Can a fragmented Europe continue to prosper?](https://www.ft.com/content/b1f2c189-809f-4054-bf73-0eba674f4e13) |
-| Finance | Nov 11, 2025 | [The British company filling the world’s airport lounges](https://www.ft.com/content/e14764b6-ac74-49ca-bd12-ccac6372959a) |
-
-<!-- NEWS:END -->
-
----
-
 <!-- Current Projects Section -->
 ## Featured Projects & Research
 
@@ -210,27 +185,43 @@
   </a>
 </p>
 
-As of Oct 2025: **6 models / 4 datasets / 6 Spaces**. Below are the ones reviewers should try first:
+As of Nov 2025: **9 models / 6 datasets / 6 Spaces**. Featured models and datasets:
 
-| Model (HF) | Focus | Base |
-|---|---|---|
-| **Qwen.5B-OpenR1Math** | Reasoning on math steps & answers (Open-R1 style) | Qwen/Qwen2.5-0.5B-Instruct |
-| **Qwen.5B-GSM8K** | Small-model math finetune (GSM8K emphasis) | Qwen/Qwen2.5-0.5B-Instruct |
-| **GRPOtuned / GRPOtuned2** | GRPO experiments on 0.5B LLMs | Qwen/Qwen2.5-0.5B-Instruct |
+### Featured Models
+
+| Model | Focus | Base | Size | Updated |
+|---|---|---|---|---|
+| **Qwen3-0.6B-Dakota-Grammar-RL** | Dakota language grammar via GRPO | Qwen3-0.6B | 0.8B | 1 day ago |
+| **nanochat-AquaRat** | RL training on algebraic reasoning (AQuA-RAT) | nanochat | - | 18 days ago |
+| **nanochat561** | Text generation experiments | nanochat | - | 20 days ago |
+| **Qwen.5B-OpenR1Math** | Math reasoning (Open-R1 style) | Qwen2.5-0.5B-Instruct | 0.5B | Feb 13 |
+| **Qwen.5B-GSM8K** | Math finetune (GSM8K emphasis) | Qwen2.5-0.5B-Instruct | 0.5B | Feb 12 |
+| **GRPOtuned / GRPOtuned2** | GRPO experiments on 0.5B LLMs | Qwen2.5-0.5B-Instruct | 0.5B | Feb 6-9 |
+
+### Featured Datasets
+
+| Dataset | Description | Size | Updated |
+|---|---|---|---|
+| **dakota-bilingual-qa** | Dakota-English bilingual Q&A pairs | 2.45k rows | 5 days ago |
+| **Stoney10kRL** | Stoney Nakoda RL training data | - | 13 days ago |
+| **synthetic_stoney_data** | Synthetic Stoney Nakoda language data | 68.8k rows | Apr 28 |
+| **StoneyNakoda45k** | Stoney Nakoda language corpus | - | Apr 5 |
+| **StoneyNakoda** | Stoney Nakoda language dataset | 14.5k rows | Jan 22 |
+| **StoneyCIL** | Stoney Nakoda CIL dataset | - | Jan 4 |
 
 **Direct links:**
-- Models: <a href="https://huggingface.co/HarleyCooper/Qwen.5B-OpenR1Math">Qwen.5B-OpenR1Math</a>, <a href="https://huggingface.co/HarleyCooper/Qwen.5B-GSM8K">Qwen.5B-GSM8K</a>, <a href="https://huggingface.co/HarleyCooper/GRPOtuned">GRPOtuned</a>, <a href="https://huggingface.co/HarleyCooper/GRPOtuned2">GRPOtuned2</a>
-- Datasets: <a href="https://huggingface.co/datasets/HarleyCooper/synthetic_stoney_data">synthetic_stoney_data</a>, <a href="https://huggingface.co/datasets/HarleyCooper/StoneyNakoda">StoneyNakoda</a>
-- Spaces (demos): <a href="https://huggingface.co/spaces/HarleyCooper/deepsitecoder">deepsitecoder</a>, <a href="https://huggingface.co/spaces/HarleyCooper/StoneyApp">Stoney-1</a>, <a href="https://huggingface.co/spaces/HarleyCooper/AskAboutCIL">Ask About Stoney</a>
+- **Models**: <a href="https://huggingface.co/HarleyCooper/Qwen3-0.6B-Dakota-Grammar-RL">Qwen3-0.6B-Dakota-Grammar-RL</a>, <a href="https://huggingface.co/HarleyCooper/nanochat-AquaRat">nanochat-AquaRat</a>, <a href="https://huggingface.co/HarleyCooper/nanochat561">nanochat561</a>, <a href="https://huggingface.co/HarleyCooper/Qwen.5B-OpenR1Math">Qwen.5B-OpenR1Math</a>, <a href="https://huggingface.co/HarleyCooper/Qwen.5B-GSM8K">Qwen.5B-GSM8K</a>, <a href="https://huggingface.co/HarleyCooper/GRPOtuned">GRPOtuned</a>, <a href="https://huggingface.co/HarleyCooper/GRPOtuned2">GRPOtuned2</a>
+- **Datasets**: <a href="https://huggingface.co/datasets/HarleyCooper/dakota-bilingual-qa">dakota-bilingual-qa</a>, <a href="https://huggingface.co/datasets/HarleyCooper/Stoney10kRL">Stoney10kRL</a>, <a href="https://huggingface.co/datasets/HarleyCooper/synthetic_stoney_data">synthetic_stoney_data</a>, <a href="https://huggingface.co/datasets/HarleyCooper/StoneyNakoda45k">StoneyNakoda45k</a>, <a href="https://huggingface.co/datasets/HarleyCooper/StoneyNakoda">StoneyNakoda</a>, <a href="https://huggingface.co/datasets/HarleyCooper/StoneyCIL">StoneyCIL</a>
+- **Spaces**: <a href="https://huggingface.co/spaces/HarleyCooper/Dakota-.6B">Dakota Grammar RL Demo</a>, <a href="https://huggingface.co/spaces/HarleyCooper/deepsitecoder">deepsitecoder</a>, <a href="https://huggingface.co/spaces/HarleyCooper/Stoney-1">Stoney-1</a>, <a href="https://huggingface.co/spaces/HarleyCooper/AskAboutCIL">Ask About Stoney</a>
 
 **Quickstart (try a model in 5 lines):**
 ```python
 from transformers import AutoTokenizer, AutoModelForCausalLM
 import torch
-mdl = "HarleyCooper/Qwen.5B-OpenR1Math"  # switch to any of your model IDs
+mdl = "HarleyCooper/Qwen3-0.6B-Dakota-Grammar-RL"  # or any model ID above
 tok = AutoTokenizer.from_pretrained(mdl)
 model = AutoModelForCausalLM.from_pretrained(mdl, torch_dtype=torch.float16, device_map="auto")
-print(tok.decode(model.generate(**tok("Solve: 13*17", return_tensors="pt").to(model.device), max_new_tokens=64)[0], skip_special_tokens=True))
+print(tok.decode(model.generate(**tok("Translate to Dakota:", return_tensors="pt").to(model.device), max_new_tokens=64)[0], skip_special_tokens=True))
 ```
 
 ---
