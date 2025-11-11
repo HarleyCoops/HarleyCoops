@@ -42,7 +42,7 @@
 - Machine Learning Engineering (PyTorch, TensorFlow)
 - Mathematical Visualization and 3D Graphics
 
-**Learning Journey:**
+**Unique Expertise**
 - Advanced PyTorch implementations
 - Reinforcement Learning from Human Feedback (RLHF)
 - Large Language Model fine-tuning and alignment
