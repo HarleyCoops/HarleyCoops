@@ -74,16 +74,16 @@
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Nov 11, 2025 | ['Big Short' investor Michael Burry accuses AI hyperscalers of artificially boosting earnings](https://www.cnbc.com/2025/11/11/big-short-investor-michael-burry-accuses-ai-hyperscalers-of-artificially-boosting-earnings.html) |
 | Market | Nov 10, 2025 | [Trump proposes 50-year mortgage, but some say homeowner savings would be minimal](https://www.cnbc.com/2025/11/10/trump-proposes-50-year-mortgage-but-homeowner-savings-could-be-minimal.html) |
 | Market | Nov 10, 2025 | [Warren Buffett to step up giving away fortune to his children’s foundations, while supporting suc...](https://www.cnbc.com/2025/11/10/warren-buffett-to-step-up-giving-away-fortune-to-his-childrens-foundations-while-supporting-successor-abel.html) |
 | Market | Nov 10, 2025 | [Miran says half-point cut 'appropriate' for December, but Fed should at least reduce by a quarter...](https://www.cnbc.com/2025/11/10/miran-says-half-point-cut-appropriate-for-december-but-fed-should-at-least-reduce-by-a-quarter-point.html) |
 | Market | Nov 08, 2025 | [Too early to bet against AI trade, State Street suggests](https://www.cnbc.com/2025/11/08/ai-big-tech-bull-case-despite-nasdaqs-worst-week-since-april-.html) |
-| Market | Nov 07, 2025 | [Fed's Miran says stablecoin surge could help push interest rates lower](https://www.cnbc.com/2025/11/07/feds-miran-says-stablecoin-surge-could-help-push-interest-rates-lower.html) |
 | Finance | Nov 11, 2025 | [UK unemployment rate rises more than expected to 5%](https://www.ft.com/content/cabfdcd8-393e-4bba-b802-38fc8f8b09c1) |
-| Finance | Nov 11, 2025 | [Meta chief AI scientist Yann LeCun plans to exit and launch own start-up](https://www.ft.com/content/c586eb77-a16e-4363-ab0b-e877898b70de) |
 | Finance | Nov 11, 2025 | [The UK’s fiscal problems aren’t just about growth](https://www.ft.com/content/a2ef55c2-3a0e-434e-b7c1-a40462730202) |
+| Finance | Nov 11, 2025 | [Meta chief AI scientist Yann LeCun plans to exit and launch own start-up](https://www.ft.com/content/c586eb77-a16e-4363-ab0b-e877898b70de) |
+| Finance | Nov 11, 2025 | [Can a fragmented Europe continue to prosper?](https://www.ft.com/content/b1f2c189-809f-4054-bf73-0eba674f4e13) |
 | Finance | Nov 11, 2025 | [The British company filling the world’s airport lounges](https://www.ft.com/content/e14764b6-ac74-49ca-bd12-ccac6372959a) |
-| Finance | Nov 11, 2025 | [SoftBank sells Nvidia stake for $5.8bn as it prepares for AI investments](https://www.ft.com/content/5f04e0e2-7a9c-4885-92a3-9ed5242c7d38) |
 
 <!-- NEWS:END -->
 
