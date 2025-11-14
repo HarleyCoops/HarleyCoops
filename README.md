@@ -93,12 +93,12 @@
 
 <!-- GitHub Stats Card with custom parameters -->
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=harleycoops&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harleycoops&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <!-- Most Used Languages - Alternative endpoint -->
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=harleycoops&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harleycoops&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <!-- GitHub Metrics Dashboard - Using a different service -->
