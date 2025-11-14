@@ -106,6 +106,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harleycoops&theme=github_dark" alt="GitHub Metrics Dashboard" />
 </p>
 
+<!-- GitHub Commit Activity Calendar -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harleycoops&theme=react-dark&hide_border=true&area=true" alt="Commit Activity Calendar" />
+</p>
+
 <!-- Quantitative Finance Visualizations -->
 ## Quantitative Finance Visualizations
 
