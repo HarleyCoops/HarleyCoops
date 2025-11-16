@@ -5,14 +5,33 @@
   <img src="./profile-3d-contrib/profile-season.svg" alt="3D Contribution Chart" />
 </p>
 
-<!-- Animated Header Banner -->
+<!-- GitHub Stats Section - Using reliable endpoints -->
+## GitHub Stats
+
+<!-- GitHub Streak Stats - More reliable API -->
 <p align="center">
-  <a href="https://github.com/HarleyCoops">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&height=100&lines=Financial+Analyst;Quantitative+Finance+Specialist;Machine+Learning+Engineer;Python+Developer;Data+Science+Professional;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harleycoops&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
 </p>
 
-<h3 align="center">Working on complex problems in a complex world</h3>
+<!-- GitHub Stats Card with custom parameters -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harleycoops&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+<!-- Most Used Languages - Alternative endpoint -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harleycoops&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<!-- GitHub Metrics Dashboard - Using a different service -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harleycoops&theme=github_dark" alt="GitHub Metrics Dashboard" />
+</p>
+
+<!-- GitHub Commit Activity Calendar -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harleycoops&theme=react-dark&hide_border=true&area=true" alt="Commit Activity Calendar" />
+</p>
 
 <!-- Profile Views Counter -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harleycoops&label=Profile%20views&color=0e75b6&style=flat" alt="harleycoops" /> </p>
@@ -82,34 +101,6 @@
 <a href="https://github.com/HarleyCoops/StoneyNakoda">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harleycoops&repo=StoneyNakoda&theme=react&hide_border=true" />
 </a>
-
-<!-- GitHub Stats Section - Using reliable endpoints -->
-## GitHub Stats
-
-<!-- GitHub Streak Stats - More reliable API -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harleycoops&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
-</p>
-
-<!-- GitHub Stats Card with custom parameters -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harleycoops&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
-<!-- Most Used Languages - Alternative endpoint -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harleycoops&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<!-- GitHub Metrics Dashboard - Using a different service -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harleycoops&theme=github_dark" alt="GitHub Metrics Dashboard" />
-</p>
-
-<!-- GitHub Commit Activity Calendar -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harleycoops&theme=react-dark&hide_border=true&area=true" alt="Commit Activity Calendar" />
-</p>
 
 <!-- Quantitative Finance Visualizations -->
 ## Quantitative Finance Visualizations
