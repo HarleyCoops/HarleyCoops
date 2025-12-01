@@ -2,7 +2,7 @@
 
 <!-- Profile 3D Contribution -->
 <p align="center">
-  <img src="./profile-3d-contrib/profile-green.svg" alt="3D Contribution Chart" />
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Chart" />
 </p>
 
 <!-- GitHub Stats Section - Using reliable endpoints -->
