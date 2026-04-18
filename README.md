@@ -1,220 +1,114 @@
 <h1 align="center">Christian H. Cooper</h1>
+<p align="center"><em>Quant trader turned ML engineer. I train small models to do hard reasoning — and to speak endangered languages.</em></p>
 
-<!-- Profile 3D Contribution -->
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Chart" />
 </p>
 
-<!-- GitHub Stats Section - Using reliable endpoints -->
-## GitHub Stats
+---
 
-<!-- GitHub Streak Stats - More reliable API -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harleycoops&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
-</p>
+## Now
 
-<!-- GitHub Stats Card with custom parameters -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harleycoops&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
-<!-- Most Used Languages - Alternative endpoint -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harleycoops&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<!-- GitHub Metrics Dashboard - Using a different service -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harleycoops&theme=github_dark" alt="GitHub Metrics Dashboard" />
-</p>
-
-<!-- GitHub Commit Activity Calendar -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harleycoops&theme=react-dark&hide_border=true&area=true" alt="Commit Activity Calendar" />
-</p>
-
-<!-- Profile Views Counter -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harleycoops&label=Profile%20views&color=0e75b6&style=flat" alt="harleycoops" /> </p>
-
-<!-- GitHub Trophies - Achievements showcase -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harleycoops&theme=darkhub&margin-w=15&margin-h=15&column=7&title=-PullRequest,-Issues,-Reviews" alt="harleycoops" /></a> </p>
-
-<!-- Social Media Badges -->
-<p align="left">
-  <a href="https://twitter.com/christiancooper" target="blank"><img src="https://img.shields.io/twitter/follow/christiancooper?logo=twitter&style=for-the-badge" alt="christiancooper" /></a>
-  <a href="https://linkedin.com/in/christianhcooperus" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-</p>
-
-<!-- About Me Section -->
-## About Me
-
-**Current Focus:**
-- Building AI-driven financial analysis tools leveraging LLMs and reinforcement learning
-- Training small-scale language models for specialized reasoning tasks
-- Exploring Group Relative Policy Optimization (GRPO) for model alignment
-- Developing mathematical visualization tools with Manim
-
-**Expertise Areas:**
-- CFA training, Derivatives, and Options Trading
-- Congressional Trading Analysis and Market Microstructure
-- Quantitative Finance and Risk Management
-- Machine Learning Engineering (PyTorch, TensorFlow)
-- Mathematical Visualization and 3D Graphics
-
-**Unique Expertise**
-- Advanced PyTorch implementations
-- Reinforcement Learning from Human Feedback (RLHF)
-- Large Language Model fine-tuning and alignment
-- Computational geometry and fractal mathematics
+- Training **Qwen3-0.6B** on Dakota grammar via GRPO — fluent output from a 0.6B model on a language with <3k speakers.
+- Extending the **Stoney Nakoda** corpus past 68k synthetic + 14.5k real rows.
+- Building **Manim** animations as reasoning benchmarks for small LLMs — if a model can render a 62-face recursive polyhedron, it can probably think.
 
 ---
 
-## Nerd Trophy Case
-
-**I once got Karpathy to reply "Nice."**
-<p align="center">
-  <img src="./Public/reply.jpg" alt="Karpathy Comment" width="80%"/>
-</p>
-
-**My meager Google Scholar reference**
-<p align="center">
-  <img src="./Public/HubleGoogleScholar.jpg" alt="Google Scholar" width="80%"/>
-</p>
-
----
-
-<!-- Current Projects Section -->
-## Featured Projects & Research
-
-<a href="https://github.com/HarleyCoops/Math-To-Manim">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harleycoops&repo=Math-To-Manim&theme=react&hide_border=true" />
-</a>
-
-<a href="https://github.com/HarleyCoops/OneShotGRPO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harleycoops&repo=OneShotGRPO&theme=react&hide_border=true" />
-</a>
-
-<a href="https://github.com/HarleyCoops/smolThinker-.5B">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harleycoops&repo=smolThinker-.5B&theme=react&hide_border=true" />
-</a>
-
-<a href="https://github.com/HarleyCoops/StoneyNakoda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harleycoops&repo=StoneyNakoda&theme=react&hide_border=true" />
-</a>
-
-<!-- Quantitative Finance Visualizations -->
-## Quantitative Finance Visualizations
+## Selected Work
 
 <table>
 <tr>
-<td width="50%">
-<a href="https://github.com/HarleyCoops/Math-To-Manim">
-  <img src="./Public/volatility_surface.gif" alt="Volatility Surface Animation" width="100%"/>
-</a>
-<h4 align="center">Volatility Surface Visualization</h4>
-<p align="center"><em>3D visualization of options volatility skew across strikes and maturities. This surface represents the Black-Scholes implied volatility smile, crucial for pricing exotic derivatives and understanding market risk premia.</em></p>
+<td width="50%" valign="top">
+
+### Language preservation at model scale
+
+Stoney Nakoda and Dakota each have fewer than 3,000 fluent speakers. I've built a bilingual corpus — 68.8k synthetic + 14.5k real rows — and fine-tuned Qwen3-0.6B with GRPO to produce grammatically correct Dakota output on commodity hardware.
+
+<p>
+  <a href="https://github.com/HarleyCoops/StoneyNakoda">StoneyNakoda repo</a> ·
+  <a href="https://huggingface.co/HarleyCooper/Qwen3-0.6B-Dakota-Grammar-RL">Qwen3-0.6B-Dakota-Grammar-RL</a> ·
+  <a href="https://huggingface.co/spaces/HarleyCooper/Dakota-.6B">live demo</a>
+</p>
+
+<sub><code>Qwen3-0.6B</code> · <code>GRPO</code> · <code>synthetic data</code> · <code>RLHF</code></sub>
+
 </td>
-<td width="50%">
+<td width="50%" valign="top">
+
+### Reasoning on tiny models
+
+GRPO experiments on 0.5B-parameter bases, showing that structured reward shaping can coax real reasoning out of models small enough to run on a laptop. AQuA-RAT, GSM8K, and Open-R1 math traces.
+
+<p>
+  <a href="https://github.com/HarleyCoops/OneShotGRPO">OneShotGRPO</a> ·
+  <a href="https://huggingface.co/HarleyCooper/nanochat-AquaRat">nanochat-AquaRat</a> ·
+  <a href="https://huggingface.co/HarleyCooper/Qwen.5B-OpenR1Math">Qwen.5B-OpenR1Math</a>
+</p>
+
+<sub><code>Qwen2.5-0.5B</code> · <code>GRPO</code> · <code>AQuA-RAT</code> · <code>GSM8K</code></sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <a href="https://github.com/HarleyCoops/Math-To-Manim">
-  <img src="./Public/Rhombicosidodecahedron.gif" alt="Rhombicosidodecahedron Animation" width="100%"/>
+  <img src="./Public/Rhombicosidodecahedron.gif" alt="Recursive Rhombicosidodecahedron" width="100%"/>
 </a>
-<h4 align="center">Recursive Rhombicosidodecahedron</h4>
-<p align="center"><em>A fractal Archimedean solid demonstrating computational complexity in 3D geometry. Each vertex recursively contains another complete polyhedron, requiring precise transformations across 62 unique faces - a challenging test case for LLM mathematical reasoning.</em></p>
+
+### Math-To-Manim — animation as reasoning eval
+
+A 62-face Archimedean solid where each vertex recursively contains another polyhedron. Most LLMs fail this on the coordinate math alone — which is precisely why it's a useful benchmark for code-gen reasoning.
+
+<p><a href="https://github.com/HarleyCoops/Math-To-Manim">Math-To-Manim</a></p>
+
+<sub><code>Manim</code> · <code>computational geometry</code> · <code>Python</code></sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/HarleyCoops/Math-To-Manim">
+  <img src="./Public/volatility_surface.gif" alt="Black-Scholes volatility surface" width="100%"/>
+</a>
+
+### Derivatives, made legible
+
+Black-Scholes implied-volatility surface across strikes and maturities. The shape of the smile is the thing exotic pricing actually trades against — bringing a CFA background to bear on visualization.
+
+<p><a href="https://github.com/HarleyCoops/Math-To-Manim">Math-To-Manim</a></p>
+
+<sub><code>Black-Scholes</code> · <code>QuantLib</code> · <code>Manim</code></sub>
+
 </td>
 </tr>
 </table>
 
-### Technical Highlights
-- **Volatility Surface**: Real-time Black-Scholes implied volatility calculations
-- **3D Rendering**: Custom Manim animations for financial mathematics
-- **Computational Geometry**: Precise coordinate transformations in 3D space
-- **Data Visualization**: Market data analysis and pattern recognition
-
 ---
 
-## Tech Stack & Skills
+## Published Models & Datasets
 
-<h3>Programming Languages</h3>
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-</p>
-
-<!-- Frameworks & Libraries -->
-<h3>Frameworks & Libraries</h3>
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-</p>
-
-<!-- Cloud & DevOps -->
-<h3>Cloud & DevOps</h3>
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-</p>
-
-<h3>Financial & Quantitative Tools</h3>
-<p>
-  <img src="https://img.shields.io/badge/Bloomberg-000000?style=for-the-badge&logo=bloomberg&logoColor=white" alt="Bloomberg" />
-  <img src="https://img.shields.io/badge/QuantLib-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="QuantLib" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-</p>
-
----
-
-<!-- Hugging Face Models & Datasets -->
-## Public models on Hugging Face
-
-<p align="left">
   <a href="https://huggingface.co/HarleyCooper">
     <img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-@HarleyCooper-FFD21E?logo=huggingface&logoColor=white&style=for-the-badge">
   </a>
+  &nbsp;<strong>9 models · 6 datasets · 6 Spaces</strong>
 </p>
 
-As of Nov 2025: **9 models / 6 datasets / 6 Spaces**. Featured models and datasets:
+| Artifact | What it is | Link |
+|---|---|---|
+| **Qwen3-0.6B-Dakota-Grammar-RL** | Dakota grammar via GRPO, Qwen3-0.6B base | [model](https://huggingface.co/HarleyCooper/Qwen3-0.6B-Dakota-Grammar-RL) |
+| **nanochat-AquaRat** | RL on algebraic reasoning (AQuA-RAT) | [model](https://huggingface.co/HarleyCooper/nanochat-AquaRat) |
+| **Qwen.5B-OpenR1Math** | Open-R1 style math reasoning, 0.5B | [model](https://huggingface.co/HarleyCooper/Qwen.5B-OpenR1Math) |
+| **dakota-bilingual-qa** | 2.45k Dakota-English Q&A pairs | [dataset](https://huggingface.co/datasets/HarleyCooper/dakota-bilingual-qa) |
+| **synthetic_stoney_data** | 68.8k synthetic Stoney Nakoda rows | [dataset](https://huggingface.co/datasets/HarleyCooper/synthetic_stoney_data) |
+| **StoneyNakoda** | 14.5k real Stoney Nakoda corpus | [dataset](https://huggingface.co/datasets/HarleyCooper/StoneyNakoda) |
 
-### Featured Models
-
-| Model | Focus | Base | Size | Updated |
-|---|---|---|---|---|
-| **Qwen3-0.6B-Dakota-Grammar-RL** | Dakota language grammar via GRPO | Qwen3-0.6B | 0.8B | 1 day ago |
-| **nanochat-AquaRat** | RL training on algebraic reasoning (AQuA-RAT) | nanochat | - | 18 days ago |
-| **nanochat561** | Text generation experiments | nanochat | - | 20 days ago |
-| **Qwen.5B-OpenR1Math** | Math reasoning (Open-R1 style) | Qwen2.5-0.5B-Instruct | 0.5B | Feb 13 |
-| **Qwen.5B-GSM8K** | Math finetune (GSM8K emphasis) | Qwen2.5-0.5B-Instruct | 0.5B | Feb 12 |
-| **GRPOtuned / GRPOtuned2** | GRPO experiments on 0.5B LLMs | Qwen2.5-0.5B-Instruct | 0.5B | Feb 6-9 |
-
-### Featured Datasets
-
-| Dataset | Description | Size | Updated |
-|---|---|---|---|
-| **dakota-bilingual-qa** | Dakota-English bilingual Q&A pairs | 2.45k rows | 5 days ago |
-| **Stoney10kRL** | Stoney Nakoda RL training data | - | 13 days ago |
-| **synthetic_stoney_data** | Synthetic Stoney Nakoda language data | 68.8k rows | Apr 28 |
-| **StoneyNakoda45k** | Stoney Nakoda language corpus | - | Apr 5 |
-| **StoneyNakoda** | Stoney Nakoda language dataset | 14.5k rows | Jan 22 |
-| **StoneyCIL** | Stoney Nakoda CIL dataset | - | Jan 4 |
-
-**Direct links:**
-- **Models**: <a href="https://huggingface.co/HarleyCooper/Qwen3-0.6B-Dakota-Grammar-RL">Qwen3-0.6B-Dakota-Grammar-RL</a>, <a href="https://huggingface.co/HarleyCooper/nanochat-AquaRat">nanochat-AquaRat</a>, <a href="https://huggingface.co/HarleyCooper/nanochat561">nanochat561</a>, <a href="https://huggingface.co/HarleyCooper/Qwen.5B-OpenR1Math">Qwen.5B-OpenR1Math</a>, <a href="https://huggingface.co/HarleyCooper/Qwen.5B-GSM8K">Qwen.5B-GSM8K</a>, <a href="https://huggingface.co/HarleyCooper/GRPOtuned">GRPOtuned</a>, <a href="https://huggingface.co/HarleyCooper/GRPOtuned2">GRPOtuned2</a>
-- **Datasets**: <a href="https://huggingface.co/datasets/HarleyCooper/dakota-bilingual-qa">dakota-bilingual-qa</a>, <a href="https://huggingface.co/datasets/HarleyCooper/Stoney10kRL">Stoney10kRL</a>, <a href="https://huggingface.co/datasets/HarleyCooper/synthetic_stoney_data">synthetic_stoney_data</a>, <a href="https://huggingface.co/datasets/HarleyCooper/StoneyNakoda45k">StoneyNakoda45k</a>, <a href="https://huggingface.co/datasets/HarleyCooper/StoneyNakoda">StoneyNakoda</a>, <a href="https://huggingface.co/datasets/HarleyCooper/StoneyCIL">StoneyCIL</a>
-- **Spaces**: <a href="https://huggingface.co/spaces/HarleyCooper/Dakota-.6B">Dakota Grammar RL Demo</a>, <a href="https://huggingface.co/spaces/HarleyCooper/deepsitecoder">deepsitecoder</a>, <a href="https://huggingface.co/spaces/HarleyCooper/Stoney-1">Stoney-1</a>, <a href="https://huggingface.co/spaces/HarleyCooper/AskAboutCIL">Ask About Stoney</a>
-
-**Quickstart (try a model in 5 lines):**
 ```python
 from transformers import AutoTokenizer, AutoModelForCausalLM
 import torch
-mdl = "HarleyCooper/Qwen3-0.6B-Dakota-Grammar-RL"  # or any model ID above
+
+mdl = "HarleyCooper/Qwen3-0.6B-Dakota-Grammar-RL"
 tok = AutoTokenizer.from_pretrained(mdl)
 model = AutoModelForCausalLM.from_pretrained(mdl, torch_dtype=torch.float16, device_map="auto")
 print(tok.decode(model.generate(**tok("Translate to Dakota:", return_tensors="pt").to(model.device), max_new_tokens=64)[0], skip_special_tokens=True))
@@ -222,16 +116,35 @@ print(tok.decode(model.generate(**tok("Translate to Dakota:", return_tensors="pt
 
 ---
 
-<!-- Connect with me section -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/harleycoops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="harleycoops" height="30" width="40" /></a>
-<a href="https://twitter.com/christiancooper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="christiancooper" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/christianhcooperus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christianhcooperus" height="30" width="40" /></a>
-<a href="https://kaggle.com/christianhcooper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="christianhcooper" height="30" width="40" /></a>
-</p>
+## Tape
 
-<!-- Footer -->
+<sub>Auto-updated every 6 hours via GitHub Actions.</sub>
+
+<!-- NEWS:START -->
+| Category | Date | Headline |
+|----------|------|----------|
+| - | - | Pending first run of the news workflow |
+<!-- NEWS:END -->
+
+---
+
+<details>
+<summary><strong>Proof</strong> — cited on Google Scholar · publicly engaged with @karpathy</summary>
+<br>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="./Public/reply.jpg" alt="Karpathy reply" width="70%"/>
+</p>
+<p align="center">
+  <img src="./Public/HubleGoogleScholar.jpg" alt="Google Scholar citation" width="70%"/>
+</p>
+</details>
+
+---
+
+<p align="center">
+  <a href="https://twitter.com/christiancooper">𝕏 @christiancooper</a> ·
+  <a href="https://linkedin.com/in/christianhcooperus">LinkedIn</a> ·
+  <a href="https://huggingface.co/HarleyCooper">Hugging Face</a> ·
+  <a href="https://dev.to/harleycoops">dev.to</a> ·
+  <a href="https://kaggle.com/christianhcooper">Kaggle</a>
 </p>
