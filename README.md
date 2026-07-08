@@ -160,13 +160,8 @@ The model is not always right. That is not the point. It has read the 1890 book 
 
 ### AutoScientist loops
 
-<p align="center">
-  <a href="https://github.com/HarleyCoops/autoscientist"><b>autoscientist</b></a>
-  — recursive data ↔ model cycles on the Dakota seed
-</p>
-
-Seed → Adaption upload → cycle manifest → deterministic QA harness → public release artifacts.  
-The contest layer around Dakota1890: improve the language with Adaptive Data, then show the **loop**, not only a chatbot.
+Recursive data ↔ model cycles on the Dakota seed (private contest workspace).  
+Seed → Adaption upload → cycle manifest → deterministic QA harness → public release artifacts — show the **loop**, not only a chatbot.
 
 Also in the GRPO family: [StoneyNakoda](https://github.com/HarleyCoops/StoneyNakoda) · [smolThinker-.5B](https://github.com/HarleyCoops/smolThinker-.5B) · [OneShotAquaRAT](https://github.com/HarleyCoops/OneShotAquaRAT) · [Qwen3-RailroadEngineer1959-RL](https://github.com/HarleyCoops/Qwen3-RailroadEngineer1959-RL)
 
@@ -180,53 +175,44 @@ Archival intelligence for the Canadian Rockies — maps that fly, journals that 
 <tr>
 <td width="50%" align="center" valign="top">
 
-### MONOLITH
-<a href="https://harleycoops.github.io/MONOLITH/"><img src="https://img.shields.io/badge/Live_Demo-Emerald_Lake-0ea5e9?style=for-the-badge" alt="Live demo"></a>
+### Alberta LiDAR
+<a href="https://lidar-eight.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-lidar--eight.vercel.app-22c55e?style=for-the-badge" alt="LiDAR demo"></a>
 
-Real DEM relief + vintage survey FUI. Drape **1902 / 1921** historic sheets over live terrain, align by click, cinematic flyovers.
+Map-driven LiDAR / DEM visualizer — pick a region, pull OpenTopography elevation, render multi-layer 3D terrain.
 
-[Repo](https://github.com/HarleyCoops/MONOLITH) · [Live](https://harleycoops.github.io/MONOLITH/)
+[Live demo](https://lidar-eight.vercel.app) · [lidar2](https://github.com/HarleyCoops/lidar2) · [contour](https://github.com/HarleyCoops/contour)
 
-<sub><code>three.js</code> · <code>DEM</code> · <code>georef overlays</code></sub>
+<sub><code>Three.js</code> · <code>OpenTopography</code> · <code>flyable topo</code></sub>
 
 </td>
 <td width="50%" align="center" valign="top">
 
-### Alberta LiDAR
-<a href="https://github.com/HarleyCoops/lidar2"><img src="https://img.shields.io/badge/OpenTopography-3D_terrain-22c55e?style=for-the-badge" alt="LiDAR"></a>
+### Warre & Vavasour
+<a href="https://harleycoops.github.io/wv-archival/"><img src="https://img.shields.io/badge/Live-wv--archival-0ea5e9?style=for-the-badge" alt="WV archival"></a>
 
-Map-driven LiDAR / DEM visualizer — pick a region, pull elevation, render multi-layer point clouds with elevation heatmaps.
+Archival transcription dossiers and flyable map films for the Warre & Vavasour journals.
 
-[lidar2](https://github.com/HarleyCoops/lidar2) · [maplibre-gl-lidar](https://github.com/HarleyCoops/maplibre-gl-lidar) · [contour](https://github.com/HarleyCoops/contour)
+[Live site](https://harleycoops.github.io/wv-archival/) · [wv-archival](https://github.com/HarleyCoops/wv-archival)
 
-<sub><code>Three.js</code> · <code>OpenTopography</code> · <code>flyable topo</code></sub>
+<sub><code>archival dossiers</code> · <code>map films</code></sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### FORTRESS
-Place-first archival pipeline for **Fortress Mountain / Kananaskis**.
+### MONOLITH + FORTRESS
+Private research line: **MONOLITH** is a real-DEM terrain engine (Emerald Lake default, 1902/1921 historic sheet overlays, align-by-click georef). **FORTRESS** is the place-first Whyte Museum pipeline for Fortress Mountain / Kananaskis — location → archives → artifacts → people → story clusters.
 
-```text
-location → archives → artifacts → people → story clusters
-```
-
-Whyte Museum probes already surface summit registers, ski-area history, Spray Lakes / Chester Lake clusters — then exclude the wrong “Fortress” (Hamber Park BC).
-
-[FORTRESS](https://github.com/HarleyCoops/FORTRESS)
+<sub>Repos are private today — no public Pages deploy yet.</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### Hector1858 + Warre & Vavasour
-HTR on Sir James Hector’s **1858 Kicking Horse** field journals (Palliser / MS-0443).
+### Hector’s handwriting
+Private HTR line on Sir James Hector’s **1858 Kicking Horse** field journals (Palliser / MS-0443): VLM draft → human gold → TrOCR / Qwen3-VL LoRA → CER/WER. Public companion is the Warre & Vavasour site above.
 
-VLM draft → human gold → TrOCR / Qwen3-VL LoRA → CER/WER.  
-Companion line: [wv-archival](https://github.com/HarleyCoops/wv-archival) dossiers & flyable map films; [GenericOCR](https://github.com/HarleyCoops/GenericOCR) for multilingual handwriting.
-
-[Hector1858](https://github.com/HarleyCoops/Hector1858)
+<sub>Hector1858 + GenericOCR remain private while rights/gold-set work continues.</sub>
 
 </td>
 </tr>
