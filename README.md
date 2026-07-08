@@ -1,84 +1,46 @@
 <h1 align="center">Christian H. Cooper</h1>
-<p align="center"><em>Quant trader turned ML engineer. I train small models to do hard reasoning — and to speak endangered languages.</em></p>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Chart" />
+  <em>Quant trader · visual reasoning · modified GRPO · languages from single historical books</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/HarleyCoops"><img src="https://img.shields.io/badge/GitHub-HarleyCoops-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://huggingface.co/HarleyCooper"><img src="https://img.shields.io/badge/HuggingFace-@HarleyCooper-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
+  <a href="https://x.com/christiancooper"><img src="https://img.shields.io/badge/𝕏-@christiancooper-000000?style=for-the-badge" alt="X"></a>
+  <a href="https://wandb.ai/christian-cooper-us"><img src="https://img.shields.io/badge/W%26B-experiments-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="Weights & Biases"></a>
+</p>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Chart" width="100%"/>
+</p>
+
+<p align="center">
+  <sub>I train small models to do hard reasoning — and to speak from books that almost no one still reads aloud.</sub>
 </p>
 
 ---
 
 ## Now
 
-- Training **Qwen3-0.6B** on Dakota grammar via GRPO — fluent output from a 0.6B model on a language with <3k speakers.
-- Extending the **Stoney Nakoda** corpus past 68k synthetic + 14.5k real rows.
-- Building **Manim** animations as reasoning benchmarks for small LLMs — if a model can render a 62-face recursive polyhedron, it can probably think.
-
----
-
-## Selected Work
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### Language preservation at model scale
-
-Stoney Nakoda and Dakota each have fewer than 3,000 fluent speakers. I've built a bilingual corpus — 68.8k synthetic + 14.5k real rows — and fine-tuned Qwen3-0.6B with GRPO to produce grammatically correct Dakota output on commodity hardware.
-
-<p>
-  <a href="https://github.com/HarleyCoops/StoneyNakoda">StoneyNakoda repo</a> ·
-  <a href="https://huggingface.co/HarleyCooper/Qwen3-0.6B-Dakota-Grammar-RL">Qwen3-0.6B-Dakota-Grammar-RL</a> ·
-  <a href="https://huggingface.co/spaces/HarleyCooper/Dakota-.6B">live demo</a>
-</p>
-
-<sub><code>Qwen3-0.6B</code> · <code>GRPO</code> · <code>synthetic data</code> · <code>RLHF</code></sub>
+**Modified GRPO → languages**  
+Dakota1890 → Cree1865 → AutoScientist loops. One public-domain volume becomes grammar rules, verifiable rewards, and a community-correctable model.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### Reasoning on tiny models
-
-GRPO experiments on 0.5B-parameter bases, showing that structured reward shaping can coax real reasoning out of models small enough to run on a laptop. AQuA-RAT, GSM8K, and Open-R1 math traces.
-
-<p>
-  <a href="https://github.com/HarleyCoops/OneShotGRPO">OneShotGRPO</a> ·
-  <a href="https://huggingface.co/HarleyCooper/nanochat-AquaRat">nanochat-AquaRat</a> ·
-  <a href="https://huggingface.co/HarleyCooper/Qwen.5B-OpenR1Math">Qwen.5B-OpenR1Math</a>
-</p>
-
-<sub><code>Qwen2.5-0.5B</code> · <code>GRPO</code> · <code>AQuA-RAT</code> · <code>GSM8K</code></sub>
+**Visual reasoning**  
+[Math-To-Manim](https://github.com/HarleyCoops/Math-To-Manim) (2.4k★) — if a model can render a recursive Archimedean solid, it can probably think.
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-<a href="https://github.com/HarleyCoops/Math-To-Manim">
-  <img src="./Public/Rhombicosidodecahedron.gif" alt="Recursive Rhombicosidodecahedron" width="100%"/>
-</a>
-
-### Math-To-Manim — animation as reasoning eval
-
-A 62-face Archimedean solid where each vertex recursively contains another polyhedron. Most LLMs fail this on the coordinate math alone — which is precisely why it's a useful benchmark for code-gen reasoning.
-
-<p><a href="https://github.com/HarleyCoops/Math-To-Manim">Math-To-Manim</a></p>
-
-<sub><code>Manim</code> · <code>computational geometry</code> · <code>Python</code></sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/HarleyCoops/Math-To-Manim">
-  <img src="./Public/volatility_surface.gif" alt="Black-Scholes volatility surface" width="100%"/>
-</a>
-
-### Derivatives, made legible
-
-Black-Scholes implied-volatility surface across strikes and maturities. The shape of the smile is the thing exotic pricing actually trades against — bringing a CFA background to bear on visualization.
-
-<p><a href="https://github.com/HarleyCoops/Math-To-Manim">Math-To-Manim</a></p>
-
-<sub><code>Black-Scholes</code> · <code>QuantLib</code> · <code>Manim</code></sub>
+**Place & archive**  
+Fortress · MONOLITH · Alberta LiDAR · Hector’s hand · Warre & Vavasour journals — terrain and ink as first-class data.
 
 </td>
 </tr>
@@ -86,65 +48,246 @@ Black-Scholes implied-volatility surface across strikes and maturities. The shap
 
 ---
 
-## Published Models & Datasets
+# Visual Reasoning
 
-<p>
-  <a href="https://huggingface.co/HarleyCooper">
-    <img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-@HarleyCooper-FFD21E?logo=huggingface&logoColor=white&style=for-the-badge">
+<p align="center">
+  <a href="https://github.com/HarleyCoops/Math-To-Manim">
+    <img src="https://raw.githubusercontent.com/HarleyCoops/Math-To-Manim/main/docs/assets/r1-pythagorean-tweet.gif" alt="Math-To-Manim Pythagorean animation" width="88%"/>
   </a>
-  &nbsp;<strong>9 models · 6 datasets · 6 Spaces</strong>
 </p>
 
-| Artifact | What it is | Link |
-|---|---|---|
-| **Qwen3-0.6B-Dakota-Grammar-RL** | Dakota grammar via GRPO, Qwen3-0.6B base | [model](https://huggingface.co/HarleyCooper/Qwen3-0.6B-Dakota-Grammar-RL) |
-| **nanochat-AquaRat** | RL on algebraic reasoning (AQuA-RAT) | [model](https://huggingface.co/HarleyCooper/nanochat-AquaRat) |
-| **Qwen.5B-OpenR1Math** | Open-R1 style math reasoning, 0.5B | [model](https://huggingface.co/HarleyCooper/Qwen.5B-OpenR1Math) |
-| **dakota-bilingual-qa** | 2.45k Dakota-English Q&A pairs | [dataset](https://huggingface.co/datasets/HarleyCooper/dakota-bilingual-qa) |
-| **synthetic_stoney_data** | 68.8k synthetic Stoney Nakoda rows | [dataset](https://huggingface.co/datasets/HarleyCooper/synthetic_stoney_data) |
-| **StoneyNakoda** | 14.5k real Stoney Nakoda corpus | [dataset](https://huggingface.co/datasets/HarleyCooper/StoneyNakoda) |
+<p align="center">
+  <b><a href="https://github.com/HarleyCoops/Math-To-Manim">Math-To-Manim</a></b> — text & images → epic math/physics animations & study notes<br/>
+  <sub><code>Manim</code> · <code>visual eval</code> · <code>code-gen reasoning</code> · <a href="https://github.com/HarleyCoops/KimiK2Manim">KimiK2Manim</a></sub>
+</p>
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+<a href="https://github.com/HarleyCoops/Math-To-Manim">
+  <img src="https://raw.githubusercontent.com/HarleyCoops/Math-To-Manim/main/docs/assets/mythos-qft-vertex.png" alt="Mythos QFT vertex diagram" width="100%"/>
+</a>
+
+**Recursive geometry as eval**  
+The [62-face recursive rhombicosidodecahedron](https://github.com/HarleyCoops/Math-To-Manim) is the stress test: nested polyhedra, exact coordinates, render-or-fail. Most LLMs die on the math alone.
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<a href="https://github.com/HarleyCoops/Math-To-Manim">
+  <img src="https://media.githubusercontent.com/media/HarleyCoops/HarleyCoops/main/Public/volatility_surface.gif" alt="Black-Scholes volatility surface" width="100%"/>
+</a>
+
+**Black-Scholes volatility surface**  
+The smile exotic desks actually trade against — CFA intuition rendered as motion, not a static chart.
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HarleyCoops/Math-To-Manim/main/docs/assets/mythos-learns-math-to-manim.png" alt="Mythos learns Math-To-Manim" width="72%"/>
+</p>
+
+<p align="center">
+  <sub>Animation as a <b>reasoning eval</b>: the model must plan geometry, write Manim, and survive the render-repair loop.</sub>
+</p>
+
+---
+
+# Generalized Learning via Modified GRPO
+
+The bet: **deterministic, compositional rewards** beat vague LLM-as-judge loops for qualitative tasks — especially when the “ground truth” is a single historical book.
+
+```text
+one public-domain volume
+   → VLM extraction (preserve orthography exactly)
+   → executable grammar / dictionary rules
+   → thousands of verifiable RL tasks
+   → modified GRPO (no LLM judge)
+   → published adapter
+   → community correction (the real second stage)
+```
+
+### Dakota1890 — the template
+
+<p align="center">
+  <a href="https://github.com/HarleyCoops/Dakota1890"><b>Dakota1890</b></a>
+  · Riggs 1890 grammar & dictionary
+  · reward = orthography + affixes + semantics
+</p>
+
+| Model | Scale | Method | Link |
+|---|---|---|---|
+| Qwen3-0.6B-Dakota-Grammar-RL | 0.6B | GRPO proof | [HF](https://huggingface.co/HarleyCooper/Qwen3-0.6B-Dakota-Grammar-RL) |
+| Qwen3-0.6B-Dakota-Grammar-RL-400 | 0.6B | +150% reward | [HF](https://huggingface.co/HarleyCooper/Qwen3-0.6B-Dakota-Grammar-RL-400) |
+| Qwen3-30B-Dakota1890 | 30B MoE | Tinker LoRA | [HF](https://huggingface.co/HarleyCooper/Qwen3-30B-Dakota1890) |
+| **Qwen3.6-35B-A3B-Dakota1890-GRPO** | **35B** | **latest GRPO** | [HF](https://huggingface.co/HarleyCooper/Qwen3.6-35B-A3B-Dakota1890-GRPO) |
+
+The model is not always right. That is not the point. It has read the 1890 book cover to cover. Descendants of Dakota speakers teach it the rest — the StoneyNakoda community-in-the-loop stage.
+
+### Cree1865 — the generalization test
+
+<table>
+<tr>
+<td width="42%" align="center" valign="top">
+
+<a href="https://github.com/HarleyCoops/Cree1865">
+  <img src="https://raw.githubusercontent.com/HarleyCoops/Cree1865/main/docs/story/title_page.png" alt="Watkins 1865 Cree dictionary title page" width="100%"/>
+</a>
+
+<sub>Watkins 1865 — *A Dictionary of the Cree Language*</sub>
+
+</td>
+<td width="58%" valign="top">
+
+<a href="https://github.com/HarleyCoops/Cree1865">
+  <img src="https://raw.githubusercontent.com/HarleyCoops/Cree1865/main/docs/story/source_contact_sheet.png" alt="Contact sheet of Watkins 1865 pages" width="100%"/>
+</a>
+
+**Hypothesis:** one historical volume is enough to bootstrap a correctable low-resource model.
+
+- Base: `Qwen3-30B-A3B` + LoRA  
+- ~19.5k dictionary entries → ~38k RL tasks  
+- Deterministic Cree reward ledger (exact / containment / orthography / F1 / length)  
+- Live run: [W&B `hda2wqhl`](https://wandb.ai/christian-cooper-us/thinking-machines-qwen3-30b/runs/hda2wqhl)  
+- Artifacts: [model](https://huggingface.co/HarleyCooper/Cree1865) · [Space](https://huggingface.co/spaces/HarleyCooper/Cree1865-Tinker-Inference)
+
+</td>
+</tr>
+</table>
+
+### AutoScientist loops
+
+<p align="center">
+  <a href="https://github.com/HarleyCoops/autoscientist"><b>autoscientist</b></a>
+  — recursive data ↔ model cycles on the Dakota seed
+</p>
+
+Seed → Adaption upload → cycle manifest → deterministic QA harness → public release artifacts.  
+The contest layer around Dakota1890: improve the language with Adaptive Data, then show the **loop**, not only a chatbot.
+
+Also in the GRPO family: [StoneyNakoda](https://github.com/HarleyCoops/StoneyNakoda) · [smolThinker-.5B](https://github.com/HarleyCoops/smolThinker-.5B) · [OneShotAquaRAT](https://github.com/HarleyCoops/OneShotAquaRAT) · [Qwen3-RailroadEngineer1959-RL](https://github.com/HarleyCoops/Qwen3-RailroadEngineer1959-RL)
+
+---
+
+# Place, Terrain & Handwriting
+
+Archival intelligence for the Canadian Rockies — maps that fly, journals that speak, places that reveal their people.
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+### MONOLITH
+<a href="https://harleycoops.github.io/MONOLITH/"><img src="https://img.shields.io/badge/Live_Demo-Emerald_Lake-0ea5e9?style=for-the-badge" alt="Live demo"></a>
+
+Real DEM relief + vintage survey FUI. Drape **1902 / 1921** historic sheets over live terrain, align by click, cinematic flyovers.
+
+[Repo](https://github.com/HarleyCoops/MONOLITH) · [Live](https://harleycoops.github.io/MONOLITH/)
+
+<sub><code>three.js</code> · <code>DEM</code> · <code>georef overlays</code></sub>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### Alberta LiDAR
+<a href="https://github.com/HarleyCoops/lidar2"><img src="https://img.shields.io/badge/OpenTopography-3D_terrain-22c55e?style=for-the-badge" alt="LiDAR"></a>
+
+Map-driven LiDAR / DEM visualizer — pick a region, pull elevation, render multi-layer point clouds with elevation heatmaps.
+
+[lidar2](https://github.com/HarleyCoops/lidar2) · [maplibre-gl-lidar](https://github.com/HarleyCoops/maplibre-gl-lidar) · [contour](https://github.com/HarleyCoops/contour)
+
+<sub><code>Three.js</code> · <code>OpenTopography</code> · <code>flyable topo</code></sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### FORTRESS
+Place-first archival pipeline for **Fortress Mountain / Kananaskis**.
+
+```text
+location → archives → artifacts → people → story clusters
+```
+
+Whyte Museum probes already surface summit registers, ski-area history, Spray Lakes / Chester Lake clusters — then exclude the wrong “Fortress” (Hamber Park BC).
+
+[FORTRESS](https://github.com/HarleyCoops/FORTRESS)
+
+</td>
+<td width="50%" valign="top">
+
+### Hector1858 + Warre & Vavasour
+HTR on Sir James Hector’s **1858 Kicking Horse** field journals (Palliser / MS-0443).
+
+VLM draft → human gold → TrOCR / Qwen3-VL LoRA → CER/WER.  
+Companion line: [wv-archival](https://github.com/HarleyCoops/wv-archival) dossiers & flyable map films; [GenericOCR](https://github.com/HarleyCoops/GenericOCR) for multilingual handwriting.
+
+[Hector1858](https://github.com/HarleyCoops/Hector1858)
+
+</td>
+</tr>
+</table>
+
+---
+
+# Hugging Face
+
+<p align="center">
+  <a href="https://huggingface.co/HarleyCooper"><img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-17_models_·_8_datasets_·_Spaces-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge"></a>
+</p>
+
+| Artifact | What it is |
+|---|---|
+| [`Qwen3.6-35B-A3B-Dakota1890-GRPO`](https://huggingface.co/HarleyCooper/Qwen3.6-35B-A3B-Dakota1890-GRPO) | Latest Dakota GRPO endpoint |
+| [`Cree1865`](https://huggingface.co/HarleyCooper/Cree1865) | Watkins 1865 Cree adapter |
+| [`Qwen3-0.6B-Dakota-Grammar-RL`](https://huggingface.co/HarleyCooper/Qwen3-0.6B-Dakota-Grammar-RL) | Tiny-model grammar proof |
+| [`nanochat-AquaRat`](https://huggingface.co/HarleyCooper/nanochat-AquaRat) | Algebraic reasoning RL |
+| [`Qwen.5B-OpenR1Math`](https://huggingface.co/HarleyCooper/Qwen.5B-OpenR1Math) | Open-R1 style math, 0.5B |
+| [`dakota-bilingual-qa`](https://huggingface.co/datasets/HarleyCooper/dakota-bilingual-qa) | Dakota–English QA seed |
+| [`synthetic_stoney_data`](https://huggingface.co/datasets/HarleyCooper/synthetic_stoney_data) | 68.8k Stoney rows |
+| [`Cree1865-Tinker-Inference`](https://huggingface.co/spaces/HarleyCooper/Cree1865-Tinker-Inference) | Live Cree sampler Space |
 
 ```python
-from transformers import AutoTokenizer, AutoModelForCausalLM
-import torch
+from transformers import AutoModelForCausalLM, AutoTokenizer
+from peft import PeftModel
 
-mdl = "HarleyCooper/Qwen3-0.6B-Dakota-Grammar-RL"
-tok = AutoTokenizer.from_pretrained(mdl)
-model = AutoModelForCausalLM.from_pretrained(mdl, torch_dtype=torch.float16, device_map="auto")
-print(tok.decode(model.generate(**tok("Translate to Dakota:", return_tensors="pt").to(model.device), max_new_tokens=64)[0], skip_special_tokens=True))
+base = "Qwen/Qwen3-30B-A3B-Instruct-2507"
+adapter = "HarleyCooper/Cree1865"
+
+model = AutoModelForCausalLM.from_pretrained(base, device_map="auto", torch_dtype="auto")
+tok = AutoTokenizer.from_pretrained(base)
+model = PeftModel.from_pretrained(model, adapter)
 ```
 
 ---
 
-## Tape
-
-<sub>Auto-updated every 6 hours via GitHub Actions.</sub>
+# Tape
 
 <!-- NEWS:START -->
 | Category | Date | Headline |
-|----------|------|----------|
+| --- | --- | --- |
 | - | - | Pending first run of the news workflow |
 <!-- NEWS:END -->
 
 ---
 
-<details>
-<summary><strong>Proof</strong> — cited on Google Scholar · publicly engaged with @karpathy</summary>
-<br>
 <p align="center">
-  <img src="./Public/reply.jpg" alt="Karpathy reply" width="70%"/>
+  <img src="./Public/reply.jpg" alt="Karpathy reply" height="120"/>
+  &nbsp;&nbsp;
+  <img src="./Public/HubleGoogleScholar.jpg" alt="Google Scholar citation" height="120"/>
 </p>
-<p align="center">
-  <img src="./Public/HubleGoogleScholar.jpg" alt="Google Scholar citation" width="70%"/>
-</p>
-</details>
-
----
 
 <p align="center">
-  <a href="https://twitter.com/christiancooper">𝕏 @christiancooper</a> ·
-  <a href="https://linkedin.com/in/christianhcooperus">LinkedIn</a> ·
-  <a href="https://huggingface.co/HarleyCooper">Hugging Face</a> ·
-  <a href="https://dev.to/harleycoops">dev.to</a> ·
-  <a href="https://kaggle.com/christianhcooper">Kaggle</a>
+  <sub>
+    <a href="https://x.com/christiancooper">𝕏</a> ·
+    <a href="https://huggingface.co/HarleyCooper">Hugging Face</a> ·
+    <a href="https://wandb.ai/christian-cooper-us">W&B</a> ·
+    <a href="https://github.com/HarleyCoops/Math-To-Manim">Math-To-Manim</a> ·
+    <a href="https://github.com/HarleyCoops/Dakota1890">Dakota1890</a> ·
+    <a href="https://github.com/HarleyCoops/Cree1865">Cree1865</a>
+  </sub>
 </p>
