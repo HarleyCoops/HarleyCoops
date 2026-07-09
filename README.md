@@ -261,11 +261,11 @@ model = PeftModel.from_pretrained(model, adapter)
 | Market | Jul 08, 2026 | [Strait of Hormuz traffic won't return to normal until 2027 after latest setback, Kalshi traders p...](https://www.cnbc.com/2026/07/08/kalshi-traders-think-hormuz-traffic-wont-return-to-normal-this-year.html) |
 | Market | Jul 08, 2026 | [Fed meeting minutes to show 'family fight' over rates. The squabble could drag on for a while](https://www.cnbc.com/2026/07/08/with-minutes-due-feds-family-fight-over-interest-rates-could-drag-on.html) |
 | Market | Jul 09, 2026 | [China warns about AI risks with Anthropic's Claude Code](https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html) |
-| Finance | Jul 09, 2026 | [US carries out second day of strikes against Iran](https://www.ft.com/content/ea2d4977-b1d1-44e4-9645-e6d8cd226439) |
-| Finance | Jul 09, 2026 | [Iran after Ali Khamenei](https://www.ft.com/content/fee898fa-1888-4131-9e63-f3868cd3f176) |
-| Finance | Jul 08, 2026 | [Why the US and Iran are stuck in a cycle of tit-for-tat strikes](https://www.ft.com/content/6a0166e3-dc5e-4d16-8feb-872ac729733d) |
+| Finance | Jul 09, 2026 | [US strikes Iranian railway bridges on route to city of Khamenei’s burial](https://www.ft.com/content/4b1df8e8-cc24-4991-a900-cde0d25f0f68) |
+| Finance | Jul 09, 2026 | [Iran’s new order takes shape after Khamenei burial](https://www.ft.com/content/fee898fa-1888-4131-9e63-f3868cd3f176) |
 | Finance | Jul 09, 2026 | [The century-old device choking the world’s AI push](https://ig.ft.com/transformers/) |
 | Finance | Jul 09, 2026 | [Who wants to tax a billionaire?](https://www.ft.com/content/bf1892d7-f9ef-479c-a1fb-f8dcb9efa328) |
+| Finance | Jul 09, 2026 | [Around the World Cup in seven days](https://www.ft.com/content/64b16d44-42d6-4191-9e4d-9cf68aaa9b30) |
 
 <!-- NEWS:END -->
 
