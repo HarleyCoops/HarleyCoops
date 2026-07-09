@@ -260,12 +260,12 @@ model = PeftModel.from_pretrained(model, adapter)
 | Market | Jul 08, 2026 | [Fed officials were split on direction of interest rates at last meeting, minutes show](https://www.cnbc.com/2026/07/08/fed-minutes-june-2026-.html) |
 | Market | Jul 08, 2026 | [Strait of Hormuz traffic won't return to normal until 2027 after latest setback, Kalshi traders p...](https://www.cnbc.com/2026/07/08/kalshi-traders-think-hormuz-traffic-wont-return-to-normal-this-year.html) |
 | Market | Jul 08, 2026 | [Fed meeting minutes to show 'family fight' over rates. The squabble could drag on for a while](https://www.cnbc.com/2026/07/08/with-minutes-due-feds-family-fight-over-interest-rates-could-drag-on.html) |
-| Market | Jul 08, 2026 | [China warns about AI risks with Anthropic's Claude Code](https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html) |
-| Finance | Jul 08, 2026 | [US launches second day of strikes against Iran](https://www.ft.com/content/ea2d4977-b1d1-44e4-9645-e6d8cd226439) |
+| Market | Jul 09, 2026 | [China warns about AI risks with Anthropic's Claude Code](https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html) |
+| Finance | Jul 09, 2026 | [US carries out second day of strikes against Iran](https://www.ft.com/content/ea2d4977-b1d1-44e4-9645-e6d8cd226439) |
+| Finance | Jul 09, 2026 | [Iran after Ali Khamenei](https://www.ft.com/content/fee898fa-1888-4131-9e63-f3868cd3f176) |
 | Finance | Jul 08, 2026 | [Why the US and Iran are stuck in a cycle of tit-for-tat strikes](https://www.ft.com/content/6a0166e3-dc5e-4d16-8feb-872ac729733d) |
-| Finance | Jul 08, 2026 | [Trump’s surprise Ukraine shift steadies nervous Nato allies](https://www.ft.com/content/907c26d7-9c1e-4bac-8da0-28216445d860) |
-| Finance | Jul 08, 2026 | [The great AI data centre cover-up](https://www.ft.com/content/7800ba0f-1420-49fe-b260-9838632a19a4) |
-| Finance | Jul 08, 2026 | [Alphaville LLC initiates coverage of SpaceX with Buy recommendation](https://www.ft.com/content/1344d22b-ee64-488d-bd02-170fe0c9de2b) |
+| Finance | Jul 09, 2026 | [The century-old device choking the world’s AI push](https://ig.ft.com/transformers/) |
+| Finance | Jul 09, 2026 | [Who wants to tax a billionaire?](https://www.ft.com/content/bf1892d7-f9ef-479c-a1fb-f8dcb9efa328) |
 
 <!-- NEWS:END -->
 
