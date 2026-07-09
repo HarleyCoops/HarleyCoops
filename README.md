@@ -256,16 +256,16 @@ model = PeftModel.from_pretrained(model, adapter)
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Jul 09, 2026 | [Kalshi traders think gas prices will stay higher for longer as U.S.-Iran tensions heat back up](https://www.cnbc.com/2026/07/09/kalshi-traders-see-higher-gas-prices-lasting-through-election-day.html) |
+| Market | Jul 09, 2026 | [Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin](https://www.cnbc.com/2026/07/09/goldman-sachs-asset-management-deals-verizon-lockheed-martin.html) |
 | Market | Jul 08, 2026 | [Michael Burry bets on sportsbooks DraftKings and Flutter, sees prediction markets curbed by regul...](https://www.cnbc.com/2026/07/08/michael-burry-bets-on-sportsbooks-draftkings-flutter.html) |
 | Market | Jul 08, 2026 | [Fed officials were split on direction of interest rates at last meeting, minutes show](https://www.cnbc.com/2026/07/08/fed-minutes-june-2026-.html) |
 | Market | Jul 08, 2026 | [Strait of Hormuz traffic won't return to normal until 2027 after latest setback, Kalshi traders p...](https://www.cnbc.com/2026/07/08/kalshi-traders-think-hormuz-traffic-wont-return-to-normal-this-year.html) |
-| Market | Jul 08, 2026 | [Fed meeting minutes to show 'family fight' over rates. The squabble could drag on for a while](https://www.cnbc.com/2026/07/08/with-minutes-due-feds-family-fight-over-interest-rates-could-drag-on.html) |
-| Market | Jul 09, 2026 | [China warns about AI risks with Anthropic's Claude Code](https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html) |
 | Finance | Jul 09, 2026 | [US strikes Iranian railway bridges on route to city of Khamenei’s burial](https://www.ft.com/content/4b1df8e8-cc24-4991-a900-cde0d25f0f68) |
+| Finance | Jul 09, 2026 | [There is no grand plan on Iran](https://www.ft.com/content/e5df56dc-70d3-49b0-82f4-3ae3af644a8e) |
 | Finance | Jul 09, 2026 | [Iran’s new order takes shape after Khamenei burial](https://www.ft.com/content/fee898fa-1888-4131-9e63-f3868cd3f176) |
 | Finance | Jul 09, 2026 | [The century-old device choking the world’s AI push](https://ig.ft.com/transformers/) |
-| Finance | Jul 09, 2026 | [Who wants to tax a billionaire?](https://www.ft.com/content/bf1892d7-f9ef-479c-a1fb-f8dcb9efa328) |
-| Finance | Jul 09, 2026 | [Around the World Cup in seven days](https://www.ft.com/content/64b16d44-42d6-4191-9e4d-9cf68aaa9b30) |
+| Finance | Jul 09, 2026 | [How much is AI hacking your emotions?](https://www.ft.com/content/806d4eb3-fe0b-496f-804a-b4a444e94896) |
 
 <!-- NEWS:END -->
 
