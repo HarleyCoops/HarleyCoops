@@ -256,16 +256,16 @@ model = PeftModel.from_pretrained(model, adapter)
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Jul 09, 2026 | [Kevin Warsh names members of his Federal Reserve task forces, including Marc Andreessen, Doug McM...](https://www.cnbc.com/2026/07/09/kevin-warsh-names-members-of-his-federal-reserve-task-forces-including-marc-andreessen-doug-mcmillon.html) |
+| Market | Jul 09, 2026 | [Prediction markets spark insider trading concerns. Here's how Goldman and other companies are res...](https://www.cnbc.com/2026/07/09/prediction-markets-spark-insider-trading-fears-how-firms-are-responding.html) |
 | Market | Jul 09, 2026 | [Kalshi traders think gas prices will stay higher for longer as U.S.-Iran tensions heat back up](https://www.cnbc.com/2026/07/09/kalshi-traders-see-higher-gas-prices-lasting-through-election-day.html) |
 | Market | Jul 09, 2026 | [Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin](https://www.cnbc.com/2026/07/09/goldman-sachs-asset-management-deals-verizon-lockheed-martin.html) |
 | Market | Jul 08, 2026 | [Michael Burry bets on sportsbooks DraftKings and Flutter, sees prediction markets curbed by regul...](https://www.cnbc.com/2026/07/08/michael-burry-bets-on-sportsbooks-draftkings-flutter.html) |
-| Market | Jul 08, 2026 | [Fed officials were split on direction of interest rates at last meeting, minutes show](https://www.cnbc.com/2026/07/08/fed-minutes-june-2026-.html) |
-| Market | Jul 08, 2026 | [Strait of Hormuz traffic won't return to normal until 2027 after latest setback, Kalshi traders p...](https://www.cnbc.com/2026/07/08/kalshi-traders-think-hormuz-traffic-wont-return-to-normal-this-year.html) |
+| Finance | Jul 09, 2026 | [Warsh picks ex-BoE chief King and tech boss Andreessen to reform Fed](https://www.ft.com/content/e45a34e0-cd96-4b72-9ff3-380efc28a705) |
+| Finance | Jul 09, 2026 | [Wall Street’s boutiques bet on star bankers. Now they’re stuck with the bill](https://www.ft.com/content/bd15d747-6d9d-4d40-8215-1e74f5fe566b) |
+| Finance | Jul 09, 2026 | [Microsoft’s early AI lead has become a test of faith](https://www.ft.com/content/753bd818-524a-46f3-9026-e2fae74c2167) |
+| Finance | Jul 09, 2026 | [Who wants to tax a billionaire?](https://www.ft.com/content/bf1892d7-f9ef-479c-a1fb-f8dcb9efa328) |
 | Finance | Jul 09, 2026 | [US strikes Iranian railway bridges on route to city of Khamenei’s burial](https://www.ft.com/content/4b1df8e8-cc24-4991-a900-cde0d25f0f68) |
-| Finance | Jul 09, 2026 | [There is no grand plan on Iran](https://www.ft.com/content/e5df56dc-70d3-49b0-82f4-3ae3af644a8e) |
-| Finance | Jul 09, 2026 | [Iran’s new order takes shape after Khamenei burial](https://www.ft.com/content/fee898fa-1888-4131-9e63-f3868cd3f176) |
-| Finance | Jul 09, 2026 | [The century-old device choking the world’s AI push](https://ig.ft.com/transformers/) |
-| Finance | Jul 09, 2026 | [How much is AI hacking your emotions?](https://www.ft.com/content/806d4eb3-fe0b-496f-804a-b4a444e94896) |
 
 <!-- NEWS:END -->
 
