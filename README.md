@@ -263,8 +263,8 @@ model = PeftModel.from_pretrained(model, adapter)
 | Market | Jul 08, 2026 | [Michael Burry bets on sportsbooks DraftKings and Flutter, sees prediction markets curbed by regul...](https://www.cnbc.com/2026/07/08/michael-burry-bets-on-sportsbooks-draftkings-flutter.html) |
 | Finance | Jul 10, 2026 | [OpenAI and Google sell AI models to blacklisted China groups](https://www.ft.com/content/5d6aafa1-5d47-4585-aa95-6ec06a6cd20f) |
 | Finance | Jul 10, 2026 | [Tencent leads deal to unwind Meta’s $2bn Manus acquisition](https://www.ft.com/content/0d04378d-d71b-4225-b31a-70504e358480) |
-| Finance | Jul 10, 2026 | [Todd Blanche and the remaking of American justice](https://www.ft.com/content/8f24f3a4-2c7c-4288-8e11-711500be427b) |
-| Finance | Jul 10, 2026 | [Luxury square that shows London’s mansions are not selling](https://www.ft.com/content/1daad2c2-fd9e-4fc8-af16-22a1c5775fd1) |
+| Finance | Jul 10, 2026 | [The man Trump wants to run the DoJ](https://www.ft.com/content/8f24f3a4-2c7c-4288-8e11-711500be427b) |
+| Finance | Jul 10, 2026 | [The luxury square that shows London’s mansions are not selling](https://www.ft.com/content/1daad2c2-fd9e-4fc8-af16-22a1c5775fd1) |
 | Finance | Jul 10, 2026 | [Why AI could be a financial ‘sludge’ buster](https://www.ft.com/content/da32dec7-bec6-483a-9595-18a3e9575a3f) |
 
 <!-- NEWS:END -->
