@@ -257,15 +257,15 @@ model = PeftModel.from_pretrained(model, adapter)
 | Category | Date | Headline |
 |----------|------|----------|
 | Market | Jul 09, 2026 | [Kevin Warsh names members of his Federal Reserve task forces, including Marc Andreessen, Doug McM...](https://www.cnbc.com/2026/07/09/kevin-warsh-names-members-of-his-federal-reserve-task-forces-including-marc-andreessen-doug-mcmillon.html) |
-| Market | Jul 09, 2026 | [Prediction markets spark insider trading concerns. Here's how Goldman and other companies are res...](https://www.cnbc.com/2026/07/09/prediction-markets-spark-insider-trading-fears-how-firms-are-responding.html) |
+| Market | Jul 10, 2026 | [Prediction markets spark insider trading concerns. Here's how Goldman and other companies are res...](https://www.cnbc.com/2026/07/09/prediction-markets-spark-insider-trading-fears-how-firms-are-responding.html) |
 | Market | Jul 09, 2026 | [Kalshi traders think gas prices will stay higher for longer as U.S.-Iran tensions heat back up](https://www.cnbc.com/2026/07/09/kalshi-traders-see-higher-gas-prices-lasting-through-election-day.html) |
 | Market | Jul 09, 2026 | [Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin](https://www.cnbc.com/2026/07/09/goldman-sachs-asset-management-deals-verizon-lockheed-martin.html) |
 | Market | Jul 08, 2026 | [Michael Burry bets on sportsbooks DraftKings and Flutter, sees prediction markets curbed by regul...](https://www.cnbc.com/2026/07/08/michael-burry-bets-on-sportsbooks-draftkings-flutter.html) |
-| Finance | Jul 10, 2026 | [OpenAI and Google sell AI models to blacklisted China groups](https://www.ft.com/content/5d6aafa1-5d47-4585-aa95-6ec06a6cd20f) |
-| Finance | Jul 10, 2026 | [Tencent leads deal to unwind Meta’s $2bn Manus acquisition](https://www.ft.com/content/0d04378d-d71b-4225-b31a-70504e358480) |
-| Finance | Jul 10, 2026 | [The man Trump wants to run the DoJ](https://www.ft.com/content/8f24f3a4-2c7c-4288-8e11-711500be427b) |
-| Finance | Jul 10, 2026 | [The luxury square that shows London’s mansions are not selling](https://www.ft.com/content/1daad2c2-fd9e-4fc8-af16-22a1c5775fd1) |
-| Finance | Jul 10, 2026 | [Why AI could be a financial ‘sludge’ buster](https://www.ft.com/content/da32dec7-bec6-483a-9595-18a3e9575a3f) |
+| Finance | Jul 10, 2026 | [Investors sell longer-dated AI debt amid Big Tech borrowing spree](https://www.ft.com/content/28380abc-72f9-4287-8d36-2823c73358ce) |
+| Finance | Jul 10, 2026 | [SK Hynix’s US shares jump 14% on Nasdaq debut](https://www.ft.com/content/33133a86-925e-4395-9f60-35e2a4052500) |
+| Finance | Jul 10, 2026 | [All you never wanted to know about corporate bond market issuance](https://www.ft.com/content/47a66129-548e-45c6-8855-0691616e92da) |
+| Finance | Jul 10, 2026 | [Classicist Emily Wilson: ‘Odysseus is a different kind of conman’](https://www.ft.com/content/3edbfdf4-cb20-4393-9d5d-ffc1dd241ca4) |
+| Finance | Jul 10, 2026 | [How an ex-Democrat became the face of Trump’s retribution agenda](https://www.ft.com/content/8f24f3a4-2c7c-4288-8e11-711500be427b) |
 
 <!-- NEWS:END -->
 
