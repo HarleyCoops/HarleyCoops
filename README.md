@@ -261,11 +261,11 @@ model = PeftModel.from_pretrained(model, adapter)
 | Market | Jul 09, 2026 | [Kalshi traders think gas prices will stay higher for longer as U.S.-Iran tensions heat back up](https://www.cnbc.com/2026/07/09/kalshi-traders-see-higher-gas-prices-lasting-through-election-day.html) |
 | Market | Jul 09, 2026 | [Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin](https://www.cnbc.com/2026/07/09/goldman-sachs-asset-management-deals-verizon-lockheed-martin.html) |
 | Market | Jul 08, 2026 | [Michael Burry bets on sportsbooks DraftKings and Flutter, sees prediction markets curbed by regul...](https://www.cnbc.com/2026/07/08/michael-burry-bets-on-sportsbooks-draftkings-flutter.html) |
-| Finance | Jul 09, 2026 | [Warsh picks ex-BoE chief King and tech boss Andreessen to reform Fed](https://www.ft.com/content/e45a34e0-cd96-4b72-9ff3-380efc28a705) |
-| Finance | Jul 09, 2026 | [Wall Street’s boutiques bet on star bankers. Now they’re stuck with the bill](https://www.ft.com/content/bd15d747-6d9d-4d40-8215-1e74f5fe566b) |
-| Finance | Jul 09, 2026 | [Microsoft’s early AI lead has become a test of faith](https://www.ft.com/content/753bd818-524a-46f3-9026-e2fae74c2167) |
-| Finance | Jul 09, 2026 | [Who wants to tax a billionaire?](https://www.ft.com/content/bf1892d7-f9ef-479c-a1fb-f8dcb9efa328) |
-| Finance | Jul 09, 2026 | [US strikes Iranian railway bridges on route to city of Khamenei’s burial](https://www.ft.com/content/4b1df8e8-cc24-4991-a900-cde0d25f0f68) |
+| Finance | Jul 10, 2026 | [OpenAI and Google sell AI models to blacklisted China groups](https://www.ft.com/content/5d6aafa1-5d47-4585-aa95-6ec06a6cd20f) |
+| Finance | Jul 10, 2026 | [Tencent leads deal to unwind Meta’s $2bn Manus acquisition](https://www.ft.com/content/0d04378d-d71b-4225-b31a-70504e358480) |
+| Finance | Jul 10, 2026 | [Todd Blanche and the remaking of American justice](https://www.ft.com/content/8f24f3a4-2c7c-4288-8e11-711500be427b) |
+| Finance | Jul 10, 2026 | [Luxury square that shows London’s mansions are not selling](https://www.ft.com/content/1daad2c2-fd9e-4fc8-af16-22a1c5775fd1) |
+| Finance | Jul 10, 2026 | [Why AI could be a financial ‘sludge’ buster](https://www.ft.com/content/da32dec7-bec6-483a-9595-18a3e9575a3f) |
 
 <!-- NEWS:END -->
 
