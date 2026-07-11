@@ -262,10 +262,10 @@ model = PeftModel.from_pretrained(model, adapter)
 | Market | Jul 09, 2026 | [Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin](https://www.cnbc.com/2026/07/09/goldman-sachs-asset-management-deals-verizon-lockheed-martin.html) |
 | Market | Jul 08, 2026 | [Michael Burry bets on sportsbooks DraftKings and Flutter, sees prediction markets curbed by regul...](https://www.cnbc.com/2026/07/08/michael-burry-bets-on-sportsbooks-draftkings-flutter.html) |
 | Finance | Jul 10, 2026 | [Apple sues OpenAI alleging theft of top-secret information](https://www.ft.com/content/5054739e-7f97-455c-910a-dd8a8150fed2) |
-| Finance | Jul 10, 2026 | [Classicist Emily Wilson: ‘Odysseus is a different kind of conman’](https://www.ft.com/content/3edbfdf4-cb20-4393-9d5d-ffc1dd241ca4) |
-| Finance | Jul 10, 2026 | [How an ex-Democrat became the face of Trump’s retribution agenda](https://www.ft.com/content/8f24f3a4-2c7c-4288-8e11-711500be427b) |
-| Finance | Jul 10, 2026 | [Asha Sharma, the outsider handed the Xbox controls](https://www.ft.com/content/5b20b409-3f5c-4856-9769-aa3a8d78c786) |
-| Finance | Jul 10, 2026 | [Trump says US has agreed to continue talks with Iran](https://www.ft.com/content/b04aea1d-cd15-4e4e-ac8e-d39be1f542a9) |
+| Finance | Jul 11, 2026 | [Tropical nights come to Europe](https://www.ft.com/content/d78ed235-b157-4564-a099-2c7e350f0956) |
+| Finance | Jul 11, 2026 | [Prepare for a perilous summer in markets](https://www.ft.com/content/b04a8098-833f-4ca6-80b6-3a2cb595cbc3) |
+| Finance | Jul 11, 2026 | [What’s really going on with mental health?](https://www.ft.com/content/063b7eed-3f13-43d4-8f12-ff6439b825e8) |
+| Finance | Jul 11, 2026 | [Europe’s slow electrification is a ‘major mistake’, warns IEA chief](https://www.ft.com/content/fbeb7df0-41fb-4981-8d78-01c7a95d3ed6) |
 
 <!-- NEWS:END -->
 
