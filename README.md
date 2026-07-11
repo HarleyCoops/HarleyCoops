@@ -256,16 +256,16 @@ model = PeftModel.from_pretrained(model, adapter)
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Jul 11, 2026 | [These underperforming trades could yield big returns over next six months](https://www.cnbc.com/2026/07/11/mag-7-and-software-could-boost-portfolio-in-second-half-etf-action.html) |
 | Market | Jul 09, 2026 | [Kevin Warsh names members of his Federal Reserve task forces, including Marc Andreessen, Doug McM...](https://www.cnbc.com/2026/07/09/kevin-warsh-names-members-of-his-federal-reserve-task-forces-including-marc-andreessen-doug-mcmillon.html) |
 | Market | Jul 10, 2026 | [Prediction markets spark insider trading concerns. Here's how Goldman and other companies are res...](https://www.cnbc.com/2026/07/09/prediction-markets-spark-insider-trading-fears-how-firms-are-responding.html) |
 | Market | Jul 09, 2026 | [Kalshi traders think gas prices will stay higher for longer as U.S.-Iran tensions heat back up](https://www.cnbc.com/2026/07/09/kalshi-traders-see-higher-gas-prices-lasting-through-election-day.html) |
 | Market | Jul 09, 2026 | [Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin](https://www.cnbc.com/2026/07/09/goldman-sachs-asset-management-deals-verizon-lockheed-martin.html) |
-| Market | Jul 08, 2026 | [Michael Burry bets on sportsbooks DraftKings and Flutter, sees prediction markets curbed by regul...](https://www.cnbc.com/2026/07/08/michael-burry-bets-on-sportsbooks-draftkings-flutter.html) |
+| Finance | Jul 11, 2026 | [How AI rebrands fail to deliver a lasting share price boost](https://www.ft.com/content/07fa9ce9-ac21-484c-a57c-078b0bb0fd3b) |
 | Finance | Jul 10, 2026 | [Apple sues OpenAI alleging theft of top-secret information](https://www.ft.com/content/5054739e-7f97-455c-910a-dd8a8150fed2) |
-| Finance | Jul 10, 2026 | [Investors sell longer-dated AI debt amid Big Tech borrowing spree](https://www.ft.com/content/28380abc-72f9-4287-8d36-2823c73358ce) |
-| Finance | Jul 11, 2026 | [Tropical nights come to Europe](https://www.ft.com/content/d78ed235-b157-4564-a099-2c7e350f0956) |
+| Finance | Jul 11, 2026 | [What history tells us about Trump’s self-enrichment](https://www.ft.com/content/f91f383b-1879-4b48-a9e9-735487e32895) |
+| Finance | Jul 11, 2026 | [Democrats’ strategic misfires laid bare by Platner’s implosion in Maine](https://www.ft.com/content/76ca7934-189a-4207-89a2-cf060b87f56b) |
 | Finance | Jul 11, 2026 | [Prepare for a perilous summer in markets](https://www.ft.com/content/b04a8098-833f-4ca6-80b6-3a2cb595cbc3) |
-| Finance | Jul 11, 2026 | [What’s really going on with mental health?](https://www.ft.com/content/063b7eed-3f13-43d4-8f12-ff6439b825e8) |
 
 <!-- NEWS:END -->
 
