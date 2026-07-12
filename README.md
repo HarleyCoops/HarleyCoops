@@ -262,10 +262,10 @@ model = PeftModel.from_pretrained(model, adapter)
 | Market | Jul 09, 2026 | [Kalshi traders think gas prices will stay higher for longer as U.S.-Iran tensions heat back up](https://www.cnbc.com/2026/07/09/kalshi-traders-see-higher-gas-prices-lasting-through-election-day.html) |
 | Market | Jul 09, 2026 | [Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin](https://www.cnbc.com/2026/07/09/goldman-sachs-asset-management-deals-verizon-lockheed-martin.html) |
 | Finance | Jul 11, 2026 | [How AI rebrands fail to deliver a lasting share price boost](https://www.ft.com/content/07fa9ce9-ac21-484c-a57c-078b0bb0fd3b) |
-| Finance | Jul 10, 2026 | [Apple sues OpenAI alleging theft of top-secret information](https://www.ft.com/content/5054739e-7f97-455c-910a-dd8a8150fed2) |
 | Finance | Jul 11, 2026 | [What history tells us about Trump’s self-enrichment](https://www.ft.com/content/f91f383b-1879-4b48-a9e9-735487e32895) |
 | Finance | Jul 11, 2026 | [Democrats’ strategic misfires laid bare by Platner’s implosion in Maine](https://www.ft.com/content/76ca7934-189a-4207-89a2-cf060b87f56b) |
 | Finance | Jul 11, 2026 | [Prepare for a perilous summer in markets](https://www.ft.com/content/b04a8098-833f-4ca6-80b6-3a2cb595cbc3) |
+| Finance | Jul 12, 2026 | [US strikes again after Iran declares Strait of Hormuz closed](https://www.ft.com/content/6b6c23e9-f24e-4c3e-bb1a-e5cb6860008d) |
 
 <!-- NEWS:END -->
 
