@@ -261,11 +261,11 @@ model = PeftModel.from_pretrained(model, adapter)
 | Market | Jul 10, 2026 | [Prediction markets spark insider trading concerns. Here's how Goldman and other companies are res...](https://www.cnbc.com/2026/07/09/prediction-markets-spark-insider-trading-fears-how-firms-are-responding.html) |
 | Market | Jul 09, 2026 | [Kalshi traders think gas prices will stay higher for longer as U.S.-Iran tensions heat back up](https://www.cnbc.com/2026/07/09/kalshi-traders-see-higher-gas-prices-lasting-through-election-day.html) |
 | Market | Jul 09, 2026 | [Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin](https://www.cnbc.com/2026/07/09/goldman-sachs-asset-management-deals-verizon-lockheed-martin.html) |
-| Finance | Jul 12, 2026 | [US launches fresh strikes after Tehran declares Strait of Hormuz closed](https://www.ft.com/content/6b6c23e9-f24e-4c3e-bb1a-e5cb6860008d) |
+| Finance | Jul 12, 2026 | [US launches new strikes on Iran in battle over Strait of Hormuz](https://www.ft.com/content/6b6c23e9-f24e-4c3e-bb1a-e5cb6860008d) |
+| Finance | Jul 12, 2026 | [Iran bets Trump will blink first](https://www.ft.com/content/5bcb587a-e74a-4a34-9d18-c52520bd7b05) |
 | Finance | Jul 12, 2026 | [The great reinvention of Hunter Biden](https://www.ft.com/content/8e22b012-9f0f-45a5-b87f-a838e325ddc2) |
-| Finance | Jul 12, 2026 | [It pays to kiss up and kick down](https://www.ft.com/content/719ce75b-dd30-4c98-ab48-a296188dfb8f) |
-| Finance | Jul 12, 2026 | [US senator Lindsey Graham dies aged 71](https://www.ft.com/content/b3b93565-652a-41e9-aabd-9ed35309bdeb) |
-| Finance | Jul 12, 2026 | [China cracks down on top ratings for corporate bonds](https://www.ft.com/content/750c90d4-6c6f-464a-85c2-5ae86b085da8) |
+| Finance | Jul 12, 2026 | [Knives out at US Supreme Court as justices’ squabbles go public](https://www.ft.com/content/815fe0f4-03c5-4583-9baf-a0cf679624a7) |
+| Finance | Jul 12, 2026 | [Lindsey Graham, Republican senator, 1955-2026](https://www.ft.com/content/2855aa69-7bce-4921-9c80-66e0f78d2575) |
 
 <!-- NEWS:END -->
 
