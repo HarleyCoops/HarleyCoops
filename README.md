@@ -261,11 +261,11 @@ model = PeftModel.from_pretrained(model, adapter)
 | Market | Jul 10, 2026 | [Prediction markets spark insider trading concerns. Here's how Goldman and other companies are res...](https://www.cnbc.com/2026/07/09/prediction-markets-spark-insider-trading-fears-how-firms-are-responding.html) |
 | Market | Jul 09, 2026 | [Kalshi traders think gas prices will stay higher for longer as U.S.-Iran tensions heat back up](https://www.cnbc.com/2026/07/09/kalshi-traders-see-higher-gas-prices-lasting-through-election-day.html) |
 | Market | Jul 09, 2026 | [Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin](https://www.cnbc.com/2026/07/09/goldman-sachs-asset-management-deals-verizon-lockheed-martin.html) |
-| Finance | Jul 11, 2026 | [How AI rebrands fail to deliver a lasting share price boost](https://www.ft.com/content/07fa9ce9-ac21-484c-a57c-078b0bb0fd3b) |
-| Finance | Jul 11, 2026 | [What history tells us about Trump’s self-enrichment](https://www.ft.com/content/f91f383b-1879-4b48-a9e9-735487e32895) |
-| Finance | Jul 11, 2026 | [Democrats’ strategic misfires laid bare by Platner’s implosion in Maine](https://www.ft.com/content/76ca7934-189a-4207-89a2-cf060b87f56b) |
-| Finance | Jul 11, 2026 | [Prepare for a perilous summer in markets](https://www.ft.com/content/b04a8098-833f-4ca6-80b6-3a2cb595cbc3) |
-| Finance | Jul 12, 2026 | [US strikes again after Iran declares Strait of Hormuz closed](https://www.ft.com/content/6b6c23e9-f24e-4c3e-bb1a-e5cb6860008d) |
+| Finance | Jul 12, 2026 | [US launches more strikes after Tehran declares Strait of Hormuz closed](https://www.ft.com/content/6b6c23e9-f24e-4c3e-bb1a-e5cb6860008d) |
+| Finance | Jul 12, 2026 | [The EU has ways out of its budget trap](https://www.ft.com/content/127fd859-5e3d-4786-a4e2-318295976764) |
+| Finance | Jul 12, 2026 | [It pays to kiss up and kick down](https://www.ft.com/content/719ce75b-dd30-4c98-ab48-a296188dfb8f) |
+| Finance | Jul 12, 2026 | [China cracks down on top ratings for corporate bonds](https://www.ft.com/content/750c90d4-6c6f-464a-85c2-5ae86b085da8) |
+| Finance | Jul 12, 2026 | [Bellingham brace carries England past Norway into World Cup semi-final](https://www.ft.com/content/34f8f9c2-07f8-4c71-b6b4-9bbf26878c9e) |
 
 <!-- NEWS:END -->
 
