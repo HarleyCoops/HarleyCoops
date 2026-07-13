@@ -261,11 +261,11 @@ model = PeftModel.from_pretrained(model, adapter)
 | Market | Jul 10, 2026 | [Prediction markets spark insider trading concerns. Here's how Goldman and other companies are res...](https://www.cnbc.com/2026/07/09/prediction-markets-spark-insider-trading-fears-how-firms-are-responding.html) |
 | Market | Jul 09, 2026 | [Kalshi traders think gas prices will stay higher for longer as U.S.-Iran tensions heat back up](https://www.cnbc.com/2026/07/09/kalshi-traders-see-higher-gas-prices-lasting-through-election-day.html) |
 | Market | Jul 09, 2026 | [Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin](https://www.cnbc.com/2026/07/09/goldman-sachs-asset-management-deals-verizon-lockheed-martin.html) |
-| Finance | Jul 12, 2026 | [US launches another round of strikes on Iran as ceasefire teeters](https://www.ft.com/content/c5beec47-ba53-412e-910e-6b9ab2f3238d) |
-| Finance | Jul 12, 2026 | [Oil prices jump as US and Iran step up tit-for-tat strikes](https://www.ft.com/content/a3075fc2-74bd-4908-ab02-bbac79c32ee6) |
+| Finance | Jul 13, 2026 | [US launches more strikes on Iran as ceasefire teeters](https://www.ft.com/content/c5beec47-ba53-412e-910e-6b9ab2f3238d) |
+| Finance | Jul 13, 2026 | [Oil jumps and global stocks fall](https://www.ft.com/content/54be872f-c0a2-46dd-9337-5cad9124e734) |
 | Finance | Jul 12, 2026 | [Iran bets Trump will blink first](https://www.ft.com/content/5bcb587a-e74a-4a34-9d18-c52520bd7b05) |
-| Finance | Jul 12, 2026 | [The great reinvention of Hunter Biden](https://www.ft.com/content/8e22b012-9f0f-45a5-b87f-a838e325ddc2) |
-| Finance | Jul 12, 2026 | [A three-way nuclear arms race](https://www.ft.com/content/e7ff97e3-a4a2-4237-af16-de7115296ca6) |
+| Finance | Jul 13, 2026 | [Jane Fraser’s ruthless remake of Citigroup](https://www.ft.com/content/632c0f53-66f2-4c7d-8e4f-bae514cef713) |
+| Finance | Jul 13, 2026 | [AI is not enough to arrest China’s decline](https://www.ft.com/content/0dbbef33-059b-4ec9-b504-31f37a0c4053) |
 
 <!-- NEWS:END -->
 
