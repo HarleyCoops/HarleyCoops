@@ -256,15 +256,15 @@ model = PeftModel.from_pretrained(model, adapter)
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Jul 13, 2026 | [A July rate hike from the Fed? The odds are rising](https://www.cnbc.com/2026/07/13/-a-july-rate-hike-from-the-fed-the-odds-are-rising.html) |
+| Market | Jul 13, 2026 | [Waller says Fed shouldn't 'fight the last war' on inflation but warns hikes still possible](https://www.cnbc.com/2026/07/13/waller-says-fed-shouldnt-fight-the-last-war-on-inflation-but-warns-hikes-still-possible.html) |
 | Market | Jul 13, 2026 | [Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility](https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html) |
 | Market | Jul 13, 2026 | [Kalshi launches 'Pro' product for users trading multiple markets at same time, perpetual futures](https://www.cnbc.com/2026/07/13/kalshi-launches-pro-product-for-users-trading-multiple-markets-at-same-time-perpetual-futures.html) |
 | Market | Jul 11, 2026 | [These underperforming trades could yield big returns over next six months](https://www.cnbc.com/2026/07/11/mag-7-and-software-could-boost-portfolio-in-second-half-etf-action.html) |
-| Market | Jul 09, 2026 | [Kevin Warsh names members of his Federal Reserve task forces, including Marc Andreessen, Doug McM...](https://www.cnbc.com/2026/07/09/kevin-warsh-names-members-of-his-federal-reserve-task-forces-including-marc-andreessen-doug-mcmillon.html) |
-| Market | Jul 10, 2026 | [Prediction markets spark insider trading concerns. Here's how Goldman and other companies are res...](https://www.cnbc.com/2026/07/09/prediction-markets-spark-insider-trading-fears-how-firms-are-responding.html) |
-| Finance | Jul 13, 2026 | [Global tech stocks fall as Asian memory chipmakers hammered](https://www.ft.com/content/54be872f-c0a2-46dd-9337-5cad9124e734) |
-| Finance | Jul 13, 2026 | [Investors alarmed as Asian chipmakers take stranglehold on indices](https://www.ft.com/content/734c23c8-73ed-4a4a-8150-49d12d891c30) |
-| Finance | Jul 13, 2026 | [When the ducks are quacking, feed them](https://www.ft.com/content/eb835b03-4528-4dd4-90fe-e8bf3e22891d) |
+| Finance | Jul 13, 2026 | [Dubai plans new port to bypass Strait of Hormuz](https://www.ft.com/content/1f97b548-1bd8-41c8-8380-043ec688d77a) |
+| Finance | Jul 13, 2026 | [US will charge 20% fee for ships using Strait of Hormuz, Trump says](https://www.ft.com/content/b1ab6ab2-b893-4605-b2b1-571ba9f46bd1) |
 | Finance | Jul 13, 2026 | [Jane Fraser’s ruthless remake of Citigroup](https://www.ft.com/content/632c0f53-66f2-4c7d-8e4f-bae514cef713) |
+| Finance | Jul 13, 2026 | [Trump’s star power becomes a gamble for Republicans](https://www.ft.com/content/8e6044f6-6229-4993-9494-2e4f0feb803e) |
 | Finance | Jul 13, 2026 | [Trump’s plan for Europe is falling apart](https://www.ft.com/content/23041bb7-4647-4efe-b790-b763d270fb72) |
 
 <!-- NEWS:END -->
