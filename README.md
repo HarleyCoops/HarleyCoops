@@ -256,16 +256,16 @@ model = PeftModel.from_pretrained(model, adapter)
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Jul 13, 2026 | [Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility](https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html) |
+| Market | Jul 13, 2026 | [Kalshi launches 'Pro' product for users trading multiple markets at same time, perpetual futures](https://www.cnbc.com/2026/07/13/kalshi-launches-pro-product-for-users-trading-multiple-markets-at-same-time-perpetual-futures.html) |
 | Market | Jul 11, 2026 | [These underperforming trades could yield big returns over next six months](https://www.cnbc.com/2026/07/11/mag-7-and-software-could-boost-portfolio-in-second-half-etf-action.html) |
 | Market | Jul 09, 2026 | [Kevin Warsh names members of his Federal Reserve task forces, including Marc Andreessen, Doug McM...](https://www.cnbc.com/2026/07/09/kevin-warsh-names-members-of-his-federal-reserve-task-forces-including-marc-andreessen-doug-mcmillon.html) |
 | Market | Jul 10, 2026 | [Prediction markets spark insider trading concerns. Here's how Goldman and other companies are res...](https://www.cnbc.com/2026/07/09/prediction-markets-spark-insider-trading-fears-how-firms-are-responding.html) |
-| Market | Jul 09, 2026 | [Kalshi traders think gas prices will stay higher for longer as U.S.-Iran tensions heat back up](https://www.cnbc.com/2026/07/09/kalshi-traders-see-higher-gas-prices-lasting-through-election-day.html) |
-| Market | Jul 09, 2026 | [Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin](https://www.cnbc.com/2026/07/09/goldman-sachs-asset-management-deals-verizon-lockheed-martin.html) |
-| Finance | Jul 13, 2026 | [US launches more strikes on Iran as ceasefire teeters](https://www.ft.com/content/c5beec47-ba53-412e-910e-6b9ab2f3238d) |
-| Finance | Jul 13, 2026 | [Oil jumps and global stocks fall](https://www.ft.com/content/54be872f-c0a2-46dd-9337-5cad9124e734) |
-| Finance | Jul 12, 2026 | [Iran bets Trump will blink first](https://www.ft.com/content/5bcb587a-e74a-4a34-9d18-c52520bd7b05) |
+| Finance | Jul 13, 2026 | [Global tech stocks fall as Asian memory chipmakers hammered](https://www.ft.com/content/54be872f-c0a2-46dd-9337-5cad9124e734) |
+| Finance | Jul 13, 2026 | [Investors alarmed as Asian chipmakers take stranglehold on indices](https://www.ft.com/content/734c23c8-73ed-4a4a-8150-49d12d891c30) |
+| Finance | Jul 13, 2026 | [When the ducks are quacking, feed them](https://www.ft.com/content/eb835b03-4528-4dd4-90fe-e8bf3e22891d) |
 | Finance | Jul 13, 2026 | [Jane Fraser’s ruthless remake of Citigroup](https://www.ft.com/content/632c0f53-66f2-4c7d-8e4f-bae514cef713) |
-| Finance | Jul 13, 2026 | [AI is not enough to arrest China’s decline](https://www.ft.com/content/0dbbef33-059b-4ec9-b504-31f37a0c4053) |
+| Finance | Jul 13, 2026 | [Trump’s plan for Europe is falling apart](https://www.ft.com/content/23041bb7-4647-4efe-b790-b763d270fb72) |
 
 <!-- NEWS:END -->
 
