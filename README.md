@@ -256,16 +256,16 @@ model = PeftModel.from_pretrained(model, adapter)
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Jul 14, 2026 | [Warren Buffett excludes Gates Foundation from his annual donations of Berkshire stock](https://www.cnbc.com/2026/07/14/warren-buffett-excludes-gates-foundation-from-his-annual-donations-of-berkshire-stock.html) |
 | Market | Jul 14, 2026 | ['Listing is a must': Chinese humanoid startups are rushing to launch IPOs](https://www.cnbc.com/2026/07/13/chinese-humanoid-startups-ipo-limx-unitree.html) |
 | Market | Jul 13, 2026 | [A July rate hike from the Fed? The odds are rising](https://www.cnbc.com/2026/07/13/-a-july-rate-hike-from-the-fed-the-odds-are-rising.html) |
 | Market | Jul 13, 2026 | [Waller says Fed shouldn't 'fight the last war' on inflation but warns hikes still possible](https://www.cnbc.com/2026/07/13/waller-says-fed-shouldnt-fight-the-last-war-on-inflation-but-warns-hikes-still-possible.html) |
-| Market | Jul 13, 2026 | [Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility](https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html) |
-| Market | Jul 13, 2026 | [Kalshi launches 'Pro' product for users trading multiple markets at same time, perpetual futures](https://www.cnbc.com/2026/07/13/kalshi-launches-pro-product-for-users-trading-multiple-markets-at-same-time-perpetual-futures.html) |
-| Finance | Jul 14, 2026 | [China’s monthly car exports surge past 1mn for first time](https://www.ft.com/content/37324f66-7167-4083-a28e-6ffc505c4cda) |
-| Finance | Jul 14, 2026 | [China’s growth: five things to watch as economic pressure mounts](https://www.ft.com/content/c21b8869-6539-414b-8fe2-255b329b8688) |
+| Market | Jul 14, 2026 | [Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility](https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html) |
+| Finance | Jul 14, 2026 | [Wall Street banks post blockbuster profits as equities trading booms](https://www.ft.com/content/f4231724-bb67-4cfd-81e2-d20f4badb82e) |
 | Finance | Jul 14, 2026 | [RIP the US state department](https://www.ft.com/content/ae268a4e-5134-4d34-ba5e-a908cc74c52d) |
+| Finance | Jul 14, 2026 | [Democrats are not in great shape](https://www.ft.com/content/bd5f3950-3c80-41af-852e-fe736da603ac) |
 | Finance | Jul 14, 2026 | [Why the world should copy Trump for once](https://www.ft.com/content/6ff504c6-1cee-4e37-a56d-6a06c3107819) |
-| Finance | Jul 14, 2026 | [AI and the new Mechanical Turk](https://www.ft.com/content/acd0ef98-b462-4800-88b9-2c78c54f2559) |
+| Finance | Jul 14, 2026 | [Oil hits $87 as battle for Strait of Hormuz alarms energy markets](https://www.ft.com/content/2d899824-5f94-4f0c-81fc-c54a0750e498) |
 
 <!-- NEWS:END -->
 
