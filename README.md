@@ -261,9 +261,9 @@ model = PeftModel.from_pretrained(model, adapter)
 | Market | Jul 13, 2026 | [Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility](https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html) |
 | Market | Jul 13, 2026 | [Kalshi launches 'Pro' product for users trading multiple markets at same time, perpetual futures](https://www.cnbc.com/2026/07/13/kalshi-launches-pro-product-for-users-trading-multiple-markets-at-same-time-perpetual-futures.html) |
 | Market | Jul 11, 2026 | [These underperforming trades could yield big returns over next six months](https://www.cnbc.com/2026/07/11/mag-7-and-software-could-boost-portfolio-in-second-half-etf-action.html) |
+| Finance | Jul 13, 2026 | [US launches air strikes as Iran targets tankers with cruise missiles](https://www.ft.com/content/34f93b7e-b1a7-40c3-8e6e-a5cac7dbaa9c) |
 | Finance | Jul 13, 2026 | [Dubai plans new port to bypass Strait of Hormuz](https://www.ft.com/content/1f97b548-1bd8-41c8-8380-043ec688d77a) |
-| Finance | Jul 13, 2026 | [US will charge 20% fee for ships using Strait of Hormuz, Trump says](https://www.ft.com/content/b1ab6ab2-b893-4605-b2b1-571ba9f46bd1) |
-| Finance | Jul 13, 2026 | [Jane Fraser’s ruthless remake of Citigroup](https://www.ft.com/content/632c0f53-66f2-4c7d-8e4f-bae514cef713) |
+| Finance | Jul 13, 2026 | [Stocks and bonds drop as mounting US-Iran tensions spook investors](https://www.ft.com/content/54be872f-c0a2-46dd-9337-5cad9124e734) |
 | Finance | Jul 13, 2026 | [Trump’s star power becomes a gamble for Republicans](https://www.ft.com/content/8e6044f6-6229-4993-9494-2e4f0feb803e) |
 | Finance | Jul 13, 2026 | [Trump’s plan for Europe is falling apart](https://www.ft.com/content/23041bb7-4647-4efe-b790-b763d270fb72) |
 
