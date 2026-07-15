@@ -256,16 +256,16 @@ model = PeftModel.from_pretrained(model, adapter)
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
-| Market | Jul 15, 2026 | [Buffett says Trump's pick of Kevin Warsh for Fed chair was 'good choice'](https://www.cnbc.com/2026/07/15/buffett-says-trumps-pick-of-kevin-warsh-for-fed-chair-was-good-choice.html) |
-| Market | Jul 15, 2026 | [Star analyst Dan Ives forms Yorkville Ives merchant bank after leaving Wedbush](https://www.cnbc.com/2026/07/15/star-analyst-dan-ives-forms-yorkville-ives-merchant-bank-after-leaving-wedbush.html) |
-| Market | Jul 15, 2026 | [Warren Buffett calls Bill Gates' actions with Epstein 'distasteful,' but people make mistakes](https://www.cnbc.com/2026/07/15/warren-buffett-calls-bill-gates-actions-with-epstein-distasteful-but-people-make-mistakes.html) |
-| Market | Jul 15, 2026 | [Morgan Stanley posts record quarterly revenue and profit as equities trading surges 69%](https://www.cnbc.com/2026/07/15/morgan-stanley-ms-earnings-q2-2026-.html) |
-| Market | Jul 14, 2026 | [The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase](https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html) |
-| Finance | Jul 15, 2026 | [China’s economy grows at one of lowest rates in decades](https://www.ft.com/content/5b12e491-dcd0-4e0c-a464-96ec37b737ab) |
-| Finance | Jul 15, 2026 | [The new great game on minerals](https://www.ft.com/content/a5018a00-0f96-4b39-b82f-c4ccd5e929f7) |
+| Market | Jul 15, 2026 | [Anthropic moves closer to mega-IPO as bankers line up investor meetings](https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html) |
+| Market | Jul 15, 2026 | [Fed Chairman Kevin Warsh's testimony to Senate banking committee hits on economy, interest rates](https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html) |
+| Market | Jul 15, 2026 | [‘Arsenal of democracy’: Jamie Dimon announces $24 million effort to boost American shipbuilding](https://www.cnbc.com/2026/07/15/jamie-dimon-jpmorgan-chase-defense.html) |
+| Market | Jul 15, 2026 | [Warren Buffett on the market today: 'It's tough to find values when everybody is preferring gambl...](https://www.cnbc.com/2026/07/15/warren-buffett-on-the-market-today-its-tough-to-find-values-when-everybody-is-preferring-gambling.html) |
+| Market | Jul 15, 2026 | [New York Fed President Williams says inflation has peaked, rates 'well positioned'](https://www.cnbc.com/2026/07/15/new-york-fed-president-williams-says-inflation-has-peaked-rates-well-positioned.html) |
+| Finance | Jul 15, 2026 | [Oil traders warn market is close to running on empty as Hormuz shuts again](https://www.ft.com/content/6c314457-ce9a-4689-b3e1-ff637de0d6bf) |
+| Finance | Jul 15, 2026 | [Trump’s return to war with Iran offers no clear path to victory](https://www.ft.com/content/7a993639-28aa-442a-8ea6-2abaa695b698) |
+| Finance | Jul 15, 2026 | [SpaceX sell-off wipes $1tn from Musk’s rocket group](https://www.ft.com/content/94959f40-1874-4ece-b629-b18f43aa3ede) |
 | Finance | Jul 15, 2026 | [Is the US or Europe better off?](https://www.ft.com/content/b77cec48-87e2-4bef-b18c-0f9f6718b11c) |
 | Finance | Jul 15, 2026 | [Trump is driving another nail into the coffin of US science](https://www.ft.com/content/e003b372-f811-46f0-9960-337d1f3cc9dd) |
-| Finance | Jul 15, 2026 | [Stripe and Advent make $53bn bid for PayPal](https://www.ft.com/content/3738e814-9470-4d7d-94a6-ac5e001a968e) |
 
 <!-- NEWS:END -->
 
