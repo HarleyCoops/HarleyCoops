@@ -256,16 +256,16 @@ model = PeftModel.from_pretrained(model, adapter)
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Jul 15, 2026 | [Buffett says Trump's pick of Kevin Warsh for Fed chair was 'good choice'](https://www.cnbc.com/2026/07/15/buffett-says-trumps-pick-of-kevin-warsh-for-fed-chair-was-good-choice.html) |
+| Market | Jul 15, 2026 | [Star analyst Dan Ives forms Yorkville Ives merchant bank after leaving Wedbush](https://www.cnbc.com/2026/07/15/star-analyst-dan-ives-forms-yorkville-ives-merchant-bank-after-leaving-wedbush.html) |
+| Market | Jul 15, 2026 | [Warren Buffett calls Bill Gates' actions with Epstein 'distasteful,' but people make mistakes](https://www.cnbc.com/2026/07/15/warren-buffett-calls-bill-gates-actions-with-epstein-distasteful-but-people-make-mistakes.html) |
+| Market | Jul 15, 2026 | [Morgan Stanley posts record quarterly revenue and profit as equities trading surges 69%](https://www.cnbc.com/2026/07/15/morgan-stanley-ms-earnings-q2-2026-.html) |
 | Market | Jul 14, 2026 | [The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase](https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html) |
-| Market | Jul 14, 2026 | [Watch: Fed Chairman Kevin Warsh testifies to House Financial Services committee](https://www.cnbc.com/2026/07/14/watch-fed-chairman-kevin-warsh-testify-live-to-house-financial-services-committee.html) |
-| Market | Jul 14, 2026 | [Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people](https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html) |
-| Market | Jul 14, 2026 | [Warren Buffett excludes Gates Foundation from his annual donations of Berkshire stock](https://www.cnbc.com/2026/07/14/warren-buffett-excludes-gates-foundation-from-his-annual-donations-of-berkshire-stock.html) |
-| Market | Jul 14, 2026 | ['Listing is a must': Chinese humanoid startups are rushing to launch IPOs](https://www.cnbc.com/2026/07/13/chinese-humanoid-startups-ipo-limx-unitree.html) |
 | Finance | Jul 15, 2026 | [China’s economy grows at one of lowest rates in decades](https://www.ft.com/content/5b12e491-dcd0-4e0c-a464-96ec37b737ab) |
-| Finance | Jul 15, 2026 | [The race to break China’s metals grip](https://www.ft.com/content/a5018a00-0f96-4b39-b82f-c4ccd5e929f7) |
-| Finance | Jul 15, 2026 | [Trump is driving another nail into the coffin of US science](https://www.ft.com/content/e003b372-f811-46f0-9960-337d1f3cc9dd) |
+| Finance | Jul 15, 2026 | [The new great game on minerals](https://www.ft.com/content/a5018a00-0f96-4b39-b82f-c4ccd5e929f7) |
 | Finance | Jul 15, 2026 | [Is the US or Europe better off?](https://www.ft.com/content/b77cec48-87e2-4bef-b18c-0f9f6718b11c) |
-| Finance | Jul 15, 2026 | [Ukraine to buy Chinese drone parts with EU funds](https://www.ft.com/content/f6cf99e0-21f7-47c0-b5b1-64b77c18d204) |
+| Finance | Jul 15, 2026 | [Trump is driving another nail into the coffin of US science](https://www.ft.com/content/e003b372-f811-46f0-9960-337d1f3cc9dd) |
+| Finance | Jul 15, 2026 | [Stripe and Advent make $53bn bid for PayPal](https://www.ft.com/content/3738e814-9470-4d7d-94a6-ac5e001a968e) |
 
 <!-- NEWS:END -->
 
