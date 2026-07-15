@@ -256,16 +256,16 @@ model = PeftModel.from_pretrained(model, adapter)
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Jul 14, 2026 | [The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase](https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html) |
 | Market | Jul 14, 2026 | [Watch: Fed Chairman Kevin Warsh testifies to House Financial Services committee](https://www.cnbc.com/2026/07/14/watch-fed-chairman-kevin-warsh-testify-live-to-house-financial-services-committee.html) |
 | Market | Jul 14, 2026 | [Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people](https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html) |
 | Market | Jul 14, 2026 | [Warren Buffett excludes Gates Foundation from his annual donations of Berkshire stock](https://www.cnbc.com/2026/07/14/warren-buffett-excludes-gates-foundation-from-his-annual-donations-of-berkshire-stock.html) |
 | Market | Jul 14, 2026 | ['Listing is a must': Chinese humanoid startups are rushing to launch IPOs](https://www.cnbc.com/2026/07/13/chinese-humanoid-startups-ipo-limx-unitree.html) |
-| Market | Jul 13, 2026 | [A July rate hike from the Fed? The odds are rising](https://www.cnbc.com/2026/07/13/-a-july-rate-hike-from-the-fed-the-odds-are-rising.html) |
 | Finance | Jul 14, 2026 | [IBM shares plunge 25% as customers shift spending to AI](https://www.ft.com/content/da478c37-7a32-415d-9f30-3b2981149f95) |
+| Finance | Jul 14, 2026 | [Manic markets show no mercy to IBM](https://www.ft.com/content/cfec51c1-0435-457f-a140-f302ca6a4e0b) |
+| Finance | Jul 14, 2026 | [New York becomes first US state to suspend data centre development](https://www.ft.com/content/1c390476-9d93-4df5-9b41-7381db43b4ea) |
 | Finance | Jul 14, 2026 | [Wall Street banks smash records on stock trading boom](https://www.ft.com/content/137efc01-087f-4b1d-b2a4-e18ea61197f2) |
 | Finance | Jul 14, 2026 | [Democrats are not in great shape](https://www.ft.com/content/bd5f3950-3c80-41af-852e-fe736da603ac) |
-| Finance | Jul 14, 2026 | [Ukraine targets Russian shipping in ‘unprecedented’ drone assault](https://www.ft.com/content/6d5e952f-eb03-4277-a8b4-caae478a02d9) |
-| Finance | Jul 14, 2026 | [Trump says US to abandon proposed Strait of Hormuz cargo fee](https://www.ft.com/content/359bc137-c375-4812-87a9-07fbba8e347f) |
 
 <!-- NEWS:END -->
 
