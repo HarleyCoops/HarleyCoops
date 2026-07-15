@@ -261,11 +261,11 @@ model = PeftModel.from_pretrained(model, adapter)
 | Market | Jul 14, 2026 | [Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people](https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html) |
 | Market | Jul 14, 2026 | [Warren Buffett excludes Gates Foundation from his annual donations of Berkshire stock](https://www.cnbc.com/2026/07/14/warren-buffett-excludes-gates-foundation-from-his-annual-donations-of-berkshire-stock.html) |
 | Market | Jul 14, 2026 | ['Listing is a must': Chinese humanoid startups are rushing to launch IPOs](https://www.cnbc.com/2026/07/13/chinese-humanoid-startups-ipo-limx-unitree.html) |
-| Finance | Jul 14, 2026 | [IBM shares plunge 25% as customers shift spending to AI](https://www.ft.com/content/da478c37-7a32-415d-9f30-3b2981149f95) |
-| Finance | Jul 14, 2026 | [Manic markets show no mercy to IBM](https://www.ft.com/content/cfec51c1-0435-457f-a140-f302ca6a4e0b) |
-| Finance | Jul 14, 2026 | [New York becomes first US state to suspend data centre development](https://www.ft.com/content/1c390476-9d93-4df5-9b41-7381db43b4ea) |
-| Finance | Jul 14, 2026 | [Wall Street banks smash records on stock trading boom](https://www.ft.com/content/137efc01-087f-4b1d-b2a4-e18ea61197f2) |
-| Finance | Jul 14, 2026 | [Democrats are not in great shape](https://www.ft.com/content/bd5f3950-3c80-41af-852e-fe736da603ac) |
+| Finance | Jul 15, 2026 | [China’s economy grows at one of lowest rates in decades](https://www.ft.com/content/5b12e491-dcd0-4e0c-a464-96ec37b737ab) |
+| Finance | Jul 15, 2026 | [The race to break China’s metals grip](https://www.ft.com/content/a5018a00-0f96-4b39-b82f-c4ccd5e929f7) |
+| Finance | Jul 15, 2026 | [Trump is driving another nail into the coffin of US science](https://www.ft.com/content/e003b372-f811-46f0-9960-337d1f3cc9dd) |
+| Finance | Jul 15, 2026 | [Is the US or Europe better off?](https://www.ft.com/content/b77cec48-87e2-4bef-b18c-0f9f6718b11c) |
+| Finance | Jul 15, 2026 | [Ukraine to buy Chinese drone parts with EU funds](https://www.ft.com/content/f6cf99e0-21f7-47c0-b5b1-64b77c18d204) |
 
 <!-- NEWS:END -->
 
