@@ -263,8 +263,8 @@ model = PeftModel.from_pretrained(model, adapter)
 | Market | Jul 15, 2026 | [New York Fed President Williams says inflation has peaked, rates 'well positioned'](https://www.cnbc.com/2026/07/15/new-york-fed-president-williams-says-inflation-has-peaked-rates-well-positioned.html) |
 | Finance | Jul 16, 2026 | [US will not win Iran war from the air, Trump’s ex-defence chief warns](https://www.ft.com/content/80245363-32d8-4fe6-805f-c4e3dec6279c) |
 | Finance | Jul 16, 2026 | [US hits tanker heading for Kharg Island under renewed Iran blockade](https://www.ft.com/content/c2325003-2199-491a-83d4-c1e70c7e8e44) |
-| Finance | Jul 16, 2026 | [Hungary’s regime change](https://www.ft.com/content/8a70ebb7-693d-497a-9b69-559ccbb7eee6) |
-| Finance | Jul 16, 2026 | [The perks of parenting by spreadsheet](https://www.ft.com/content/8637838f-0787-4b4f-9fbf-6b1d71e65347) |
+| Finance | Jul 16, 2026 | [After the strongman](https://www.ft.com/content/8a70ebb7-693d-497a-9b69-559ccbb7eee6?syn-25a6b1a6=1) |
+| Finance | Jul 16, 2026 | [The perks of parenting by spreadsheet](https://www.ft.com/content/8637838f-0787-4b4f-9fbf-6b1d71e65347?syn-25a6b1a6=1) |
 | Finance | Jul 16, 2026 | [Conflicts of interest are back — and more blatant than ever](https://www.ft.com/content/5b63522b-485f-4213-a1d3-1c4936aa32a7) |
 
 <!-- NEWS:END -->
