@@ -261,11 +261,11 @@ model = PeftModel.from_pretrained(model, adapter)
 | Market | Jul 15, 2026 | [‘Arsenal of democracy’: Jamie Dimon announces $24 million effort to boost American shipbuilding](https://www.cnbc.com/2026/07/15/jamie-dimon-jpmorgan-chase-defense.html) |
 | Market | Jul 15, 2026 | [Warren Buffett on the market today: 'It's tough to find values when everybody is preferring gambl...](https://www.cnbc.com/2026/07/15/warren-buffett-on-the-market-today-its-tough-to-find-values-when-everybody-is-preferring-gambling.html) |
 | Market | Jul 15, 2026 | [New York Fed President Williams says inflation has peaked, rates 'well positioned'](https://www.cnbc.com/2026/07/15/new-york-fed-president-williams-says-inflation-has-peaked-rates-well-positioned.html) |
-| Finance | Jul 15, 2026 | [Oil traders warn market is close to running on empty as Hormuz shuts again](https://www.ft.com/content/6c314457-ce9a-4689-b3e1-ff637de0d6bf) |
-| Finance | Jul 15, 2026 | [US hits tanker heading for Kharg Island under renewed Iran blockade](https://www.ft.com/content/c2325003-2199-491a-83d4-c1e70c7e8e44) |
-| Finance | Jul 15, 2026 | [Trump’s return to war with Iran offers no clear path to victory](https://www.ft.com/content/7a993639-28aa-442a-8ea6-2abaa695b698) |
-| Finance | Jul 15, 2026 | [SpaceX sell-off wipes $1tn from Musk’s rocket group](https://www.ft.com/content/94959f40-1874-4ece-b629-b18f43aa3ede) |
-| Finance | Jul 15, 2026 | [Dan Ives and Trump family-linked securities group launch AI bank, because why not?](https://www.ft.com/content/85576fd2-7c99-4bf2-b8f0-6c847da77bbc) |
+| Finance | Jul 16, 2026 | [US will not win Iran war from the air, Trump’s ex-defence chief warns](https://www.ft.com/content/80245363-32d8-4fe6-805f-c4e3dec6279c) |
+| Finance | Jul 16, 2026 | [US hits tanker heading for Kharg Island under renewed Iran blockade](https://www.ft.com/content/c2325003-2199-491a-83d4-c1e70c7e8e44) |
+| Finance | Jul 16, 2026 | [Hungary’s regime change](https://www.ft.com/content/8a70ebb7-693d-497a-9b69-559ccbb7eee6) |
+| Finance | Jul 16, 2026 | [The perks of parenting by spreadsheet](https://www.ft.com/content/8637838f-0787-4b4f-9fbf-6b1d71e65347) |
+| Finance | Jul 16, 2026 | [Conflicts of interest are back — and more blatant than ever](https://www.ft.com/content/5b63522b-485f-4213-a1d3-1c4936aa32a7) |
 
 <!-- NEWS:END -->
 
