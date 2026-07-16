@@ -262,10 +262,10 @@ model = PeftModel.from_pretrained(model, adapter)
 | Market | Jul 15, 2026 | [Warren Buffett on the market today: 'It's tough to find values when everybody is preferring gambl...](https://www.cnbc.com/2026/07/15/warren-buffett-on-the-market-today-its-tough-to-find-values-when-everybody-is-preferring-gambling.html) |
 | Market | Jul 15, 2026 | [New York Fed President Williams says inflation has peaked, rates 'well positioned'](https://www.cnbc.com/2026/07/15/new-york-fed-president-williams-says-inflation-has-peaked-rates-well-positioned.html) |
 | Finance | Jul 15, 2026 | [Oil traders warn market is close to running on empty as Hormuz shuts again](https://www.ft.com/content/6c314457-ce9a-4689-b3e1-ff637de0d6bf) |
+| Finance | Jul 15, 2026 | [US hits tanker heading for Kharg Island under renewed Iran blockade](https://www.ft.com/content/c2325003-2199-491a-83d4-c1e70c7e8e44) |
 | Finance | Jul 15, 2026 | [Trump’s return to war with Iran offers no clear path to victory](https://www.ft.com/content/7a993639-28aa-442a-8ea6-2abaa695b698) |
 | Finance | Jul 15, 2026 | [SpaceX sell-off wipes $1tn from Musk’s rocket group](https://www.ft.com/content/94959f40-1874-4ece-b629-b18f43aa3ede) |
-| Finance | Jul 15, 2026 | [Is the US or Europe better off?](https://www.ft.com/content/b77cec48-87e2-4bef-b18c-0f9f6718b11c) |
-| Finance | Jul 15, 2026 | [Trump is driving another nail into the coffin of US science](https://www.ft.com/content/e003b372-f811-46f0-9960-337d1f3cc9dd) |
+| Finance | Jul 15, 2026 | [Dan Ives and Trump family-linked securities group launch AI bank, because why not?](https://www.ft.com/content/85576fd2-7c99-4bf2-b8f0-6c847da77bbc) |
 
 <!-- NEWS:END -->
 
