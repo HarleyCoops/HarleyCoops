@@ -256,16 +256,16 @@ model = PeftModel.from_pretrained(model, adapter)
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Jul 16, 2026 | [Dallas Fed President Logan calls for 'modestly' higher interest rates](https://www.cnbc.com/2026/07/16/dallas-fed-president-logan-calls-for-modestly-higher-interest-rates.html) |
+| Market | Jul 16, 2026 | [Short sellers load up against SpaceX as stock drops below IPO price](https://www.cnbc.com/2026/07/16/short-sellers-load-up-against-spacex-as-stock-retreats-back-to-ipo-price.html) |
+| Market | Jul 16, 2026 | [Sen. Warren says Trump's CFPB overhaul has cost Americans $26.5 billion](https://www.cnbc.com/2026/07/16/trumps-cfpb-overhaul-cost-americans-26point5-billion-sen-warren-says.html) |
 | Market | Jul 15, 2026 | [Anthropic moves closer to mega-IPO as bankers line up investor meetings](https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html) |
 | Market | Jul 15, 2026 | [Fed Chairman Kevin Warsh's testimony to Senate banking committee hits on economy, interest rates](https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html) |
-| Market | Jul 15, 2026 | [‘Arsenal of democracy’: Jamie Dimon announces $24 million effort to boost American shipbuilding](https://www.cnbc.com/2026/07/15/jamie-dimon-jpmorgan-chase-defense.html) |
-| Market | Jul 15, 2026 | [Warren Buffett on the market today: 'It's tough to find values when everybody is preferring gambl...](https://www.cnbc.com/2026/07/15/warren-buffett-on-the-market-today-its-tough-to-find-values-when-everybody-is-preferring-gambling.html) |
-| Market | Jul 15, 2026 | [New York Fed President Williams says inflation has peaked, rates 'well positioned'](https://www.cnbc.com/2026/07/15/new-york-fed-president-williams-says-inflation-has-peaked-rates-well-positioned.html) |
-| Finance | Jul 16, 2026 | [US will not win Iran war from the air, Trump’s ex-defence chief warns](https://www.ft.com/content/80245363-32d8-4fe6-805f-c4e3dec6279c) |
-| Finance | Jul 16, 2026 | [US hits tanker heading for Kharg Island under renewed Iran blockade](https://www.ft.com/content/c2325003-2199-491a-83d4-c1e70c7e8e44) |
-| Finance | Jul 16, 2026 | [After the strongman](https://www.ft.com/content/8a70ebb7-693d-497a-9b69-559ccbb7eee6?syn-25a6b1a6=1) |
+| Finance | Jul 16, 2026 | [Zelenskyy government plunged into turmoil after defence minister fired](https://www.ft.com/content/06865b90-5b62-46c5-ae8d-147842b41cd0?syn-25a6b1a6=1) |
+| Finance | Jul 16, 2026 | [Russian strikes threaten Ukraine’s Black Sea grain trade](https://www.ft.com/content/5c64e7a5-fe26-4f14-8d77-1d0f1d8a30d3?syn-25a6b1a6=1) |
+| Finance | Jul 16, 2026 | [A wealth tax in America? Not if Silicon Valley’s billionaires have their way](https://www.ft.com/content/d66976cd-acdf-46d3-bb34-e2419873ecdb?syn-25a6b1a6=1) |
 | Finance | Jul 16, 2026 | [The perks of parenting by spreadsheet](https://www.ft.com/content/8637838f-0787-4b4f-9fbf-6b1d71e65347?syn-25a6b1a6=1) |
-| Finance | Jul 16, 2026 | [Conflicts of interest are back — and more blatant than ever](https://www.ft.com/content/5b63522b-485f-4213-a1d3-1c4936aa32a7) |
+| Finance | Jul 16, 2026 | [Conflicts of interest are back — and more blatant than ever](https://www.ft.com/content/5b63522b-485f-4213-a1d3-1c4936aa32a7?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
