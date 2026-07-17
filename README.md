@@ -261,11 +261,11 @@ model = PeftModel.from_pretrained(model, adapter)
 | Market | Jul 16, 2026 | [Short sellers load up against SpaceX as stock drops below IPO price](https://www.cnbc.com/2026/07/16/short-sellers-load-up-against-spacex-as-stock-retreats-back-to-ipo-price.html) |
 | Market | Jul 16, 2026 | [Sen. Warren says Trump's CFPB overhaul has cost Americans $26.5 billion](https://www.cnbc.com/2026/07/16/trumps-cfpb-overhaul-cost-americans-26point5-billion-sen-warren-says.html) |
 | Market | Jul 15, 2026 | [Anthropic moves closer to mega-IPO as bankers line up investor meetings](https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html) |
-| Finance | Jul 17, 2026 | [Xi sets out China’s goal to be global AI leader](https://www.ft.com/content/ddb316b4-c6ae-4b9b-9d4a-63d63201d4fc?syn-25a6b1a6=1) |
-| Finance | Jul 17, 2026 | [Chinese AI start-up Moonshot launches model challenging Anthropic’s lead](https://www.ft.com/content/c6ecd8ce-c441-4d7c-aea6-fae3e28fb6ff?syn-25a6b1a6=1) |
+| Finance | Jul 17, 2026 | [Apple targets dozens of OpenAI employees with legal letters](https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166?syn-25a6b1a6=1) |
 | Finance | Jul 17, 2026 | [AI isn’t destroying entry-level jobs. It’s changing them](https://www.ft.com/content/6cb9570b-dccd-46f5-b42a-4d0b7b5de35a?syn-25a6b1a6=1) |
-| Finance | Jul 17, 2026 | [The dangers of investor fatalism](https://www.ft.com/content/e7039185-9c0f-4a55-bb16-3caccb619c00?syn-25a6b1a6=1) |
 | Finance | Jul 17, 2026 | [Why Iran is returning to war](https://www.ft.com/content/22fdb2d5-b454-4a65-9aa9-e56371533ccf) |
+| Finance | Jul 17, 2026 | [I’m suddenly not loving my UK shares like I used to](https://www.ft.com/content/478fe638-84d5-4eab-a2c5-5b43ec106bdf?syn-25a6b1a6=1) |
+| Finance | Jul 17, 2026 | [Global tech stocks fall as AI trade goes into reverse](https://www.ft.com/content/79a15abd-5892-4f1c-b038-b09a1ceecabb?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
