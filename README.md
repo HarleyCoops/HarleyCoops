@@ -256,16 +256,16 @@ model = PeftModel.from_pretrained(model, adapter)
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Jul 17, 2026 | [India's biggest IPO this year rakes in bids worth $31 billion, powered by institutional frenzy](https://www.cnbc.com/2026/07/17/indias-biggest-ipo-this-year-rakes-in-bids-worth-31-billion-powered-by-institutional-frenzy.html) |
 | Market | Jul 16, 2026 | [Dallas Fed President Logan calls for 'modestly' higher interest rates](https://www.cnbc.com/2026/07/16/dallas-fed-president-logan-calls-for-modestly-higher-interest-rates.html) |
 | Market | Jul 16, 2026 | [Short sellers load up against SpaceX as stock drops below IPO price](https://www.cnbc.com/2026/07/16/short-sellers-load-up-against-spacex-as-stock-retreats-back-to-ipo-price.html) |
 | Market | Jul 16, 2026 | [Sen. Warren says Trump's CFPB overhaul has cost Americans $26.5 billion](https://www.cnbc.com/2026/07/16/trumps-cfpb-overhaul-cost-americans-26point5-billion-sen-warren-says.html) |
 | Market | Jul 15, 2026 | [Anthropic moves closer to mega-IPO as bankers line up investor meetings](https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html) |
-| Market | Jul 15, 2026 | [Fed Chairman Kevin Warsh's testimony to Senate banking committee hits on economy, interest rates](https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html) |
-| Finance | Jul 16, 2026 | [US chip and memory stocks slide in fresh bout of Wall Street tumult](https://www.ft.com/content/c92a5a36-55a0-4d04-b84c-d1705976987b?syn-25a6b1a6=1) |
-| Finance | Jul 16, 2026 | [Chinese AI start-up Moonshot to launch model challenging Anthropic’s lead](https://www.ft.com/content/c6ecd8ce-c441-4d7c-aea6-fae3e28fb6ff?syn-25a6b1a6=1) |
-| Finance | Jul 16, 2026 | [A wealth tax in America? Not if Silicon Valley’s billionaires have their way](https://www.ft.com/content/d66976cd-acdf-46d3-bb34-e2419873ecdb?syn-25a6b1a6=1) |
-| Finance | Jul 16, 2026 | [The perks of parenting by spreadsheet](https://www.ft.com/content/8637838f-0787-4b4f-9fbf-6b1d71e65347?syn-25a6b1a6=1) |
-| Finance | Jul 16, 2026 | [Conflicts of interest are back — and more blatant than ever](https://www.ft.com/content/5b63522b-485f-4213-a1d3-1c4936aa32a7?syn-25a6b1a6=1) |
+| Finance | Jul 17, 2026 | [Xi sets out China’s goal to be global AI leader](https://www.ft.com/content/ddb316b4-c6ae-4b9b-9d4a-63d63201d4fc?syn-25a6b1a6=1) |
+| Finance | Jul 17, 2026 | [Chinese AI start-up Moonshot launches model challenging Anthropic’s lead](https://www.ft.com/content/c6ecd8ce-c441-4d7c-aea6-fae3e28fb6ff?syn-25a6b1a6=1) |
+| Finance | Jul 17, 2026 | [AI isn’t destroying entry-level jobs. It’s changing them](https://www.ft.com/content/6cb9570b-dccd-46f5-b42a-4d0b7b5de35a?syn-25a6b1a6=1) |
+| Finance | Jul 17, 2026 | [The dangers of investor fatalism](https://www.ft.com/content/e7039185-9c0f-4a55-bb16-3caccb619c00?syn-25a6b1a6=1) |
+| Finance | Jul 17, 2026 | [Why Iran is returning to war](https://www.ft.com/content/22fdb2d5-b454-4a65-9aa9-e56371533ccf) |
 
 <!-- NEWS:END -->
 
