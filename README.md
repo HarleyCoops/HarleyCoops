@@ -261,8 +261,8 @@ model = PeftModel.from_pretrained(model, adapter)
 | Market | Jul 16, 2026 | [Sen. Warren says Trump's CFPB overhaul has cost Americans $26.5 billion](https://www.cnbc.com/2026/07/16/trumps-cfpb-overhaul-cost-americans-26point5-billion-sen-warren-says.html) |
 | Market | Jul 15, 2026 | [Anthropic moves closer to mega-IPO as bankers line up investor meetings](https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html) |
 | Market | Jul 15, 2026 | [Fed Chairman Kevin Warsh's testimony to Senate banking committee hits on economy, interest rates](https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html) |
-| Finance | Jul 16, 2026 | [Zelenskyy government plunged into turmoil after defence minister fired](https://www.ft.com/content/06865b90-5b62-46c5-ae8d-147842b41cd0?syn-25a6b1a6=1) |
-| Finance | Jul 16, 2026 | [Russian strikes threaten Ukraine’s Black Sea grain trade](https://www.ft.com/content/5c64e7a5-fe26-4f14-8d77-1d0f1d8a30d3?syn-25a6b1a6=1) |
+| Finance | Jul 16, 2026 | [US chip and memory stocks slide in fresh bout of Wall Street tumult](https://www.ft.com/content/c92a5a36-55a0-4d04-b84c-d1705976987b?syn-25a6b1a6=1) |
+| Finance | Jul 16, 2026 | [Chinese AI start-up Moonshot to launch model challenging Anthropic’s lead](https://www.ft.com/content/c6ecd8ce-c441-4d7c-aea6-fae3e28fb6ff?syn-25a6b1a6=1) |
 | Finance | Jul 16, 2026 | [A wealth tax in America? Not if Silicon Valley’s billionaires have their way](https://www.ft.com/content/d66976cd-acdf-46d3-bb34-e2419873ecdb?syn-25a6b1a6=1) |
 | Finance | Jul 16, 2026 | [The perks of parenting by spreadsheet](https://www.ft.com/content/8637838f-0787-4b4f-9fbf-6b1d71e65347?syn-25a6b1a6=1) |
 | Finance | Jul 16, 2026 | [Conflicts of interest are back — and more blatant than ever](https://www.ft.com/content/5b63522b-485f-4213-a1d3-1c4936aa32a7?syn-25a6b1a6=1) |
