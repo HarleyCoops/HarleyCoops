@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+  <title id="title">Christian Harley Cooper research work map</title>
+  <desc id="desc">A four-stage map connecting source material, datasets, reinforcement learning model runs, and public demos or tools.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#101623"/>
+      <stop offset="0.48" stop-color="#151a22"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="0.45" stop-color="#f59e0b"/>
+      <stop offset="1" stop-color="#34d399"/>
+    </linearGradient>
+    <filter id="shadow" x="-15%" y="-15%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#e5e7eb"/>
+    </marker>
+    <style>
+      .title { fill: #f8fafc; font-family: Inter, Segoe UI, Arial, sans-serif; font-size: 36px; font-weight: 800; letter-spacing: 0; }
+      .subtitle { fill: #a7b0c0; font-family: Inter, Segoe UI, Arial, sans-serif; font-size: 17px; font-weight: 500; letter-spacing: 0; }
+      .card-title { fill: #f8fafc; font-family: Inter, Segoe UI, Arial, sans-serif; font-size: 22px; font-weight: 800; letter-spacing: 0; }
+      .label { fill: #cbd5e1; font-family: Inter, Segoe UI, Arial, sans-serif; font-size: 15px; font-weight: 600; letter-spacing: 0; }
+      .small { fill: #94a3b8; font-family: Inter, Segoe UI, Arial, sans-serif; font-size: 13px; font-weight: 500; letter-spacing: 0; }
+      .metric { fill: #ffffff; font-family: Inter, Segoe UI, Arial, sans-serif; font-size: 26px; font-weight: 800; letter-spacing: 0; }
+      .chip { fill: #dbeafe; font-family: Inter, Segoe UI, Arial, sans-serif; font-size: 12px; font-weight: 700; letter-spacing: 0; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="460" rx="28" fill="url(#bg)"/>
+  <path d="M28 92 C190 28, 314 146, 454 82 S768 34, 918 92 S1090 126, 1172 58" fill="none" stroke="#263246" stroke-width="2" opacity="0.65"/>
+  <path d="M38 390 C190 330, 318 438, 462 372 S776 326, 926 386 S1098 418, 1162 358" fill="none" stroke="#273449" stroke-width="2" opacity="0.55"/>
+
+  <text x="52" y="60" class="title">Research and build map</text>
+  <text x="52" y="90" class="subtitle">Public-domain sources to datasets, verifiable RL runs, demos, and reusable tools.</text>
+
+  <g transform="translate(52 128)" filter="url(#shadow)">
+    <rect x="0" y="0" width="250" height="246" rx="18" fill="#172033" stroke="#334155"/>
+    <rect x="0" y="0" width="250" height="8" rx="4" fill="#38bdf8"/>
+    <text x="24" y="42" class="card-title">Sources</text>
+    <text x="24" y="78" class="metric">1890</text>
+    <text x="92" y="77" class="label">Dakota grammar</text>
+    <text x="24" y="112" class="small">Riggs grammar and dictionary</text>
+    <text x="24" y="139" class="small">Stoney Nakoda dictionaries</text>
+    <text x="24" y="166" class="small">Audited source manifests</text>
+    <g transform="translate(24 194)">
+      <rect width="92" height="28" rx="14" fill="#0f2f45" stroke="#1d4ed8"/>
+      <text x="18" y="19" class="chip">provenance</text>
+      <rect x="104" width="86" height="28" rx="14" fill="#173527" stroke="#047857"/>
+      <text x="123" y="19" class="chip">governance</text>
+    </g>
+  </g>
+
+  <g transform="translate(334 128)" filter="url(#shadow)">
+    <rect x="0" y="0" width="250" height="246" rx="18" fill="#182131" stroke="#334155"/>
+    <rect x="0" y="0" width="250" height="8" rx="4" fill="#f59e0b"/>
+    <text x="24" y="42" class="card-title">Datasets</text>
+    <text x="24" y="78" class="metric">7</text>
+    <text x="58" y="77" class="label">Hugging Face datasets</text>
+    <text x="24" y="112" class="small">Dakota bilingual QA</text>
+    <text x="24" y="139" class="small">Stoney10kRL train/valid split</text>
+    <text x="24" y="166" class="small">Stoney Nakoda corpora</text>
+    <g transform="translate(24 194)">
+      <rect width="84" height="28" rx="14" fill="#452f13" stroke="#b45309"/>
+      <text x="18" y="19" class="chip">JSONL</text>
+      <rect x="96" width="110" height="28" rx="14" fill="#432617" stroke="#ea580c"/>
+      <text x="115" y="19" class="chip">instruction data</text>
+    </g>
+  </g>
+
+  <g transform="translate(616 128)" filter="url(#shadow)">
+    <rect x="0" y="0" width="250" height="246" rx="18" fill="#17231d" stroke="#334155"/>
+    <rect x="0" y="0" width="250" height="8" rx="4" fill="#34d399"/>
+    <text x="24" y="42" class="card-title">Model Runs</text>
+    <text x="24" y="78" class="metric">15</text>
+    <text x="70" y="77" class="label">public HF models</text>
+    <text x="24" y="112" class="small">Qwen3.6 35B Dakota adapter</text>
+    <text x="24" y="139" class="small">Laguna XS.2 Dakota QA GRPO</text>
+    <text x="24" y="166" class="small">nanochat AQuA-RAT reasoning</text>
+    <g transform="translate(24 194)">
+      <rect width="72" height="28" rx="14" fill="#103b2b" stroke="#059669"/>
+      <text x="20" y="19" class="chip">GRPO</text>
+      <rect x="84" width="78" height="28" rx="14" fill="#173527" stroke="#10b981"/>
+      <text x="103" y="19" class="chip">LoRA</text>
+    </g>
+  </g>
+
+  <g transform="translate(898 128)" filter="url(#shadow)">
+    <rect x="0" y="0" width="250" height="246" rx="18" fill="#211827" stroke="#334155"/>
+    <rect x="0" y="0" width="250" height="8" rx="4" fill="#fb7185"/>
+    <text x="24" y="42" class="card-title">Demos + Tools</text>
+    <text x="24" y="78" class="metric">8</text>
+    <text x="58" y="77" class="label">Hugging Face Spaces</text>
+    <text x="24" y="112" class="small">StoneyApp and Dakota demos</text>
+    <text x="24" y="139" class="small">Math-To-Manim render pipeline</text>
+    <text x="24" y="166" class="small">Agent and workflow experiments</text>
+    <g transform="translate(24 194)">
+      <rect width="82" height="28" rx="14" fill="#3b1f2a" stroke="#be123c"/>
+      <text x="22" y="19" class="chip">Gradio</text>
+      <rect x="94" width="92" height="28" rx="14" fill="#2d1b3d" stroke="#7c3aed"/>
+      <text x="113" y="19" class="chip">Manim</text>
+    </g>
+  </g>
+
+  <path d="M302 251 H326" stroke="#e5e7eb" stroke-width="3" marker-end="url(#arrow)" opacity="0.85"/>
+  <path d="M584 251 H608" stroke="#e5e7eb" stroke-width="3" marker-end="url(#arrow)" opacity="0.85"/>
+  <path d="M866 251 H890" stroke="#e5e7eb" stroke-width="3" marker-end="url(#arrow)" opacity="0.85"/>
+
+  <path d="M82 416 H1118" stroke="url(#line)" stroke-width="6" stroke-linecap="round" opacity="0.8"/>
+  <circle cx="180" cy="416" r="10" fill="#38bdf8"/>
+  <circle cx="462" cy="416" r="10" fill="#f59e0b"/>
+  <circle cx="744" cy="416" r="10" fill="#34d399"/>
+  <circle cx="1026" cy="416" r="10" fill="#fb7185"/>
+  <text x="52" y="444" class="small">Snapshot: June 15, 2026. Counts come from public GitHub and Hugging Face profile metadata.</text>
+</svg>
