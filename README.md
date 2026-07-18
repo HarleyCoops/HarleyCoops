@@ -262,10 +262,10 @@ model = PeftModel.from_pretrained(model, adapter)
 | Market | Jul 16, 2026 | [Sen. Warren says Trump's CFPB overhaul has cost Americans $26.5 billion](https://www.cnbc.com/2026/07/16/trumps-cfpb-overhaul-cost-americans-26point5-billion-sen-warren-says.html) |
 | Market | Jul 15, 2026 | [Anthropic moves closer to mega-IPO as bankers line up investor meetings](https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html) |
 | Finance | Jul 17, 2026 | [Trump Media pitched $100,000 monthly fee for fast feed of president’s posts](https://www.ft.com/content/e466df85-fa3b-4a7f-a4a1-ae04d66db99f?syn-25a6b1a6=1) |
-| Finance | Jul 17, 2026 | [AI isn’t destroying entry-level jobs. It’s changing them](https://www.ft.com/content/6cb9570b-dccd-46f5-b42a-4d0b7b5de35a?syn-25a6b1a6=1) |
+| Finance | Jul 17, 2026 | [Trump envoy’s tour on $450mn superyacht stirs anger in Italy](https://www.ft.com/content/f5773412-4604-4078-9fc9-41b715326572?syn-25a6b1a6=1) |
+| Finance | Jul 17, 2026 | [SpaceX and the myth of independent Wall St research](https://www.ft.com/content/ce345155-d897-4f49-b7c8-13680e3b5434) |
 | Finance | Jul 17, 2026 | [How long can oil markets absorb the Hormuz shock?](https://www.ft.com/content/55f5860b-6ef0-42ed-a87f-c49af6ef9d29) |
-| Finance | Jul 17, 2026 | [The perils of relying on PE ratios](https://www.ft.com/content/478fe638-84d5-4eab-a2c5-5b43ec106bdf?syn-25a6b1a6=1) |
-| Finance | Jul 17, 2026 | [US chip stocks head for worst week in more than a year](https://www.ft.com/content/79a15abd-5892-4f1c-b038-b09a1ceecabb?syn-25a6b1a6=1) |
+| Finance | Jul 17, 2026 | [US chip stocks notch up worst week in more than a year](https://www.ft.com/content/79a15abd-5892-4f1c-b038-b09a1ceecabb?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
