@@ -32,7 +32,7 @@
 
 ## The Short Version
 
-Trader and risk practitioner who went deep on open AI and never came back. I build **verifiable training loops**: pipelines that turn a single historical source — an 1890 Dakota grammar, an 1865 Cree dictionary, a 1959 railroad rulebook — into extracted rules, labeled tasks, deterministic reward functions, and published models. Plus the project's other half: **Math-To-Manim** (⭐ 2,400+), a prompt-to-animation engine that turns questions into computed mathematical film.
+Trader and risk practitioner who went deep on open AI and never came back. I build **verifiable training loops**: pipelines that turn a single historical source — an 1890 Dakota grammar, an 1865 Cree dictionary, a 1959 railroad rulebook — into extracted rules, labeled tasks, deterministic reward functions, and published models. Plus the project's other half: **Math-To-Manim** ( 2,400+), a prompt-to-animation engine that turns questions into computed mathematical film.
 
 <table>
   <tr>
@@ -53,7 +53,7 @@ Trader and risk practitioner who went deep on open AI and never came back. I bui
 
 ---
 
-## 🎬 The Movie Wall — Math-To-Manim
+## The Movie Wall — Math-To-Manim
 
 **Ask a question → get a freakin' movie.** Nothing keyframed — every frame is integrated, simulated, or derived. 2,400+ stars.
 
@@ -102,7 +102,7 @@ Trader and risk practitioner who went deep on open AI and never came back. I bui
 
 ---
 
-## 🧪 The Training Lab — GRPO on Things Nobody Tries
+## The Training Lab — GRPO on Things Nobody Tries
 
 The signature move: **grammar as a reward function**. Take a source document, compile its rules into verifiable tasks, and let GRPO optimize against per-component reward channels — orthography, morphology, semantics — with zero LLM-judge fuzz. The reward ledger reconciles to the step.
 
@@ -159,7 +159,7 @@ reward = (
 
 ---
 
-## 🏷️ Data Labeling & Dataset Engineering — Book → Gym → Model
+## Data Labeling & Dataset Engineering — Book → Gym → Model
 
 [**volume2gym**](https://github.com/HarleyCoops/volume2gym) is the general compiler behind the language work: **any structured volume becomes an RL gym**. Sections name the world, rules constrain action, procedures encode order, exceptions define edge cases. The compiler emits cited knowledge units, six task families, grouped holdouts, deterministic reward ledgers, and SFT/GRPO trainer exports — hash-addressed and tamper-evident.
 
@@ -191,7 +191,7 @@ The 1959 *Consolidated Code of Operating Rules* lineage: **536 extracted rules �
 
 ---
 
-## 📜 The Archive — Handwriting, Letterpress, and Self-Training Models
+## The Archive — Handwriting, Letterpress, and Self-Training Models
 
 A research line in three languages: **give an endangered language one good historical book, and train.** VLM extraction reads the scans — diacritics, letterpress ligatures, and all — then synthetic Q&A multiplies the surface area, then GRPO with a rubric built from the book itself. The final stage belongs to the community: speakers correct the model, and the corrections become the next training round. The model is a toddler that has read the book cover to cover; the community teaches it the rest.
 
@@ -233,7 +233,7 @@ Handwriting and OCR lineage runs through the repo list too — [PyLaia](https://
 
 ---
 
-## 🗺️ Alberta Geospatial & Agent Tooling
+## Alberta Geospatial & Agent Tooling
 
 | Project | What it shows |
 |---|---|
@@ -244,7 +244,7 @@ Handwriting and OCR lineage runs through the repo list too — [PyLaia](https://
 
 ---
 
-## 🤗 Hugging Face Hub
+## Hugging Face Hub
 
 <p>
   <a href="https://huggingface.co/HarleyCooper"><img alt="Hugging Face profile" src="https://img.shields.io/badge/Hugging%20Face-HarleyCooper-ffcc4d?logo=huggingface&logoColor=111827"></a>
@@ -260,7 +260,7 @@ Handwriting and OCR lineage runs through the repo list too — [PyLaia](https://
 | [Dakota-.6B](https://huggingface.co/spaces/HarleyCooper/Dakota-.6B) | Dakota grammar RL demo |
 | [AskAboutCIL](https://huggingface.co/spaces/HarleyCooper/AskAboutCIL) | Community-in-the-loop method explainer |
 
-## 📈 Weights & Biases
+## Weights & Biases
 
 Every training run ships with its curves public — reward channels, entropy, ledger audits, per-step components.
 
@@ -273,7 +273,7 @@ Every training run ships with its curves public — reward channels, entropy, le
 
 ---
 
-## 🧰 Stack
+## Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,ts,react,threejs,docker,gcp,git&theme=dark" alt="Python, PyTorch, TypeScript, React, Three.js, Docker, GCP, Git" />
@@ -292,7 +292,7 @@ Every training run ships with its curves public — reward channels, entropy, le
 
 ---
 
-## 📰 Market Wire
+## Market Wire
 
 *Live — refreshed every 6 hours by a GitHub Action from CNBC, Reuters, and FT feeds.*
 
@@ -308,7 +308,7 @@ Every training run ships with its curves public — reward channels, entropy, le
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <details open>
   <summary><strong>Open stats dashboards</strong></summary>
