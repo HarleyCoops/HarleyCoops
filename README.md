@@ -302,8 +302,14 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Jul 18, 2026 | ['WarshGPT': How Wall Street is adapting to the Fed's new era of communication](https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html) |
 | Market | Jul 17, 2026 | [India's biggest IPO this year rakes in bids worth $31 billion, powered by institutional frenzy](https://www.cnbc.com/2026/07/17/indias-biggest-ipo-this-year-rakes-in-bids-worth-31-billion-powered-by-institutional-frenzy.html) |
 | Market | Jul 16, 2026 | [Dallas Fed President Logan calls for 'modestly' higher interest rates](https://www.cnbc.com/2026/07/16/dallas-fed-president-logan-calls-for-modestly-higher-interest-rates.html) |
-| Finance | Jul 18, 2026 | [Martin Wolf: the next crash — why this time might not be different](https://www.ft.com/content/de2978b0-481c-4af5-9e77-9e34650fb20f?syn-25a6b1a6=1) |
+| Market | Jul 16, 2026 | [Short sellers load up against SpaceX as stock drops below IPO price](https://www.cnbc.com/2026/07/16/short-sellers-load-up-against-spacex-as-stock-retreats-back-to-ipo-price.html) |
+| Market | Jul 16, 2026 | [Sen. Warren says Trump's CFPB overhaul has cost Americans $26.5 billion](https://www.cnbc.com/2026/07/16/trumps-cfpb-overhaul-cost-americans-26point5-billion-sen-warren-says.html) |
 | Finance | Jul 18, 2026 | [Big Law braces for second fight with Trump over capitulation deals](https://www.ft.com/content/44a3698f-6481-4e83-a50d-7db109768ea1?syn-25a6b1a6=1) |
+| Finance | Jul 18, 2026 | [My journey down the rabbit hole at the Conspiracy World Cup](https://www.ft.com/content/6338b5eb-30d9-487f-978b-27af79d734b9?syn-25a6b1a6=1) |
+| Finance | Jul 18, 2026 | [Martin Wolf: the next crash — why this time might not be different](https://www.ft.com/content/de2978b0-481c-4af5-9e77-9e34650fb20f?syn-25a6b1a6=1) |
+| Finance | Jul 18, 2026 | [Zelenskyy considers sacking commander-in-chief as protests swell](https://www.ft.com/content/1b34caa6-d909-4df8-a90f-b928f2199261?syn-25a6b1a6=1) |
+| Finance | Jul 18, 2026 | [German army looks to Ukraine for battlefield lessons](https://www.ft.com/content/205c4f2c-53fc-4e30-90a7-4bf3eeb0fdeb?syn-25a6b1a6=1) |
+
 <!-- NEWS:END -->
 
 ---
