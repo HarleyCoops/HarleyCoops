@@ -32,7 +32,7 @@
 
 ## The Short Version
 
-Trader and risk practitioner who went deep on open AI and never came back. I build **verifiable training loops**: pipelines that turn a single historical source — an 1890 Dakota grammar, an 1865 Cree dictionary, a 1959 railroad rulebook — into extracted rules, labeled tasks, deterministic reward functions, and published models. Plus the project's other half: **Math-To-Manim** ( 2,400+), a prompt-to-animation engine that turns questions into computed mathematical film.
+I build **verifiable training loops**: pipelines that turn a single historical source — an 1890 Dakota grammar, an 1865 Cree dictionary, a 1959 railroad rulebook — into extracted rules, labeled tasks, deterministic reward functions, and published models. Plus the project's other half: **Math-To-Manim** ( 2,400+), a prompt-to-animation engine that turns questions into computed mathematical film.
 
 <table>
   <tr>
