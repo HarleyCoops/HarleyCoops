@@ -304,11 +304,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Jul 16, 2026 | [Dallas Fed President Logan calls for 'modestly' higher interest rates](https://www.cnbc.com/2026/07/16/dallas-fed-president-logan-calls-for-modestly-higher-interest-rates.html) |
 | Market | Jul 16, 2026 | [Short sellers load up against SpaceX as stock drops below IPO price](https://www.cnbc.com/2026/07/16/short-sellers-load-up-against-spacex-as-stock-retreats-back-to-ipo-price.html) |
 | Market | Jul 16, 2026 | [Sen. Warren says Trump's CFPB overhaul has cost Americans $26.5 billion](https://www.cnbc.com/2026/07/16/trumps-cfpb-overhaul-cost-americans-26point5-billion-sen-warren-says.html) |
-| Finance | Jul 19, 2026 | [Chinese leaders zero in on need for stimulus for economy](https://www.ft.com/content/9cf9b393-3ac7-4cfc-9dd1-4fc23831e6a0?syn-25a6b1a6=1) |
 | Finance | Jul 19, 2026 | [How Maga fell hard for the gender binary](https://www.ft.com/content/c5045a09-29c1-4a9b-8f5b-f8dead22b09c?syn-25a6b1a6=1) |
 | Finance | Jul 19, 2026 | [Heroes, villains and clowns: Simon Kuper’s World Cup awards](https://www.ft.com/content/8005bed0-afab-4240-91f8-7567212f2b91) |
 | Finance | Jul 19, 2026 | [Why ‘rightwing’ is no longer such a dirty word in Britain](https://www.ft.com/content/658e1eb4-2c33-4755-8f44-0261d24dd1b7?syn-25a6b1a6=1) |
-| Finance | Jul 19, 2026 | [US strikes Iran after two American troops are killed in Jordan](https://www.ft.com/content/e8e8adc5-7c56-45a8-99fc-bb5acfda263e?syn-25a6b1a6=1) |
+| Finance | Jul 19, 2026 | [Chinese leaders zero in on need for stimulus for economy](https://www.ft.com/content/9cf9b393-3ac7-4cfc-9dd1-4fc23831e6a0?syn-25a6b1a6=1) |
+| Finance | Jul 19, 2026 | [Luxury groups face inventory squeeze under EU destruction ban](https://www.ft.com/content/2578648c-967f-4d9d-8ec0-b22a205ece7f?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
