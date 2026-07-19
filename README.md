@@ -299,15 +299,15 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Jul 19, 2026 | [Kalshi adds 3 million new users as prediction market capitalizes on the World Cup](https://www.cnbc.com/2026/07/19/kalshi-adds-3-million-new-users-as-company-capitalizes-on-world-cup.html) |
 | Market | Jul 18, 2026 | ['WarshGPT': How Wall Street is adapting to the Fed's new era of communication](https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html) |
 | Market | Jul 17, 2026 | [India's biggest IPO this year rakes in bids worth $31 billion, powered by institutional frenzy](https://www.cnbc.com/2026/07/17/indias-biggest-ipo-this-year-rakes-in-bids-worth-31-billion-powered-by-institutional-frenzy.html) |
 | Market | Jul 16, 2026 | [Dallas Fed President Logan calls for 'modestly' higher interest rates](https://www.cnbc.com/2026/07/16/dallas-fed-president-logan-calls-for-modestly-higher-interest-rates.html) |
 | Market | Jul 16, 2026 | [Short sellers load up against SpaceX as stock drops below IPO price](https://www.cnbc.com/2026/07/16/short-sellers-load-up-against-spacex-as-stock-retreats-back-to-ipo-price.html) |
-| Market | Jul 16, 2026 | [Sen. Warren says Trump's CFPB overhaul has cost Americans $26.5 billion](https://www.cnbc.com/2026/07/16/trumps-cfpb-overhaul-cost-americans-26point5-billion-sen-warren-says.html) |
+| Finance | Jul 19, 2026 | [EU faces crumbling support for new Russia sanctions](https://www.ft.com/content/eb0cd740-e45d-4dd7-ab9a-6f6643bb32ee?syn-25a6b1a6=1) |
 | Finance | Jul 19, 2026 | [How Maga fell hard for the gender binary](https://www.ft.com/content/c5045a09-29c1-4a9b-8f5b-f8dead22b09c?syn-25a6b1a6=1) |
-| Finance | Jul 19, 2026 | [Heroes, villains and clowns: Simon Kuper’s World Cup awards](https://www.ft.com/content/8005bed0-afab-4240-91f8-7567212f2b91) |
-| Finance | Jul 19, 2026 | [Why ‘rightwing’ is no longer such a dirty word in Britain](https://www.ft.com/content/658e1eb4-2c33-4755-8f44-0261d24dd1b7?syn-25a6b1a6=1) |
-| Finance | Jul 19, 2026 | [Chinese leaders zero in on need for stimulus for economy](https://www.ft.com/content/9cf9b393-3ac7-4cfc-9dd1-4fc23831e6a0?syn-25a6b1a6=1) |
+| Finance | Jul 19, 2026 | [The art of knowing when to step down](https://www.ft.com/content/3e1393cf-a256-40fc-b2e3-35544444474b?syn-25a6b1a6=1) |
+| Finance | Jul 19, 2026 | [It’s time for Europe to embrace air conditioning](https://www.ft.com/content/cbeea953-1162-48f0-ac6d-e022c42353c6?syn-25a6b1a6=1) |
 | Finance | Jul 19, 2026 | [Luxury groups face inventory squeeze under EU destruction ban](https://www.ft.com/content/2578648c-967f-4d9d-8ec0-b22a205ece7f?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
