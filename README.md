@@ -1,12 +1,3 @@
-<!-- Header banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:7f1d1d,100:d97757&height=200&section=header&text=Christian%20Harley%20Cooper&fontSize=42&fontColor=f8fafc&fontAlignY=38&desc=RL%20post-training%20%C2%B7%20verifiable%20rewards%20%C2%B7%20book-to-model%20pipelines%20%C2%B7%20mathematical%20film&descAlignY=58&descSize=16&animation=fadeIn" alt="Christian Harley Cooper — RL post-training, verifiable rewards, book-to-model pipelines" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=D97757&center=true&vCenter=true&multiline=false&width=700&lines=Training+models+on+books+nobody+else+can+read;Grammar+rules+as+reward+functions+%E2%80%94+GRPO+with+honest+gradients;703+public+repos+%C2%B7+one+obsession%3A+verifiable+training+loops;Ask+a+question+%E2%86%92+get+a+freakin%27+movie;Dakota+1890+%C2%B7+Cree+1865+%C2%B7+Stoney+Nakoda+%C2%B7+Railroad+1959" alt="Typing banner: training models on books, grammar as reward functions, verifiable training loops, math films" /></a>
-</p>
-
 <!-- Badges + counters (kept at top) -->
 <p align="center">
   <a href="https://github.com/HarleyCoops"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-HarleyCoops-111827?logo=github&logoColor=white"></a>
