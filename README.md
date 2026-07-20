@@ -290,16 +290,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Jul 20, 2026 | [Capital One bet big on Discover. Now it must prove the gamble was worth it](https://www.cnbc.com/2026/07/20/capital-one-bet-big-on-discover-now-it-must-prove-the-gamble-was-worth-it-.html) |
+| Market | Jul 20, 2026 | [Coinbase trading results may fall short of expectations, according to prediction markets](https://www.cnbc.com/2026/07/20/kalshi-traders-think-coinbases-trading-volume-will-fall-again.html) |
 | Market | Jul 20, 2026 | [China's car market heads for worst year since 2021 as sales plunge 20%](https://www.cnbc.com/2026/07/20/china-automotive-car-worst-year-sales-fall-20percent.html) |
 | Market | Jul 19, 2026 | [Kalshi adds 3 million new users as prediction market capitalizes on the World Cup](https://www.cnbc.com/2026/07/19/kalshi-adds-3-million-new-users-as-company-capitalizes-on-world-cup.html) |
 | Market | Jul 18, 2026 | ['WarshGPT': How Wall Street is adapting to the Fed's new era of communication](https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html) |
-| Market | Jul 17, 2026 | [India's biggest IPO this year rakes in bids worth $31 billion, powered by institutional frenzy](https://www.cnbc.com/2026/07/17/indias-biggest-ipo-this-year-rakes-in-bids-worth-31-billion-powered-by-institutional-frenzy.html) |
-| Market | Jul 16, 2026 | [Dallas Fed President Logan calls for 'modestly' higher interest rates](https://www.cnbc.com/2026/07/16/dallas-fed-president-logan-calls-for-modestly-higher-interest-rates.html) |
-| Finance | Jul 20, 2026 | [Morgan Stanley cashes in on AI boom with debt deals](https://www.ft.com/content/e2a3ea85-e4f2-4344-ac70-8410333e8749?syn-25a6b1a6=1) |
-| Finance | Jul 20, 2026 | [Portfolio construction in the shadow of the AI bubble](https://www.ft.com/content/9523ead6-6599-4ed0-9b14-dfa70fd1b180?syn-25a6b1a6=1) |
-| Finance | Jul 20, 2026 | [Burnham pledges ‘circuit-breaker’ premiership](https://www.ft.com/content/c35c272c-cc64-4834-bb01-bcaa93ca7214?syn-25a6b1a6=1) |
+| Finance | Jul 20, 2026 | [Andy Burnham appoints John Healey as chancellor in surprise pick](https://www.ft.com/content/c35c272c-cc64-4834-bb01-bcaa93ca7214?syn-25a6b1a6=1) |
+| Finance | Jul 20, 2026 | [Gilts under pressure as investors brace for higher spending under Andy Burnham](https://www.ft.com/content/b7cc3ea9-c89c-4f94-8ce0-3786034a6ddc?syn-25a6b1a6=1) |
+| Finance | Jul 20, 2026 | [Who is in Andy Burnham’s new cabinet?](https://www.ft.com/content/05b20ea3-425b-49da-886e-fd0ac9270fe7?syn-25a6b1a6=1) |
+| Finance | Jul 20, 2026 | [Warsh’s quiet revolution at the Fed](https://www.ft.com/content/a02aa9b1-85e0-4db7-afad-7da4b99b7a31?syn-25a6b1a6=1) |
 | Finance | Jul 20, 2026 | [Trump is slipping into an Iran quagmire](https://www.ft.com/content/59f83b04-3c5a-41f3-b0b6-9238dd4186b8?syn-25a6b1a6=1) |
-| Finance | Jul 20, 2026 | [Training AI models might be the chance for a workplace power play](https://www.ft.com/content/5ef2674d-0770-4713-8acf-c8b8f0995b5b?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
