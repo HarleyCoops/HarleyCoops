@@ -290,16 +290,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Jul 20, 2026 | [China's car market heads for worst year since 2021 as sales plunge 20%](https://www.cnbc.com/2026/07/20/china-automotive-car-worst-year-sales-fall-20percent.html) |
 | Market | Jul 19, 2026 | [Kalshi adds 3 million new users as prediction market capitalizes on the World Cup](https://www.cnbc.com/2026/07/19/kalshi-adds-3-million-new-users-as-company-capitalizes-on-world-cup.html) |
 | Market | Jul 18, 2026 | ['WarshGPT': How Wall Street is adapting to the Fed's new era of communication](https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html) |
 | Market | Jul 17, 2026 | [India's biggest IPO this year rakes in bids worth $31 billion, powered by institutional frenzy](https://www.cnbc.com/2026/07/17/indias-biggest-ipo-this-year-rakes-in-bids-worth-31-billion-powered-by-institutional-frenzy.html) |
 | Market | Jul 16, 2026 | [Dallas Fed President Logan calls for 'modestly' higher interest rates](https://www.cnbc.com/2026/07/16/dallas-fed-president-logan-calls-for-modestly-higher-interest-rates.html) |
-| Market | Jul 16, 2026 | [Short sellers load up against SpaceX as stock drops below IPO price](https://www.cnbc.com/2026/07/16/short-sellers-load-up-against-spacex-as-stock-retreats-back-to-ipo-price.html) |
-| Finance | Jul 20, 2026 | [Oil back above $90 as Iran hits tankers](https://www.ft.com/content/52e98fc4-32e3-4ed9-90fd-dcbba6188df5?syn-25a6b1a6=1) |
-| Finance | Jul 20, 2026 | [Spain outplay Messi’s Argentina to reach World Cup summit](https://www.ft.com/content/9f8b8f8d-cc2e-45a3-b4fb-3f57fb415c16) |
-| Finance | Jul 20, 2026 | [Burnham must remember the first rule of government](https://www.ft.com/content/8e01440b-1a90-4ab2-a67e-fba7deee1ac8?syn-25a6b1a6=1) |
+| Finance | Jul 20, 2026 | [Morgan Stanley cashes in on AI boom with debt deals](https://www.ft.com/content/e2a3ea85-e4f2-4344-ac70-8410333e8749?syn-25a6b1a6=1) |
+| Finance | Jul 20, 2026 | [Portfolio construction in the shadow of the AI bubble](https://www.ft.com/content/9523ead6-6599-4ed0-9b14-dfa70fd1b180?syn-25a6b1a6=1) |
+| Finance | Jul 20, 2026 | [Burnham pledges ‘circuit-breaker’ premiership](https://www.ft.com/content/c35c272c-cc64-4834-bb01-bcaa93ca7214?syn-25a6b1a6=1) |
+| Finance | Jul 20, 2026 | [Trump is slipping into an Iran quagmire](https://www.ft.com/content/59f83b04-3c5a-41f3-b0b6-9238dd4186b8?syn-25a6b1a6=1) |
 | Finance | Jul 20, 2026 | [Training AI models might be the chance for a workplace power play](https://www.ft.com/content/5ef2674d-0770-4713-8acf-c8b8f0995b5b?syn-25a6b1a6=1) |
-| Finance | Jul 20, 2026 | [Morgan Stanley becomes Wall Street’s top bank for AI debt deals](https://www.ft.com/content/e2a3ea85-e4f2-4344-ac70-8410333e8749?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
