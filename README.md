@@ -295,11 +295,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Jul 17, 2026 | [India's biggest IPO this year rakes in bids worth $31 billion, powered by institutional frenzy](https://www.cnbc.com/2026/07/17/indias-biggest-ipo-this-year-rakes-in-bids-worth-31-billion-powered-by-institutional-frenzy.html) |
 | Market | Jul 16, 2026 | [Dallas Fed President Logan calls for 'modestly' higher interest rates](https://www.cnbc.com/2026/07/16/dallas-fed-president-logan-calls-for-modestly-higher-interest-rates.html) |
 | Market | Jul 16, 2026 | [Short sellers load up against SpaceX as stock drops below IPO price](https://www.cnbc.com/2026/07/16/short-sellers-load-up-against-spacex-as-stock-retreats-back-to-ipo-price.html) |
-| Finance | Jul 19, 2026 | [EU faces crumbling support for new Russia sanctions](https://www.ft.com/content/eb0cd740-e45d-4dd7-ab9a-6f6643bb32ee?syn-25a6b1a6=1) |
-| Finance | Jul 19, 2026 | [How Maga fell hard for the gender binary](https://www.ft.com/content/c5045a09-29c1-4a9b-8f5b-f8dead22b09c?syn-25a6b1a6=1) |
-| Finance | Jul 19, 2026 | [The art of knowing when to step down](https://www.ft.com/content/3e1393cf-a256-40fc-b2e3-35544444474b?syn-25a6b1a6=1) |
-| Finance | Jul 19, 2026 | [It’s time for Europe to embrace air conditioning](https://www.ft.com/content/cbeea953-1162-48f0-ac6d-e022c42353c6?syn-25a6b1a6=1) |
-| Finance | Jul 19, 2026 | [Luxury groups face inventory squeeze under EU destruction ban](https://www.ft.com/content/2578648c-967f-4d9d-8ec0-b22a205ece7f?syn-25a6b1a6=1) |
+| Finance | Jul 20, 2026 | [Oil back above $90 as Iran hits tankers](https://www.ft.com/content/52e98fc4-32e3-4ed9-90fd-dcbba6188df5?syn-25a6b1a6=1) |
+| Finance | Jul 20, 2026 | [Spain outplay Messi’s Argentina to reach World Cup summit](https://www.ft.com/content/9f8b8f8d-cc2e-45a3-b4fb-3f57fb415c16) |
+| Finance | Jul 20, 2026 | [Burnham must remember the first rule of government](https://www.ft.com/content/8e01440b-1a90-4ab2-a67e-fba7deee1ac8?syn-25a6b1a6=1) |
+| Finance | Jul 20, 2026 | [Training AI models might be the chance for a workplace power play](https://www.ft.com/content/5ef2674d-0770-4713-8acf-c8b8f0995b5b?syn-25a6b1a6=1) |
+| Finance | Jul 20, 2026 | [Morgan Stanley becomes Wall Street’s top bank for AI debt deals](https://www.ft.com/content/e2a3ea85-e4f2-4344-ac70-8410333e8749?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
