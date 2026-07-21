@@ -290,16 +290,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
-| Market | Jul 20, 2026 | [Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current p...](https://www.cnbc.com/2026/07/20/jpmorgan-chase-ceo-jamie-dimon-market-risk.html) |
+| Market | Jul 21, 2026 | [As the U.S.-Iran war heats up again, these parts of the stock market and economy could be affected](https://www.cnbc.com/2026/07/21/iran-war-economy-markets-trump.html) |
+| Market | Jul 21, 2026 | [Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current p...](https://www.cnbc.com/2026/07/21/jpmorgan-chase-ceo-jamie-dimon-market-risk.html) |
 | Market | Jul 20, 2026 | [Capital One bet big on Discover. Now it must prove the gamble was worth it](https://www.cnbc.com/2026/07/20/capital-one-bet-big-on-discover-now-it-must-prove-the-gamble-was-worth-it-.html) |
 | Market | Jul 20, 2026 | [Coinbase trading results may fall short of expectations, according to prediction markets](https://www.cnbc.com/2026/07/20/kalshi-traders-think-coinbases-trading-volume-will-fall-again.html) |
 | Market | Jul 20, 2026 | [China's car market heads for worst year since 2021 as sales plunge 20%](https://www.cnbc.com/2026/07/20/china-automotive-car-worst-year-sales-fall-20percent.html) |
-| Market | Jul 19, 2026 | [Kalshi adds 3 million new users as prediction market capitalizes on the World Cup](https://www.cnbc.com/2026/07/19/kalshi-adds-3-million-new-users-as-company-capitalizes-on-world-cup.html) |
-| Finance | Jul 21, 2026 | [China weighs tighter export controls on AI models and chips](https://www.ft.com/content/6049a031-9e9b-464c-97bb-414da04d5a6a?syn-25a6b1a6=1) |
-| Finance | Jul 21, 2026 | [AI is becoming a geopolitical weapon, warns EU digital chief](https://www.ft.com/content/ccaf6c42-f94b-4afc-a063-7243b4fb78ed?syn-25a6b1a6=1) |
+| Finance | Jul 21, 2026 | [Trump prepares fresh tariff barrage with 10% levies set to expire](https://www.ft.com/content/c31cdab6-b2cf-4754-9c84-73c3c848bcb3?syn-25a6b1a6=1) |
+| Finance | Jul 21, 2026 | [US to hit Canada with 50% tariffs on wide range of goods](https://www.ft.com/content/0b507e93-877f-4cf7-904b-639eb390c4bf?syn-25a6b1a6=1) |
 | Finance | Jul 21, 2026 | [The fall of America’s farm superpower](https://www.ft.com/content/8aa89209-dc0b-4678-9b6a-01029398b304?syn-25a6b1a6=1) |
-| Finance | Jul 21, 2026 | [Why Canada isn’t listening to American whining in the wine wars](https://www.ft.com/content/23a211e3-3db7-47ac-b185-06f506d44aed) |
-| Finance | Jul 21, 2026 | [Pointers for Burnham on what Britain really wants](https://www.ft.com/content/c2b74307-569b-448b-a1e6-c73b64d7c90b) |
+| Finance | Jul 21, 2026 | [Why the world trusts China more than America](https://www.ft.com/content/f3ad032f-3c06-4ed4-82e2-7c2e5e68af26?syn-25a6b1a6=1) |
+| Finance | Jul 21, 2026 | [Canada isn’t listening to American whining in the wine wars](https://www.ft.com/content/23a211e3-3db7-47ac-b185-06f506d44aed) |
 
 <!-- NEWS:END -->
 
