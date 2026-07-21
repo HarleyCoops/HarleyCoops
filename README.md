@@ -290,16 +290,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Jul 20, 2026 | [Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current p...](https://www.cnbc.com/2026/07/20/jpmorgan-chase-ceo-jamie-dimon-market-risk.html) |
 | Market | Jul 20, 2026 | [Capital One bet big on Discover. Now it must prove the gamble was worth it](https://www.cnbc.com/2026/07/20/capital-one-bet-big-on-discover-now-it-must-prove-the-gamble-was-worth-it-.html) |
 | Market | Jul 20, 2026 | [Coinbase trading results may fall short of expectations, according to prediction markets](https://www.cnbc.com/2026/07/20/kalshi-traders-think-coinbases-trading-volume-will-fall-again.html) |
 | Market | Jul 20, 2026 | [China's car market heads for worst year since 2021 as sales plunge 20%](https://www.cnbc.com/2026/07/20/china-automotive-car-worst-year-sales-fall-20percent.html) |
 | Market | Jul 19, 2026 | [Kalshi adds 3 million new users as prediction market capitalizes on the World Cup](https://www.cnbc.com/2026/07/19/kalshi-adds-3-million-new-users-as-company-capitalizes-on-world-cup.html) |
-| Market | Jul 18, 2026 | ['WarshGPT': How Wall Street is adapting to the Fed's new era of communication](https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html) |
-| Finance | Jul 20, 2026 | [Andy Burnham appoints John Healey as chancellor in surprise pick](https://www.ft.com/content/c35c272c-cc64-4834-bb01-bcaa93ca7214?syn-25a6b1a6=1) |
-| Finance | Jul 20, 2026 | [Gilts under pressure as investors brace for higher spending under Andy Burnham](https://www.ft.com/content/b7cc3ea9-c89c-4f94-8ce0-3786034a6ddc?syn-25a6b1a6=1) |
-| Finance | Jul 20, 2026 | [Who is in Andy Burnham’s new cabinet?](https://www.ft.com/content/05b20ea3-425b-49da-886e-fd0ac9270fe7?syn-25a6b1a6=1) |
+| Finance | Jul 21, 2026 | [US to hit Canada with 50% tariffs on wide range of goods](https://www.ft.com/content/0b507e93-877f-4cf7-904b-639eb390c4bf?syn-25a6b1a6=1) |
 | Finance | Jul 20, 2026 | [Warsh’s quiet revolution at the Fed](https://www.ft.com/content/a02aa9b1-85e0-4db7-afad-7da4b99b7a31?syn-25a6b1a6=1) |
 | Finance | Jul 20, 2026 | [Trump is slipping into an Iran quagmire](https://www.ft.com/content/59f83b04-3c5a-41f3-b0b6-9238dd4186b8?syn-25a6b1a6=1) |
+| Finance | Jul 20, 2026 | [How I got into Berghain, Berlin’s notoriously selective club](https://www.ft.com/content/c31a7fec-d757-481a-a6d8-3d414803db4b?syn-25a6b1a6=1) |
+| Finance | Jul 20, 2026 | [Burnham surprises Labour MPs by choosing Healey as new chancellor](https://www.ft.com/content/740f0449-f367-46e0-92a6-43251f56f974?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
