@@ -295,11 +295,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Jul 20, 2026 | [Coinbase trading results may fall short of expectations, according to prediction markets](https://www.cnbc.com/2026/07/20/kalshi-traders-think-coinbases-trading-volume-will-fall-again.html) |
 | Market | Jul 20, 2026 | [China's car market heads for worst year since 2021 as sales plunge 20%](https://www.cnbc.com/2026/07/20/china-automotive-car-worst-year-sales-fall-20percent.html) |
 | Market | Jul 19, 2026 | [Kalshi adds 3 million new users as prediction market capitalizes on the World Cup](https://www.cnbc.com/2026/07/19/kalshi-adds-3-million-new-users-as-company-capitalizes-on-world-cup.html) |
-| Finance | Jul 21, 2026 | [US to hit Canada with 50% tariffs on wide range of goods](https://www.ft.com/content/0b507e93-877f-4cf7-904b-639eb390c4bf?syn-25a6b1a6=1) |
-| Finance | Jul 20, 2026 | [Warsh’s quiet revolution at the Fed](https://www.ft.com/content/a02aa9b1-85e0-4db7-afad-7da4b99b7a31?syn-25a6b1a6=1) |
-| Finance | Jul 20, 2026 | [Trump is slipping into an Iran quagmire](https://www.ft.com/content/59f83b04-3c5a-41f3-b0b6-9238dd4186b8?syn-25a6b1a6=1) |
-| Finance | Jul 20, 2026 | [How I got into Berghain, Berlin’s notoriously selective club](https://www.ft.com/content/c31a7fec-d757-481a-a6d8-3d414803db4b?syn-25a6b1a6=1) |
-| Finance | Jul 20, 2026 | [Burnham surprises Labour MPs by choosing Healey as new chancellor](https://www.ft.com/content/740f0449-f367-46e0-92a6-43251f56f974?syn-25a6b1a6=1) |
+| Finance | Jul 21, 2026 | [China weighs tighter export controls on AI models and chips](https://www.ft.com/content/6049a031-9e9b-464c-97bb-414da04d5a6a?syn-25a6b1a6=1) |
+| Finance | Jul 21, 2026 | [AI is becoming a geopolitical weapon, warns EU digital chief](https://www.ft.com/content/ccaf6c42-f94b-4afc-a063-7243b4fb78ed?syn-25a6b1a6=1) |
+| Finance | Jul 21, 2026 | [The fall of America’s farm superpower](https://www.ft.com/content/8aa89209-dc0b-4678-9b6a-01029398b304?syn-25a6b1a6=1) |
+| Finance | Jul 21, 2026 | [Why Canada isn’t listening to American whining in the wine wars](https://www.ft.com/content/23a211e3-3db7-47ac-b185-06f506d44aed) |
+| Finance | Jul 21, 2026 | [Pointers for Burnham on what Britain really wants](https://www.ft.com/content/c2b74307-569b-448b-a1e6-c73b64d7c90b) |
 
 <!-- NEWS:END -->
 
