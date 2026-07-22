@@ -295,11 +295,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Jul 21, 2026 | [As the U.S.-Iran war heats up again, these parts of the stock market and economy could be affected](https://www.cnbc.com/2026/07/21/iran-war-economy-markets-trump.html) |
 | Market | Jul 21, 2026 | [Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current p...](https://www.cnbc.com/2026/07/21/jpmorgan-chase-ceo-jamie-dimon-market-risk.html) |
 | Market | Jul 20, 2026 | [Capital One bet big on Discover. Now it must prove the gamble was worth it](https://www.cnbc.com/2026/07/20/capital-one-bet-big-on-discover-now-it-must-prove-the-gamble-was-worth-it-.html) |
-| Finance | Jul 21, 2026 | [Zelenskyy replaces top Ukraine general after mass protests](https://www.ft.com/content/500286b4-335b-43a7-bff5-30336d852e96?syn-25a6b1a6=1) |
-| Finance | Jul 21, 2026 | [The Gulf nation that became Iran’s softest target](https://www.ft.com/content/341d3e1b-f619-486d-9fd3-79d1906d9283?syn-25a6b1a6=1) |
-| Finance | Jul 21, 2026 | [Should testosterone be in Hegseth’s build-your-own-warrior playbook?](https://www.ft.com/content/7fda64dd-4f31-42b1-bd93-1e7a7703449f?syn-25a6b1a6=1) |
-| Finance | Jul 21, 2026 | [Why the world trusts China more than America](https://www.ft.com/content/f3ad032f-3c06-4ed4-82e2-7c2e5e68af26?syn-25a6b1a6=1) |
-| Finance | Jul 21, 2026 | [Trump vows to attack Iranian nuclear facility as Middle East war escalates](https://www.ft.com/content/90facd68-4df7-40c2-9383-e989a02fbe51?syn-25a6b1a6=1) |
+| Finance | Jul 22, 2026 | [The US has collected about $13bn of Venezuela’s oil money. Where is it?](https://www.ft.com/content/0e562e03-106e-4729-83d7-675c27eb8c4d?syn-25a6b1a6=1) |
+| Finance | Jul 22, 2026 | [The UK’s biggest university is a private company](https://www.ft.com/content/6c54f212-7491-4d41-ae57-bd67b4ea0f43?syn-25a6b1a6=1) |
+| Finance | Jul 22, 2026 | [Who will win the war of neo-mercantilists?](https://www.ft.com/content/a5e9dfe7-6b4d-476d-93a0-193a753b885a?syn-25a6b1a6=1) |
+| Finance | Jul 22, 2026 | [The high price of insider information](https://www.ft.com/content/155c520f-cecc-4de2-8816-0728e66e2054?syn-25a6b1a6=1) |
+| Finance | Jul 22, 2026 | [OpenAI admits an AI ‘agent’ caused a major cyber breach by itself](https://www.ft.com/content/9db74b25-45ad-4187-b4d7-0e4d414fe41c?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
