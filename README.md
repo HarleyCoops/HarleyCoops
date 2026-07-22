@@ -290,16 +290,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Jul 21, 2026 | [Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe](https://www.cnbc.com/2026/07/21/goldman-sachs-private-markets-platform.html) |
 | Market | Jul 21, 2026 | [Bets against SpaceX grow to 32% of float as Elon Musk warns short sellers won't survive](https://www.cnbc.com/2026/07/21/bets-against-spacex-grow-to-32percent-of-float-as-elon-musk-warns-short-sellers-wont-survive.html) |
 | Market | Jul 21, 2026 | [As the U.S.-Iran war heats up again, these parts of the stock market and economy could be affected](https://www.cnbc.com/2026/07/21/iran-war-economy-markets-trump.html) |
 | Market | Jul 21, 2026 | [Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current p...](https://www.cnbc.com/2026/07/21/jpmorgan-chase-ceo-jamie-dimon-market-risk.html) |
 | Market | Jul 20, 2026 | [Capital One bet big on Discover. Now it must prove the gamble was worth it](https://www.cnbc.com/2026/07/20/capital-one-bet-big-on-discover-now-it-must-prove-the-gamble-was-worth-it-.html) |
-| Market | Jul 20, 2026 | [Coinbase trading results may fall short of expectations, according to prediction markets](https://www.cnbc.com/2026/07/20/kalshi-traders-think-coinbases-trading-volume-will-fall-again.html) |
-| Finance | Jul 21, 2026 | [Trump vows to attack Iranian nuclear facility as Middle East war escalates](https://www.ft.com/content/90facd68-4df7-40c2-9383-e989a02fbe51?syn-25a6b1a6=1) |
-| Finance | Jul 21, 2026 | [Saudi tankers reverse course after Houthi threats](https://www.ft.com/content/6e28eae4-cd7b-48e8-ae5e-d555de88f428) |
-| Finance | Jul 21, 2026 | [IEA warns of risk to energy supplies from escalation of Iran conflict](https://www.ft.com/content/8d98a654-3ccb-4efc-b0f5-50301ac35a18?syn-25a6b1a6=1) |
+| Finance | Jul 21, 2026 | [Zelenskyy replaces top Ukraine general after mass protests](https://www.ft.com/content/500286b4-335b-43a7-bff5-30336d852e96?syn-25a6b1a6=1) |
 | Finance | Jul 21, 2026 | [The Gulf nation that became Iran’s softest target](https://www.ft.com/content/341d3e1b-f619-486d-9fd3-79d1906d9283?syn-25a6b1a6=1) |
 | Finance | Jul 21, 2026 | [Should testosterone be in Hegseth’s build-your-own-warrior playbook?](https://www.ft.com/content/7fda64dd-4f31-42b1-bd93-1e7a7703449f?syn-25a6b1a6=1) |
+| Finance | Jul 21, 2026 | [Why the world trusts China more than America](https://www.ft.com/content/f3ad032f-3c06-4ed4-82e2-7c2e5e68af26?syn-25a6b1a6=1) |
+| Finance | Jul 21, 2026 | [Trump vows to attack Iranian nuclear facility as Middle East war escalates](https://www.ft.com/content/90facd68-4df7-40c2-9383-e989a02fbe51?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
