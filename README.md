@@ -290,16 +290,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Jul 22, 2026 | [Kalshi launches election hub for prediction markets ahead of midterms](https://www.cnbc.com/2026/07/22/kalshi-launches-election-hub-for-prediction-markets-ahead-of-midterms.html) |
 | Market | Jul 21, 2026 | [Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe](https://www.cnbc.com/2026/07/21/goldman-sachs-private-markets-platform.html) |
 | Market | Jul 21, 2026 | [Bets against SpaceX grow to 32% of float as Elon Musk warns short sellers won't survive](https://www.cnbc.com/2026/07/21/bets-against-spacex-grow-to-32percent-of-float-as-elon-musk-warns-short-sellers-wont-survive.html) |
 | Market | Jul 21, 2026 | [As the U.S.-Iran war heats up again, these parts of the stock market and economy could be affected](https://www.cnbc.com/2026/07/21/iran-war-economy-markets-trump.html) |
 | Market | Jul 21, 2026 | [Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current p...](https://www.cnbc.com/2026/07/21/jpmorgan-chase-ceo-jamie-dimon-market-risk.html) |
-| Market | Jul 20, 2026 | [Capital One bet big on Discover. Now it must prove the gamble was worth it](https://www.cnbc.com/2026/07/20/capital-one-bet-big-on-discover-now-it-must-prove-the-gamble-was-worth-it-.html) |
 | Finance | Jul 22, 2026 | [The US has collected about $13bn of Venezuela’s oil money. Where is it?](https://www.ft.com/content/0e562e03-106e-4729-83d7-675c27eb8c4d?syn-25a6b1a6=1) |
 | Finance | Jul 22, 2026 | [The UK’s biggest university is a private company](https://www.ft.com/content/6c54f212-7491-4d41-ae57-bd67b4ea0f43?syn-25a6b1a6=1) |
-| Finance | Jul 22, 2026 | [Who will win the war of neo-mercantilists?](https://www.ft.com/content/a5e9dfe7-6b4d-476d-93a0-193a753b885a?syn-25a6b1a6=1) |
+| Finance | Jul 22, 2026 | [Burnham can be the failure that Britain needs](https://www.ft.com/content/0c03cd07-ab33-4dff-9970-8cbc21baef45?syn-25a6b1a6=1) |
 | Finance | Jul 22, 2026 | [The high price of insider information](https://www.ft.com/content/155c520f-cecc-4de2-8816-0728e66e2054?syn-25a6b1a6=1) |
-| Finance | Jul 22, 2026 | [OpenAI admits an AI ‘agent’ caused a major cyber breach by itself](https://www.ft.com/content/9db74b25-45ad-4187-b4d7-0e4d414fe41c?syn-25a6b1a6=1) |
+| Finance | Jul 22, 2026 | [European gas prices approach Iran war highs as traders fret over winter supplies](https://www.ft.com/content/8f076be9-bf29-4df5-878b-835537ba2585?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
