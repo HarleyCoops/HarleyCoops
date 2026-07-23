@@ -290,14 +290,14 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Jul 23, 2026 | [Odds of Federal Reserve rate hike surge as oil prices rip higher](https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html) |
+| Market | Jul 23, 2026 | [JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter](https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html) |
+| Market | Jul 23, 2026 | [Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'](https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html) |
 | Market | Jul 22, 2026 | [John Paulson says we are in the early stages of a long-term bull market for gold](https://www.cnbc.com/2026/07/22/john-paulson-says-we-are-in-early-stages-of-a-long-term-bull-market-for-gold.html) |
 | Market | Jul 22, 2026 | [Kalshi launches election hub for prediction markets ahead of midterms](https://www.cnbc.com/2026/07/22/kalshi-launches-election-hub-for-prediction-markets-ahead-of-midterms.html) |
-| Market | Jul 21, 2026 | [Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe](https://www.cnbc.com/2026/07/21/goldman-sachs-private-markets-platform.html) |
-| Market | Jul 21, 2026 | [Bets against SpaceX grow to 32% of float as Elon Musk warns short sellers won't survive](https://www.cnbc.com/2026/07/21/bets-against-spacex-grow-to-32percent-of-float-as-elon-musk-warns-short-sellers-wont-survive.html) |
-| Market | Jul 21, 2026 | [As the U.S.-Iran war heats up again, these parts of the stock market and economy could be affected](https://www.cnbc.com/2026/07/21/iran-war-economy-markets-trump.html) |
-| Finance | Jul 23, 2026 | [Oil jumps to $99 after Houthis attack two Saudi Arabian tankers](https://www.ft.com/content/1ddfbe42-b8e8-487c-a156-505879469926?syn-25a6b1a6=1) |
-| Finance | Jul 23, 2026 | [Houthi attacks threaten to cut off Saudi Arabia’s oil lifeline](https://www.ft.com/content/02bf3e4d-7719-4482-9f2b-ab14bd3fe9c3?syn-25a6b1a6=1) |
-| Finance | Jul 23, 2026 | [Oil price surge drives global bond sell-off](https://www.ft.com/content/66bf810f-c1c0-488d-bd02-f8eba3acd743?syn-25a6b1a6=1) |
+| Finance | Jul 23, 2026 | [Oil hits $100 for first time since May while US stocks slide](https://www.ft.com/content/3fd494d1-ee74-4c0f-9cd6-34e2283961df?syn-25a6b1a6=1) |
+| Finance | Jul 23, 2026 | [Houthi attacks threaten Saudi Arabia’s oil lifeline](https://www.ft.com/content/02bf3e4d-7719-4482-9f2b-ab14bd3fe9c3?syn-25a6b1a6=1) |
+| Finance | Jul 23, 2026 | [US oil refineries run at breakneck speeds as wars choke fuel supplies](https://www.ft.com/content/ecf9967d-de7f-405f-b746-f09a26f3a86a?syn-25a6b1a6=1) |
 | Finance | Jul 23, 2026 | [Japan awakes](https://www.ft.com/content/397c04d8-db0f-4902-9ea0-269584f43697?syn-25a6b1a6=1) |
 | Finance | Jul 23, 2026 | [Is Trump winning the tariff wars?](https://www.ft.com/content/7b53032e-894d-43ac-9dd1-2b94572b8489?syn-25a6b1a6=1) |
 
