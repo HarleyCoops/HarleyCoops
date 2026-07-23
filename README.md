@@ -290,16 +290,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Jul 22, 2026 | [John Paulson says we are in the early stages of a long-term bull market for gold](https://www.cnbc.com/2026/07/22/john-paulson-says-we-are-in-early-stages-of-a-long-term-bull-market-for-gold.html) |
 | Market | Jul 22, 2026 | [Kalshi launches election hub for prediction markets ahead of midterms](https://www.cnbc.com/2026/07/22/kalshi-launches-election-hub-for-prediction-markets-ahead-of-midterms.html) |
 | Market | Jul 21, 2026 | [Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe](https://www.cnbc.com/2026/07/21/goldman-sachs-private-markets-platform.html) |
 | Market | Jul 21, 2026 | [Bets against SpaceX grow to 32% of float as Elon Musk warns short sellers won't survive](https://www.cnbc.com/2026/07/21/bets-against-spacex-grow-to-32percent-of-float-as-elon-musk-warns-short-sellers-wont-survive.html) |
 | Market | Jul 21, 2026 | [As the U.S.-Iran war heats up again, these parts of the stock market and economy could be affected](https://www.cnbc.com/2026/07/21/iran-war-economy-markets-trump.html) |
-| Market | Jul 21, 2026 | [Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current p...](https://www.cnbc.com/2026/07/21/jpmorgan-chase-ceo-jamie-dimon-market-risk.html) |
-| Finance | Jul 22, 2026 | [The US has collected about $13bn of Venezuela’s oil money. Where is it?](https://www.ft.com/content/0e562e03-106e-4729-83d7-675c27eb8c4d?syn-25a6b1a6=1) |
-| Finance | Jul 22, 2026 | [How a billionaire’s dream for a Florida railway went south](https://www.ft.com/content/39aa5a81-f9bd-4e11-b108-b655734155c4?syn-25a6b1a6=1) |
-| Finance | Jul 22, 2026 | [Burnham can be the failure that Britain needs](https://www.ft.com/content/0c03cd07-ab33-4dff-9970-8cbc21baef45?syn-25a6b1a6=1) |
-| Finance | Jul 22, 2026 | [The high price of insider information](https://www.ft.com/content/155c520f-cecc-4de2-8816-0728e66e2054?syn-25a6b1a6=1) |
-| Finance | Jul 22, 2026 | [Trump threatens to destroy Iranian bridges and power plants](https://www.ft.com/content/755c218f-40db-4a8a-8e0b-acd2ccee3d3d?syn-25a6b1a6=1) |
+| Finance | Jul 22, 2026 | [Google burns through $6bn in cash as AI spending climbs again](https://www.ft.com/content/b02f972c-c764-4006-9377-42563d9d5530?syn-25a6b1a6=1) |
+| Finance | Jul 23, 2026 | [Tesla’s profits plunge as Musk’s carmaker uses deep discounts to boost sales](https://www.ft.com/content/dc5e629b-562c-41e3-8b89-350af6960adc?syn-25a6b1a6=1) |
+| Finance | Jul 22, 2026 | [OpenAI hacking incident exposes mounting risks in AI arms race](https://www.ft.com/content/7e558951-0c69-459b-8bc8-2c6021d4402d?syn-25a6b1a6=1) |
+| Finance | Jul 22, 2026 | [The deed thieves targeting New York brownstones](https://www.ft.com/content/19f7b0d3-f44c-422c-9e65-6b345ce55e39?syn-25a6b1a6=1) |
+| Finance | Jul 22, 2026 | [US and Saudi Arabia agree landmark nuclear energy pact](https://www.ft.com/content/2707aeb6-dba0-4640-877b-4839d268c820?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
