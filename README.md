@@ -295,11 +295,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Jul 21, 2026 | [Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe](https://www.cnbc.com/2026/07/21/goldman-sachs-private-markets-platform.html) |
 | Market | Jul 21, 2026 | [Bets against SpaceX grow to 32% of float as Elon Musk warns short sellers won't survive](https://www.cnbc.com/2026/07/21/bets-against-spacex-grow-to-32percent-of-float-as-elon-musk-warns-short-sellers-wont-survive.html) |
 | Market | Jul 21, 2026 | [As the U.S.-Iran war heats up again, these parts of the stock market and economy could be affected](https://www.cnbc.com/2026/07/21/iran-war-economy-markets-trump.html) |
-| Finance | Jul 22, 2026 | [Google burns through $6bn in cash as AI spending climbs again](https://www.ft.com/content/b02f972c-c764-4006-9377-42563d9d5530?syn-25a6b1a6=1) |
-| Finance | Jul 23, 2026 | [How to be a bull on the S&P 500](https://www.ft.com/content/b3e67789-9470-47c1-b984-a3e9c8d731a1?syn-25a6b1a6=1) |
-| Finance | Jul 23, 2026 | [Tesla’s profits plunge as Musk’s carmaker uses discounts to boost sales](https://www.ft.com/content/dc5e629b-562c-41e3-8b89-350af6960adc?syn-25a6b1a6=1) |
+| Finance | Jul 23, 2026 | [Oil jumps to $99 after Houthis attack two Saudi Arabian tankers](https://www.ft.com/content/1ddfbe42-b8e8-487c-a156-505879469926?syn-25a6b1a6=1) |
+| Finance | Jul 23, 2026 | [Houthi attacks threaten to cut off Saudi Arabia’s oil lifeline](https://www.ft.com/content/02bf3e4d-7719-4482-9f2b-ab14bd3fe9c3?syn-25a6b1a6=1) |
+| Finance | Jul 23, 2026 | [Oil price surge drives global bond sell-off](https://www.ft.com/content/66bf810f-c1c0-488d-bd02-f8eba3acd743?syn-25a6b1a6=1) |
 | Finance | Jul 23, 2026 | [Japan awakes](https://www.ft.com/content/397c04d8-db0f-4902-9ea0-269584f43697?syn-25a6b1a6=1) |
-| Finance | Jul 23, 2026 | [Military briefing: can the US reopen the Strait of Hormuz by force?](https://www.ft.com/content/1cbe4fd0-6b81-42c5-bc30-070fec3cd9dd?syn-25a6b1a6=1) |
+| Finance | Jul 23, 2026 | [Is Trump winning the tariff wars?](https://www.ft.com/content/7b53032e-894d-43ac-9dd1-2b94572b8489?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
