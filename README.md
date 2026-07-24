@@ -290,16 +290,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Jul 24, 2026 | [U.S., other nations back open-source AI with 'strong security' at China summit](https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html) |
 | Market | Jul 23, 2026 | [Odds of Federal Reserve rate hike surge as oil prices rip higher](https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html) |
 | Market | Jul 23, 2026 | [JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter](https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html) |
 | Market | Jul 23, 2026 | [Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'](https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html) |
 | Market | Jul 22, 2026 | [John Paulson says we are in the early stages of a long-term bull market for gold](https://www.cnbc.com/2026/07/22/john-paulson-says-we-are-in-early-stages-of-a-long-term-bull-market-for-gold.html) |
-| Market | Jul 22, 2026 | [Kalshi launches election hub for prediction markets ahead of midterms](https://www.cnbc.com/2026/07/22/kalshi-launches-election-hub-for-prediction-markets-ahead-of-midterms.html) |
-| Finance | Jul 23, 2026 | [US hits 60 countries with new duties as Trump rebuilds tariff wall](https://www.ft.com/content/078269b4-5518-4289-b90a-dd722fd7e703?syn-25a6b1a6=1) |
-| Finance | Jul 24, 2026 | [Intel posts fastest growth in 15 years as AI data centres demand fuels sales](https://www.ft.com/content/48f0a410-daae-420b-93fc-216c3a2f1184?syn-25a6b1a6=1) |
-| Finance | Jul 23, 2026 | [The US needs a new Manhattan Project for fusion energy](https://www.ft.com/content/822f5326-d93b-4b9d-b43f-58113da909b1) |
+| Finance | Jul 24, 2026 | [US hits 60 countries with new duties as Trump rebuilds tariff wall](https://www.ft.com/content/078269b4-5518-4289-b90a-dd722fd7e703?syn-25a6b1a6=1) |
+| Finance | Jul 24, 2026 | [The field marshal’s gambit](https://www.ft.com/content/4b680401-648e-48ea-a52b-ad7a76370872?syn-25a6b1a6=1) |
+| Finance | Jul 24, 2026 | [Welcome to the era of financial candyfloss](https://www.ft.com/content/7bcf8215-fd76-4620-bdc3-8c1b0ea13bba?syn-25a6b1a6=1) |
 | Finance | Jul 23, 2026 | [Trump’s dubious nuclear deal with Saudi Arabia](https://www.ft.com/content/55b3b434-9965-4046-b239-43443db3e54a) |
-| Finance | Jul 23, 2026 | [Oil hits $100 for first time since May while US stocks slide](https://www.ft.com/content/3fd494d1-ee74-4c0f-9cd6-34e2283961df?syn-25a6b1a6=1) |
+| Finance | Jul 24, 2026 | [Oil hits $100 as Trump weighs ‘massive attack’](https://www.ft.com/content/3fd494d1-ee74-4c0f-9cd6-34e2283961df?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
