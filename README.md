@@ -298,8 +298,8 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Finance | Jul 24, 2026 | [US hits 60 countries with new duties as Trump rebuilds tariff wall](https://www.ft.com/content/078269b4-5518-4289-b90a-dd722fd7e703?syn-25a6b1a6=1) |
 | Finance | Jul 24, 2026 | [The field marshal’s gambit](https://www.ft.com/content/4b680401-648e-48ea-a52b-ad7a76370872?syn-25a6b1a6=1) |
 | Finance | Jul 24, 2026 | [Welcome to the era of financial candyfloss](https://www.ft.com/content/7bcf8215-fd76-4620-bdc3-8c1b0ea13bba?syn-25a6b1a6=1) |
-| Finance | Jul 23, 2026 | [Trump’s dubious nuclear deal with Saudi Arabia](https://www.ft.com/content/55b3b434-9965-4046-b239-43443db3e54a) |
-| Finance | Jul 24, 2026 | [Oil hits $100 as Trump weighs ‘massive attack’](https://www.ft.com/content/3fd494d1-ee74-4c0f-9cd6-34e2283961df?syn-25a6b1a6=1) |
+| Finance | Jul 24, 2026 | [Met Office chief Penny Endersby: ‘There is not going to be a usual summer’](https://www.ft.com/content/bde8be11-c1de-4167-b2e2-7fee98469b79?syn-25a6b1a6=1) |
+| Finance | Jul 24, 2026 | [Oil falls back below $100 as Trump weighs ‘massive attack’](https://www.ft.com/content/3fd494d1-ee74-4c0f-9cd6-34e2283961df?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
