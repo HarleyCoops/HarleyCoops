@@ -290,16 +290,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Jul 24, 2026 | [Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and o...](https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html) |
 | Market | Jul 24, 2026 | [U.S., other nations back open-source AI with 'strong security' at China summit](https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html) |
 | Market | Jul 23, 2026 | [Odds of Federal Reserve rate hike surge as oil prices rip higher](https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html) |
 | Market | Jul 23, 2026 | [JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter](https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html) |
-| Market | Jul 23, 2026 | [Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'](https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html) |
-| Market | Jul 22, 2026 | [John Paulson says we are in the early stages of a long-term bull market for gold](https://www.cnbc.com/2026/07/22/john-paulson-says-we-are-in-early-stages-of-a-long-term-bull-market-for-gold.html) |
-| Finance | Jul 24, 2026 | [US hits 60 countries with new duties as Trump rebuilds tariff wall](https://www.ft.com/content/078269b4-5518-4289-b90a-dd722fd7e703?syn-25a6b1a6=1) |
+| Market | Jul 24, 2026 | [Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'](https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html) |
+| Finance | Jul 24, 2026 | [Europe wins and Brazil loses in Trump tariff overhaul](https://www.ft.com/content/2ba28daf-2ceb-44bb-9330-7ec070fb2a80?syn-25a6b1a6=1) |
+| Finance | Jul 24, 2026 | [Trump threatens new EU tariffs in retaliation for fines on US tech groups](https://www.ft.com/content/9b819dfc-8248-4aa5-b670-3a14d05f252e?syn-25a6b1a6=1) |
+| Finance | Jul 24, 2026 | [Trump’s trade war shifts from shakedown to lock-in](https://www.ft.com/content/38341bcb-0c45-432a-bd04-fa0b9f2b790a) |
 | Finance | Jul 24, 2026 | [The field marshal’s gambit](https://www.ft.com/content/4b680401-648e-48ea-a52b-ad7a76370872?syn-25a6b1a6=1) |
-| Finance | Jul 24, 2026 | [Welcome to the era of financial candyfloss](https://www.ft.com/content/7bcf8215-fd76-4620-bdc3-8c1b0ea13bba?syn-25a6b1a6=1) |
-| Finance | Jul 24, 2026 | [Met Office chief Penny Endersby: ‘There is not going to be a usual summer’](https://www.ft.com/content/bde8be11-c1de-4167-b2e2-7fee98469b79?syn-25a6b1a6=1) |
-| Finance | Jul 24, 2026 | [Oil falls back below $100 as Trump weighs ‘massive attack’](https://www.ft.com/content/3fd494d1-ee74-4c0f-9cd6-34e2283961df?syn-25a6b1a6=1) |
+| Finance | Jul 24, 2026 | [Yang Zhilin, the rock star founder behind China’s Moonshot AI](https://www.ft.com/content/4730ad91-66aa-477c-9246-6d946afb0c8c?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
