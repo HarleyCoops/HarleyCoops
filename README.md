@@ -295,11 +295,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Jul 23, 2026 | [Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'](https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html) |
 | Market | Jul 22, 2026 | [John Paulson says we are in the early stages of a long-term bull market for gold](https://www.cnbc.com/2026/07/22/john-paulson-says-we-are-in-early-stages-of-a-long-term-bull-market-for-gold.html) |
 | Market | Jul 22, 2026 | [Kalshi launches election hub for prediction markets ahead of midterms](https://www.cnbc.com/2026/07/22/kalshi-launches-election-hub-for-prediction-markets-ahead-of-midterms.html) |
+| Finance | Jul 23, 2026 | [US hits 60 countries with new duties as Trump rebuilds tariff wall](https://www.ft.com/content/078269b4-5518-4289-b90a-dd722fd7e703?syn-25a6b1a6=1) |
+| Finance | Jul 24, 2026 | [Intel posts fastest growth in 15 years as AI data centres demand fuels sales](https://www.ft.com/content/48f0a410-daae-420b-93fc-216c3a2f1184?syn-25a6b1a6=1) |
+| Finance | Jul 23, 2026 | [The US needs a new Manhattan Project for fusion energy](https://www.ft.com/content/822f5326-d93b-4b9d-b43f-58113da909b1) |
+| Finance | Jul 23, 2026 | [Trump’s dubious nuclear deal with Saudi Arabia](https://www.ft.com/content/55b3b434-9965-4046-b239-43443db3e54a) |
 | Finance | Jul 23, 2026 | [Oil hits $100 for first time since May while US stocks slide](https://www.ft.com/content/3fd494d1-ee74-4c0f-9cd6-34e2283961df?syn-25a6b1a6=1) |
-| Finance | Jul 23, 2026 | [Houthi attacks threaten Saudi Arabia’s oil lifeline](https://www.ft.com/content/02bf3e4d-7719-4482-9f2b-ab14bd3fe9c3?syn-25a6b1a6=1) |
-| Finance | Jul 23, 2026 | [US oil refineries run at breakneck speeds as wars choke fuel supplies](https://www.ft.com/content/ecf9967d-de7f-405f-b746-f09a26f3a86a?syn-25a6b1a6=1) |
-| Finance | Jul 23, 2026 | [Japan awakes](https://www.ft.com/content/397c04d8-db0f-4902-9ea0-269584f43697?syn-25a6b1a6=1) |
-| Finance | Jul 23, 2026 | [Is Trump winning the tariff wars?](https://www.ft.com/content/7b53032e-894d-43ac-9dd1-2b94572b8489?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
