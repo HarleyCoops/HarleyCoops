@@ -295,10 +295,10 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Jul 23, 2026 | [Odds of Federal Reserve rate hike surge as oil prices rip higher](https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html) |
 | Market | Jul 23, 2026 | [JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter](https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html) |
 | Market | Jul 24, 2026 | [Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'](https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html) |
-| Finance | Jul 24, 2026 | [Waymo explores split with Uber as robotaxi tensions deepen](https://www.ft.com/content/9dcb5d72-13aa-4f9c-ac6d-e022860df5ea?syn-25a6b1a6=1) |
+| Finance | Jul 25, 2026 | [Investors increase bets on Federal Reserve rate rise after oil price surge](https://www.ft.com/content/5019e030-796d-47e8-9f13-bee34de1d374?syn-25a6b1a6=1) |
 | Finance | Jul 25, 2026 | [Why this philosopher turned down Anthropic](https://www.ft.com/content/bdb3b820-905b-431e-82c0-386535755af1) |
 | Finance | Jul 25, 2026 | [Andy Burnham’s regional privilege](https://www.ft.com/content/4c76fc58-836c-4abe-916e-bfc727f83fca?syn-25a6b1a6=1) |
-| Finance | Jul 25, 2026 | [India’s ‘Cockroach’ Gen Z has had enough](https://www.ft.com/content/ac19e4f4-cf7b-4a75-b591-0ca79ef62d37) |
+| Finance | Jul 25, 2026 | [Dropping quarterly company reports in US may not be a bad thing](https://www.ft.com/content/803b02dd-9d0d-43b9-8af9-24d81b1b6557) |
 | Finance | Jul 25, 2026 | [Trump attacks journalists at awkward White House press dinner](https://www.ft.com/content/ec1e3131-525e-4577-b981-e9b763928e9b?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
