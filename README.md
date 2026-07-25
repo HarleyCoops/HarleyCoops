@@ -295,11 +295,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Jul 23, 2026 | [Odds of Federal Reserve rate hike surge as oil prices rip higher](https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html) |
 | Market | Jul 23, 2026 | [JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter](https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html) |
 | Market | Jul 24, 2026 | [Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'](https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html) |
-| Finance | Jul 24, 2026 | [Europe wins and Brazil loses in Trump tariff overhaul](https://www.ft.com/content/2ba28daf-2ceb-44bb-9330-7ec070fb2a80?syn-25a6b1a6=1) |
-| Finance | Jul 24, 2026 | [Trump threatens new EU tariffs in retaliation for fines on US tech groups](https://www.ft.com/content/9b819dfc-8248-4aa5-b670-3a14d05f252e?syn-25a6b1a6=1) |
-| Finance | Jul 24, 2026 | [Trump’s trade war shifts from shakedown to lock-in](https://www.ft.com/content/38341bcb-0c45-432a-bd04-fa0b9f2b790a) |
-| Finance | Jul 24, 2026 | [The field marshal’s gambit](https://www.ft.com/content/4b680401-648e-48ea-a52b-ad7a76370872?syn-25a6b1a6=1) |
+| Finance | Jul 24, 2026 | [Waymo explores split with Uber as robotaxi tensions deepen](https://www.ft.com/content/9dcb5d72-13aa-4f9c-ac6d-e022860df5ea?syn-25a6b1a6=1) |
+| Finance | Jul 24, 2026 | [France and Spain evacuate 150,000 as ‘unprecedented’ wildfires spread](https://www.ft.com/content/6e1d4a14-b7ad-4a36-86d9-3990497272a3?syn-25a6b1a6=1) |
 | Finance | Jul 24, 2026 | [Yang Zhilin, the rock star founder behind China’s Moonshot AI](https://www.ft.com/content/4730ad91-66aa-477c-9246-6d946afb0c8c?syn-25a6b1a6=1) |
+| Finance | Jul 24, 2026 | [Welcome to the era of financial candyfloss](https://www.ft.com/content/7bcf8215-fd76-4620-bdc3-8c1b0ea13bba?syn-25a6b1a6=1) |
+| Finance | Jul 24, 2026 | [Paramount agrees extensive delay in Warner Bros deal after states’ lawsuit](https://www.ft.com/content/95cad892-7933-441a-bc82-c39b1a225835?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
