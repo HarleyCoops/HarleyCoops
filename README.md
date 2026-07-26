@@ -299,7 +299,7 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Finance | Jul 25, 2026 | [Why this philosopher turned down Anthropic](https://www.ft.com/content/bdb3b820-905b-431e-82c0-386535755af1) |
 | Finance | Jul 25, 2026 | [Andy Burnham’s regional privilege](https://www.ft.com/content/4c76fc58-836c-4abe-916e-bfc727f83fca?syn-25a6b1a6=1) |
 | Finance | Jul 25, 2026 | [Dropping quarterly company reports in US may not be a bad thing](https://www.ft.com/content/803b02dd-9d0d-43b9-8af9-24d81b1b6557) |
-| Finance | Jul 25, 2026 | [Trump attacks journalists at awkward White House press dinner](https://www.ft.com/content/ec1e3131-525e-4577-b981-e9b763928e9b?syn-25a6b1a6=1) |
+| Finance | Jul 25, 2026 | [Intern arrested on suspicion of spying at Nato military HQ](https://www.ft.com/content/b55e3656-4733-4eb8-bb83-b7dbb4ea8888?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
