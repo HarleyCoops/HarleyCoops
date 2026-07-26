@@ -295,8 +295,8 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Jul 23, 2026 | [Odds of Federal Reserve rate hike surge as oil prices rip higher](https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html) |
 | Market | Jul 23, 2026 | [JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter](https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html) |
 | Market | Jul 24, 2026 | [Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'](https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html) |
-| Finance | Jul 26, 2026 | [China pours funding into green energy deals as Iran war hits oil demand](https://www.ft.com/content/221aac60-807e-4bdd-b76d-dd451255e685?syn-25a6b1a6=1) |
-| Finance | Jul 26, 2026 | [How China exploits EU divisions over trade](https://www.ft.com/content/ccf8b73f-c798-46d8-a00b-47df2a6c6859?syn-25a6b1a6=1) |
+| Finance | Jul 26, 2026 | [US pauses Iran strikes as Oman pursues Hormuz transit deal](https://www.ft.com/content/ffdeacf0-91b8-48fd-9ff8-d8d134ef5f11?syn-25a6b1a6=1) |
+| Finance | Jul 25, 2026 | [Iran says Ukrainian attack on vessel in Caspian Sea killed sailor](https://www.ft.com/content/a352cb9c-8b29-4d3c-b672-1b6c65fd4a1d?syn-25a6b1a6=1) |
 | Finance | Jul 26, 2026 | [India’s Gen Z protesters puncture Modi’s aura of invincibility](https://www.ft.com/content/71bbe9fd-e1cb-4e28-8edb-f319032139c4?syn-25a6b1a6=1) |
 | Finance | Jul 26, 2026 | [Why wages and productivity look set to diverge further](https://www.ft.com/content/9741206d-b53f-4149-8cab-5203dd4b70fb?syn-25a6b1a6=1) |
 | Finance | Jul 26, 2026 | [Defence giants provide record backing for military start-ups](https://www.ft.com/content/fcb2bd34-b13f-4f4f-950d-92367d43d1f3?syn-25a6b1a6=1) |
