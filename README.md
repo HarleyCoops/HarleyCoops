@@ -295,11 +295,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Jul 23, 2026 | [Odds of Federal Reserve rate hike surge as oil prices rip higher](https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html) |
 | Market | Jul 23, 2026 | [JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter](https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html) |
 | Market | Jul 24, 2026 | [Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'](https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html) |
-| Finance | Jul 25, 2026 | [Investors increase bets on Federal Reserve rate rise after oil price surge](https://www.ft.com/content/5019e030-796d-47e8-9f13-bee34de1d374?syn-25a6b1a6=1) |
-| Finance | Jul 25, 2026 | [Why this philosopher turned down Anthropic](https://www.ft.com/content/bdb3b820-905b-431e-82c0-386535755af1) |
-| Finance | Jul 25, 2026 | [Andy Burnham’s regional privilege](https://www.ft.com/content/4c76fc58-836c-4abe-916e-bfc727f83fca?syn-25a6b1a6=1) |
-| Finance | Jul 25, 2026 | [Dropping quarterly company reports in US may not be a bad thing](https://www.ft.com/content/803b02dd-9d0d-43b9-8af9-24d81b1b6557) |
-| Finance | Jul 25, 2026 | [Intern arrested on suspicion of spying at Nato military HQ](https://www.ft.com/content/b55e3656-4733-4eb8-bb83-b7dbb4ea8888?syn-25a6b1a6=1) |
+| Finance | Jul 26, 2026 | [China pours funding into green energy deals as Iran war hits oil demand](https://www.ft.com/content/221aac60-807e-4bdd-b76d-dd451255e685?syn-25a6b1a6=1) |
+| Finance | Jul 26, 2026 | [Maga’s creepy baby obsession won’t solve the fertility crisis](https://www.ft.com/content/ad635fef-8785-47be-b264-e74582413ed6?syn-25a6b1a6=1) |
+| Finance | Jul 26, 2026 | [One dead and 16 injured after van drives into Berlin Pride crowd](https://www.ft.com/content/6bd2290f-209d-4b30-9fac-dcfcd32bfb5d) |
+| Finance | Jul 26, 2026 | [Defence giants provide record backing for military start-ups](https://www.ft.com/content/fcb2bd34-b13f-4f4f-950d-92367d43d1f3?syn-25a6b1a6=1) |
+| Finance | Jul 26, 2026 | [Investors use crypto exchanges to avoid Chinese controls on AI stocks](https://www.ft.com/content/af333b9c-d59d-4e7c-b814-12cef578895d?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
