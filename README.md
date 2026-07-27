@@ -295,11 +295,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Jul 23, 2026 | [Odds of Federal Reserve rate hike surge as oil prices rip higher](https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html) |
 | Market | Jul 23, 2026 | [JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter](https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html) |
 | Market | Jul 24, 2026 | [Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'](https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html) |
-| Finance | Jul 27, 2026 | [Chinese chip champion CXMT soars more than 500% in market debut](https://www.ft.com/content/8e82e939-908b-42bf-a314-0bb02a3f1b07?syn-25a6b1a6=1) |
+| Finance | Jul 27, 2026 | [France and Spain brace for more extreme heat as wildfires rage](https://www.ft.com/content/45867580-65a2-4a7d-ba4c-8143e86f4e36?syn-25a6b1a6=1) |
 | Finance | Jul 27, 2026 | [The new premium product: books written by people](https://www.ft.com/content/6b52ecb8-f7dd-45f0-8beb-d60c15bc5ebf?syn-25a6b1a6=1) |
+| Finance | Jul 27, 2026 | [Ukraine, Iran and how regional wars go global](https://www.ft.com/content/51ea0e62-f9ad-4307-84b9-475029edbe39?syn-25a6b1a6=1) |
 | Finance | Jul 27, 2026 | [Why economic surveys have lost their relevance](https://www.ft.com/content/1c559e9c-83b8-486c-812f-cb431e6970ce?syn-25a6b1a6=1) |
-| Finance | Jul 27, 2026 | [Beware holographic markets](https://www.ft.com/content/e76f5ce3-3bd6-4793-87d9-071ecd75f0bb?syn-25a6b1a6=1) |
-| Finance | Jul 27, 2026 | [Oil falls more than 6% as Iran and US pause strikes over Strait of Hormuz](https://www.ft.com/content/403625cc-8371-43ee-997a-f6908a97f52e?syn-25a6b1a6=1) |
+| Finance | Jul 27, 2026 | [Chinese chip champion CXMT soars 466% in market debut](https://www.ft.com/content/8e82e939-908b-42bf-a314-0bb02a3f1b07?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
