@@ -295,11 +295,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Jul 23, 2026 | [Odds of Federal Reserve rate hike surge as oil prices rip higher](https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html) |
 | Market | Jul 23, 2026 | [JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter](https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html) |
 | Market | Jul 24, 2026 | [Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'](https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html) |
-| Finance | Jul 26, 2026 | [US pauses Iran strikes as Oman pursues Hormuz transit deal](https://www.ft.com/content/ffdeacf0-91b8-48fd-9ff8-d8d134ef5f11?syn-25a6b1a6=1) |
-| Finance | Jul 26, 2026 | [Oil prices fall as Iran and US pause strikes over Strait of Hormuz tensions](https://www.ft.com/content/403625cc-8371-43ee-997a-f6908a97f52e?syn-25a6b1a6=1) |
-| Finance | Jul 26, 2026 | [India’s Gen Z protesters puncture Modi’s aura of invincibility](https://www.ft.com/content/71bbe9fd-e1cb-4e28-8edb-f319032139c4?syn-25a6b1a6=1) |
-| Finance | Jul 26, 2026 | [Why wages and productivity look set to diverge further](https://www.ft.com/content/9741206d-b53f-4149-8cab-5203dd4b70fb?syn-25a6b1a6=1) |
-| Finance | Jul 26, 2026 | [Defence giants provide record backing for military start-ups](https://www.ft.com/content/fcb2bd34-b13f-4f4f-950d-92367d43d1f3?syn-25a6b1a6=1) |
+| Finance | Jul 27, 2026 | [Chinese chip champion CXMT soars more than 500% in market debut](https://www.ft.com/content/8e82e939-908b-42bf-a314-0bb02a3f1b07?syn-25a6b1a6=1) |
+| Finance | Jul 27, 2026 | [The new premium product: books written by people](https://www.ft.com/content/6b52ecb8-f7dd-45f0-8beb-d60c15bc5ebf?syn-25a6b1a6=1) |
+| Finance | Jul 27, 2026 | [Why economic surveys have lost their relevance](https://www.ft.com/content/1c559e9c-83b8-486c-812f-cb431e6970ce?syn-25a6b1a6=1) |
+| Finance | Jul 27, 2026 | [Beware holographic markets](https://www.ft.com/content/e76f5ce3-3bd6-4793-87d9-071ecd75f0bb?syn-25a6b1a6=1) |
+| Finance | Jul 27, 2026 | [Oil falls more than 6% as Iran and US pause strikes over Strait of Hormuz](https://www.ft.com/content/403625cc-8371-43ee-997a-f6908a97f52e?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
