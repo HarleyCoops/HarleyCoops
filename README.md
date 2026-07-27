@@ -290,16 +290,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Jul 27, 2026 | [CME launches single stock futures enabling investors to trade SpaceX, Micron and others 23 hours ...](https://www.cnbc.com/2026/07/27/cme-launches-single-stock-futures-enabling-investors-to-trade-spacex-micron-23-hours-a-day.html) |
 | Market | Jul 24, 2026 | [Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and o...](https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html) |
 | Market | Jul 24, 2026 | [U.S., other nations back open-source AI with 'strong security' at China summit](https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html) |
 | Market | Jul 23, 2026 | [Odds of Federal Reserve rate hike surge as oil prices rip higher](https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html) |
 | Market | Jul 23, 2026 | [JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter](https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html) |
-| Market | Jul 24, 2026 | [Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'](https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html) |
+| Finance | Jul 27, 2026 | [Ares Management has held talks to buy Leonard Green & Partners](https://www.ft.com/content/9f446812-5dc9-4d25-9a4b-ac5162e62d81?syn-25a6b1a6=1) |
 | Finance | Jul 27, 2026 | [France and Spain brace for more extreme heat as wildfires rage](https://www.ft.com/content/45867580-65a2-4a7d-ba4c-8143e86f4e36?syn-25a6b1a6=1) |
-| Finance | Jul 27, 2026 | [The new premium product: books written by people](https://www.ft.com/content/6b52ecb8-f7dd-45f0-8beb-d60c15bc5ebf?syn-25a6b1a6=1) |
+| Finance | Jul 27, 2026 | [Donald Trump rebuilds his tariff wall](https://www.ft.com/content/426d49ae-1d07-45f4-b784-e65756a4f5ac?syn-25a6b1a6=1) |
 | Finance | Jul 27, 2026 | [Ukraine, Iran and how regional wars go global](https://www.ft.com/content/51ea0e62-f9ad-4307-84b9-475029edbe39?syn-25a6b1a6=1) |
-| Finance | Jul 27, 2026 | [Why economic surveys have lost their relevance](https://www.ft.com/content/1c559e9c-83b8-486c-812f-cb431e6970ce?syn-25a6b1a6=1) |
-| Finance | Jul 27, 2026 | [Chinese chip champion CXMT soars 466% in market debut](https://www.ft.com/content/8e82e939-908b-42bf-a314-0bb02a3f1b07?syn-25a6b1a6=1) |
+| Finance | Jul 27, 2026 | [Nvidia bets $5bn on Ilya Sutskever’s AI breakthrough](https://www.ft.com/content/5c78dec1-b6d6-415e-9456-f1ab5eed6146?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
