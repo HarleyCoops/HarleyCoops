@@ -295,11 +295,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Jul 24, 2026 | [U.S., other nations back open-source AI with 'strong security' at China summit](https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html) |
 | Market | Jul 23, 2026 | [Odds of Federal Reserve rate hike surge as oil prices rip higher](https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html) |
 | Market | Jul 23, 2026 | [JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter](https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html) |
+| Finance | Jul 28, 2026 | [AI stock sell-off deepens as investors dump chipmakers](https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae?syn-25a6b1a6=1) |
 | Finance | Jul 27, 2026 | [Big Tech credit risks rise sharply as AI spending soars](https://www.ft.com/content/ac136522-ecc7-4262-8702-e0d636ea3099?syn-25a6b1a6=1) |
-| Finance | Jul 27, 2026 | [Nvidia bets $5bn on Ilya Sutskever’s AI breakthrough](https://www.ft.com/content/5c78dec1-b6d6-415e-9456-f1ab5eed6146?syn-25a6b1a6=1) |
-| Finance | Jul 27, 2026 | [Trump seeks to revive his bond with blue-collar America](https://www.ft.com/content/66678363-382d-4659-b093-e61a2b6bcd6a?syn-25a6b1a6=1) |
-| Finance | Jul 27, 2026 | [France and Spain brace for more extreme heat as wildfires rage](https://www.ft.com/content/45867580-65a2-4a7d-ba4c-8143e86f4e36?syn-25a6b1a6=1) |
-| Finance | Jul 27, 2026 | [Ukraine, Iran and how regional wars go global](https://www.ft.com/content/51ea0e62-f9ad-4307-84b9-475029edbe39?syn-25a6b1a6=1) |
+| Finance | Jul 28, 2026 | [The UAE’s bold gambit on Iran](https://www.ft.com/content/6d2d0b89-0d26-4e49-8e52-a53bdc178974?syn-25a6b1a6=1) |
+| Finance | Jul 28, 2026 | [How Iran adapted its missile war with Trump](https://www.ft.com/content/82acf078-9214-4eb6-a162-15f584a5e3ca?syn-25a6b1a6=1) |
+| Finance | Jul 28, 2026 | [The unexpected winners from China’s blockbuster chip IPO](https://www.ft.com/content/d6439cb3-5a9e-4f6e-b5d6-b0e5621567c4?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
