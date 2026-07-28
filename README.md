@@ -295,11 +295,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Jul 24, 2026 | [U.S., other nations back open-source AI with 'strong security' at China summit](https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html) |
 | Market | Jul 23, 2026 | [Odds of Federal Reserve rate hike surge as oil prices rip higher](https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html) |
 | Market | Jul 23, 2026 | [JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter](https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html) |
-| Finance | Jul 27, 2026 | [Ares Management has held talks to buy Leonard Green & Partners](https://www.ft.com/content/9f446812-5dc9-4d25-9a4b-ac5162e62d81?syn-25a6b1a6=1) |
-| Finance | Jul 27, 2026 | [France and Spain brace for more extreme heat as wildfires rage](https://www.ft.com/content/45867580-65a2-4a7d-ba4c-8143e86f4e36?syn-25a6b1a6=1) |
-| Finance | Jul 27, 2026 | [Donald Trump rebuilds his tariff wall](https://www.ft.com/content/426d49ae-1d07-45f4-b784-e65756a4f5ac?syn-25a6b1a6=1) |
-| Finance | Jul 27, 2026 | [Ukraine, Iran and how regional wars go global](https://www.ft.com/content/51ea0e62-f9ad-4307-84b9-475029edbe39?syn-25a6b1a6=1) |
+| Finance | Jul 27, 2026 | [Big Tech credit risks rise sharply as AI spending soars](https://www.ft.com/content/ac136522-ecc7-4262-8702-e0d636ea3099?syn-25a6b1a6=1) |
 | Finance | Jul 27, 2026 | [Nvidia bets $5bn on Ilya Sutskever’s AI breakthrough](https://www.ft.com/content/5c78dec1-b6d6-415e-9456-f1ab5eed6146?syn-25a6b1a6=1) |
+| Finance | Jul 27, 2026 | [Trump seeks to revive his bond with blue-collar America](https://www.ft.com/content/66678363-382d-4659-b093-e61a2b6bcd6a?syn-25a6b1a6=1) |
+| Finance | Jul 27, 2026 | [France and Spain brace for more extreme heat as wildfires rage](https://www.ft.com/content/45867580-65a2-4a7d-ba4c-8143e86f4e36?syn-25a6b1a6=1) |
+| Finance | Jul 27, 2026 | [Ukraine, Iran and how regional wars go global](https://www.ft.com/content/51ea0e62-f9ad-4307-84b9-475029edbe39?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
