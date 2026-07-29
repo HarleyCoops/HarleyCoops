@@ -296,10 +296,10 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Jul 28, 2026 | [Visa is cutting 7% of employees in efficiency push as AI reshapes work](https://www.cnbc.com/2026/07/28/visa-is-cutting-7percent-of-employees-in-efficiency-push-as-ai-reshapes-work.html) |
 | Market | Jul 27, 2026 | [CME launches single stock futures enabling investors to trade SpaceX, Micron and others 23 hours ...](https://www.cnbc.com/2026/07/27/cme-launches-single-stock-futures-enabling-investors-to-trade-spacex-micron-23-hours-a-day.html) |
 | Finance | Jul 29, 2026 | [Ukraine adapts strikes on Russian energy industry to hit critical components](https://www.ft.com/content/5ca782bd-5c4a-45f8-9a7a-5793d800321d?syn-25a6b1a6=1) |
-| Finance | Jul 29, 2026 | [US poised to impose new Russia sanctions package](https://www.ft.com/content/612c3693-6b2e-483d-a0f4-ac649ab7d191?syn-25a6b1a6=1) |
-| Finance | Jul 29, 2026 | [Zelenskyy reports positive Oval Office meeting as Trump shifts towards Ukraine](https://www.ft.com/content/5dca4c81-be8a-4555-971f-181eebf53e62?syn-25a6b1a6=1) |
 | Finance | Jul 29, 2026 | [Mark Zuckerberg says US should not ban Chinese AI](https://www.ft.com/content/af4fa147-7fdd-42eb-8eb2-3f624a89a4e4?syn-25a6b1a6=1) |
+| Finance | Jul 29, 2026 | [Populism will eat itself](https://www.ft.com/content/0c197937-672a-43a0-b186-9bf9b7f8ccd1?syn-25a6b1a6=1) |
 | Finance | Jul 29, 2026 | [If you think your profession is dying, it could soon be gone](https://www.ft.com/content/e888b187-75c0-4233-9588-d1b9948b1b0a?syn-25a6b1a6=1) |
+| Finance | Jul 29, 2026 | [Tech rout roils markets after SK Hynix profits disappoint](https://www.ft.com/content/e8e3a60a-059c-45b5-bbe3-49add14fd343?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
