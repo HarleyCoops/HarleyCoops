@@ -290,16 +290,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Jul 29, 2026 | [Here's what changed in the second Fed statement under Warsh](https://www.cnbc.com/2026/07/29/fed-decision-redline-heres-what-changed-in-the-second-statement-under-warsh.html) |
+| Market | Jul 29, 2026 | [Divided Fed holds interest rates steady, but three members voted to hike](https://www.cnbc.com/2026/07/29/fed-rate-decision-july-2026.html) |
 | Market | Jul 28, 2026 | [44 states are aligned on one thing in their fight against prediction markets. It's about sports w...](https://www.cnbc.com/2026/07/28/44-states-say-cftc-has-no-authority-over-sports-prediction-markets.html) |
 | Market | Jul 28, 2026 | [Meta likely to highlight smart glasses, avoid social media policy on upcoming earnings call, Kals...](https://www.cnbc.com/2026/07/28/meta-q2-earnings-call-mentions-kalshi-market-odds-.html) |
 | Market | Jul 28, 2026 | [The future of Wall Street is here as startups and brokers build AI agents to trade 24/7](https://www.cnbc.com/2026/07/28/ai-agents-build-to-trade-24/7-the-future-of-wall-street.html) |
-| Market | Jul 28, 2026 | [Visa is cutting 7% of employees in efficiency push as AI reshapes work](https://www.cnbc.com/2026/07/28/visa-is-cutting-7percent-of-employees-in-efficiency-push-as-ai-reshapes-work.html) |
-| Market | Jul 27, 2026 | [CME launches single stock futures enabling investors to trade SpaceX, Micron and others 23 hours ...](https://www.cnbc.com/2026/07/27/cme-launches-single-stock-futures-enabling-investors-to-trade-spacex-micron-23-hours-a-day.html) |
-| Finance | Jul 29, 2026 | [Ukraine adapts strikes on Russian energy industry to hit critical components](https://www.ft.com/content/5ca782bd-5c4a-45f8-9a7a-5793d800321d?syn-25a6b1a6=1) |
+| Finance | Jul 29, 2026 | [Fed holds rates steady after high-stakes meeting](https://www.ft.com/content/0f9a8575-12ad-4c17-9ee0-50cdab5b8961) |
+| Finance | Jul 29, 2026 | [Fed’s favourite inflation gauge to be lowered by stats agency change](https://www.ft.com/content/bf4c32f3-735d-4742-a5b6-65b404f70cc7?syn-25a6b1a6=1) |
 | Finance | Jul 29, 2026 | [Mark Zuckerberg says US should not ban Chinese AI](https://www.ft.com/content/af4fa147-7fdd-42eb-8eb2-3f624a89a4e4?syn-25a6b1a6=1) |
 | Finance | Jul 29, 2026 | [Populism will eat itself](https://www.ft.com/content/0c197937-672a-43a0-b186-9bf9b7f8ccd1?syn-25a6b1a6=1) |
-| Finance | Jul 29, 2026 | [If you think your profession is dying, it could soon be gone](https://www.ft.com/content/e888b187-75c0-4233-9588-d1b9948b1b0a?syn-25a6b1a6=1) |
-| Finance | Jul 29, 2026 | [Tech rout roils markets after SK Hynix profits disappoint](https://www.ft.com/content/e8e3a60a-059c-45b5-bbe3-49add14fd343?syn-25a6b1a6=1) |
+| Finance | Jul 29, 2026 | [Nvidia’s chips may be novel, but its ‘circular financing’ isn’t](https://www.ft.com/content/33714af0-a646-4271-8078-49a87182917f?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
