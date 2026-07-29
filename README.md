@@ -295,11 +295,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Jul 28, 2026 | [The future of Wall Street is here as startups and brokers build AI agents to trade 24/7](https://www.cnbc.com/2026/07/28/ai-agents-build-to-trade-24/7-the-future-of-wall-street.html) |
 | Market | Jul 28, 2026 | [Visa is cutting 7% of employees in efficiency push as AI reshapes work](https://www.cnbc.com/2026/07/28/visa-is-cutting-7percent-of-employees-in-efficiency-push-as-ai-reshapes-work.html) |
 | Market | Jul 27, 2026 | [CME launches single stock futures enabling investors to trade SpaceX, Micron and others 23 hours ...](https://www.cnbc.com/2026/07/27/cme-launches-single-stock-futures-enabling-investors-to-trade-spacex-micron-23-hours-a-day.html) |
+| Finance | Jul 28, 2026 | [Hedge funds face demands to stump up collateral as AI stocks tumble](https://www.ft.com/content/5c8a2816-8f28-4257-8707-b22ebaa6089c?syn-25a6b1a6=1) |
 | Finance | Jul 28, 2026 | [Chip stocks tumble as AI sell-off deepens](https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae?syn-25a6b1a6=1) |
-| Finance | Jul 28, 2026 | [Nvidia revealed as tenant for $50bn data centre that will use its chips](https://www.ft.com/content/685014e7-47dd-471b-a585-1b9b73ce5d6f?syn-25a6b1a6=1) |
-| Finance | Jul 28, 2026 | [Apple tops $5tn valuation for first time](https://www.ft.com/content/024fb6a1-fb39-4b2d-be3e-2393ed62482a?syn-25a6b1a6=1) |
-| Finance | Jul 28, 2026 | [The UAE’s bold gambit on Iran](https://www.ft.com/content/6d2d0b89-0d26-4e49-8e52-a53bdc178974?syn-25a6b1a6=1) |
+| Finance | Jul 28, 2026 | [Fifa faces fierce backlash over plans for $20bn commercial stake sale](https://www.ft.com/content/ca8893d3-41c2-474f-b140-85072149a5e5?syn-25a6b1a6=1) |
 | Finance | Jul 28, 2026 | [Trump’s waning sway over the world](https://www.ft.com/content/3441b5aa-9d58-4829-bd2e-b2c0ce0198f1?syn-25a6b1a6=1) |
+| Finance | Jul 28, 2026 | [How Iran adapted its missile war with Trump](https://www.ft.com/content/82acf078-9214-4eb6-a162-15f584a5e3ca?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
