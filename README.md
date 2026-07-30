@@ -292,14 +292,14 @@ Every training run ships with its curves public — reward channels, entropy, le
 |----------|------|----------|
 | Market | Jul 30, 2026 | [China threatens retaliation against U.S. humanoid robot ban, says it 'severely damages' relations](https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html) |
 | Market | Jul 29, 2026 | [The U.S. wants Asia to use its AI — but China dominates cheaper models](https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html) |
-| Market | Jul 29, 2026 | [Here are the last times the Dow dropped by 1,000 points and what happened next](https://www.cnbc.com/2026/07/29/the-last-times-the-dow-fell-1000-points-and-what-happened-next.html) |
+| Market | Jul 30, 2026 | [Here are the last times the Dow dropped by 1,000 points and what happened next](https://www.cnbc.com/2026/07/29/the-last-times-the-dow-fell-1000-points-and-what-happened-next.html) |
 | Market | Jul 29, 2026 | [Here are the five big takeaways from this week's Fed meeting](https://www.cnbc.com/2026/07/29/here-are-the-five-big-takeaways-from-this-weeks-fed-meeting.html) |
 | Market | Jul 29, 2026 | [Jeffrey Gundlach says the bond market is telling Warsh the Fed has to start acting on inflation](https://www.cnbc.com/2026/07/29/gundlach-says-the-bond-market-is-signaling-the-fed-has-to-act-on-inflation.html) |
-| Finance | Jul 30, 2026 | [US borrowing costs hit 19-year high as Fed defies inflation fears](https://www.ft.com/content/c4eedbe8-6345-48b6-8d44-5cc5b0bea2c7?syn-25a6b1a6=1) |
-| Finance | Jul 30, 2026 | [Warsh’s stripped-back Fed communication ‘already backfiring’, say investors](https://www.ft.com/content/57aac838-baee-406d-b4ac-c0ffda351aee?syn-25a6b1a6=1) |
-| Finance | Jul 30, 2026 | [Kevin Warsh is confusing markets](https://www.ft.com/content/fe3fe258-62ab-4a71-8c8b-747f9559fd05?syn-25a6b1a6=1) |
+| Finance | Jul 30, 2026 | [Citadel buys Situational Awareness equity holdings after steep AI losses](https://www.ft.com/content/5fb44089-ecdf-4b48-bc14-1e8b4682b142?syn-25a6b1a6=1) |
+| Finance | Jul 30, 2026 | [Are investors really getting cold feet about the AI boom?](https://www.ft.com/content/00d91e68-9508-42bd-b1e3-124bf7dd390b?syn-25a6b1a6=1) |
+| Finance | Jul 30, 2026 | [European nations to boycott World Cup in protest at Fifa’s plans](https://www.ft.com/content/b12a08f4-442c-4f10-9688-0f93553a292f?syn-25a6b1a6=1) |
 | Finance | Jul 30, 2026 | [DR Congo’s cobalt boom carries an unwanted cargo: uranium](https://www.ft.com/content/77815def-6f50-4adf-8ba3-3643de7bf8ab?syn-25a6b1a6=1) |
-| Finance | Jul 30, 2026 | [ByteDance’s big bet on AI](https://www.ft.com/content/fde2dd97-317a-41b8-a746-d917c5680397?syn-25a6b1a6=1) |
+| Finance | Jul 30, 2026 | [Warsh’s stripped-back Fed communication ‘already backfiring’, say investors](https://www.ft.com/content/57aac838-baee-406d-b4ac-c0ffda351aee?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
