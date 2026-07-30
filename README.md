@@ -290,16 +290,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Jul 30, 2026 | [China threatens retaliation against U.S. humanoid robot ban, says it 'severely damages' relations](https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html) |
 | Market | Jul 29, 2026 | [The U.S. wants Asia to use its AI — but China dominates cheaper models](https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html) |
 | Market | Jul 29, 2026 | [Here are the last times the Dow dropped by 1,000 points and what happened next](https://www.cnbc.com/2026/07/29/the-last-times-the-dow-fell-1000-points-and-what-happened-next.html) |
 | Market | Jul 29, 2026 | [Here are the five big takeaways from this week's Fed meeting](https://www.cnbc.com/2026/07/29/here-are-the-five-big-takeaways-from-this-weeks-fed-meeting.html) |
 | Market | Jul 29, 2026 | [Jeffrey Gundlach says the bond market is telling Warsh the Fed has to start acting on inflation](https://www.cnbc.com/2026/07/29/gundlach-says-the-bond-market-is-signaling-the-fed-has-to-act-on-inflation.html) |
-| Market | Jul 29, 2026 | [Here's what changed in the second Fed statement under Warsh](https://www.cnbc.com/2026/07/29/fed-decision-redline-heres-what-changed-in-the-second-statement-under-warsh.html) |
 | Finance | Jul 29, 2026 | [US borrowing costs hit 19-year high as Fed defies inflation fears](https://www.ft.com/content/c4eedbe8-6345-48b6-8d44-5cc5b0bea2c7?syn-25a6b1a6=1) |
-| Finance | Jul 29, 2026 | [Fed’s favourite inflation gauge to be lowered by stats agency change](https://www.ft.com/content/bf4c32f3-735d-4742-a5b6-65b404f70cc7?syn-25a6b1a6=1) |
-| Finance | Jul 29, 2026 | [Meta shares tumble as Zuckerberg tries to sell his vision for AI ‘agents’](https://www.ft.com/content/06d941ed-8136-46a4-a2ec-44bea1b35c3b?syn-25a6b1a6=1) |
-| Finance | Jul 30, 2026 | [Microsoft signs $130bn in data centre leases as it races to meet AI demand](https://www.ft.com/content/da7c4472-cb30-4b82-b321-d82c1859419e?syn-25a6b1a6=1) |
-| Finance | Jul 29, 2026 | [Qualcomm posts shrinking sales and profits as chip costs hurt smartphone market](https://www.ft.com/content/d5762ed8-a384-4c6a-9f5e-8bce573cf0a0?syn-25a6b1a6=1) |
+| Finance | Jul 30, 2026 | [Kevin Warsh is confusing markets](https://www.ft.com/content/fe3fe258-62ab-4a71-8c8b-747f9559fd05?syn-25a6b1a6=1) |
+| Finance | Jul 30, 2026 | [ByteDance’s plan to dominate AI](https://www.ft.com/content/fde2dd97-317a-41b8-a746-d917c5680397?syn-25a6b1a6=1) |
+| Finance | Jul 30, 2026 | [Saudi Arabia is still doomed to dependence on America](https://www.ft.com/content/4625a552-9e45-463c-aca8-63a6ca1da09b) |
+| Finance | Jul 30, 2026 | [‘My life’s screwed’: Korean investors stress out after AI bubble bursts](https://www.ft.com/content/23f388eb-e8ab-4fb1-b1ca-8e04eb4561a1?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
