@@ -296,10 +296,10 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Jul 30, 2026 | [Here are the last times the Dow dropped by 1,000 points and what happened next](https://www.cnbc.com/2026/07/29/the-last-times-the-dow-fell-1000-points-and-what-happened-next.html) |
 | Market | Jul 29, 2026 | [Here are the five big takeaways from this week's Fed meeting](https://www.cnbc.com/2026/07/29/here-are-the-five-big-takeaways-from-this-weeks-fed-meeting.html) |
 | Finance | Jul 30, 2026 | [Trump ‘not sure’ he will let Ukraine build Patriot missiles](https://www.ft.com/content/d8c42f6b-4dba-4976-a907-c7c93bca0bbd?syn-25a6b1a6=1) |
-| Finance | Jul 30, 2026 | [Apple forecasts slower growth as AI build-out strains tech supply chains](https://www.ft.com/content/762a504e-fca8-49d0-9f2e-b2f142fd749a?syn-25a6b1a6=1) |
-| Finance | Jul 30, 2026 | [Fifa’s $20bn commercial spin-off at risk as Europe unites behind World Cup boycott](https://www.ft.com/content/b12a08f4-442c-4f10-9688-0f93553a292f?syn-25a6b1a6=1) |
-| Finance | Jul 30, 2026 | [Mark Zuckerberg is becoming the king of the ‘side quest’](https://www.ft.com/content/6d206b85-bc50-4c89-973b-f18cd84e2a15?syn-25a6b1a6=1) |
-| Finance | Jul 30, 2026 | [Warsh’s stripped-back Fed communication ‘already backfiring’, say investors](https://www.ft.com/content/57aac838-baee-406d-b4ac-c0ffda351aee?syn-25a6b1a6=1) |
+| Finance | Jul 31, 2026 | [Russia targets hundreds of Ukrainian petrol stations](https://www.ft.com/content/066066cf-d45b-436c-9170-b42097a4b141?syn-25a6b1a6=1) |
+| Finance | Jul 31, 2026 | [How Leopold Aschenbrenner, the ‘golden child’ of the AI trade, was laid low](https://www.ft.com/content/620bd668-d112-412d-aa52-22489b128d55?syn-25a6b1a6=1) |
+| Finance | Jul 31, 2026 | [We’ve moved from income world to wealth world](https://www.ft.com/content/6a35508c-c0bd-4000-81b3-7c7383fb24fd?syn-25a6b1a6=1) |
+| Finance | Jul 31, 2026 | [JPMorgan walks into another football firestorm](https://www.ft.com/content/c81dd7e8-9f4b-415f-aa08-eb2b3b1f3680?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
