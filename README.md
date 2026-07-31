@@ -290,16 +290,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Jul 31, 2026 | [Fed officials who voted to hike rates say action is needed now against inflation](https://www.cnbc.com/2026/07/31/fed-officials-who-voted-to-hike-rates-say-action-is-needed-now-against-inflation.html) |
+| Market | Jul 31, 2026 | [More consumer companies are staying private for longer, avoiding the IPO road](https://www.cnbc.com/2026/07/31/private-consumer-companies-ipo.html) |
 | Market | Jul 30, 2026 | [China’s U.S.-bound shipments fall in July after brief recovery, survey shows](https://www.cnbc.com/2026/07/30/china-us-exports-drop.html) |
 | Market | Jul 30, 2026 | [China threatens retaliation against U.S. humanoid robot ban, says it 'severely damages' relations](https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html) |
 | Market | Jul 29, 2026 | [The U.S. wants Asia to use its AI — but China dominates cheaper models](https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html) |
-| Market | Jul 30, 2026 | [Here are the last times the Dow dropped by 1,000 points and what happened next](https://www.cnbc.com/2026/07/29/the-last-times-the-dow-fell-1000-points-and-what-happened-next.html) |
-| Market | Jul 29, 2026 | [Here are the five big takeaways from this week's Fed meeting](https://www.cnbc.com/2026/07/29/here-are-the-five-big-takeaways-from-this-weeks-fed-meeting.html) |
 | Finance | Jul 30, 2026 | [Trump ‘not sure’ he will let Ukraine build Patriot missiles](https://www.ft.com/content/d8c42f6b-4dba-4976-a907-c7c93bca0bbd?syn-25a6b1a6=1) |
 | Finance | Jul 31, 2026 | [Russia targets hundreds of Ukrainian petrol stations](https://www.ft.com/content/066066cf-d45b-436c-9170-b42097a4b141?syn-25a6b1a6=1) |
 | Finance | Jul 31, 2026 | [How Leopold Aschenbrenner, the ‘golden child’ of the AI trade, was laid low](https://www.ft.com/content/620bd668-d112-412d-aa52-22489b128d55?syn-25a6b1a6=1) |
 | Finance | Jul 31, 2026 | [We’ve moved from income world to wealth world](https://www.ft.com/content/6a35508c-c0bd-4000-81b3-7c7383fb24fd?syn-25a6b1a6=1) |
-| Finance | Jul 31, 2026 | [JPMorgan walks into another football firestorm](https://www.ft.com/content/c81dd7e8-9f4b-415f-aa08-eb2b3b1f3680?syn-25a6b1a6=1) |
+| Finance | Jul 31, 2026 | [China is smarter about subsidies than everybody else](https://www.ft.com/content/871976c7-8c4f-405e-803e-d86cf22bcf0f?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
