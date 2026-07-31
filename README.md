@@ -290,16 +290,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Jul 31, 2026 | [Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks](https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html) |
+| Market | Jul 31, 2026 | [Why Situational Awareness hedge fund imploded, even in a tame stock market](https://www.cnbc.com/2026/07/31/why-leopold-aschenbrenner-situational-awareness-hedge-fund-imploded.html) |
+| Market | Jul 31, 2026 | [How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days](https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html) |
+| Market | Jul 31, 2026 | [New York sues Kalshi, says prediction market is running 'illegal gambling operation'](https://www.cnbc.com/2026/07/31/new-york-sues-kalshi-claims-it-is-illegal-gambling-operation.html) |
 | Market | Jul 31, 2026 | [Fed officials who voted to hike rates say action is needed now against inflation](https://www.cnbc.com/2026/07/31/fed-officials-who-voted-to-hike-rates-say-action-is-needed-now-against-inflation.html) |
-| Market | Jul 31, 2026 | [More consumer companies are staying private for longer, avoiding the IPO road](https://www.cnbc.com/2026/07/31/private-consumer-companies-ipo.html) |
-| Market | Jul 30, 2026 | [China’s U.S.-bound shipments fall in July after brief recovery, survey shows](https://www.cnbc.com/2026/07/30/china-us-exports-drop.html) |
-| Market | Jul 30, 2026 | [China threatens retaliation against U.S. humanoid robot ban, says it 'severely damages' relations](https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html) |
-| Market | Jul 29, 2026 | [The U.S. wants Asia to use its AI — but China dominates cheaper models](https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html) |
-| Finance | Jul 30, 2026 | [Trump ‘not sure’ he will let Ukraine build Patriot missiles](https://www.ft.com/content/d8c42f6b-4dba-4976-a907-c7c93bca0bbd?syn-25a6b1a6=1) |
-| Finance | Jul 31, 2026 | [Russia targets hundreds of Ukrainian petrol stations](https://www.ft.com/content/066066cf-d45b-436c-9170-b42097a4b141?syn-25a6b1a6=1) |
-| Finance | Jul 31, 2026 | [How Leopold Aschenbrenner, the ‘golden child’ of the AI trade, was laid low](https://www.ft.com/content/620bd668-d112-412d-aa52-22489b128d55?syn-25a6b1a6=1) |
-| Finance | Jul 31, 2026 | [We’ve moved from income world to wealth world](https://www.ft.com/content/6a35508c-c0bd-4000-81b3-7c7383fb24fd?syn-25a6b1a6=1) |
-| Finance | Jul 31, 2026 | [China is smarter about subsidies than everybody else](https://www.ft.com/content/871976c7-8c4f-405e-803e-d86cf22bcf0f?syn-25a6b1a6=1) |
+| Finance | Jul 31, 2026 | [Spain’s prime minister condemns influx of 60,000 migrants](https://www.ft.com/content/34917d6f-c8ec-4e13-890a-4d8475806bb7?syn-25a6b1a6=1) |
+| Finance | Jul 31, 2026 | [The return of Boeing](https://www.ft.com/content/229f215f-9be0-4afe-a4d7-378aadbf87c5?syn-25a6b1a6=1) |
+| Finance | Jul 31, 2026 | [I helped bring in US bank stress tests. Now it is time to drop them](https://www.ft.com/content/a1c7a1ed-3687-492c-9170-48ae07d7ead3) |
+| Finance | Jul 31, 2026 | [Markets are getting AI right](https://www.ft.com/content/c167fb1b-69c3-4df0-9126-1e0af678f924?syn-25a6b1a6=1) |
+| Finance | Jul 31, 2026 | [Leopold Aschenbrenner vows to ‘fight another day’ after fund plunges 67% in July](https://www.ft.com/content/a0a5e3a7-c4e6-42a6-9a7b-a780422bcd76?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
