@@ -290,16 +290,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Jul 31, 2026 | [Investors may want to focus on front end of yield curve — as Street anticipates next Fed meetings](https://www.cnbc.com/2026/07/31/top-investment-ideas-as-interest-rate-uncertainty-grips-market-.html) |
 | Market | Jul 31, 2026 | [Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks](https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html) |
 | Market | Jul 31, 2026 | [Why Situational Awareness hedge fund imploded, even in a tame stock market](https://www.cnbc.com/2026/07/31/why-leopold-aschenbrenner-situational-awareness-hedge-fund-imploded.html) |
 | Market | Jul 31, 2026 | [How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days](https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html) |
 | Market | Jul 31, 2026 | [New York sues Kalshi, says prediction market is running 'illegal gambling operation'](https://www.cnbc.com/2026/07/31/new-york-sues-kalshi-claims-it-is-illegal-gambling-operation.html) |
-| Market | Jul 31, 2026 | [Fed officials who voted to hike rates say action is needed now against inflation](https://www.cnbc.com/2026/07/31/fed-officials-who-voted-to-hike-rates-say-action-is-needed-now-against-inflation.html) |
-| Finance | Jul 31, 2026 | [Spain’s prime minister condemns influx of 60,000 migrants](https://www.ft.com/content/34917d6f-c8ec-4e13-890a-4d8475806bb7?syn-25a6b1a6=1) |
-| Finance | Jul 31, 2026 | [The return of Boeing](https://www.ft.com/content/229f215f-9be0-4afe-a4d7-378aadbf87c5?syn-25a6b1a6=1) |
+| Finance | Aug 01, 2026 | [Fifa abandons controversial $20bn stake-sale plan after global backlash](https://www.ft.com/content/58400cf0-20df-46ef-975b-7414806e09de?syn-25a6b1a6=1) |
+| Finance | Jul 31, 2026 | [The week that shook football](https://www.ft.com/content/0b7081c3-2654-471c-b1b9-87c6f6369fb0?syn-25a6b1a6=1) |
+| Finance | Jul 31, 2026 | [How 60,000 people swam to Spanish territory](https://www.ft.com/content/7c487af9-53a2-4088-bf14-1f2deb4247e9?syn-25a6b1a6=1) |
 | Finance | Jul 31, 2026 | [I helped bring in US bank stress tests. Now it is time to drop them](https://www.ft.com/content/a1c7a1ed-3687-492c-9170-48ae07d7ead3) |
 | Finance | Jul 31, 2026 | [Markets are getting AI right](https://www.ft.com/content/c167fb1b-69c3-4df0-9126-1e0af678f924?syn-25a6b1a6=1) |
-| Finance | Jul 31, 2026 | [Leopold Aschenbrenner vows to ‘fight another day’ after fund plunges 67% in July](https://www.ft.com/content/a0a5e3a7-c4e6-42a6-9a7b-a780422bcd76?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
