@@ -295,11 +295,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Jul 31, 2026 | [Why Situational Awareness hedge fund imploded, even in a tame stock market](https://www.cnbc.com/2026/07/31/why-leopold-aschenbrenner-situational-awareness-hedge-fund-imploded.html) |
 | Market | Jul 31, 2026 | [How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days](https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html) |
 | Market | Jul 31, 2026 | [New York sues Kalshi, says prediction market is running 'illegal gambling operation'](https://www.cnbc.com/2026/07/31/new-york-sues-kalshi-claims-it-is-illegal-gambling-operation.html) |
-| Finance | Aug 01, 2026 | [Fifa abandons controversial $20bn stake-sale plan after global backlash](https://www.ft.com/content/58400cf0-20df-46ef-975b-7414806e09de?syn-25a6b1a6=1) |
+| Finance | Aug 01, 2026 | [Fifa abandons $20bn stake-sale plan after global backlash](https://www.ft.com/content/58400cf0-20df-46ef-975b-7414806e09de?syn-25a6b1a6=1) |
 | Finance | Jul 31, 2026 | [The week that shook football](https://www.ft.com/content/0b7081c3-2654-471c-b1b9-87c6f6369fb0?syn-25a6b1a6=1) |
 | Finance | Jul 31, 2026 | [How 60,000 people swam to Spanish territory](https://www.ft.com/content/7c487af9-53a2-4088-bf14-1f2deb4247e9?syn-25a6b1a6=1) |
-| Finance | Jul 31, 2026 | [I helped bring in US bank stress tests. Now it is time to drop them](https://www.ft.com/content/a1c7a1ed-3687-492c-9170-48ae07d7ead3) |
-| Finance | Jul 31, 2026 | [Markets are getting AI right](https://www.ft.com/content/c167fb1b-69c3-4df0-9126-1e0af678f924?syn-25a6b1a6=1) |
+| Finance | Aug 01, 2026 | [The war dividend](https://www.ft.com/content/523aa460-0f70-4afd-bd9a-5ab078624931?syn-25a6b1a6=1) |
+| Finance | Aug 01, 2026 | [Humbling times for markets](https://www.ft.com/content/e41dadef-c473-48ff-9fa5-30b56d40af34?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
