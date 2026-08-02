@@ -295,11 +295,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Jul 31, 2026 | [Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks](https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html) |
 | Market | Jul 31, 2026 | [Why Situational Awareness hedge fund imploded, even in a tame stock market](https://www.cnbc.com/2026/07/31/why-leopold-aschenbrenner-situational-awareness-hedge-fund-imploded.html) |
 | Market | Jul 31, 2026 | [How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days](https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html) |
+| Finance | Aug 02, 2026 | [Trump cancels new strikes on Iran after Middle East allies’ request](https://www.ft.com/content/9cb84920-075e-4fa4-b1cb-dfc55d5845f4) |
+| Finance | Aug 02, 2026 | [Iran sets the pace in war with Trump](https://www.ft.com/content/a29819ef-ffb9-4d2a-9925-e3d6e6e6e797?syn-25a6b1a6=1) |
+| Finance | Aug 02, 2026 | [Don’t pretend jokes can’t lead to political violence](https://www.ft.com/content/6a3abcca-1477-4daa-9481-1a63492601a9?syn-25a6b1a6=1) |
 | Finance | Aug 01, 2026 | [Spain pushes migrants home as Ceuta vents over ‘invasion’](https://www.ft.com/content/a551d1be-80a1-4d3c-8498-b1f82fdb0e41?syn-25a6b1a6=1) |
-| Finance | Aug 01, 2026 | [EU ministers to discuss Spain’s migrant crisis after Sánchez hits out over criticism](https://www.ft.com/content/1b3f09b5-897e-4b7a-9949-2c4d9a32929e?syn-25a6b1a6=1) |
-| Finance | Aug 01, 2026 | [The war dividend](https://www.ft.com/content/523aa460-0f70-4afd-bd9a-5ab078624931?syn-25a6b1a6=1) |
-| Finance | Aug 01, 2026 | [Humbling times for markets](https://www.ft.com/content/e41dadef-c473-48ff-9fa5-30b56d40af34?syn-25a6b1a6=1) |
-| Finance | Aug 01, 2026 | [Infantino’s U-turn fuels doubts about his future at Fifa](https://www.ft.com/content/c0d97297-98ed-452f-bdfd-1f16d53d4eb3?syn-25a6b1a6=1) |
+| Finance | Aug 02, 2026 | [Apple struggles to keep pace with AI ‘bug’ hunters](https://www.ft.com/content/4532122d-90f2-4433-9df6-ca99d8a141d2?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
