@@ -290,13 +290,13 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Aug 01, 2026 | [Goldman traders are on pace for a record year. A close-up look at how they're doing it](https://www.cnbc.com/2026/08/01/goldman-traders-are-on-pace-for-a-record-year-a-close-up-look-at-how-theyre-doing-it.html) |
 | Market | Jul 31, 2026 | [Investors may want to focus on front end of yield curve — as Street anticipates next Fed meetings](https://www.cnbc.com/2026/07/31/top-investment-ideas-as-interest-rate-uncertainty-grips-market-.html) |
 | Market | Jul 31, 2026 | [Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks](https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html) |
 | Market | Jul 31, 2026 | [Why Situational Awareness hedge fund imploded, even in a tame stock market](https://www.cnbc.com/2026/07/31/why-leopold-aschenbrenner-situational-awareness-hedge-fund-imploded.html) |
 | Market | Jul 31, 2026 | [How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days](https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html) |
-| Market | Jul 31, 2026 | [New York sues Kalshi, says prediction market is running 'illegal gambling operation'](https://www.cnbc.com/2026/07/31/new-york-sues-kalshi-claims-it-is-illegal-gambling-operation.html) |
+| Finance | Aug 01, 2026 | [Spain pushes migrants home as Ceuta vents over ‘invasion’](https://www.ft.com/content/a551d1be-80a1-4d3c-8498-b1f82fdb0e41?syn-25a6b1a6=1) |
 | Finance | Aug 01, 2026 | [EU ministers to discuss Spain’s migrant crisis after Sánchez hits out over criticism](https://www.ft.com/content/1b3f09b5-897e-4b7a-9949-2c4d9a32929e?syn-25a6b1a6=1) |
-| Finance | Jul 31, 2026 | [How 60,000 people swam to Spanish territory](https://www.ft.com/content/7c487af9-53a2-4088-bf14-1f2deb4247e9?syn-25a6b1a6=1) |
 | Finance | Aug 01, 2026 | [The war dividend](https://www.ft.com/content/523aa460-0f70-4afd-bd9a-5ab078624931?syn-25a6b1a6=1) |
 | Finance | Aug 01, 2026 | [Humbling times for markets](https://www.ft.com/content/e41dadef-c473-48ff-9fa5-30b56d40af34?syn-25a6b1a6=1) |
 | Finance | Aug 01, 2026 | [Infantino’s U-turn fuels doubts about his future at Fifa](https://www.ft.com/content/c0d97297-98ed-452f-bdfd-1f16d53d4eb3?syn-25a6b1a6=1) |
