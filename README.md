@@ -290,15 +290,15 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
-| Market | Aug 01, 2026 | [Goldman traders are on pace for a record year. A close-up look at how they're doing it](https://www.cnbc.com/2026/08/01/goldman-traders-are-on-pace-for-a-record-year-a-close-up-look-at-how-theyre-doing-it.html) |
+| Market | Aug 02, 2026 | [Goldman traders are on pace for a record year. A close-up look at how they're doing it](https://www.cnbc.com/2026/08/01/goldman-traders-are-on-pace-for-a-record-year-a-close-up-look-at-how-theyre-doing-it.html) |
 | Market | Jul 31, 2026 | [Investors may want to focus on front end of yield curve — as Street anticipates next Fed meetings](https://www.cnbc.com/2026/07/31/top-investment-ideas-as-interest-rate-uncertainty-grips-market-.html) |
 | Market | Jul 31, 2026 | [Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks](https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html) |
 | Market | Jul 31, 2026 | [Why Situational Awareness hedge fund imploded, even in a tame stock market](https://www.cnbc.com/2026/07/31/why-leopold-aschenbrenner-situational-awareness-hedge-fund-imploded.html) |
 | Market | Jul 31, 2026 | [How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days](https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html) |
-| Finance | Aug 02, 2026 | [Trump says he cancelled Iran strikes after Middle East allies’ request](https://www.ft.com/content/9cb84920-075e-4fa4-b1cb-dfc55d5845f4?syn-25a6b1a6=1) |
-| Finance | Aug 02, 2026 | [Iran sets the pace in war with Trump](https://www.ft.com/content/a29819ef-ffb9-4d2a-9925-e3d6e6e6e797?syn-25a6b1a6=1) |
-| Finance | Aug 02, 2026 | [‘Crush this lady’: how eBay harassment campaign led to $56mn payout](https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2?syn-25a6b1a6=1) |
+| Finance | Aug 02, 2026 | [Morocco counts its dead and missing after mass swim to Ceuta](https://www.ft.com/content/a01171e8-f8a1-4e2c-b3f7-f79f9cd11651?syn-25a6b1a6=1) |
+| Finance | Aug 02, 2026 | [Europe’s weak reaction to Spain’s migrant crisis](https://www.ft.com/content/8faf28df-bb76-49e6-a916-55faa8a5d4a8?syn-25a6b1a6=1) |
 | Finance | Aug 01, 2026 | [Spain pushes migrants home as Ceuta vents over ‘invasion’](https://www.ft.com/content/a551d1be-80a1-4d3c-8498-b1f82fdb0e41?syn-25a6b1a6=1) |
+| Finance | Aug 02, 2026 | [‘Crush this lady’: how eBay harassment campaign led to $56mn payout](https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2?syn-25a6b1a6=1) |
 | Finance | Aug 02, 2026 | [Apple struggles to keep pace with AI ‘bug’ hunters](https://www.ft.com/content/4532122d-90f2-4433-9df6-ca99d8a141d2?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
