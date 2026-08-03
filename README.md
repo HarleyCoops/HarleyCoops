@@ -296,10 +296,10 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Jul 31, 2026 | [Why Situational Awareness hedge fund imploded, even in a tame stock market](https://www.cnbc.com/2026/07/31/why-leopold-aschenbrenner-situational-awareness-hedge-fund-imploded.html) |
 | Market | Jul 31, 2026 | [How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days](https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html) |
 | Finance | Aug 02, 2026 | [AstraZeneca holds talks with Bristol Myers Squibb over $400bn tie-up](https://www.ft.com/content/e9027253-e13c-460a-a4b1-f9047e5a6ca7?syn-25a6b1a6=1) |
-| Finance | Aug 02, 2026 | [Morocco counts its dead and missing after mass swim to Ceuta](https://www.ft.com/content/a01171e8-f8a1-4e2c-b3f7-f79f9cd11651?syn-25a6b1a6=1) |
-| Finance | Aug 02, 2026 | [‘Crush this lady’: how eBay harassment campaign led to $56mn payout](https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2?syn-25a6b1a6=1) |
-| Finance | Aug 02, 2026 | [Trump says Iran talks to resume after US called off major attack](https://www.ft.com/content/c9bd508c-2915-4b34-a5a5-553bff9548a5?syn-25a6b1a6=1) |
-| Finance | Aug 02, 2026 | [Iran sets the pace in war with Trump](https://www.ft.com/content/a29819ef-ffb9-4d2a-9925-e3d6e6e6e797?syn-25a6b1a6=1) |
+| Finance | Aug 03, 2026 | [Wall Street learns to love blockchain](https://www.ft.com/content/7600731b-4f7f-4d38-a478-3196c565a880?syn-25a6b1a6=1) |
+| Finance | Aug 03, 2026 | [Whatever happened to prudence?](https://www.ft.com/content/2d1226d3-48e3-47c8-9a0b-96cbb9ab8a4c?syn-25a6b1a6=1) |
+| Finance | Aug 03, 2026 | [A digital iron curtain is threatening the global economy](https://www.ft.com/content/90550cee-2dd4-437f-8bda-b1ff41317d23) |
+| Finance | Aug 03, 2026 | [Japan vows to intervene again with US over yen if needed](https://www.ft.com/content/5de204a4-4db6-458c-aa9a-324e6bd5e766?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
