@@ -290,16 +290,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Aug 03, 2026 | [Kalshi traders think July jobs report will come in slightly cooler than economists’ predictions](https://www.cnbc.com/2026/08/03/kalshi-traders-think-july-jobs-will-come-in-cooler-than-estimates.html) |
+| Market | Aug 03, 2026 | [California's diesel prices have jumped since the Iran war started, with ripple effects across the...](https://www.cnbc.com/2026/08/03/californias-diesel-prices-have-jumped-since-the-iran-war-started-with-ripple-effects-across-the-country.html) |
+| Market | Aug 03, 2026 | [Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams](https://www.cnbc.com/2026/08/03/visa-buys-biocatch-fraud-detection.html) |
 | Market | Aug 03, 2026 | [Tourism price wars threaten to dim a rare bright spot in China's consumer spending](https://www.cnbc.com/2026/08/03/china-price-demand-tourism-hotel.html) |
 | Market | Aug 02, 2026 | [Goldman traders are on pace for a record year. A close-up look at how they're doing it](https://www.cnbc.com/2026/08/01/goldman-traders-are-on-pace-for-a-record-year-a-close-up-look-at-how-theyre-doing-it.html) |
-| Market | Jul 31, 2026 | [Investors may want to focus on front end of yield curve — as Street anticipates next Fed meetings](https://www.cnbc.com/2026/07/31/top-investment-ideas-as-interest-rate-uncertainty-grips-market-.html) |
-| Market | Jul 31, 2026 | [Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks](https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html) |
-| Market | Jul 31, 2026 | [Why Situational Awareness hedge fund imploded, even in a tame stock market](https://www.cnbc.com/2026/07/31/why-leopold-aschenbrenner-situational-awareness-hedge-fund-imploded.html) |
-| Finance | Aug 03, 2026 | [AstraZeneca holds talks with Bristol Myers Squibb over $400bn tie-up](https://www.ft.com/content/e9027253-e13c-460a-a4b1-f9047e5a6ca7?syn-25a6b1a6=1) |
-| Finance | Aug 03, 2026 | [Wall Street learns to love blockchain](https://www.ft.com/content/7600731b-4f7f-4d38-a478-3196c565a880?syn-25a6b1a6=1) |
+| Finance | Aug 03, 2026 | [Japan vows further yen intervention with US if needed](https://www.ft.com/content/5de204a4-4db6-458c-aa9a-324e6bd5e766?syn-25a6b1a6=1) |
+| Finance | Aug 03, 2026 | [Team America: Yen police](https://www.ft.com/content/f6d563ee-9238-4f82-a848-79f2478326bd?syn-25a6b1a6=1) |
+| Finance | Aug 03, 2026 | [How US drinkers fell out of love with Bud Light](https://www.ft.com/content/2ba4f93d-f258-49cf-9e1e-c3c79e06461d?syn-25a6b1a6=1) |
 | Finance | Aug 03, 2026 | [Whatever happened to prudence?](https://www.ft.com/content/2d1226d3-48e3-47c8-9a0b-96cbb9ab8a4c?syn-25a6b1a6=1) |
 | Finance | Aug 03, 2026 | [Football has given Europe a rare geopolitical victory](https://www.ft.com/content/ebfc7f0f-d176-4da7-9136-b8703388decc?syn-25a6b1a6=1) |
-| Finance | Aug 03, 2026 | [Japan vows further yen intervention with US if needed](https://www.ft.com/content/5de204a4-4db6-458c-aa9a-324e6bd5e766?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
