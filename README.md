@@ -295,11 +295,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Aug 03, 2026 | [Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams](https://www.cnbc.com/2026/08/03/visa-buys-biocatch-fraud-detection.html) |
 | Market | Aug 03, 2026 | [Tourism price wars threaten to dim a rare bright spot in China's consumer spending](https://www.cnbc.com/2026/08/03/china-price-demand-tourism-hotel.html) |
 | Market | Aug 02, 2026 | [Goldman traders are on pace for a record year. A close-up look at how they're doing it](https://www.cnbc.com/2026/08/01/goldman-traders-are-on-pace-for-a-record-year-a-close-up-look-at-how-theyre-doing-it.html) |
-| Finance | Aug 03, 2026 | [Japan vows further yen intervention with US if needed](https://www.ft.com/content/5de204a4-4db6-458c-aa9a-324e6bd5e766?syn-25a6b1a6=1) |
-| Finance | Aug 03, 2026 | [How big was the American JPY intervention?](https://www.ft.com/content/e279135e-cd6e-46d4-b80b-2e6b0c0901a9) |
-| Finance | Aug 03, 2026 | [Team America: Yen police](https://www.ft.com/content/f6d563ee-9238-4f82-a848-79f2478326bd?syn-25a6b1a6=1) |
-| Finance | Aug 03, 2026 | [How US drinkers fell out of love with Bud Light](https://www.ft.com/content/2ba4f93d-f258-49cf-9e1e-c3c79e06461d?syn-25a6b1a6=1) |
-| Finance | Aug 03, 2026 | [Whatever happened to prudence?](https://www.ft.com/content/2d1226d3-48e3-47c8-9a0b-96cbb9ab8a4c?syn-25a6b1a6=1) |
+| Finance | Aug 04, 2026 | [Russia expands shadow LNG fleet to beat EU crackdown](https://www.ft.com/content/cebc2dfc-1b9e-4119-b1e0-b9b514550d23?syn-25a6b1a6=1) |
+| Finance | Aug 04, 2026 | [Bessent’s yen intervention signals new era of US ‘currency activism’](https://www.ft.com/content/1be83506-b897-4c26-97cc-445d7354ee6f?syn-25a6b1a6=1) |
+| Finance | Aug 04, 2026 | [The UAE’s imperial push into Africa](https://www.ft.com/content/a4c6e5da-dc9f-43b0-a794-c3f6bb9bca7d?syn-25a6b1a6=1) |
+| Finance | Aug 04, 2026 | [Infantino is not the problem](https://www.ft.com/content/76d27b15-f73c-4408-9455-a85831eb2fec) |
+| Finance | Aug 04, 2026 | [Inside Google’s $200bn Wall Street finance machine for Anthropic](https://www.ft.com/content/549f2e23-5aa2-49c7-9ea6-a9784ab7087c?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
