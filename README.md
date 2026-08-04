@@ -290,16 +290,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Aug 04, 2026 | [Polymarket in talks for fundraising round at more than $20 billion valuation](https://www.cnbc.com/2026/08/04/polymarket-seeks-fundraising-round-at-more-than-20-billion-valuation.html) |
+| Market | Aug 04, 2026 | [Philadelphia Fed President Paulson content with rates at current level, but keeping an open mind](https://www.cnbc.com/2026/08/04/philadelphia-fed-president-paulson-content-with-current-rates-but-keeping-an-open-mind.html) |
+| Market | Aug 04, 2026 | [Jeff Bezos just filed to sell $4 billion in Amazon. The shares are falling](https://www.cnbc.com/2026/08/04/jeff-bezos-just-filed-to-sell-4-billion-in-amazon-the-shares-are-falling.html) |
 | Market | Aug 04, 2026 | [Kalshi strikes partnership with compliance tech firm to help companies police insider trading](https://www.cnbc.com/2026/08/04/kalshi-makes-partnership-with-comply-compliance-tech-company.html) |
 | Market | Aug 03, 2026 | [Kalshi traders think July jobs report will come in slightly cooler than economists’ predictions](https://www.cnbc.com/2026/08/03/kalshi-traders-think-july-jobs-will-come-in-cooler-than-estimates.html) |
-| Market | Aug 03, 2026 | [California's diesel prices have jumped since the Iran war started, with ripple effects across the...](https://www.cnbc.com/2026/08/03/californias-diesel-prices-have-jumped-since-the-iran-war-started-with-ripple-effects-across-the-country.html) |
-| Market | Aug 03, 2026 | [Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams](https://www.cnbc.com/2026/08/03/visa-buys-biocatch-fraud-detection.html) |
-| Market | Aug 03, 2026 | [Tourism price wars threaten to dim a rare bright spot in China's consumer spending](https://www.cnbc.com/2026/08/03/china-price-demand-tourism-hotel.html) |
-| Finance | Aug 04, 2026 | [Inside Google’s $200bn Wall Street finance machine for Anthropic](https://www.ft.com/content/549f2e23-5aa2-49c7-9ea6-a9784ab7087c?syn-25a6b1a6=1) |
-| Finance | Aug 04, 2026 | [OpenAI hits back at Apple over ‘oddly personal’ trade secrets fight](https://www.ft.com/content/7da4af42-178d-431a-91db-7e82eecc98dd?syn-25a6b1a6=1) |
-| Finance | Aug 04, 2026 | [Bessent’s yen intervention signals new era of US ‘currency activism’](https://www.ft.com/content/1be83506-b897-4c26-97cc-445d7354ee6f?syn-25a6b1a6=1) |
+| Finance | Aug 04, 2026 | [US stocks jump after Bessent says deal to reopen Hormuz is imminent](https://www.ft.com/content/1ed68c71-e1e8-4ae5-a965-5380cbdeaa22?syn-25a6b1a6=1) |
+| Finance | Aug 04, 2026 | [How the UAE is building an African empire](https://www.ft.com/content/a4c6e5da-dc9f-43b0-a794-c3f6bb9bca7d?syn-25a6b1a6=1) |
 | Finance | Aug 04, 2026 | [The Democrats’ civil war over Israel is getting worse](https://www.ft.com/content/07aed955-d8c7-4ba4-b7b0-14e996bb9bc8?syn-25a6b1a6=1) |
-| Finance | Aug 04, 2026 | [Infantino is not the problem](https://www.ft.com/content/76d27b15-f73c-4408-9455-a85831eb2fec) |
+| Finance | Aug 04, 2026 | [The king who outfoxed Pedro Sánchez](https://www.ft.com/content/b2440aa5-be3e-40ae-ad2d-ad5893de79d3?syn-25a6b1a6=1) |
+| Finance | Aug 04, 2026 | [Inside Google’s $200bn Wall Street finance machine for Anthropic](https://www.ft.com/content/549f2e23-5aa2-49c7-9ea6-a9784ab7087c?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
