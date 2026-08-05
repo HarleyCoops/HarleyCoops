@@ -290,16 +290,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Aug 05, 2026 | [Bank of America spends $250 million a year on GLP-1 drugs for its employees, CEO says](https://www.cnbc.com/2026/08/05/bank-of-america-ceo-glp-1-drugs-cost.html) |
+| Market | Aug 05, 2026 | [Situational Awareness hedge fund meltdown was a warning shot for leveraged markets, BofA CEO says](https://www.cnbc.com/2026/08/05/bofa-brian-moynihan-situational-awareness-meltdown-was-a-warning-shot.html) |
 | Market | Aug 05, 2026 | [Ken Griffin's Citadel posts best month in years after scooping up Situational Awareness stocks](https://www.cnbc.com/2026/08/05/ken-griffins-citadel-posts-best-month-in-years-after-scooping-up-situational-awareness-stocks.html) |
 | Market | Aug 04, 2026 | [Michael Burry bets against rally: 'We are near a major top, and possible a 1987-type fall'](https://www.cnbc.com/2026/08/04/michael-burry-bets-against-rally-we-are-near-a-major-top.html) |
 | Market | Aug 04, 2026 | [Polymarket in talks for fundraising round at more than $20 billion valuation](https://www.cnbc.com/2026/08/04/polymarket-seeks-fundraising-round-at-more-than-20-billion-valuation.html) |
-| Market | Aug 04, 2026 | [Philadelphia Fed President Paulson content with rates at current level, but keeping an open mind](https://www.cnbc.com/2026/08/04/philadelphia-fed-president-paulson-content-with-current-rates-but-keeping-an-open-mind.html) |
-| Market | Aug 04, 2026 | [Jeff Bezos just filed to sell $4 billion in Amazon. The shares are falling](https://www.cnbc.com/2026/08/04/jeff-bezos-just-filed-to-sell-4-billion-in-amazon-the-shares-are-falling.html) |
-| Finance | Aug 05, 2026 | [China launches global tax hunt going back decades](https://www.ft.com/content/e17912c0-7691-42f7-8920-b43268930e41?syn-25a6b1a6=1) |
+| Finance | Aug 05, 2026 | [Google DeepMind CEO Demis Hassabis steps down to become chair](https://www.ft.com/content/61d41764-f2f7-4906-a112-ff3073972c51?syn-25a6b1a6=1) |
+| Finance | Aug 05, 2026 | [Progressive Democrat wins in Michigan in rebuke to party establishment](https://www.ft.com/content/65633475-0a89-4522-9c2c-5cbd22fd9aac?syn-25a6b1a6=1) |
 | Finance | Aug 05, 2026 | [Trump trapped between escalation and an Iran deal on Tehran’s terms](https://www.ft.com/content/87b039cf-7eb0-4cf6-b536-0c2929424dc5?syn-25a6b1a6=1) |
 | Finance | Aug 05, 2026 | [Europe and the eternal north-south rift](https://www.ft.com/content/a47aa815-ba40-4ab6-8631-d0c6c11011ed?syn-25a6b1a6=1) |
-| Finance | Aug 05, 2026 | [The real message in the yen intervention](https://www.ft.com/content/86dbf0c1-d127-4255-85af-602afc30228e?syn-25a6b1a6=1) |
-| Finance | Aug 05, 2026 | [High-stakes Michigan Democratic Senate primary too close to call](https://www.ft.com/content/65633475-0a89-4522-9c2c-5cbd22fd9aac?syn-25a6b1a6=1) |
+| Finance | Aug 05, 2026 | [China launches global tax hunt going back decades](https://www.ft.com/content/e17912c0-7691-42f7-8920-b43268930e41?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
