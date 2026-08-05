@@ -295,11 +295,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Aug 04, 2026 | [Philadelphia Fed President Paulson content with rates at current level, but keeping an open mind](https://www.cnbc.com/2026/08/04/philadelphia-fed-president-paulson-content-with-current-rates-but-keeping-an-open-mind.html) |
 | Market | Aug 04, 2026 | [Jeff Bezos just filed to sell $4 billion in Amazon. The shares are falling](https://www.cnbc.com/2026/08/04/jeff-bezos-just-filed-to-sell-4-billion-in-amazon-the-shares-are-falling.html) |
 | Market | Aug 04, 2026 | [Kalshi strikes partnership with compliance tech firm to help companies police insider trading](https://www.cnbc.com/2026/08/04/kalshi-makes-partnership-with-comply-compliance-tech-company.html) |
+| Finance | Aug 05, 2026 | [China launches global tax hunt going back decades](https://www.ft.com/content/e17912c0-7691-42f7-8920-b43268930e41?syn-25a6b1a6=1) |
+| Finance | Aug 05, 2026 | [Trump trapped between escalation and an Iran deal on Tehran’s terms](https://www.ft.com/content/87b039cf-7eb0-4cf6-b536-0c2929424dc5?syn-25a6b1a6=1) |
+| Finance | Aug 05, 2026 | [The real message in the yen intervention](https://www.ft.com/content/86dbf0c1-d127-4255-85af-602afc30228e?syn-25a6b1a6=1) |
+| Finance | Aug 05, 2026 | [The ethical perils of gene therapy](https://www.ft.com/content/c1e34575-9d72-4699-90a8-3052ca648282?syn-25a6b1a6=1) |
 | Finance | Aug 04, 2026 | [Musk’s SpaceX unnerves investors with lavish AI spending plans](https://www.ft.com/content/41f7963b-dd50-4f27-a085-771ddec4a8ca?syn-25a6b1a6=1) |
-| Finance | Aug 04, 2026 | [Can Democrats seize Congress from Trump?](https://www.ft.com/content/29f1af13-ecc3-4f26-a479-e6088c67231b?syn-25a6b1a6=1) |
-| Finance | Aug 04, 2026 | [The king who outfoxed Pedro Sánchez](https://www.ft.com/content/b2440aa5-be3e-40ae-ad2d-ad5893de79d3?syn-25a6b1a6=1) |
-| Finance | Aug 04, 2026 | [The Democrats’ civil war over Israel is getting worse](https://www.ft.com/content/07aed955-d8c7-4ba4-b7b0-14e996bb9bc8?syn-25a6b1a6=1) |
-| Finance | Aug 04, 2026 | [US stocks jump after Bessent says deal to reopen Hormuz is imminent](https://www.ft.com/content/1ed68c71-e1e8-4ae5-a965-5380cbdeaa22?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
