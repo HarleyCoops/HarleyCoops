@@ -290,16 +290,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Aug 04, 2026 | [Michael Burry bets against rally: 'We are near a major top, and possible a 1987-type fall'](https://www.cnbc.com/2026/08/04/michael-burry-bets-against-rally-we-are-near-a-major-top.html) |
 | Market | Aug 04, 2026 | [Polymarket in talks for fundraising round at more than $20 billion valuation](https://www.cnbc.com/2026/08/04/polymarket-seeks-fundraising-round-at-more-than-20-billion-valuation.html) |
 | Market | Aug 04, 2026 | [Philadelphia Fed President Paulson content with rates at current level, but keeping an open mind](https://www.cnbc.com/2026/08/04/philadelphia-fed-president-paulson-content-with-current-rates-but-keeping-an-open-mind.html) |
 | Market | Aug 04, 2026 | [Jeff Bezos just filed to sell $4 billion in Amazon. The shares are falling](https://www.cnbc.com/2026/08/04/jeff-bezos-just-filed-to-sell-4-billion-in-amazon-the-shares-are-falling.html) |
 | Market | Aug 04, 2026 | [Kalshi strikes partnership with compliance tech firm to help companies police insider trading](https://www.cnbc.com/2026/08/04/kalshi-makes-partnership-with-comply-compliance-tech-company.html) |
-| Market | Aug 03, 2026 | [Kalshi traders think July jobs report will come in slightly cooler than economists’ predictions](https://www.cnbc.com/2026/08/03/kalshi-traders-think-july-jobs-will-come-in-cooler-than-estimates.html) |
-| Finance | Aug 04, 2026 | [US stocks jump after Bessent says deal to reopen Hormuz is imminent](https://www.ft.com/content/1ed68c71-e1e8-4ae5-a965-5380cbdeaa22?syn-25a6b1a6=1) |
-| Finance | Aug 04, 2026 | [How the UAE is building an African empire](https://www.ft.com/content/a4c6e5da-dc9f-43b0-a794-c3f6bb9bca7d?syn-25a6b1a6=1) |
-| Finance | Aug 04, 2026 | [The Democrats’ civil war over Israel is getting worse](https://www.ft.com/content/07aed955-d8c7-4ba4-b7b0-14e996bb9bc8?syn-25a6b1a6=1) |
+| Finance | Aug 04, 2026 | [Musk’s SpaceX unnerves investors with lavish AI spending plans](https://www.ft.com/content/41f7963b-dd50-4f27-a085-771ddec4a8ca?syn-25a6b1a6=1) |
+| Finance | Aug 04, 2026 | [Can Democrats seize Congress from Trump?](https://www.ft.com/content/29f1af13-ecc3-4f26-a479-e6088c67231b?syn-25a6b1a6=1) |
 | Finance | Aug 04, 2026 | [The king who outfoxed Pedro Sánchez](https://www.ft.com/content/b2440aa5-be3e-40ae-ad2d-ad5893de79d3?syn-25a6b1a6=1) |
-| Finance | Aug 04, 2026 | [Inside Google’s $200bn Wall Street finance machine for Anthropic](https://www.ft.com/content/549f2e23-5aa2-49c7-9ea6-a9784ab7087c?syn-25a6b1a6=1) |
+| Finance | Aug 04, 2026 | [The Democrats’ civil war over Israel is getting worse](https://www.ft.com/content/07aed955-d8c7-4ba4-b7b0-14e996bb9bc8?syn-25a6b1a6=1) |
+| Finance | Aug 04, 2026 | [US stocks jump after Bessent says deal to reopen Hormuz is imminent](https://www.ft.com/content/1ed68c71-e1e8-4ae5-a965-5380cbdeaa22?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
