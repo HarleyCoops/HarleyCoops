@@ -295,11 +295,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Aug 05, 2026 | [Bank of America spends $250 million a year on GLP-1 drugs for its employees, CEO says](https://www.cnbc.com/2026/08/05/bank-of-america-ceo-glp-1-drugs-cost.html) |
 | Market | Aug 05, 2026 | [Situational Awareness hedge fund meltdown was a warning shot for leveraged markets, BofA CEO says](https://www.cnbc.com/2026/08/05/bofa-brian-moynihan-situational-awareness-meltdown-was-a-warning-shot.html) |
 | Market | Aug 05, 2026 | [Ken Griffin's Citadel posts best month in years after scooping up Situational Awareness stocks](https://www.cnbc.com/2026/08/05/ken-griffins-citadel-posts-best-month-in-years-after-scooping-up-situational-awareness-stocks.html) |
-| Finance | Aug 05, 2026 | [Google DeepMind CEO Demis Hassabis steps aside in shake-up of AI lab](https://www.ft.com/content/61d41764-f2f7-4906-a112-ff3073972c51?syn-25a6b1a6=1) |
-| Finance | Aug 05, 2026 | [Progressive Democrat wins in Michigan in rebuke to party establishment](https://www.ft.com/content/65633475-0a89-4522-9c2c-5cbd22fd9aac?syn-25a6b1a6=1) |
+| Finance | Aug 06, 2026 | [Biggest US law firms explore selling stakes to private equity](https://www.ft.com/content/475d573a-886d-4b75-b07c-f74c38b093f2?syn-25a6b1a6=1) |
+| Finance | Aug 06, 2026 | [Inside Intel: how America’s chip champion came back from the brink](https://www.ft.com/content/77ece212-2768-4abe-9af1-b40a0db27c8f?syn-25a6b1a6=1) |
 | Finance | Aug 06, 2026 | [‘Every dollar is mobile’: California’s rich snap up New Zealand ‘golden visas’](https://www.ft.com/content/1cf8821e-7ffa-4620-89f9-f56c11a6298e?syn-25a6b1a6=1) |
-| Finance | Aug 05, 2026 | [Europe and the eternal north-south rift](https://www.ft.com/content/a47aa815-ba40-4ab6-8631-d0c6c11011ed?syn-25a6b1a6=1) |
-| Finance | Aug 05, 2026 | [Iran says it has reached agreement with Oman on Hormuz shipping route](https://www.ft.com/content/e0b10cad-3e46-4a6d-9227-eba6fe11c676?syn-25a6b1a6=1) |
+| Finance | Aug 06, 2026 | [Who needs consultants in the age of AI?](https://www.ft.com/content/0d600619-6521-4de2-963e-c6f44f6e5468?syn-25a6b1a6=1) |
+| Finance | Aug 05, 2026 | [Google DeepMind CEO Demis Hassabis steps aside in shake-up of AI lab](https://www.ft.com/content/61d41764-f2f7-4906-a112-ff3073972c51?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
