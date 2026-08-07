@@ -290,16 +290,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Aug 06, 2026 | [Copper jumps to its highest level ever. What the metal is telling us](https://www.cnbc.com/2026/08/06/copper-jumps-to-its-highest-level-ever-what-the-metal-is-telling-us-.html) |
+| Market | Aug 06, 2026 | [United Wholesale Mortgage plunges 35% after suspending dividend and raising capital](https://www.cnbc.com/2026/08/06/united-wholesale-mortgage-plunges-40percent-suspends-dividend-raises-capital-.html) |
+| Market | Aug 06, 2026 | [Traders on Kalshi now think it's likely that the S&P 500 will hit 8,000 in 2026](https://www.cnbc.com/2026/08/06/traders-on-kalshi-say-its-likely-sp-500-will-hit-8000-in-2026.html) |
 | Market | Aug 05, 2026 | [Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation](https://www.cnbc.com/2026/08/05/fed-governor-cook-says-shes-prepared-to-act-on-rate-hike-to-address-inflation.html) |
 | Market | Aug 05, 2026 | [As Warsh and the Fed contemplate fewer meetings, markets brace for potential volatility ahead](https://www.cnbc.com/2026/08/05/as-warsh-and-the-fed-contemplate-fewer-meetings-markets-brace-for-potential-volatility-ahead.html) |
-| Market | Aug 05, 2026 | [Bank of America spends $250 million a year on GLP-1 drugs for its employees, CEO says](https://www.cnbc.com/2026/08/05/bank-of-america-ceo-glp-1-drugs-cost.html) |
-| Market | Aug 05, 2026 | [Situational Awareness hedge fund meltdown was a warning shot for leveraged markets, BofA CEO says](https://www.cnbc.com/2026/08/05/bofa-brian-moynihan-situational-awareness-meltdown-was-a-warning-shot.html) |
-| Market | Aug 05, 2026 | [Ken Griffin's Citadel posts best month in years after scooping up Situational Awareness stocks](https://www.cnbc.com/2026/08/05/ken-griffins-citadel-posts-best-month-in-years-after-scooping-up-situational-awareness-stocks.html) |
-| Finance | Aug 06, 2026 | [Biggest US law firms explore selling stakes to private equity](https://www.ft.com/content/475d573a-886d-4b75-b07c-f74c38b093f2?syn-25a6b1a6=1) |
+| Finance | Aug 06, 2026 | [Google shifts AI power back to Brin as DeepMind’s Hassabis steps aside](https://www.ft.com/content/1453e9c2-4922-482f-8720-0bafd7e07df7?syn-25a6b1a6=1) |
+| Finance | Aug 06, 2026 | [Google seeks a sharper focus in AI after Hassabis move](https://www.ft.com/content/f860d189-7def-4c7a-8ce3-4e96b3371d1f?syn-25a6b1a6=1) |
+| Finance | Aug 07, 2026 | [US euro sale to prop up yen blindsided European Central Bank](https://www.ft.com/content/d9922d0b-51a0-48be-811b-42e08f90985a?syn-25a6b1a6=1) |
+| Finance | Aug 06, 2026 | [‘People are going to kill me’: how Haitians got caught in Donald Trump’s crosshairs](https://www.ft.com/content/dee0188b-54b5-4bfe-b9cf-9c4893d9c7f2?syn-25a6b1a6=1) |
 | Finance | Aug 06, 2026 | [The deal that saved Intel](https://www.ft.com/content/77ece212-2768-4abe-9af1-b40a0db27c8f?syn-25a6b1a6=1) |
-| Finance | Aug 06, 2026 | [‘Every dollar is mobile’: California’s rich snap up New Zealand ‘golden visas’](https://www.ft.com/content/1cf8821e-7ffa-4620-89f9-f56c11a6298e?syn-25a6b1a6=1) |
-| Finance | Aug 06, 2026 | [Who needs consultants in the age of AI?](https://www.ft.com/content/0d600619-6521-4de2-963e-c6f44f6e5468?syn-25a6b1a6=1) |
-| Finance | Aug 06, 2026 | [Kevin Warsh to stick with lean Fed messaging despite market backlash](https://www.ft.com/content/debe096f-ec89-424f-a8ca-d3843ef53549?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
