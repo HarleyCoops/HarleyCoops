@@ -296,10 +296,10 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Aug 05, 2026 | [Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation](https://www.cnbc.com/2026/08/05/fed-governor-cook-says-shes-prepared-to-act-on-rate-hike-to-address-inflation.html) |
 | Market | Aug 05, 2026 | [As Warsh and the Fed contemplate fewer meetings, markets brace for potential volatility ahead](https://www.cnbc.com/2026/08/05/as-warsh-and-the-fed-contemplate-fewer-meetings-markets-brace-for-potential-volatility-ahead.html) |
 | Finance | Aug 06, 2026 | [Google shifts AI power back to Brin as DeepMind’s Hassabis steps aside](https://www.ft.com/content/1453e9c2-4922-482f-8720-0bafd7e07df7?syn-25a6b1a6=1) |
-| Finance | Aug 06, 2026 | [Google seeks a sharper focus in AI after Hassabis move](https://www.ft.com/content/f860d189-7def-4c7a-8ce3-4e96b3371d1f?syn-25a6b1a6=1) |
-| Finance | Aug 07, 2026 | [US euro sale to prop up yen blindsided European Central Bank](https://www.ft.com/content/d9922d0b-51a0-48be-811b-42e08f90985a?syn-25a6b1a6=1) |
-| Finance | Aug 06, 2026 | [‘People are going to kill me’: how Haitians got caught in Donald Trump’s crosshairs](https://www.ft.com/content/dee0188b-54b5-4bfe-b9cf-9c4893d9c7f2?syn-25a6b1a6=1) |
-| Finance | Aug 06, 2026 | [The deal that saved Intel](https://www.ft.com/content/77ece212-2768-4abe-9af1-b40a0db27c8f?syn-25a6b1a6=1) |
+| Finance | Aug 07, 2026 | [‘It’s now or never.’ Is the EU serious about letting in new members?](https://www.ft.com/content/f8fc56ba-7088-4f73-87c1-13b11eee80ec?syn-25a6b1a6=1) |
+| Finance | Aug 07, 2026 | [Warsh is being misread](https://www.ft.com/content/aea25d0e-f7f8-484c-b186-57775e635aa7?syn-25a6b1a6=1) |
+| Finance | Aug 07, 2026 | [Parents haggle with private schools over fees as VAT pushes up costs](https://www.ft.com/content/30fe8c0a-5022-46d4-be53-101c4af0185e?syn-25a6b1a6=1) |
+| Finance | Aug 06, 2026 | [Jane Street in talks to shift its $11bn in debt to investors including Pimco](https://www.ft.com/content/80f5fede-a34a-4069-a751-f9523e3c6e00?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
