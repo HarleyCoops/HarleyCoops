@@ -290,16 +290,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Aug 07, 2026 | [Odds the Fed will hike in September tumble following big July jobs miss](https://www.cnbc.com/2026/08/07/odds-the-fed-hikes-in-september-tumble-following-big-july-jobs-miss.html) |
 | Market | Aug 06, 2026 | [Copper jumps to its highest level ever. What the metal is telling us](https://www.cnbc.com/2026/08/06/copper-jumps-to-its-highest-level-ever-what-the-metal-is-telling-us-.html) |
 | Market | Aug 06, 2026 | [United Wholesale Mortgage plunges 35% after suspending dividend and raising capital](https://www.cnbc.com/2026/08/06/united-wholesale-mortgage-plunges-40percent-suspends-dividend-raises-capital-.html) |
 | Market | Aug 06, 2026 | [Traders on Kalshi now think it's likely that the S&P 500 will hit 8,000 in 2026](https://www.cnbc.com/2026/08/06/traders-on-kalshi-say-its-likely-sp-500-will-hit-8000-in-2026.html) |
 | Market | Aug 05, 2026 | [Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation](https://www.cnbc.com/2026/08/05/fed-governor-cook-says-shes-prepared-to-act-on-rate-hike-to-address-inflation.html) |
-| Market | Aug 05, 2026 | [As Warsh and the Fed contemplate fewer meetings, markets brace for potential volatility ahead](https://www.cnbc.com/2026/08/05/as-warsh-and-the-fed-contemplate-fewer-meetings-markets-brace-for-potential-volatility-ahead.html) |
-| Finance | Aug 06, 2026 | [Google’s AI shake-up boosts Brin as DeepMind’s Hassabis steps aside](https://www.ft.com/content/1453e9c2-4922-482f-8720-0bafd7e07df7?syn-25a6b1a6=1) |
-| Finance | Aug 06, 2026 | [Google seeks a sharper focus in AI after Hassabis move](https://www.ft.com/content/f860d189-7def-4c7a-8ce3-4e96b3371d1f?syn-25a6b1a6=1) |
+| Finance | Aug 07, 2026 | [Donald Trump revives threat to sack Fed governor Lisa Cook](https://www.ft.com/content/0012c7c9-fb31-4c90-a2e7-e65bd4629b22?syn-25a6b1a6=1) |
+| Finance | Aug 07, 2026 | [Jeanine Pirro, Trump’s legal crusader goes off script](https://www.ft.com/content/f9804df6-2380-495a-9981-007d95c7dad6?syn-25a6b1a6=1) |
 | Finance | Aug 07, 2026 | [‘It’s now or never.’ Is the EU serious about letting in new members?](https://www.ft.com/content/f8fc56ba-7088-4f73-87c1-13b11eee80ec?syn-25a6b1a6=1) |
-| Finance | Aug 07, 2026 | [Warsh is being misread](https://www.ft.com/content/aea25d0e-f7f8-484c-b186-57775e635aa7?syn-25a6b1a6=1) |
 | Finance | Aug 07, 2026 | [Yen intervention illustrates the dangers of monetary experiments](https://www.ft.com/content/daec1a03-d1a2-4f17-8dda-ede4140a88c2?syn-25a6b1a6=1) |
+| Finance | Aug 07, 2026 | [US economy unexpectedly sheds 23,000 jobs in July](https://www.ft.com/content/54adfc90-f555-44d3-8a81-4f39a07b5473?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
