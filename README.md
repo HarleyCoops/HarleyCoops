@@ -299,7 +299,7 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Finance | Aug 08, 2026 | [Forget Asimov. Philip K Dick saw the future](https://www.ft.com/content/bdcf7729-3b03-49ec-82fb-b5773fdaa990) |
 | Finance | Aug 08, 2026 | [The exciting boring decade](https://www.ft.com/content/10f9922c-4667-4fb9-b2a0-6f3264ef0b09?syn-25a6b1a6=1) |
 | Finance | Aug 08, 2026 | [The US bares its financial weak spot](https://www.ft.com/content/fb49381a-3e09-4666-85b0-7a171e01394e?syn-25a6b1a6=1) |
-| Finance | Aug 07, 2026 | [Spain reinstates border controls on Italy as tensions rise over migrants](https://www.ft.com/content/f3050d94-6b78-4cf2-8b07-cf8903aacc7f?syn-25a6b1a6=1) |
+| Finance | Aug 08, 2026 | [Spain reinstates border controls on Italy as tensions rise over migrants](https://www.ft.com/content/f3050d94-6b78-4cf2-8b07-cf8903aacc7f?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
