@@ -295,11 +295,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Aug 06, 2026 | [United Wholesale Mortgage plunges 35% after suspending dividend and raising capital](https://www.cnbc.com/2026/08/06/united-wholesale-mortgage-plunges-40percent-suspends-dividend-raises-capital-.html) |
 | Market | Aug 06, 2026 | [Traders on Kalshi now think it's likely that the S&P 500 will hit 8,000 in 2026](https://www.cnbc.com/2026/08/06/traders-on-kalshi-say-its-likely-sp-500-will-hit-8000-in-2026.html) |
 | Market | Aug 05, 2026 | [Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation](https://www.cnbc.com/2026/08/05/fed-governor-cook-says-shes-prepared-to-act-on-rate-hike-to-address-inflation.html) |
-| Finance | Aug 07, 2026 | [Donald Trump revives threat to sack Fed governor Lisa Cook](https://www.ft.com/content/0012c7c9-fb31-4c90-a2e7-e65bd4629b22?syn-25a6b1a6=1) |
+| Finance | Aug 07, 2026 | [Moonshot shake-up seeks to win Beijing nod for stock market debut](https://www.ft.com/content/9c0d4f0d-d2c6-4189-b4bb-200d17a4720f?syn-25a6b1a6=1) |
 | Finance | Aug 07, 2026 | [Jeanine Pirro, Trump’s legal crusader goes off script](https://www.ft.com/content/f9804df6-2380-495a-9981-007d95c7dad6?syn-25a6b1a6=1) |
-| Finance | Aug 07, 2026 | [‘It’s now or never.’ Is the EU serious about letting in new members?](https://www.ft.com/content/f8fc56ba-7088-4f73-87c1-13b11eee80ec?syn-25a6b1a6=1) |
-| Finance | Aug 07, 2026 | [Yen intervention illustrates the dangers of monetary experiments](https://www.ft.com/content/daec1a03-d1a2-4f17-8dda-ede4140a88c2?syn-25a6b1a6=1) |
-| Finance | Aug 07, 2026 | [US economy unexpectedly sheds 23,000 jobs in July](https://www.ft.com/content/54adfc90-f555-44d3-8a81-4f39a07b5473?syn-25a6b1a6=1) |
+| Finance | Aug 07, 2026 | [Youngkin’s swing-state school campaign fuels White House speculation](https://www.ft.com/content/1e749b77-db33-4281-91f3-13e8bf6bf433) |
+| Finance | Aug 07, 2026 | [Passing the Clarity Act on digital assets is a matter of national security](https://www.ft.com/content/8b61001e-6d7c-4ca9-8c4b-853b4555f318) |
+| Finance | Aug 07, 2026 | [Trump revives threat to sack Fed governor Lisa Cook](https://www.ft.com/content/0012c7c9-fb31-4c90-a2e7-e65bd4629b22?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
