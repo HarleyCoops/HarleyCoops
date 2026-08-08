@@ -296,10 +296,10 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Aug 06, 2026 | [Traders on Kalshi now think it's likely that the S&P 500 will hit 8,000 in 2026](https://www.cnbc.com/2026/08/06/traders-on-kalshi-say-its-likely-sp-500-will-hit-8000-in-2026.html) |
 | Market | Aug 05, 2026 | [Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation](https://www.cnbc.com/2026/08/05/fed-governor-cook-says-shes-prepared-to-act-on-rate-hike-to-address-inflation.html) |
 | Finance | Aug 07, 2026 | [Moonshot shake-up seeks to win Beijing nod for stock market debut](https://www.ft.com/content/9c0d4f0d-d2c6-4189-b4bb-200d17a4720f?syn-25a6b1a6=1) |
-| Finance | Aug 07, 2026 | [Jeanine Pirro, Trump’s legal crusader goes off script](https://www.ft.com/content/f9804df6-2380-495a-9981-007d95c7dad6?syn-25a6b1a6=1) |
-| Finance | Aug 07, 2026 | [Youngkin’s swing-state school campaign fuels White House speculation](https://www.ft.com/content/1e749b77-db33-4281-91f3-13e8bf6bf433) |
-| Finance | Aug 07, 2026 | [Passing the Clarity Act on digital assets is a matter of national security](https://www.ft.com/content/8b61001e-6d7c-4ca9-8c4b-853b4555f318) |
-| Finance | Aug 07, 2026 | [Trump revives threat to sack Fed governor Lisa Cook](https://www.ft.com/content/0012c7c9-fb31-4c90-a2e7-e65bd4629b22?syn-25a6b1a6=1) |
+| Finance | Aug 08, 2026 | [Forget Asimov. Philip K Dick saw the future](https://www.ft.com/content/bdcf7729-3b03-49ec-82fb-b5773fdaa990) |
+| Finance | Aug 08, 2026 | [The exciting boring decade](https://www.ft.com/content/10f9922c-4667-4fb9-b2a0-6f3264ef0b09?syn-25a6b1a6=1) |
+| Finance | Aug 08, 2026 | [The US bares its financial weak spot](https://www.ft.com/content/fb49381a-3e09-4666-85b0-7a171e01394e?syn-25a6b1a6=1) |
+| Finance | Aug 07, 2026 | [Spain reinstates border controls on Italy as tensions rise over migrants](https://www.ft.com/content/f3050d94-6b78-4cf2-8b07-cf8903aacc7f?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
