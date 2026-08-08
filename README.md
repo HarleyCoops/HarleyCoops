@@ -290,16 +290,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Aug 08, 2026 | [Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncert...](https://www.cnbc.com/2026/08/08/rate-uncertainty-sparking-demand-for-clo-exposure-among-etfs-vettafi.html) |
+| Market | Aug 08, 2026 | [Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive ca...](https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html) |
 | Market | Aug 07, 2026 | [Odds the Fed will hike in September tumble following big July jobs miss](https://www.cnbc.com/2026/08/07/odds-the-fed-hikes-in-september-tumble-following-big-july-jobs-miss.html) |
 | Market | Aug 06, 2026 | [Copper jumps to its highest level ever. What the metal is telling us](https://www.cnbc.com/2026/08/06/copper-jumps-to-its-highest-level-ever-what-the-metal-is-telling-us-.html) |
 | Market | Aug 06, 2026 | [United Wholesale Mortgage plunges 35% after suspending dividend and raising capital](https://www.cnbc.com/2026/08/06/united-wholesale-mortgage-plunges-40percent-suspends-dividend-raises-capital-.html) |
-| Market | Aug 06, 2026 | [Traders on Kalshi now think it's likely that the S&P 500 will hit 8,000 in 2026](https://www.cnbc.com/2026/08/06/traders-on-kalshi-say-its-likely-sp-500-will-hit-8000-in-2026.html) |
-| Market | Aug 05, 2026 | [Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation](https://www.cnbc.com/2026/08/05/fed-governor-cook-says-shes-prepared-to-act-on-rate-hike-to-address-inflation.html) |
-| Finance | Aug 07, 2026 | [Moonshot shake-up seeks to win Beijing nod for stock market debut](https://www.ft.com/content/9c0d4f0d-d2c6-4189-b4bb-200d17a4720f?syn-25a6b1a6=1) |
+| Finance | Aug 08, 2026 | [Greg Abel finally puts Buffett’s cash pile to work](https://www.ft.com/content/e164e244-f6de-4e3b-8a67-6bebee1b7bf4?syn-25a6b1a6=1) |
 | Finance | Aug 08, 2026 | [Forget Asimov. Philip K Dick saw the future](https://www.ft.com/content/bdcf7729-3b03-49ec-82fb-b5773fdaa990) |
 | Finance | Aug 08, 2026 | [The exciting boring decade](https://www.ft.com/content/10f9922c-4667-4fb9-b2a0-6f3264ef0b09?syn-25a6b1a6=1) |
 | Finance | Aug 08, 2026 | [The US bares its financial weak spot](https://www.ft.com/content/fb49381a-3e09-4666-85b0-7a171e01394e?syn-25a6b1a6=1) |
-| Finance | Aug 08, 2026 | [Spain reinstates border controls on Italy as tensions rise over migrants](https://www.ft.com/content/f3050d94-6b78-4cf2-8b07-cf8903aacc7f?syn-25a6b1a6=1) |
+| Finance | Aug 08, 2026 | [Tehran says US must ‘rectify its behaviour’ before Iran reopens strait](https://www.ft.com/content/9a1ab09b-82d7-43c2-b44a-ebb41d352dab?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
