@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=harleycoops&label=Profile%20views&color=d97757&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/HarleyCoops?label=Followers&style=flat&color=111827&logo=github" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/HarleyCoops?label=Total%20stars&style=flat&color=111827&logo=github" alt="Total GitHub stars" />
-  <img src="https://img.shields.io/badge/Public%20repos-703-d97757" alt="703 public repos" />
+  <img src="https://img.shields.io/badge/Public%20repos-700%2B-d97757" alt="More than 700 public repos" />
 </p>
 
 <p align="center">
@@ -27,9 +27,9 @@ I build **verifiable training loops**: pipelines that turn a single historical s
 
 <table>
   <tr>
-    <td align="center" width="20%"><strong>703</strong><br/>public repos</td>
+    <td align="center" width="20%"><strong>700+</strong><br/>public repos</td>
     <td align="center" width="20%"><strong>2,400+</strong><br/>stars on Math-To-Manim</td>
-    <td align="center" width="20%"><strong>17 / 8 / 7</strong><br/>HF models, datasets, Spaces</td>
+    <td align="center" width="20%"><strong>17 / 7 / 8</strong><br/>HF models, datasets, Spaces</td>
     <td align="center" width="20%"><strong>82M+</strong><br/>tokens through one GRPO run</td>
     <td align="center" width="20%"><strong>3</strong><br/>languages brought to RL</td>
   </tr>
@@ -96,6 +96,8 @@ I build **verifiable training loops**: pipelines that turn a single historical s
 ## The Training Lab — GRPO on Things Nobody Tries
 
 The signature move: **grammar as a reward function**. Take a source document, compile its rules into verifiable tasks, and let GRPO optimize against per-component reward channels — orthography, morphology, semantics — with zero LLM-judge fuzz. The reward ledger reconciles to the step.
+
+**Now building:** [Baguettotron-Dakota1890](https://github.com/HarleyCoops/Baguettotron-Dakota1890) connects the Dakota1890 morphology gym to a GRPO fine-tuning stack for PleIAs/Baguettotron.
 
 ```python
 reward = (
@@ -215,7 +217,7 @@ A research line in three languages: **give an endangered language one good histo
 
 | Project | Source volume | Public artifacts |
 |---|---|---|
-| [Dakota1890](https://github.com/HarleyCoops/Dakota1890) | Riggs 1890 *Grammar & Dictionary of the Dakota Language* | [35B adapter](https://huggingface.co/HarleyCooper/Qwen3.6-35B-A3B-Dakota1890-GRPO) · [Laguna run card](https://huggingface.co/HarleyCooper/Laguna-XS.2-Adaption-Dakota-QA-GRPO) |
+| [Dakota1890](https://github.com/HarleyCoops/Dakota1890) | Riggs 1890 *Grammar & Dictionary of the Dakota Language* | [Baguettotron GRPO stack](https://github.com/HarleyCoops/Baguettotron-Dakota1890) · [35B adapter](https://huggingface.co/HarleyCooper/Qwen3.6-35B-A3B-Dakota1890-GRPO) · [Laguna run card](https://huggingface.co/HarleyCooper/Laguna-XS.2-Adaption-Dakota-QA-GRPO) |
 | [Cree1865](https://github.com/HarleyCoops/Cree1865) | Watkins 1865 *Dictionary of the Cree Language* | [HF model](https://huggingface.co/HarleyCooper/Cree1865) · [W&B run](https://wandb.ai/christian-cooper-us/thinking-machines-qwen3-30b/runs/hda2wqhl) · [explained dashboard](https://wandb.ai/christian-cooper-us/thinking-machines-qwen3-30b/reports/Cree1865-Synthetic-Expansion-V1-Explained-Dashboard--VmlldzoxNzM1MDY2MQ==) · [inference Space](https://huggingface.co/spaces/HarleyCooper/Cree1865-Tinker-Inference) |
 | [StoneyNakoda](https://github.com/HarleyCoops/StoneyNakoda) | Contemporary speakers + historical survey material | [Stoney10kRL](https://huggingface.co/datasets/HarleyCooper/Stoney10kRL) · [StoneyApp](https://huggingface.co/spaces/HarleyCooper/StoneyApp) |
 | [Railroad Engineer 1959](https://github.com/HarleyCoops/Qwen3-RailroadEngineer1959-RL) | 1959 *Consolidated Code of Operating Rules* | [Qwen3-4B LoRA](https://huggingface.co/HarleyCooper/Qwen3-4B-RailRoadEngineer1959) · [dataset fixture](https://huggingface.co/datasets/HarleyCooper/volume2gym-railroad-1959) |
@@ -240,8 +242,8 @@ Handwriting and OCR lineage runs through the repo list too — [PyLaia](https://
 <p>
   <a href="https://huggingface.co/HarleyCooper"><img alt="Hugging Face profile" src="https://img.shields.io/badge/Hugging%20Face-HarleyCooper-ffcc4d?logo=huggingface&logoColor=111827"></a>
   <a href="https://huggingface.co/models?author=HarleyCooper"><img alt="Models" src="https://img.shields.io/badge/models-17-16a34a"></a>
-  <a href="https://huggingface.co/datasets?author=HarleyCooper"><img alt="Datasets" src="https://img.shields.io/badge/datasets-8-f59e0b"></a>
-  <a href="https://huggingface.co/spaces?author=HarleyCooper"><img alt="Spaces" src="https://img.shields.io/badge/spaces-7-0ea5e9"></a>
+  <a href="https://huggingface.co/datasets?author=HarleyCooper"><img alt="Datasets" src="https://img.shields.io/badge/datasets-7-f59e0b"></a>
+  <a href="https://huggingface.co/spaces?author=HarleyCooper"><img alt="Spaces" src="https://img.shields.io/badge/spaces-8-0ea5e9"></a>
 </p>
 
 | Live demos (Spaces) | Try it |
