@@ -297,7 +297,7 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Aug 06, 2026 | [United Wholesale Mortgage plunges 35% after suspending dividend and raising capital](https://www.cnbc.com/2026/08/06/united-wholesale-mortgage-plunges-40percent-suspends-dividend-raises-capital-.html) |
 | Finance | Aug 09, 2026 | [Investors return to European stocks as strong earnings lift Iran war gloom](https://www.ft.com/content/297a8bf7-ce8b-44fe-bc51-3e2ec2e47699?syn-25a6b1a6=1) |
 | Finance | Aug 09, 2026 | [How a made-up agency found its way into Nigeria’s budget](https://www.ft.com/content/4b71db50-0edb-42f3-bd74-faeb7c739e53?syn-25a6b1a6=1) |
-| Finance | Aug 09, 2026 | [The Bayeux Tapestry loan is a model for the Parthenon Marbles](https://www.ft.com/content/d45a8e1b-1d45-4a3d-a3d2-5a3ce15b0e9d) |
+| Finance | Aug 09, 2026 | [Could AI create a ‘permanent underclass’?](https://www.ft.com/content/ddf44cf7-0ab5-4e7e-9b1f-e5e8e34181e6?syn-25a6b1a6=1) |
 | Finance | Aug 09, 2026 | [France faces budget showdown as presidential election looms](https://www.ft.com/content/0ac50644-398f-49ec-895d-a2494254dabd?syn-25a6b1a6=1) |
 | Finance | Aug 08, 2026 | [Greg Abel finally puts Buffett’s cash pile to work](https://www.ft.com/content/e164e244-f6de-4e3b-8a67-6bebee1b7bf4?syn-25a6b1a6=1) |
 
