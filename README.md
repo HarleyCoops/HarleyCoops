@@ -295,11 +295,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Aug 07, 2026 | [Odds the Fed will hike in September tumble following big July jobs miss](https://www.cnbc.com/2026/08/07/odds-the-fed-hikes-in-september-tumble-following-big-july-jobs-miss.html) |
 | Market | Aug 06, 2026 | [Copper jumps to its highest level ever. What the metal is telling us](https://www.cnbc.com/2026/08/06/copper-jumps-to-its-highest-level-ever-what-the-metal-is-telling-us-.html) |
 | Market | Aug 06, 2026 | [United Wholesale Mortgage plunges 35% after suspending dividend and raising capital](https://www.cnbc.com/2026/08/06/united-wholesale-mortgage-plunges-40percent-suspends-dividend-raises-capital-.html) |
+| Finance | Aug 09, 2026 | [Investors return to European stocks as strong earnings lift Iran war gloom](https://www.ft.com/content/297a8bf7-ce8b-44fe-bc51-3e2ec2e47699?syn-25a6b1a6=1) |
+| Finance | Aug 09, 2026 | [How a made-up agency found its way into Nigeria’s budget](https://www.ft.com/content/4b71db50-0edb-42f3-bd74-faeb7c739e53?syn-25a6b1a6=1) |
+| Finance | Aug 09, 2026 | [The Bayeux Tapestry loan is a model for the Parthenon Marbles](https://www.ft.com/content/d45a8e1b-1d45-4a3d-a3d2-5a3ce15b0e9d) |
+| Finance | Aug 09, 2026 | [France faces budget showdown as presidential election looms](https://www.ft.com/content/0ac50644-398f-49ec-895d-a2494254dabd?syn-25a6b1a6=1) |
 | Finance | Aug 08, 2026 | [Greg Abel finally puts Buffett’s cash pile to work](https://www.ft.com/content/e164e244-f6de-4e3b-8a67-6bebee1b7bf4?syn-25a6b1a6=1) |
-| Finance | Aug 08, 2026 | [Forget Asimov. Philip K Dick saw the future](https://www.ft.com/content/bdcf7729-3b03-49ec-82fb-b5773fdaa990) |
-| Finance | Aug 08, 2026 | [The exciting boring decade](https://www.ft.com/content/10f9922c-4667-4fb9-b2a0-6f3264ef0b09?syn-25a6b1a6=1) |
-| Finance | Aug 08, 2026 | [The US bares its financial weak spot](https://www.ft.com/content/fb49381a-3e09-4666-85b0-7a171e01394e?syn-25a6b1a6=1) |
-| Finance | Aug 08, 2026 | [Tehran says US must ‘rectify its behaviour’ before Iran reopens strait](https://www.ft.com/content/9a1ab09b-82d7-43c2-b44a-ebb41d352dab?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
