@@ -297,11 +297,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Aug 07, 2026 | [Odds the Fed will hike in September tumble following big July jobs miss](https://www.cnbc.com/2026/08/07/odds-the-fed-hikes-in-september-tumble-following-big-july-jobs-miss.html) |
 | Market | Aug 06, 2026 | [Copper jumps to its highest level ever. What the metal is telling us](https://www.cnbc.com/2026/08/06/copper-jumps-to-its-highest-level-ever-what-the-metal-is-telling-us-.html) |
 | Market | Aug 06, 2026 | [United Wholesale Mortgage plunges 35% after suspending dividend and raising capital](https://www.cnbc.com/2026/08/06/united-wholesale-mortgage-plunges-40percent-suspends-dividend-raises-capital-.html) |
-| Finance | Aug 09, 2026 | [Investors return to European stocks as strong earnings lift Iran war gloom](https://www.ft.com/content/297a8bf7-ce8b-44fe-bc51-3e2ec2e47699?syn-25a6b1a6=1) |
-| Finance | Aug 09, 2026 | [How a made-up agency found its way into Nigeria’s budget](https://www.ft.com/content/4b71db50-0edb-42f3-bd74-faeb7c739e53?syn-25a6b1a6=1) |
+| Finance | Aug 09, 2026 | [Trump is dismantling US guardrails, warn former security officials](https://www.ft.com/content/4fc0fdda-0919-4584-9bdd-855e2aaa5c09?syn-25a6b1a6=1) |
+| Finance | Aug 09, 2026 | [America’s hidden M&A boom](https://www.ft.com/content/3dd0cbcb-26e0-4eef-af1f-b16812cae6ac?syn-25a6b1a6=1) |
 | Finance | Aug 09, 2026 | [Could AI create a ‘permanent underclass’?](https://www.ft.com/content/ddf44cf7-0ab5-4e7e-9b1f-e5e8e34181e6?syn-25a6b1a6=1) |
-| Finance | Aug 09, 2026 | [France faces budget showdown as presidential election looms](https://www.ft.com/content/0ac50644-398f-49ec-895d-a2494254dabd?syn-25a6b1a6=1) |
-| Finance | Aug 08, 2026 | [Greg Abel finally puts Buffett’s cash pile to work](https://www.ft.com/content/e164e244-f6de-4e3b-8a67-6bebee1b7bf4?syn-25a6b1a6=1) |
+| Finance | Aug 09, 2026 | [Netanyahu rejects Trump’s Gaza disarmament plan](https://www.ft.com/content/e4650e97-be1f-479d-8959-c892785abf49?syn-25a6b1a6=1) |
+| Finance | Aug 09, 2026 | [Investors return to European stocks as strong earnings lift Iran war gloom](https://www.ft.com/content/297a8bf7-ce8b-44fe-bc51-3e2ec2e47699?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
