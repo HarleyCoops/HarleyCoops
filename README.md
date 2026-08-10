@@ -299,9 +299,9 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Aug 06, 2026 | [United Wholesale Mortgage plunges 35% after suspending dividend and raising capital](https://www.cnbc.com/2026/08/06/united-wholesale-mortgage-plunges-40percent-suspends-dividend-raises-capital-.html) |
 | Finance | Aug 10, 2026 | [China bypasses shipping chokepoints with ‘Ice Silk Road’ through Arctic](https://www.ft.com/content/4456f475-f2c8-4cb7-8312-0c47c5f781b8?syn-25a6b1a6=1) |
 | Finance | Aug 10, 2026 | [How the UAE won over Washington](https://www.ft.com/content/ec5f7351-7aec-4fe1-80dc-b02c62045109?syn-25a6b1a6=1) |
-| Finance | Aug 10, 2026 | [Putin’s war machine scours the home front for recruits](https://www.ft.com/content/45289802-848f-4fa6-9769-6971b4b69bcc?syn-25a6b1a6=1) |
+| Finance | Aug 10, 2026 | [Trump and the failure of the Fafo doctrine](https://www.ft.com/content/1a7a6919-b056-4155-9520-1088564f7119?syn-25a6b1a6=1) |
 | Finance | Aug 10, 2026 | [New York is having a summer for the ages](https://www.ft.com/content/36d87659-ceb8-4dab-84fa-2f84ba3fbb53?syn-25a6b1a6=1) |
-| Finance | Aug 10, 2026 | [German economy minister warns AfD’s rise could deter investors](https://www.ft.com/content/581a7c18-5deb-4cd4-b014-f4d275ba73d2?syn-25a6b1a6=1) |
+| Finance | Aug 10, 2026 | [Mark Zuckerberg attacks ‘closed’ AI rivals as Meta returns to open models](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
