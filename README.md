@@ -297,11 +297,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Aug 07, 2026 | [Odds the Fed will hike in September tumble following big July jobs miss](https://www.cnbc.com/2026/08/07/odds-the-fed-hikes-in-september-tumble-following-big-july-jobs-miss.html) |
 | Market | Aug 06, 2026 | [Copper jumps to its highest level ever. What the metal is telling us](https://www.cnbc.com/2026/08/06/copper-jumps-to-its-highest-level-ever-what-the-metal-is-telling-us-.html) |
 | Market | Aug 06, 2026 | [United Wholesale Mortgage plunges 35% after suspending dividend and raising capital](https://www.cnbc.com/2026/08/06/united-wholesale-mortgage-plunges-40percent-suspends-dividend-raises-capital-.html) |
-| Finance | Aug 09, 2026 | [Trump is dismantling US guardrails, warn former security officials](https://www.ft.com/content/4fc0fdda-0919-4584-9bdd-855e2aaa5c09?syn-25a6b1a6=1) |
-| Finance | Aug 09, 2026 | [America’s hidden M&A boom](https://www.ft.com/content/3dd0cbcb-26e0-4eef-af1f-b16812cae6ac?syn-25a6b1a6=1) |
-| Finance | Aug 09, 2026 | [US social security could soon be insolvent](https://www.ft.com/content/b25139e3-e748-407f-bc49-7389b3434455?syn-25a6b1a6=1) |
-| Finance | Aug 09, 2026 | [Iran replaces top security official at crucial moment in talks over Strait of Hormuz](https://www.ft.com/content/ce343513-5514-4519-95c8-19832ed46d16?syn-25a6b1a6=1) |
-| Finance | Aug 09, 2026 | [Investors return to European stocks as strong earnings lift Iran war gloom](https://www.ft.com/content/297a8bf7-ce8b-44fe-bc51-3e2ec2e47699?syn-25a6b1a6=1) |
+| Finance | Aug 10, 2026 | [China bypasses shipping chokepoints with ‘Ice Silk Road’ through Arctic](https://www.ft.com/content/4456f475-f2c8-4cb7-8312-0c47c5f781b8?syn-25a6b1a6=1) |
+| Finance | Aug 10, 2026 | [How the UAE won over Washington](https://www.ft.com/content/ec5f7351-7aec-4fe1-80dc-b02c62045109?syn-25a6b1a6=1) |
+| Finance | Aug 10, 2026 | [Putin’s war machine scours the home front for recruits](https://www.ft.com/content/45289802-848f-4fa6-9769-6971b4b69bcc?syn-25a6b1a6=1) |
+| Finance | Aug 10, 2026 | [New York is having a summer for the ages](https://www.ft.com/content/36d87659-ceb8-4dab-84fa-2f84ba3fbb53?syn-25a6b1a6=1) |
+| Finance | Aug 10, 2026 | [German economy minister warns AfD’s rise could deter investors](https://www.ft.com/content/581a7c18-5deb-4cd4-b014-f4d275ba73d2?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
