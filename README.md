@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Aug 10, 2026 | [Three reasons Goldman's co-head of global banking and markets says to stay invested](https://www.cnbc.com/2026/08/10/three-reasons-goldmans-co-head-of-global-banking-and-markets-says-to-stay-invested.html) |
 | Market | Aug 08, 2026 | [Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncert...](https://www.cnbc.com/2026/08/08/rate-uncertainty-sparking-demand-for-clo-exposure-among-etfs-vettafi.html) |
 | Market | Aug 08, 2026 | [Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive ca...](https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html) |
 | Market | Aug 07, 2026 | [Odds the Fed will hike in September tumble following big July jobs miss](https://www.cnbc.com/2026/08/07/odds-the-fed-hikes-in-september-tumble-following-big-july-jobs-miss.html) |
 | Market | Aug 06, 2026 | [Copper jumps to its highest level ever. What the metal is telling us](https://www.cnbc.com/2026/08/06/copper-jumps-to-its-highest-level-ever-what-the-metal-is-telling-us-.html) |
-| Market | Aug 06, 2026 | [United Wholesale Mortgage plunges 35% after suspending dividend and raising capital](https://www.cnbc.com/2026/08/06/united-wholesale-mortgage-plunges-40percent-suspends-dividend-raises-capital-.html) |
-| Finance | Aug 10, 2026 | [China bypasses shipping chokepoints with ‘Ice Silk Road’ through Arctic](https://www.ft.com/content/4456f475-f2c8-4cb7-8312-0c47c5f781b8?syn-25a6b1a6=1) |
-| Finance | Aug 10, 2026 | [How the UAE won over Washington](https://www.ft.com/content/ec5f7351-7aec-4fe1-80dc-b02c62045109?syn-25a6b1a6=1) |
-| Finance | Aug 10, 2026 | [Trump and the failure of the Fafo doctrine](https://www.ft.com/content/1a7a6919-b056-4155-9520-1088564f7119?syn-25a6b1a6=1) |
-| Finance | Aug 10, 2026 | [New York is having a summer for the ages](https://www.ft.com/content/36d87659-ceb8-4dab-84fa-2f84ba3fbb53?syn-25a6b1a6=1) |
+| Finance | Aug 10, 2026 | [Wall Street giants partner with Nvidia on $500bn AI financing deal](https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348?syn-25a6b1a6=1) |
+| Finance | Aug 10, 2026 | [Just how big is the hidden leverage of AI hyperscalers?](https://www.ft.com/content/a0a07cce-6d19-4b1e-a73b-9855a06ba7b3) |
 | Finance | Aug 10, 2026 | [Mark Zuckerberg attacks ‘closed’ AI rivals as Meta returns to open models](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878?syn-25a6b1a6=1) |
+| Finance | Aug 10, 2026 | [Hong Kong’s plan to clear rural villages for a new gateway to China](https://www.ft.com/content/61a23058-730d-4b13-bbbe-d491770d2a76?syn-25a6b1a6=1) |
+| Finance | Aug 10, 2026 | [Trump and the failure of the Fafo doctrine](https://www.ft.com/content/1a7a6919-b056-4155-9520-1088564f7119?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
