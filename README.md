@@ -297,11 +297,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Aug 08, 2026 | [Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncert...](https://www.cnbc.com/2026/08/08/rate-uncertainty-sparking-demand-for-clo-exposure-among-etfs-vettafi.html) |
 | Market | Aug 08, 2026 | [Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive ca...](https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html) |
 | Market | Aug 07, 2026 | [Odds the Fed will hike in September tumble following big July jobs miss](https://www.cnbc.com/2026/08/07/odds-the-fed-hikes-in-september-tumble-following-big-july-jobs-miss.html) |
-| Finance | Aug 10, 2026 | [Wall Street giants partner with Nvidia on $500bn AI financing deal](https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348?syn-25a6b1a6=1) |
-| Finance | Aug 10, 2026 | [Just how big is the hidden leverage of AI hyperscalers?](https://www.ft.com/content/a0a07cce-6d19-4b1e-a73b-9855a06ba7b3) |
-| Finance | Aug 10, 2026 | [Mark Zuckerberg attacks ‘closed’ AI rivals as Meta returns to open models](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878?syn-25a6b1a6=1) |
-| Finance | Aug 10, 2026 | [Iran’s supreme leader tightens grip with top appointments](https://www.ft.com/content/34299f83-9c49-4332-9d0f-d4f369d7a233?syn-25a6b1a6=1) |
-| Finance | Aug 10, 2026 | [Trump and the failure of the Fafo doctrine](https://www.ft.com/content/1a7a6919-b056-4155-9520-1088564f7119?syn-25a6b1a6=1) |
+| Finance | Aug 11, 2026 | [EU border checks double queues at major airports](https://www.ft.com/content/42137dd8-8fdc-4d66-b193-ca52d51bd929?syn-25a6b1a6=1) |
+| Finance | Aug 11, 2026 | [The AI threat to India’s IT jobs machine](https://www.ft.com/content/dee4bd2c-fbad-4713-9b14-22d441967ce4?syn-25a6b1a6=1) |
+| Finance | Aug 11, 2026 | [Maga ignores the many meanings of Mount Rushmore](https://www.ft.com/content/d5abcd42-b3b4-4241-8fd1-1c53217ea81e) |
+| Finance | Aug 11, 2026 | [Does Africa have too few people?](https://www.ft.com/content/6069de36-4e15-4b5f-b9e1-dd85c2b29673?syn-25a6b1a6=1) |
+| Finance | Aug 11, 2026 | [Spain’s migrant amnesty a ‘very bad idea’, says Swedish PM](https://www.ft.com/content/7c13bb4b-9f9f-40fe-b77b-b874a8285b92?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
