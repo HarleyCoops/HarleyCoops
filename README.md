@@ -292,15 +292,15 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Aug 10, 2026 | [Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investabl...](https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html) |
 | Market | Aug 10, 2026 | [Three reasons Goldman's co-head of global banking and markets says to stay invested](https://www.cnbc.com/2026/08/10/three-reasons-goldmans-co-head-of-global-banking-and-markets-says-to-stay-invested.html) |
 | Market | Aug 08, 2026 | [Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncert...](https://www.cnbc.com/2026/08/08/rate-uncertainty-sparking-demand-for-clo-exposure-among-etfs-vettafi.html) |
 | Market | Aug 08, 2026 | [Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive ca...](https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html) |
 | Market | Aug 07, 2026 | [Odds the Fed will hike in September tumble following big July jobs miss](https://www.cnbc.com/2026/08/07/odds-the-fed-hikes-in-september-tumble-following-big-july-jobs-miss.html) |
-| Market | Aug 06, 2026 | [Copper jumps to its highest level ever. What the metal is telling us](https://www.cnbc.com/2026/08/06/copper-jumps-to-its-highest-level-ever-what-the-metal-is-telling-us-.html) |
 | Finance | Aug 10, 2026 | [Wall Street giants partner with Nvidia on $500bn AI financing deal](https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348?syn-25a6b1a6=1) |
 | Finance | Aug 10, 2026 | [Just how big is the hidden leverage of AI hyperscalers?](https://www.ft.com/content/a0a07cce-6d19-4b1e-a73b-9855a06ba7b3) |
 | Finance | Aug 10, 2026 | [Mark Zuckerberg attacks ‘closed’ AI rivals as Meta returns to open models](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878?syn-25a6b1a6=1) |
-| Finance | Aug 10, 2026 | [Hong Kong’s plan to clear rural villages for a new gateway to China](https://www.ft.com/content/61a23058-730d-4b13-bbbe-d491770d2a76?syn-25a6b1a6=1) |
+| Finance | Aug 10, 2026 | [Iran’s supreme leader tightens grip with top appointments](https://www.ft.com/content/34299f83-9c49-4332-9d0f-d4f369d7a233?syn-25a6b1a6=1) |
 | Finance | Aug 10, 2026 | [Trump and the failure of the Fafo doctrine](https://www.ft.com/content/1a7a6919-b056-4155-9520-1088564f7119?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
