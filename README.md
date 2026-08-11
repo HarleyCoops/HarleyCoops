@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Aug 11, 2026 | [Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?](https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html) |
 | Market | Aug 10, 2026 | [Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investabl...](https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html) |
 | Market | Aug 10, 2026 | [Three reasons Goldman's co-head of global banking and markets says to stay invested](https://www.cnbc.com/2026/08/10/three-reasons-goldmans-co-head-of-global-banking-and-markets-says-to-stay-invested.html) |
 | Market | Aug 08, 2026 | [Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncert...](https://www.cnbc.com/2026/08/08/rate-uncertainty-sparking-demand-for-clo-exposure-among-etfs-vettafi.html) |
 | Market | Aug 08, 2026 | [Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive ca...](https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html) |
-| Market | Aug 07, 2026 | [Odds the Fed will hike in September tumble following big July jobs miss](https://www.cnbc.com/2026/08/07/odds-the-fed-hikes-in-september-tumble-following-big-july-jobs-miss.html) |
 | Finance | Aug 11, 2026 | [EU border checks double queues at major airports](https://www.ft.com/content/42137dd8-8fdc-4d66-b193-ca52d51bd929?syn-25a6b1a6=1) |
+| Finance | Aug 11, 2026 | [Carbon tax will hit EU’s budget airlines where it hurts](https://www.ft.com/content/763128ff-8287-49f7-8369-039822f3bbfb?syn-25a6b1a6=1) |
 | Finance | Aug 11, 2026 | [The AI threat to India’s IT jobs machine](https://www.ft.com/content/dee4bd2c-fbad-4713-9b14-22d441967ce4?syn-25a6b1a6=1) |
 | Finance | Aug 11, 2026 | [Maga ignores the many meanings of Mount Rushmore](https://www.ft.com/content/d5abcd42-b3b4-4241-8fd1-1c53217ea81e) |
 | Finance | Aug 11, 2026 | [Does Africa have too few people?](https://www.ft.com/content/6069de36-4e15-4b5f-b9e1-dd85c2b29673?syn-25a6b1a6=1) |
-| Finance | Aug 11, 2026 | [Spain’s migrant amnesty a ‘very bad idea’, says Swedish PM](https://www.ft.com/content/7c13bb4b-9f9f-40fe-b77b-b874a8285b92?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
