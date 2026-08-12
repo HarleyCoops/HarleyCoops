@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Aug 11, 2026 | [Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China](https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html) |
+| Market | Aug 11, 2026 | [Is betting on elections using prediction markets illegal? Many states are unsure as midterms appr...](https://www.cnbc.com/2026/08/11/do-state-election-betting-bans-apply-to-prediction-markets.html) |
 | Market | Aug 11, 2026 | [AI computing power is becoming a tradable asset class as CME launches futures contracts](https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-a-tradable-asset-class-as-cme-starts-futures.html) |
 | Market | Aug 11, 2026 | [Why JPMorgan is investing big in the 2028 LA Olympics](https://www.cnbc.com/2026/08/11/why-jpmorgan-is-investing-big-in-the-2028-la-olympics.html) |
 | Market | Aug 11, 2026 | [Polymarket makes moves to get house in order before expected boom times for prediction markets th...](https://www.cnbc.com/2026/08/11/polymarket-revamps-marketing-expands-us-hiring-ahead-of-fall-events.html) |
-| Market | Aug 11, 2026 | [Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?](https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html) |
-| Market | Aug 10, 2026 | [Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investabl...](https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html) |
-| Finance | Aug 11, 2026 | [China tightens grip on Europe’s car supply chain](https://www.ft.com/content/9f700b37-ac05-434c-9b70-3a7fe065c87e?syn-25a6b1a6=1) |
+| Finance | Aug 11, 2026 | [Panama Canal fees hit record high as El Niño and Iran war choke shipping](https://www.ft.com/content/38083cb5-3892-40a1-b90f-102109f96b17?syn-25a6b1a6=1) |
 | Finance | Aug 11, 2026 | [How investors killed AstraZeneca’s $400bn megadeal](https://www.ft.com/content/2eb0a79c-f5cd-415c-9f72-3c8d576329c1?syn-25a6b1a6=1) |
 | Finance | Aug 11, 2026 | [Will failure in Iran reshape how the US fights?](https://www.ft.com/content/5bdb67a5-5c53-46aa-8a04-d0480e700ee4) |
 | Finance | Aug 11, 2026 | [Humans cannot remain passengers in the back of the AGI car](https://www.ft.com/content/33094bff-546e-4ac2-a949-af2e9daaa3f0?syn-25a6b1a6=1) |
-| Finance | Aug 11, 2026 | [Volatility tumbles as markets shrug off Middle East risks](https://www.ft.com/content/39fde44e-9a63-401e-8f8e-ddf5d7f512e4?syn-25a6b1a6=1) |
+| Finance | Aug 11, 2026 | [US fires on ship it says violated Iran blockade](https://www.ft.com/content/ac651a05-9285-4020-85e2-47fcd8936320?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
