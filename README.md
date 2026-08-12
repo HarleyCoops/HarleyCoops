@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Aug 12, 2026 | [SpaceX short sellers are running out of bullets as stock rebounds more than 30% off low](https://www.cnbc.com/2026/08/12/spacex-short-sellers-are-running-out-of-bullets-as-stock-rebounds-38percent-off-low.html) |
 | Market | Aug 12, 2026 | [New York City Council announces probe into prediction market platforms’ marketing strategies](https://www.cnbc.com/2026/08/12/new-york-city-council-probes-prediction-markets-marketing-strategies.html) |
 | Market | Aug 12, 2026 | [EVs dominate China’s car market: 5 takeaways from the country's latest auto sales data](https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html) |
 | Market | Aug 11, 2026 | [Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China](https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html) |
 | Market | Aug 11, 2026 | [Is betting on elections using prediction markets illegal? Many states are unsure as midterms appr...](https://www.cnbc.com/2026/08/11/do-state-election-betting-bans-apply-to-prediction-markets.html) |
-| Market | Aug 11, 2026 | [AI computing power is becoming a tradable asset class as CME launches futures contracts](https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-a-tradable-asset-class-as-cme-starts-futures.html) |
-| Finance | Aug 12, 2026 | [JD Vance asked Ukraine to halt strikes on tankers using Russian port](https://www.ft.com/content/725b4d15-bd8d-4083-a04e-db016338af2e?syn-25a6b1a6=1) |
-| Finance | Aug 12, 2026 | [China’s great jobs squeeze](https://www.ft.com/content/a3803e70-cb4d-444f-a31e-05be2f2c44f6?syn-25a6b1a6=1) |
+| Finance | Aug 12, 2026 | [Bob Iger and Josh Kushner in $12.5bn deal for Lakers basketball franchise](https://www.ft.com/content/22534413-a23e-4ecb-b68f-c9f1105c8953?syn-25a6b1a6=1) |
+| Finance | Aug 12, 2026 | [World witnesses one of nature’s greatest spectacles: a total solar eclipse](https://www.ft.com/content/007b5ff6-e8fe-47f6-ba34-40cd6520e9fd?syn-25a6b1a6=1) |
+| Finance | Aug 12, 2026 | [How a bad trade pushed a US mortgage giant into a $2bn lifeline](https://www.ft.com/content/20f44f32-6566-4373-b6d8-9551be58d762?syn-25a6b1a6=1) |
 | Finance | Aug 12, 2026 | [Why must a socialist also be woke?](https://www.ft.com/content/1b0a8ed9-d55a-49ea-971e-39e01e588632?syn-25a6b1a6=1) |
-| Finance | Aug 12, 2026 | [World prepares for one of nature’s greatest spectacles: a total solar eclipse](https://www.ft.com/content/007b5ff6-e8fe-47f6-ba34-40cd6520e9fd?syn-25a6b1a6=1) |
-| Finance | Aug 12, 2026 | [Moderate Democrat unexpectedly beats socialist in tight Wisconsin primary race](https://www.ft.com/content/565bd314-0803-40a2-88b3-9070f574d933?syn-25a6b1a6=1) |
+| Finance | Aug 12, 2026 | [Poorer Americans are struggling to make ‘ends meet’, top Fed official says](https://www.ft.com/content/56c300d3-3632-476e-96d6-da84d4558bda?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
