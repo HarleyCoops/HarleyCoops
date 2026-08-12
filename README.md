@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Aug 12, 2026 | [EVs dominate China’s car market: 5 takeaways from the country's latest auto sales data](https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html) |
 | Market | Aug 11, 2026 | [Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China](https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html) |
 | Market | Aug 11, 2026 | [Is betting on elections using prediction markets illegal? Many states are unsure as midterms appr...](https://www.cnbc.com/2026/08/11/do-state-election-betting-bans-apply-to-prediction-markets.html) |
 | Market | Aug 11, 2026 | [AI computing power is becoming a tradable asset class as CME launches futures contracts](https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-a-tradable-asset-class-as-cme-starts-futures.html) |
 | Market | Aug 11, 2026 | [Why JPMorgan is investing big in the 2028 LA Olympics](https://www.cnbc.com/2026/08/11/why-jpmorgan-is-investing-big-in-the-2028-la-olympics.html) |
-| Market | Aug 11, 2026 | [Polymarket makes moves to get house in order before expected boom times for prediction markets th...](https://www.cnbc.com/2026/08/11/polymarket-revamps-marketing-expands-us-hiring-ahead-of-fall-events.html) |
+| Finance | Aug 12, 2026 | [JD Vance asked Ukraine to halt strikes on tankers using Russian port](https://www.ft.com/content/725b4d15-bd8d-4083-a04e-db016338af2e?syn-25a6b1a6=1) |
+| Finance | Aug 12, 2026 | [China’s great jobs squeeze](https://www.ft.com/content/a3803e70-cb4d-444f-a31e-05be2f2c44f6?syn-25a6b1a6=1) |
+| Finance | Aug 12, 2026 | [How to stop global warming](https://www.ft.com/content/e16ec916-08ad-4f87-9b62-e42e9f28a59c?syn-25a6b1a6=1) |
+| Finance | Aug 12, 2026 | [Europe’s carbon mechanism is a tariff by another name](https://www.ft.com/content/99bbb4e9-32de-40cb-aa15-537937d70889) |
 | Finance | Aug 11, 2026 | [Panama Canal fees hit record high as El Niño and Iran war choke shipping](https://www.ft.com/content/38083cb5-3892-40a1-b90f-102109f96b17?syn-25a6b1a6=1) |
-| Finance | Aug 11, 2026 | [How investors killed AstraZeneca’s $400bn megadeal](https://www.ft.com/content/2eb0a79c-f5cd-415c-9f72-3c8d576329c1?syn-25a6b1a6=1) |
-| Finance | Aug 11, 2026 | [Will failure in Iran reshape how the US fights?](https://www.ft.com/content/5bdb67a5-5c53-46aa-8a04-d0480e700ee4) |
-| Finance | Aug 11, 2026 | [Humans cannot remain passengers in the back of the AGI car](https://www.ft.com/content/33094bff-546e-4ac2-a949-af2e9daaa3f0?syn-25a6b1a6=1) |
-| Finance | Aug 11, 2026 | [US fires on ship it says violated Iran blockade](https://www.ft.com/content/ac651a05-9285-4020-85e2-47fcd8936320?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
