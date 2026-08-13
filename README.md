@@ -299,7 +299,7 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Aug 11, 2026 | [Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China](https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html) |
 | Finance | Aug 13, 2026 | [Anthropic investors bet on $2tn valuation in record IPO](https://www.ft.com/content/840ac156-af1c-4a82-b260-ae791072fcfa?syn-25a6b1a6=1) |
 | Finance | Aug 12, 2026 | [Wall Street giants bet Nvidia’s AI chips will defy the laws of finance](https://www.ft.com/content/3b522281-0119-47c9-a95a-f2c8d04e6212?syn-25a6b1a6=1) |
-| Finance | Aug 13, 2026 | [Wanted: a leader to rescue the UN](https://www.ft.com/content/8349e039-a02c-4586-92d8-7f95d3fcd15a?syn-25a6b1a6=1) |
+| Finance | Aug 13, 2026 | [The impossible job: saving the United Nations](https://www.ft.com/content/8349e039-a02c-4586-92d8-7f95d3fcd15a?syn-25a6b1a6=1) |
 | Finance | Aug 13, 2026 | [Trump is taxing the dark matter that pays America’s way](https://www.ft.com/content/7ff4321e-3f96-4f7b-8f2d-4fefa4773a5d) |
 | Finance | Aug 13, 2026 | [What your out-of-office really means](https://www.ft.com/content/46caeb96-13a3-4231-ae9a-7230225d09b7?syn-25a6b1a6=1) |
 
