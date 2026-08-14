@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Aug 13, 2026 | [These charts show why stocks keep rallying. Profit margins are the highest on record](https://www.cnbc.com/2026/08/13/these-charts-show-why-stocks-keep-rallying-profit-margins-are-highest-on-record.html) |
 | Market | Aug 13, 2026 | ['Big Short' investor Steve Eisman sees an Achilles' heel in the AI boom](https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html) |
 | Market | Aug 13, 2026 | [Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on](https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html) |
 | Market | Aug 13, 2026 | [This Chinese firm has topped Micron and Kioxia in shipments of crucial NAND memory chips](https://www.cnbc.com/2026/08/13/chinese-firm-tops-micron-kioxia-shipments-nand-memory-chips.html) |
 | Market | Aug 12, 2026 | [SpaceX short sellers are running out of bullets as stock rebounds more than 40% off low](https://www.cnbc.com/2026/08/12/spacex-short-sellers-are-running-out-of-bullets-as-stock-rebounds-38percent-off-low.html) |
-| Market | Aug 12, 2026 | [New York City Council announces probe into prediction market platforms’ marketing strategies](https://www.cnbc.com/2026/08/12/new-york-city-council-probes-prediction-markets-marketing-strategies.html) |
-| Finance | Aug 13, 2026 | [Anthropic investors bet on $2tn valuation in record IPO](https://www.ft.com/content/840ac156-af1c-4a82-b260-ae791072fcfa?syn-25a6b1a6=1) |
-| Finance | Aug 13, 2026 | [Wealth managers woo OpenAI and Anthropic staff ahead of IPO windfalls](https://www.ft.com/content/aa0ca006-5af4-4f94-9789-3e56f9f53e1d?syn-25a6b1a6=1) |
-| Finance | Aug 13, 2026 | [Style war: inside Wall Street’s battle to revive J Crew](https://www.ft.com/content/7d443952-1cfb-4254-a615-188c25849789?syn-25a6b1a6=1) |
+| Finance | Aug 13, 2026 | [US sells 30-year bonds at highest borrowing costs since 2001](https://www.ft.com/content/9c9c948f-dc8b-4385-a9b9-4b98dc1eadd9?syn-25a6b1a6=1) |
+| Finance | Aug 13, 2026 | [Sun, sea and bombs in Odesa](https://www.ft.com/content/d0464e03-c3fd-4e8b-9ffa-573762e97e16?syn-25a6b1a6=1) |
 | Finance | Aug 13, 2026 | [AI has opened up big holes in cyber security](https://www.ft.com/content/c78f18d3-fd4f-47ee-b34b-e5bdaa2fb9c6?syn-25a6b1a6=1) |
 | Finance | Aug 13, 2026 | [What your out-of-office really means](https://www.ft.com/content/46caeb96-13a3-4231-ae9a-7230225d09b7?syn-25a6b1a6=1) |
+| Finance | Aug 13, 2026 | [FBI seized phone of Guggenheim executive in probe of Mark Walter’s business empire](https://www.ft.com/content/c92400d8-15d8-44fb-a069-37c29141c5ae?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
