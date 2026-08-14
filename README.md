@@ -298,10 +298,10 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Aug 13, 2026 | [Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on](https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html) |
 | Market | Aug 13, 2026 | [This Chinese firm has topped Micron and Kioxia in shipments of crucial NAND memory chips](https://www.cnbc.com/2026/08/13/chinese-firm-tops-micron-kioxia-shipments-nand-memory-chips.html) |
 | Finance | Aug 14, 2026 | [OpenAI and Anthropic in price war as Chinese AI rivals gain ground](https://www.ft.com/content/32a70a3c-7d28-40b4-808e-36edb58c7d01?syn-25a6b1a6=1) |
+| Finance | Aug 14, 2026 | [AI frenzy drives Chinese tech valuations to multiples of US peers](https://www.ft.com/content/094f578b-517a-4d05-a9f1-1cc1f2e56c44?syn-25a6b1a6=1) |
 | Finance | Aug 14, 2026 | [The exodus from Israel](https://www.ft.com/content/7a833951-9700-46e1-bc08-d47716504138?syn-25a6b1a6=1) |
-| Finance | Aug 14, 2026 | [The quest to find the world’s best honey](https://www.ft.com/content/77816bbf-0316-4a73-8121-cfa22e6235be?syn-25a6b1a6=1) |
+| Finance | Aug 14, 2026 | [Everyone but me is getting excited about European equities](https://www.ft.com/content/63ac111b-c841-4134-9751-f7cc419ae5c5) |
 | Finance | Aug 14, 2026 | [Pakistan and the new great game of Risk](https://www.ft.com/content/a9573d72-7bb2-462f-83d7-c0fe36f8c98d?syn-25a6b1a6=1) |
-| Finance | Aug 14, 2026 | [JPMorgan debanked Polymarket over regulatory concerns](https://www.ft.com/content/4e3774b6-52e5-4b8a-be76-0bb87495e1f0?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
