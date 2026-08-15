@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Aug 14, 2026 | [Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets](https://www.cnbc.com/2026/08/14/berkshire-hathaway-boosts-alphabet-to-a-top-three-holding-ups-delta-and-housing-bets.html) |
+| Market | Aug 14, 2026 | [Goldman’s latest cash cow is all about funding the AI infrastructure boom](https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html) |
+| Market | Aug 14, 2026 | [Regulators and banks step up scrutiny of prediction markets](https://www.cnbc.com/2026/08/14/prediction-markets-scrutiny-mounts-from-regulators-and-banks.html) |
 | Market | Aug 14, 2026 | [Uber partners with China's Pony.ai for 2,000 robotaxis in Europe](https://www.cnbc.com/2026/08/14/uber-partners-with-chinas-ponyai-for-2000-robotaxis-in-europe.html) |
 | Market | Aug 13, 2026 | [These charts show why stocks keep rallying. Profit margins are the highest on record](https://www.cnbc.com/2026/08/13/these-charts-show-why-stocks-keep-rallying-profit-margins-are-highest-on-record.html) |
-| Market | Aug 13, 2026 | ['Big Short' investor Steve Eisman sees an Achilles' heel in the AI boom](https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html) |
-| Market | Aug 13, 2026 | [Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on](https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html) |
-| Market | Aug 13, 2026 | [This Chinese firm has topped Micron and Kioxia in shipments of crucial NAND memory chips](https://www.cnbc.com/2026/08/13/chinese-firm-tops-micron-kioxia-shipments-nand-memory-chips.html) |
-| Finance | Aug 14, 2026 | [Investors pile back into US stocks as bullishness returns to Wall Street](https://www.ft.com/content/d4897d94-0d69-445a-9466-5150840c801e?syn-25a6b1a6=1) |
+| Finance | Aug 14, 2026 | [Jane Street suffers $15bn hit after meltdown at Situational Awareness](https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697?syn-25a6b1a6=1) |
+| Finance | Aug 14, 2026 | [Jane Street has paid up large to avoid its numbers leaking out](https://www.ft.com/content/28a51284-98cc-4767-a306-0540d265687f) |
 | Finance | Aug 14, 2026 | [The exodus from Israel](https://www.ft.com/content/7a833951-9700-46e1-bc08-d47716504138?syn-25a6b1a6=1) |
 | Finance | Aug 14, 2026 | [Daniel Kinahan, Ireland’s most wanted man, faces his day in court](https://www.ft.com/content/0095afa5-5945-49cf-b21e-cd502abd1d87?syn-25a6b1a6=1) |
-| Finance | Aug 14, 2026 | [Unhappy voters are suffering from “Baumol’s disease”](https://www.ft.com/content/da83fd36-a963-4092-8aa3-d4f349b399ae) |
-| Finance | Aug 14, 2026 | [Luigi Mangione admits shooting UnitedHealthcare CEO](https://www.ft.com/content/68873521-58fa-435d-b46f-6309612964b2?syn-25a6b1a6=1) |
+| Finance | Aug 14, 2026 | [Unhappy voters are suffering from ‘Baumol’s disease’](https://www.ft.com/content/da83fd36-a963-4092-8aa3-d4f349b399ae) |
 
 <!-- NEWS:END -->
 
