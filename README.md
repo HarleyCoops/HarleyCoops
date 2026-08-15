@@ -297,11 +297,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Aug 14, 2026 | [Regulators and banks step up scrutiny of prediction markets](https://www.cnbc.com/2026/08/14/prediction-markets-scrutiny-mounts-from-regulators-and-banks.html) |
 | Market | Aug 14, 2026 | [Uber partners with China's Pony.ai for 2,000 robotaxis in Europe](https://www.cnbc.com/2026/08/14/uber-partners-with-chinas-ponyai-for-2000-robotaxis-in-europe.html) |
 | Market | Aug 13, 2026 | [These charts show why stocks keep rallying. Profit margins are the highest on record](https://www.cnbc.com/2026/08/13/these-charts-show-why-stocks-keep-rallying-profit-margins-are-highest-on-record.html) |
-| Finance | Aug 14, 2026 | [Jane Street suffers $15bn hit after meltdown at Situational Awareness](https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697?syn-25a6b1a6=1) |
-| Finance | Aug 14, 2026 | [Jane Street has paid up large to avoid its numbers leaking out](https://www.ft.com/content/28a51284-98cc-4767-a306-0540d265687f) |
-| Finance | Aug 14, 2026 | [The exodus from Israel](https://www.ft.com/content/7a833951-9700-46e1-bc08-d47716504138?syn-25a6b1a6=1) |
-| Finance | Aug 14, 2026 | [Daniel Kinahan, Ireland’s most wanted man, faces his day in court](https://www.ft.com/content/0095afa5-5945-49cf-b21e-cd502abd1d87?syn-25a6b1a6=1) |
-| Finance | Aug 14, 2026 | [Unhappy voters are suffering from ‘Baumol’s disease’](https://www.ft.com/content/da83fd36-a963-4092-8aa3-d4f349b399ae) |
+| Finance | Aug 15, 2026 | [OpenAI upheaval mounts as Sam Altman readies IPO push](https://www.ft.com/content/53082739-7714-4aae-9816-e55ab423cbee?syn-25a6b1a6=1) |
+| Finance | Aug 15, 2026 | [America’s AI election](https://www.ft.com/content/5f8858b8-7468-4438-b269-e1b1947b1926) |
+| Finance | Aug 15, 2026 | [Which is the next No 1 city on Earth?](https://www.ft.com/content/17cd713d-3db1-422b-adef-58b45ad7e50f?syn-25a6b1a6=1) |
+| Finance | Aug 15, 2026 | [Traders are spoiling for a fight over the yen](https://www.ft.com/content/543b1ab2-6203-412d-ae3b-f4439d1e9d47?syn-25a6b1a6=1) |
+| Finance | Aug 15, 2026 | [Geneva super-rich rocked by luxury home burglary spree](https://www.ft.com/content/c0d1c0ce-96c0-4824-a211-139acbddd200?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
