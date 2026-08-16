@@ -297,11 +297,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Aug 14, 2026 | [Regulators and banks step up scrutiny of prediction markets](https://www.cnbc.com/2026/08/14/prediction-markets-scrutiny-mounts-from-regulators-and-banks.html) |
 | Market | Aug 14, 2026 | [Uber partners with China's Pony.ai for 2,000 robotaxis in Europe](https://www.cnbc.com/2026/08/14/uber-partners-with-chinas-ponyai-for-2000-robotaxis-in-europe.html) |
 | Market | Aug 13, 2026 | [These charts show why stocks keep rallying. Profit margins are the highest on record](https://www.cnbc.com/2026/08/13/these-charts-show-why-stocks-keep-rallying-profit-margins-are-highest-on-record.html) |
-| Finance | Aug 15, 2026 | [OpenAI upheaval mounts as Sam Altman readies IPO push](https://www.ft.com/content/53082739-7714-4aae-9816-e55ab423cbee?syn-25a6b1a6=1) |
-| Finance | Aug 15, 2026 | [China poised to lift travel ban on Manus founders](https://www.ft.com/content/fa479d50-7c79-4b6d-99c3-3830e37c1503?syn-25a6b1a6=1) |
-| Finance | Aug 15, 2026 | [AI vs the people](https://www.ft.com/content/5f8858b8-7468-4438-b269-e1b1947b1926) |
-| Finance | Aug 15, 2026 | [Which is the next No 1 city on Earth?](https://www.ft.com/content/17cd713d-3db1-422b-adef-58b45ad7e50f?syn-25a6b1a6=1) |
-| Finance | Aug 15, 2026 | [Traders are spoiling for a fight over the yen](https://www.ft.com/content/543b1ab2-6203-412d-ae3b-f4439d1e9d47?syn-25a6b1a6=1) |
+| Finance | Aug 16, 2026 | [Most US voters say they are worse off under Trump — FT poll](https://www.ft.com/content/fd40a98d-2a7f-4246-a296-73e956bf03c0?syn-25a6b1a6=1) |
+| Finance | Aug 16, 2026 | [Are Americans making peace with the spectre of socialism?](https://www.ft.com/content/b56a910a-c2b4-41e5-9f8f-18e6fe7b2efd?syn-25a6b1a6=1) |
+| Finance | Aug 16, 2026 | [BlackBerry: From phone dinosaur to tech champion](https://www.ft.com/content/a026e094-7017-4ff8-8344-213573e973ed) |
+| Finance | Aug 16, 2026 | [Can we stop with the public ‘blasterbating’, actually?](https://www.ft.com/content/8c9e43d2-636a-449e-a376-b4b262143e38?syn-25a6b1a6=1) |
+| Finance | Aug 16, 2026 | [World’s largest carmakers seek to avert motor oil crisis](https://www.ft.com/content/161ee092-d2b6-4375-a853-e7a6fbee60e2?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
