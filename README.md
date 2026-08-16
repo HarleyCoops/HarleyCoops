@@ -300,8 +300,8 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Finance | Aug 16, 2026 | [Most US voters say they are worse off under Trump — FT poll](https://www.ft.com/content/fd40a98d-2a7f-4246-a296-73e956bf03c0?syn-25a6b1a6=1) |
 | Finance | Aug 16, 2026 | [Are Americans making peace with the spectre of socialism?](https://www.ft.com/content/b56a910a-c2b4-41e5-9f8f-18e6fe7b2efd?syn-25a6b1a6=1) |
 | Finance | Aug 16, 2026 | [BlackBerry: From phone dinosaur to tech champion](https://www.ft.com/content/a026e094-7017-4ff8-8344-213573e973ed) |
-| Finance | Aug 16, 2026 | [Can we stop with the public ‘blasterbating’, actually?](https://www.ft.com/content/8c9e43d2-636a-449e-a376-b4b262143e38?syn-25a6b1a6=1) |
-| Finance | Aug 16, 2026 | [World’s largest carmakers seek to avert motor oil crisis](https://www.ft.com/content/161ee092-d2b6-4375-a853-e7a6fbee60e2?syn-25a6b1a6=1) |
+| Finance | Aug 16, 2026 | [How economics is changing](https://www.ft.com/content/ea4d4326-878d-4e9e-9303-466c8a382c60?syn-25a6b1a6=1) |
+| Finance | Aug 16, 2026 | [Ukraine presses drone attacks on Moscow and Russian logistics](https://www.ft.com/content/a71bcea9-b0eb-4ed2-8bc9-f4dace738e37?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
