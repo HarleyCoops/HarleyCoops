@@ -297,11 +297,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Aug 14, 2026 | [Regulators and banks step up scrutiny of prediction markets](https://www.cnbc.com/2026/08/14/prediction-markets-scrutiny-mounts-from-regulators-and-banks.html) |
 | Market | Aug 14, 2026 | [Uber partners with China's Pony.ai for 2,000 robotaxis in Europe](https://www.cnbc.com/2026/08/14/uber-partners-with-chinas-ponyai-for-2000-robotaxis-in-europe.html) |
 | Market | Aug 13, 2026 | [These charts show why stocks keep rallying. Profit margins are the highest on record](https://www.cnbc.com/2026/08/13/these-charts-show-why-stocks-keep-rallying-profit-margins-are-highest-on-record.html) |
-| Finance | Aug 16, 2026 | [‘Capitalism’s not working’: why Democrats are turning to socialism](https://www.ft.com/content/b56a910a-c2b4-41e5-9f8f-18e6fe7b2efd?syn-25a6b1a6=1) |
-| Finance | Aug 16, 2026 | [California billionaires add millions to bolster fight against wealth tax](https://www.ft.com/content/10aba768-20fc-46eb-8503-4658181bffc5?syn-25a6b1a6=1) |
 | Finance | Aug 16, 2026 | [Most US voters say they are worse off under Trump — FT poll](https://www.ft.com/content/fd40a98d-2a7f-4246-a296-73e956bf03c0?syn-25a6b1a6=1) |
+| Finance | Aug 16, 2026 | [‘Capitalism’s not working’: why Democrats are turning to socialism](https://www.ft.com/content/b56a910a-c2b4-41e5-9f8f-18e6fe7b2efd?syn-25a6b1a6=1) |
 | Finance | Aug 16, 2026 | [BlackBerry: From phone dinosaur to tech champion](https://www.ft.com/content/a026e094-7017-4ff8-8344-213573e973ed) |
 | Finance | Aug 16, 2026 | [How economics is changing](https://www.ft.com/content/ea4d4326-878d-4e9e-9303-466c8a382c60?syn-25a6b1a6=1) |
+| Finance | Aug 16, 2026 | [Trump says US will scale back military drills with South Korea](https://www.ft.com/content/8889375a-bcaa-4539-a000-c89b73dbcf4c?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
