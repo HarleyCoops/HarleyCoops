@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Aug 17, 2026 | [Prediction market traders see roughly 1-in-4 odds Paramount’s bid to buy Warner Bros. Discovery f...](https://www.cnbc.com/2026/08/17/pskys-wbd-bid-has-1-in-4-odds-of-falling-through-kalshi-traders-say.html) |
+| Market | Aug 17, 2026 | [Synchrony, credit card issuer to Amazon and Walmart, partners with OpenAI for ChatGPT shopping](https://www.cnbc.com/2026/08/17/synchrony-openai-chatgpt-shopping.html) |
 | Market | Aug 14, 2026 | [Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets](https://www.cnbc.com/2026/08/14/berkshire-hathaway-boosts-alphabet-to-a-top-three-holding-ups-delta-and-housing-bets.html) |
 | Market | Aug 14, 2026 | [Goldman’s latest cash cow is all about funding the AI infrastructure boom](https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html) |
 | Market | Aug 14, 2026 | [Regulators and banks step up scrutiny of prediction markets](https://www.cnbc.com/2026/08/14/prediction-markets-scrutiny-mounts-from-regulators-and-banks.html) |
-| Market | Aug 14, 2026 | [Uber partners with China's Pony.ai for 2,000 robotaxis in Europe](https://www.cnbc.com/2026/08/14/uber-partners-with-chinas-ponyai-for-2000-robotaxis-in-europe.html) |
-| Market | Aug 13, 2026 | [These charts show why stocks keep rallying. Profit margins are the highest on record](https://www.cnbc.com/2026/08/13/these-charts-show-why-stocks-keep-rallying-profit-margins-are-highest-on-record.html) |
 | Finance | Aug 17, 2026 | [Private credit under strain as troubled loans swell](https://www.ft.com/content/67acde0d-4154-4332-b33b-2d03d3a86007?syn-25a6b1a6=1) |
 | Finance | Aug 17, 2026 | [Why Maga came for Europe](https://www.ft.com/content/c5e27ffb-cfb1-421b-8121-a402cf2d84ac?syn-25a6b1a6=1) |
-| Finance | Aug 17, 2026 | [The next China shock will come from open-source AI](https://www.ft.com/content/2f705a5a-2c4e-4bca-b08a-ed9372ef3b2e) |
-| Finance | Aug 17, 2026 | [America and the politics of respect](https://www.ft.com/content/5f6cdb7a-3b05-487f-a02e-3b9fb0b42e00?syn-25a6b1a6=1) |
-| Finance | Aug 17, 2026 | [Trump threatens to bomb Oman if it ‘gets in the way’ of US-Iran negotiations](https://www.ft.com/content/d4d07198-498d-48d1-9e54-85f1febcd070) |
+| Finance | Aug 17, 2026 | [Crime and punishment in the Middle East](https://www.ft.com/content/a53ad482-510e-4855-90f3-b9f2bf7f6aac) |
+| Finance | Aug 17, 2026 | [A leaderboard of the biggest trading losses of all time](https://www.ft.com/content/340bf9e7-0e67-4d19-b671-3dc8186efb99) |
+| Finance | Aug 17, 2026 | [Trump threatens to bomb Oman if it ‘gets in the way’ of US-Iran negotiations](https://www.ft.com/content/d4d07198-498d-48d1-9e54-85f1febcd070?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
