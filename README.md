@@ -301,7 +301,7 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Finance | Aug 17, 2026 | [Why Maga came for Europe](https://www.ft.com/content/c5e27ffb-cfb1-421b-8121-a402cf2d84ac?syn-25a6b1a6=1) |
 | Finance | Aug 17, 2026 | [The next China shock will come from open-source AI](https://www.ft.com/content/2f705a5a-2c4e-4bca-b08a-ed9372ef3b2e) |
 | Finance | Aug 17, 2026 | [America and the politics of respect](https://www.ft.com/content/5f6cdb7a-3b05-487f-a02e-3b9fb0b42e00?syn-25a6b1a6=1) |
-| Finance | Aug 16, 2026 | [Trump says US will scale back military drills with South Korea](https://www.ft.com/content/8889375a-bcaa-4539-a000-c89b73dbcf4c?syn-25a6b1a6=1) |
+| Finance | Aug 17, 2026 | [Trump threatens to bomb Oman if it ‘gets in the way’ of US-Iran negotiations](https://www.ft.com/content/d4d07198-498d-48d1-9e54-85f1febcd070) |
 
 <!-- NEWS:END -->
 
