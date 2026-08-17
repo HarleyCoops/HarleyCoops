@@ -297,10 +297,10 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Aug 14, 2026 | [Regulators and banks step up scrutiny of prediction markets](https://www.cnbc.com/2026/08/14/prediction-markets-scrutiny-mounts-from-regulators-and-banks.html) |
 | Market | Aug 14, 2026 | [Uber partners with China's Pony.ai for 2,000 robotaxis in Europe](https://www.cnbc.com/2026/08/14/uber-partners-with-chinas-ponyai-for-2000-robotaxis-in-europe.html) |
 | Market | Aug 13, 2026 | [These charts show why stocks keep rallying. Profit margins are the highest on record](https://www.cnbc.com/2026/08/13/these-charts-show-why-stocks-keep-rallying-profit-margins-are-highest-on-record.html) |
-| Finance | Aug 16, 2026 | [Most US voters say they are worse off under Trump — FT poll](https://www.ft.com/content/fd40a98d-2a7f-4246-a296-73e956bf03c0?syn-25a6b1a6=1) |
-| Finance | Aug 16, 2026 | [‘Capitalism’s not working’: why Democrats are turning to socialism](https://www.ft.com/content/b56a910a-c2b4-41e5-9f8f-18e6fe7b2efd?syn-25a6b1a6=1) |
-| Finance | Aug 16, 2026 | [BlackBerry: From phone dinosaur to tech champion](https://www.ft.com/content/a026e094-7017-4ff8-8344-213573e973ed) |
-| Finance | Aug 16, 2026 | [How economics is changing](https://www.ft.com/content/ea4d4326-878d-4e9e-9303-466c8a382c60?syn-25a6b1a6=1) |
+| Finance | Aug 17, 2026 | [Private credit under strain as troubled loans swell](https://www.ft.com/content/67acde0d-4154-4332-b33b-2d03d3a86007?syn-25a6b1a6=1) |
+| Finance | Aug 17, 2026 | [Why Maga came for Europe](https://www.ft.com/content/c5e27ffb-cfb1-421b-8121-a402cf2d84ac?syn-25a6b1a6=1) |
+| Finance | Aug 17, 2026 | [The next China shock will come from open-source AI](https://www.ft.com/content/2f705a5a-2c4e-4bca-b08a-ed9372ef3b2e) |
+| Finance | Aug 17, 2026 | [America and the politics of respect](https://www.ft.com/content/5f6cdb7a-3b05-487f-a02e-3b9fb0b42e00?syn-25a6b1a6=1) |
 | Finance | Aug 16, 2026 | [Trump says US will scale back military drills with South Korea](https://www.ft.com/content/8889375a-bcaa-4539-a000-c89b73dbcf4c?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
