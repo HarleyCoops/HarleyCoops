@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution chart for HarleyCoops" width="100%" />
+  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D contribution chart for HarleyCoops" width="100%" />
 </p>
 
 ---
