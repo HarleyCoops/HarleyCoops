@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
-| Market | Aug 17, 2026 | [Lakers governor Jeanie Buss says siblings cannot sell family’s stake to Bob Iger, Joshua Kushner](https://www.cnbc.com/2026/08/17/jeanie-buss-opposes-sale-family-stake.html) |
+| Market | Aug 18, 2026 | [Lakers governor Jeanie Buss says siblings cannot sell family’s stake to Bob Iger, Joshua Kushner](https://www.cnbc.com/2026/08/17/jeanie-buss-opposes-sale-family-stake.html) |
 | Market | Aug 17, 2026 | [Prediction market traders see roughly 1-in-4 odds Paramount’s bid to buy Warner Bros. Discovery f...](https://www.cnbc.com/2026/08/17/pskys-wbd-bid-has-1-in-4-odds-of-falling-through-kalshi-traders-say.html) |
 | Market | Aug 18, 2026 | [Credit card issuer Synchrony announces partnership with OpenAI](https://www.cnbc.com/2026/08/17/synchrony-openai.html) |
 | Market | Aug 14, 2026 | [Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets](https://www.cnbc.com/2026/08/14/berkshire-hathaway-boosts-alphabet-to-a-top-three-holding-ups-delta-and-housing-bets.html) |
 | Market | Aug 14, 2026 | [Goldman’s latest cash cow is all about funding the AI infrastructure boom](https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html) |
-| Finance | Aug 18, 2026 | [Trump’s cuts to South Korean drills stir doubts about US resolve in Asia](https://www.ft.com/content/1d713822-e68f-4476-be94-ffab3418bfe4?syn-25a6b1a6=1) |
-| Finance | Aug 18, 2026 | [Seoul rattled by Trump’s threat to drills at heart of US alliance](https://www.ft.com/content/377d4c1c-1cbc-46b2-8c34-f2d578c6d595?syn-25a6b1a6=1) |
+| Finance | Aug 18, 2026 | [Global bond sell-off deepens amid fears over inflation and AI issuance](https://www.ft.com/content/61354e68-c4ba-4716-b849-b332608c8c65?syn-25a6b1a6=1) |
 | Finance | Aug 18, 2026 | [AI hasn’t gone rogue. It’s worse than that](https://www.ft.com/content/a9947be4-5c0c-47ee-acae-a2aeaf01a0a0?syn-25a6b1a6=1) |
+| Finance | Aug 18, 2026 | [AI phobia is America’s new consensus](https://www.ft.com/content/7d5f7e30-88de-4dcb-9fd5-f41a4ff03804?syn-25a6b1a6=1) |
 | Finance | Aug 18, 2026 | [The difficult truth about Jason Arday](https://www.ft.com/content/5f927594-03a1-4652-8189-2aa7a19dcec4?syn-25a6b1a6=1) |
-| Finance | Aug 18, 2026 | [Can canned cocktails revive the booze business?](https://www.ft.com/content/cf29e18e-c4d8-4a27-b7c7-3cf56d6eccf2?syn-25a6b1a6=1) |
+| Finance | Aug 18, 2026 | [Trump ballroom official held quiet Kremlin talks](https://www.ft.com/content/d88a8878-425d-4225-bda4-576c6c42734e?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
