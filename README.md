@@ -297,11 +297,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Aug 18, 2026 | [Kalshi seeks to launch ‘perps’ on equity indexes as it moves in on traditional exchanges' turf](https://www.cnbc.com/2026/08/18/kalshi-wants-to-launch-perps-tied-to-equity-indexes.html) |
 | Market | Aug 18, 2026 | [Lakers governor Jeanie Buss says siblings cannot sell family’s stake to Bob Iger, Joshua Kushner](https://www.cnbc.com/2026/08/17/jeanie-buss-opposes-sale-family-stake.html) |
 | Market | Aug 17, 2026 | [Prediction market traders see roughly 1-in-4 odds Paramount’s bid to buy Warner Bros. Discovery f...](https://www.cnbc.com/2026/08/17/pskys-wbd-bid-has-1-in-4-odds-of-falling-through-kalshi-traders-say.html) |
-| Finance | Aug 18, 2026 | [Soaring diesel prices rip across US economy](https://www.ft.com/content/8a5cd515-191d-42f9-9b0c-1b817a1bc044?syn-25a6b1a6=1) |
-| Finance | Aug 18, 2026 | [Airlines in ‘stand-off’ over price cuts as jet fuel costs ease](https://www.ft.com/content/9d8f4215-4d19-43df-ab81-b9f8adb057c8?syn-25a6b1a6=1) |
-| Finance | Aug 18, 2026 | [US chip stocks slide as government borrowing costs hit multiyear highs](https://www.ft.com/content/61354e68-c4ba-4716-b849-b332608c8c65?syn-25a6b1a6=1) |
-| Finance | Aug 18, 2026 | [Trump ballroom official held quiet Kremlin talks](https://www.ft.com/content/d88a8878-425d-4225-bda4-576c6c42734e?syn-25a6b1a6=1) |
-| Finance | Aug 18, 2026 | [AI phobia is America’s new consensus](https://www.ft.com/content/7d5f7e30-88de-4dcb-9fd5-f41a4ff03804?syn-25a6b1a6=1) |
+| Finance | Aug 19, 2026 | [Iran eyes military targets in Europe if Trump escalates war, insiders say](https://www.ft.com/content/9ea0cde8-129e-4d88-976f-e367b7dd4d2c?syn-25a6b1a6=1) |
+| Finance | Aug 18, 2026 | [UAE suspends trade with Iran after saying it fired missiles at Gulf state](https://www.ft.com/content/8dbbeb9a-290a-4edd-b731-44ce3e31ecf5?syn-25a6b1a6=1) |
+| Finance | Aug 19, 2026 | [America’s brands lose their magic](https://www.ft.com/content/59ed10fc-0e58-454c-9f93-d4d258ccfd9c?syn-25a6b1a6=1) |
+| Finance | Aug 19, 2026 | [Remigration binds Maga to Europe’s far right](https://www.ft.com/content/34a99573-0fa1-422b-9263-147f9ed7be6c?syn-25a6b1a6=1) |
+| Finance | Aug 19, 2026 | [Global food security may be collateral in Ukraine war](https://www.ft.com/content/a2e965ee-31be-40ad-ab13-75861b6df838) |
 
 <!-- NEWS:END -->
 
