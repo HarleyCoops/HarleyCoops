@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Aug 20, 2026 | [China is defying the global bond yield surge, boosting its diversification appeal](https://www.cnbc.com/2026/08/20/china-defies-global-bond-yield-surge-safe-haven.html) |
 | Market | Aug 19, 2026 | [Fed officials saw need for rate hike if inflation doesn't cool, minutes show](https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html) |
 | Market | Aug 19, 2026 | [Carvana shares are under pressure this week as Mark Walter probe fuels investor jitters](https://www.cnbc.com/2026/08/19/carvana-shares-on-pace-for-10percent-weekly-loss-as-mark-walter-probe-fuels-investor-jitters.html) |
 | Market | Aug 19, 2026 | [Retail investors aren't entirely giving up on AI trade, but they appear more cautious](https://www.cnbc.com/2026/08/19/retail-investors-stick-with-ai-trade-but-appear-more-cautious.html) |
 | Market | Aug 19, 2026 | [Goldman studied where AI is squeezing labor markets. Here's what it found](https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html) |
-| Market | Aug 18, 2026 | [What Chinese liquor maker Moutai's slump says about the country's economy](https://www.cnbc.com/2026/08/19/china-economy-moutai-ai-property.html) |
-| Finance | Aug 19, 2026 | [US government debt hits $40tn as borrowing rises at historic rate](https://www.ft.com/content/673f8c35-1433-479f-803f-0597cbe7ef74?syn-25a6b1a6=1) |
-| Finance | Aug 19, 2026 | [US Treasury to boost long-term bond purchases in bid to steady market](https://www.ft.com/content/777c9014-2f12-45cf-8224-6bbe808c62cb?syn-25a6b1a6=1) |
-| Finance | Aug 19, 2026 | [Fed officials express rising concern over persistently high inflation](https://www.ft.com/content/aad0fdbb-f3bf-4b99-b826-7bde552b9d81?syn-25a6b1a6=1) |
-| Finance | Aug 19, 2026 | [Moderna shares nearly triple on skin cancer vaccine success](https://www.ft.com/content/a98a77e2-5156-4189-b971-974a7e60130f?syn-25a6b1a6=1) |
-| Finance | Aug 19, 2026 | [Private credit risks remain at large](https://www.ft.com/content/b58c7ea1-1b97-4f1f-b19d-2544041ec0a8?syn-25a6b1a6=1) |
+| Finance | Aug 20, 2026 | [Top US law firms hit by backlash over ‘crazy’ hiring of first-year students](https://www.ft.com/content/d70655c1-63b8-4142-aae8-82db916bc045?syn-25a6b1a6=1) |
+| Finance | Aug 20, 2026 | [The box that built globalisation](https://www.ft.com/content/b88c3466-4525-4e16-b3fe-e10e713a2025?syn-25a6b1a6=1) |
+| Finance | Aug 20, 2026 | [The slow sucking sound of AI](https://www.ft.com/content/6181c22c-731a-4044-9720-fc4e0d500403?syn-25a6b1a6=1) |
+| Finance | Aug 20, 2026 | [Moderna pins hopes on ‘game-changer’ for cancer vaccines](https://www.ft.com/content/cd52173f-5863-4996-93b2-c4adb81ad210?syn-25a6b1a6=1) |
+| Finance | Aug 20, 2026 | [Demand for tankers soars as Gulf oil producers search for ways to export cargoes](https://www.ft.com/content/a8056598-14dd-4a9e-a21d-ad68e9891cc1?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
