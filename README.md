@@ -298,10 +298,10 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Aug 19, 2026 | [Retail investors aren't entirely giving up on AI trade, but they appear more cautious](https://www.cnbc.com/2026/08/19/retail-investors-stick-with-ai-trade-but-appear-more-cautious.html) |
 | Market | Aug 19, 2026 | [Goldman studied where AI is squeezing labor markets. Here's what it found](https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html) |
 | Finance | Aug 20, 2026 | [Top US law firms hit by backlash over ‘crazy’ hiring of first-year students](https://www.ft.com/content/d70655c1-63b8-4142-aae8-82db916bc045?syn-25a6b1a6=1) |
-| Finance | Aug 20, 2026 | [The box that built globalisation](https://www.ft.com/content/b88c3466-4525-4e16-b3fe-e10e713a2025?syn-25a6b1a6=1) |
+| Finance | Aug 20, 2026 | [The container revolution is running out of room](https://www.ft.com/content/b88c3466-4525-4e16-b3fe-e10e713a2025?syn-25a6b1a6=1) |
+| Finance | Aug 20, 2026 | [Trump turns on Washington’s museums in new culture war offensive](https://www.ft.com/content/659a00b4-be9b-467b-a676-cb73e2d3d64d?syn-25a6b1a6=1) |
 | Finance | Aug 20, 2026 | [The slow sucking sound of AI](https://www.ft.com/content/6181c22c-731a-4044-9720-fc4e0d500403?syn-25a6b1a6=1) |
-| Finance | Aug 20, 2026 | [Moderna pins hopes on ‘game-changer’ for cancer vaccines](https://www.ft.com/content/cd52173f-5863-4996-93b2-c4adb81ad210?syn-25a6b1a6=1) |
-| Finance | Aug 20, 2026 | [Demand for tankers soars as Gulf oil producers search for ways to export cargoes](https://www.ft.com/content/a8056598-14dd-4a9e-a21d-ad68e9891cc1?syn-25a6b1a6=1) |
+| Finance | Aug 20, 2026 | [Founder of collapsed Chinese property giant given life sentence](https://www.ft.com/content/895d78fc-ce60-4cb6-a8d5-db3ab01d1ebf?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
