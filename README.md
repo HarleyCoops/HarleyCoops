@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
-| Market | Aug 21, 2026 | [Chinese humanoid robots' biggest obstacle: humans are still (mostly) better](https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html) |
+| Market | Aug 21, 2026 | [Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback](https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html) |
+| Market | Aug 21, 2026 | [Labubu maker Pop Mart shares fall as key ex-China sales data drop, Citi cuts price target](https://www.cnbc.com/2026/08/21/labubu-maker-pop-mart-shares-fall-after-sales-drop-in-asia-americas-.html) |
+| Market | Aug 21, 2026 | [Chinese humanoid robots' biggest obstacle: Humans are still (mostly) better](https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html) |
 | Market | Aug 20, 2026 | [China is defying the global bond yield surge, boosting its diversification appeal](https://www.cnbc.com/2026/08/20/china-defies-global-bond-yield-surge-safe-haven.html) |
 | Market | Aug 19, 2026 | [Fed officials saw need for rate hike if inflation doesn't cool, minutes show](https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html) |
-| Market | Aug 19, 2026 | [Carvana shares are under pressure this week as Mark Walter probe fuels investor jitters](https://www.cnbc.com/2026/08/19/carvana-shares-on-pace-for-10percent-weekly-loss-as-mark-walter-probe-fuels-investor-jitters.html) |
-| Market | Aug 19, 2026 | [Retail investors aren't entirely giving up on AI trade, but they appear more cautious](https://www.cnbc.com/2026/08/19/retail-investors-stick-with-ai-trade-but-appear-more-cautious.html) |
-| Finance | Aug 21, 2026 | [Scott Bessent takes on bond vigilantes in $32tn Treasury market](https://www.ft.com/content/f01ff762-3e68-4bac-bb73-6f35a6bf2771?syn-25a6b1a6=1) |
-| Finance | Aug 20, 2026 | [What is Bessent doing with the $32tn Treasury market — and will it work?](https://www.ft.com/content/14b25583-c64d-4a97-9f6d-359908638e28?syn-25a6b1a6=1) |
-| Finance | Aug 21, 2026 | [The battle over golf’s future](https://www.ft.com/content/d286cb7f-c63e-42a6-86db-d0a9ad0f296a?syn-25a6b1a6=1) |
+| Finance | Aug 21, 2026 | [Bitcoin and gold surge as Bessent’s bond market intervention weighs on dollar](https://www.ft.com/content/7e0c8dc0-e957-420a-bba3-d33666d919b8?syn-25a6b1a6=1) |
+| Finance | Aug 21, 2026 | [Bessent takes on bond vigilantes in $32tn Treasury market](https://www.ft.com/content/f01ff762-3e68-4bac-bb73-6f35a6bf2771?syn-25a6b1a6=1) |
+| Finance | Aug 20, 2026 | [What is Bessent doing — and will it work?](https://www.ft.com/content/14b25583-c64d-4a97-9f6d-359908638e28?syn-25a6b1a6=1) |
+| Finance | Aug 21, 2026 | [Errol Musk: ‘I’m Elon’s father, not his pal’](https://www.ft.com/content/ded0ef2a-fb61-4960-981d-5bcf5f0c6bf2?syn-25a6b1a6=1) |
 | Finance | Aug 21, 2026 | [Feminism didn’t kill the male breadwinner model, the economy did](https://www.ft.com/content/4b7b8d3f-5625-4dba-ad90-66192c101956?syn-25a6b1a6=1) |
-| Finance | Aug 21, 2026 | [North Korea enjoys rare ‘dash for flash’](https://www.ft.com/content/182f8161-b1a8-43f7-8918-f78f34e03cab) |
 
 <!-- NEWS:END -->
 
