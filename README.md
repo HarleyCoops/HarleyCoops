@@ -298,10 +298,10 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Aug 19, 2026 | [Retail investors aren't entirely giving up on AI trade, but they appear more cautious](https://www.cnbc.com/2026/08/19/retail-investors-stick-with-ai-trade-but-appear-more-cautious.html) |
 | Market | Aug 19, 2026 | [Goldman studied where AI is squeezing labor markets. Here's what it found](https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html) |
 | Finance | Aug 20, 2026 | [US long-term bonds slide as Bessent intervention fails to soothe investors](https://www.ft.com/content/0c01cdd9-93e8-469c-8f09-a6d68c91fbc3?syn-25a6b1a6=1) |
-| Finance | Aug 20, 2026 | [The US Treasury is buying long bonds, but not very many](https://www.ft.com/content/150aa8bf-54d1-448f-bdc9-14152ce3d76c) |
+| Finance | Aug 20, 2026 | [What is Bessent doing with the $32tn Treasury market — and will it work?](https://www.ft.com/content/14b25583-c64d-4a97-9f6d-359908638e28?syn-25a6b1a6=1) |
 | Finance | Aug 20, 2026 | [Investors cut bets on US and UK rate rises](https://www.ft.com/content/93992d7a-e20d-4f35-a958-c7a9f3b84c02?syn-25a6b1a6=1) |
-| Finance | Aug 20, 2026 | [The container revolution is running out of room](https://www.ft.com/content/b88c3466-4525-4e16-b3fe-e10e713a2025?syn-25a6b1a6=1) |
 | Finance | Aug 20, 2026 | [Trump wants Washington museums to be less ‘woke’ on US slavery](https://www.ft.com/content/659a00b4-be9b-467b-a676-cb73e2d3d64d?syn-25a6b1a6=1) |
+| Finance | Aug 20, 2026 | [War comes to Putin’s favourite Black Sea resort](https://www.ft.com/content/565f7434-f648-45a8-b0d4-b04a529c39cd?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
