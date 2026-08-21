@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Aug 21, 2026 | [Chinese humanoid robots' biggest obstacle: humans are still (mostly) better](https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html) |
 | Market | Aug 20, 2026 | [China is defying the global bond yield surge, boosting its diversification appeal](https://www.cnbc.com/2026/08/20/china-defies-global-bond-yield-surge-safe-haven.html) |
 | Market | Aug 19, 2026 | [Fed officials saw need for rate hike if inflation doesn't cool, minutes show](https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html) |
 | Market | Aug 19, 2026 | [Carvana shares are under pressure this week as Mark Walter probe fuels investor jitters](https://www.cnbc.com/2026/08/19/carvana-shares-on-pace-for-10percent-weekly-loss-as-mark-walter-probe-fuels-investor-jitters.html) |
 | Market | Aug 19, 2026 | [Retail investors aren't entirely giving up on AI trade, but they appear more cautious](https://www.cnbc.com/2026/08/19/retail-investors-stick-with-ai-trade-but-appear-more-cautious.html) |
-| Market | Aug 19, 2026 | [Goldman studied where AI is squeezing labor markets. Here's what it found](https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html) |
-| Finance | Aug 20, 2026 | [US long-term bonds slide as Bessent intervention fails to soothe investors](https://www.ft.com/content/0c01cdd9-93e8-469c-8f09-a6d68c91fbc3?syn-25a6b1a6=1) |
+| Finance | Aug 21, 2026 | [Scott Bessent takes on bond vigilantes in $32tn Treasury market](https://www.ft.com/content/f01ff762-3e68-4bac-bb73-6f35a6bf2771?syn-25a6b1a6=1) |
 | Finance | Aug 20, 2026 | [What is Bessent doing with the $32tn Treasury market — and will it work?](https://www.ft.com/content/14b25583-c64d-4a97-9f6d-359908638e28?syn-25a6b1a6=1) |
-| Finance | Aug 20, 2026 | [Investors cut bets on US and UK rate rises](https://www.ft.com/content/93992d7a-e20d-4f35-a958-c7a9f3b84c02?syn-25a6b1a6=1) |
-| Finance | Aug 20, 2026 | [Trump wants Washington museums to be less ‘woke’ on US slavery](https://www.ft.com/content/659a00b4-be9b-467b-a676-cb73e2d3d64d?syn-25a6b1a6=1) |
-| Finance | Aug 20, 2026 | [War comes to Putin’s favourite Black Sea resort](https://www.ft.com/content/565f7434-f648-45a8-b0d4-b04a529c39cd?syn-25a6b1a6=1) |
+| Finance | Aug 21, 2026 | [The battle over golf’s future](https://www.ft.com/content/d286cb7f-c63e-42a6-86db-d0a9ad0f296a?syn-25a6b1a6=1) |
+| Finance | Aug 21, 2026 | [Feminism didn’t kill the male breadwinner model, the economy did](https://www.ft.com/content/4b7b8d3f-5625-4dba-ad90-66192c101956?syn-25a6b1a6=1) |
+| Finance | Aug 21, 2026 | [North Korea enjoys rare ‘dash for flash’](https://www.ft.com/content/182f8161-b1a8-43f7-8918-f78f34e03cab) |
 
 <!-- NEWS:END -->
 
