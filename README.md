@@ -297,11 +297,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Aug 21, 2026 | [Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback](https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html) |
 | Market | Aug 21, 2026 | [Labubu maker Pop Mart shares fall as key ex-China sales data drop, Citi cuts price target](https://www.cnbc.com/2026/08/21/labubu-maker-pop-mart-shares-fall-after-sales-drop-in-asia-americas-.html) |
 | Market | Aug 21, 2026 | [Chinese humanoid robots' biggest obstacle: Humans are still (mostly) better](https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html) |
-| Finance | Aug 21, 2026 | [‘Betrayal’: US ranchers lash out at Trump’s plan to cut tax on beef imports](https://www.ft.com/content/7aabb591-ca73-4d87-96ad-dac9a210e1d0?syn-25a6b1a6=1) |
-| Finance | Aug 21, 2026 | [Natalie Harp, the devoted ‘human printer’ in Trump’s entourage](https://www.ft.com/content/0eb4e7ce-42e3-49af-ae27-645eb7676fad?syn-25a6b1a6=1) |
-| Finance | Aug 21, 2026 | [The bond scare and the balance of power](https://www.ft.com/content/5b459fd3-8170-4c43-8db3-3f76d4ab891d) |
-| Finance | Aug 21, 2026 | [Feminism didn’t kill the male breadwinner model, the economy did](https://www.ft.com/content/4b7b8d3f-5625-4dba-ad90-66192c101956?syn-25a6b1a6=1) |
-| Finance | Aug 21, 2026 | [Citadel offloads 80% of portfolio scooped up from Situational Awareness](https://www.ft.com/content/1603577e-89d8-4cfa-884b-b83fbb8dd20e?syn-25a6b1a6=1) |
+| Finance | Aug 22, 2026 | [The Trump economy: $40tn debt, 6.7% mortgages and $5 diesel](https://www.ft.com/content/6cb399fa-9fba-4806-98a3-9572fe319622?syn-25a6b1a6=1) |
+| Finance | Aug 22, 2026 | [Canada vows to match US tariffs as trade talks collapse](https://www.ft.com/content/24f9c08e-e23f-434e-b0f4-fc1eb55a7b04?syn-25a6b1a6=1) |
+| Finance | Aug 22, 2026 | [Who counts in Trump’s America?](https://www.ft.com/content/7c9cd212-58c6-44e1-b515-022271e4390d?syn-25a6b1a6=1) |
+| Finance | Aug 22, 2026 | [Europe’s fatal beauty](https://www.ft.com/content/ff65daca-59bb-48f2-a6d1-e177a6409459?syn-25a6b1a6=1) |
+| Finance | Aug 22, 2026 | [Bossing the bond market around never works](https://www.ft.com/content/b9e7a620-1018-4004-a3b0-3c85d494d21d?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
