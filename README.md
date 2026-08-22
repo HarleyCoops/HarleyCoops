@@ -297,11 +297,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Aug 21, 2026 | [Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback](https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html) |
 | Market | Aug 21, 2026 | [Labubu maker Pop Mart shares fall as key ex-China sales data drop, Citi cuts price target](https://www.cnbc.com/2026/08/21/labubu-maker-pop-mart-shares-fall-after-sales-drop-in-asia-americas-.html) |
 | Market | Aug 21, 2026 | [Chinese humanoid robots' biggest obstacle: Humans are still (mostly) better](https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html) |
-| Finance | Aug 21, 2026 | [Citadel offloads 80% of portfolio scooped up from Situational Awareness](https://www.ft.com/content/1603577e-89d8-4cfa-884b-b83fbb8dd20e?syn-25a6b1a6=1) |
-| Finance | Aug 21, 2026 | [What is Jane Street?](https://www.ft.com/content/ef1d7530-a514-4b18-9a0f-8843cac02929) |
+| Finance | Aug 21, 2026 | [‘Betrayal’: US ranchers lash out at Trump’s plan to cut tax on beef imports](https://www.ft.com/content/7aabb591-ca73-4d87-96ad-dac9a210e1d0?syn-25a6b1a6=1) |
 | Finance | Aug 21, 2026 | [Natalie Harp, the devoted ‘human printer’ in Trump’s entourage](https://www.ft.com/content/0eb4e7ce-42e3-49af-ae27-645eb7676fad?syn-25a6b1a6=1) |
 | Finance | Aug 21, 2026 | [The bond scare and the balance of power](https://www.ft.com/content/5b459fd3-8170-4c43-8db3-3f76d4ab891d) |
 | Finance | Aug 21, 2026 | [Feminism didn’t kill the male breadwinner model, the economy did](https://www.ft.com/content/4b7b8d3f-5625-4dba-ad90-66192c101956?syn-25a6b1a6=1) |
+| Finance | Aug 21, 2026 | [Citadel offloads 80% of portfolio scooped up from Situational Awareness](https://www.ft.com/content/1603577e-89d8-4cfa-884b-b83fbb8dd20e?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
