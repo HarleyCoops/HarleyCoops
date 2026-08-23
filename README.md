@@ -300,8 +300,8 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Finance | Aug 22, 2026 | [Mark Carney says Canada is now ‘at war’ with US over trade](https://www.ft.com/content/e3b5c236-bd5f-45c2-8ddf-5279a7375d3f?syn-25a6b1a6=1) |
 | Finance | Aug 22, 2026 | [Who counts in Trump’s America?](https://www.ft.com/content/7c9cd212-58c6-44e1-b515-022271e4390d?syn-25a6b1a6=1) |
 | Finance | Aug 22, 2026 | [Europe’s fatal beauty](https://www.ft.com/content/ff65daca-59bb-48f2-a6d1-e177a6409459?syn-25a6b1a6=1) |
-| Finance | Aug 21, 2026 | [Greenwich moon time? The high-stakes race to set lunar clocks](https://www.ft.com/content/d09e9c05-60c8-4c8a-8230-a5476a049b88?syn-25a6b1a6=1) |
 | Finance | Aug 22, 2026 | [Trump’s challenge: $40tn debt, 6.7% mortgages and $5 diesel](https://www.ft.com/content/6cb399fa-9fba-4806-98a3-9572fe319622?syn-25a6b1a6=1) |
+| Finance | Aug 22, 2026 | [Bossing the bond market around never works](https://www.ft.com/content/b9e7a620-1018-4004-a3b0-3c85d494d21d?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
