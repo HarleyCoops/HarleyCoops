@@ -292,11 +292,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Aug 23, 2026 | [Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill](https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html) |
 | Market | Aug 21, 2026 | [Kalshi traders think the bitcoin rally could end the year near current levels](https://www.cnbc.com/2026/08/21/kalshi-traders-say-bitcoin-rally-wont-go-much-higher-by-end-of-2026.html) |
 | Market | Aug 21, 2026 | [Trump admin taps former JPMorgan Chase exec Matt Zames to advise Social Security agency](https://www.cnbc.com/2026/08/21/jpmorgan-matt-zames-social-security-administration.html) |
 | Market | Aug 21, 2026 | [Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback](https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html) |
 | Market | Aug 21, 2026 | [Labubu maker Pop Mart shares fall as key ex-China sales data drop, Citi cuts price target](https://www.cnbc.com/2026/08/21/labubu-maker-pop-mart-shares-fall-after-sales-drop-in-asia-americas-.html) |
-| Market | Aug 21, 2026 | [Chinese humanoid robots' biggest obstacle: Humans are still (mostly) better](https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html) |
 | Finance | Aug 23, 2026 | [Anthropic’s best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245?syn-25a6b1a6=1) |
 | Finance | Aug 23, 2026 | [Government can bring robotics to life](https://www.ft.com/content/a4147c6b-5634-4035-b1a8-ac7bf1eb497d?syn-25a6b1a6=1) |
 | Finance | Aug 23, 2026 | [Alibaba announces $10.2bn share placement as Chinese companies expand AI investment](https://www.ft.com/content/e4ab027e-ed41-48b7-89ac-8250d3054ae6?syn-25a6b1a6=1) |
