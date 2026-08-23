@@ -297,11 +297,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Aug 21, 2026 | [Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback](https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html) |
 | Market | Aug 21, 2026 | [Labubu maker Pop Mart shares fall as key ex-China sales data drop, Citi cuts price target](https://www.cnbc.com/2026/08/21/labubu-maker-pop-mart-shares-fall-after-sales-drop-in-asia-americas-.html) |
 | Market | Aug 21, 2026 | [Chinese humanoid robots' biggest obstacle: Humans are still (mostly) better](https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html) |
-| Finance | Aug 22, 2026 | [Mark Carney says Canada is now ‘at war’ with US over trade](https://www.ft.com/content/e3b5c236-bd5f-45c2-8ddf-5279a7375d3f?syn-25a6b1a6=1) |
-| Finance | Aug 22, 2026 | [Who counts in Trump’s America?](https://www.ft.com/content/7c9cd212-58c6-44e1-b515-022271e4390d?syn-25a6b1a6=1) |
-| Finance | Aug 22, 2026 | [Europe’s fatal beauty](https://www.ft.com/content/ff65daca-59bb-48f2-a6d1-e177a6409459?syn-25a6b1a6=1) |
-| Finance | Aug 22, 2026 | [Trump’s challenge: $40tn debt, 6.7% mortgages and $5 diesel](https://www.ft.com/content/6cb399fa-9fba-4806-98a3-9572fe319622?syn-25a6b1a6=1) |
-| Finance | Aug 22, 2026 | [Bossing the bond market around never works](https://www.ft.com/content/b9e7a620-1018-4004-a3b0-3c85d494d21d?syn-25a6b1a6=1) |
+| Finance | Aug 22, 2026 | [Mark Carney says Canada ‘at war’ with US over trade](https://www.ft.com/content/e3b5c236-bd5f-45c2-8ddf-5279a7375d3f?syn-25a6b1a6=1) |
+| Finance | Aug 23, 2026 | [Are America’s vast Gulf bases worth rebuilding?](https://www.ft.com/content/6f664a31-ca24-4a16-a6e9-5978fdf2512c?syn-25a6b1a6=1) |
+| Finance | Aug 23, 2026 | [Why is the far right so obsessed with knights?](https://www.ft.com/content/ef65c99c-b58c-430c-b6be-8036f042cc1e) |
+| Finance | Aug 23, 2026 | [Europe can do better than US-style air conditioning](https://www.ft.com/content/fe9be519-ceae-4279-83b1-220f9505d6a9) |
+| Finance | Aug 22, 2026 | [Israel’s Syria strike may have been bid to provoke Turkey conflict, US envoy says](https://www.ft.com/content/d770cdbf-46b1-4928-9ec7-e1155db679d2) |
 
 <!-- NEWS:END -->
 
