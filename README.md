@@ -297,11 +297,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Aug 21, 2026 | [Trump admin taps former JPMorgan Chase exec Matt Zames to advise Social Security agency](https://www.cnbc.com/2026/08/21/jpmorgan-matt-zames-social-security-administration.html) |
 | Market | Aug 21, 2026 | [Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback](https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html) |
 | Market | Aug 21, 2026 | [Labubu maker Pop Mart shares fall as key ex-China sales data drop, Citi cuts price target](https://www.cnbc.com/2026/08/21/labubu-maker-pop-mart-shares-fall-after-sales-drop-in-asia-americas-.html) |
+| Finance | Aug 23, 2026 | [Warsh seeks to soothe investors’ nerves as signs of economic strain mount](https://www.ft.com/content/40ae9cd3-fbc8-4a55-adaa-c24bc80481c9?syn-25a6b1a6=1) |
+| Finance | Aug 23, 2026 | [How New Zealand’s biggest city solved its housing crisis](https://www.ft.com/content/ec25a937-3dbd-417c-82a1-db223b62cca6?syn-25a6b1a6=1) |
+| Finance | Aug 23, 2026 | [An economic D-Day is coming for Iran](https://www.ft.com/content/cb865200-1a06-40be-86a3-10ee2bb05804) |
+| Finance | Aug 23, 2026 | [Yahoo, the internet’s ‘OG’, wants to win over Gen Z](https://www.ft.com/content/50c666af-1979-4411-9d62-34e18cc0ecc9?syn-25a6b1a6=1) |
 | Finance | Aug 23, 2026 | [Anthropic’s best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245?syn-25a6b1a6=1) |
-| Finance | Aug 23, 2026 | [Government can bring robotics to life](https://www.ft.com/content/a4147c6b-5634-4035-b1a8-ac7bf1eb497d?syn-25a6b1a6=1) |
-| Finance | Aug 23, 2026 | [Alibaba announces $10.2bn share placement as Chinese companies expand AI investment](https://www.ft.com/content/e4ab027e-ed41-48b7-89ac-8250d3054ae6?syn-25a6b1a6=1) |
-| Finance | Aug 23, 2026 | [Are America’s vast Gulf bases worth rebuilding?](https://www.ft.com/content/6f664a31-ca24-4a16-a6e9-5978fdf2512c?syn-25a6b1a6=1) |
-| Finance | Aug 23, 2026 | [Trump’s South Korea snub raises questions in the Asia-Pacific](https://www.ft.com/content/22530c4a-65b7-49f7-890d-1c8900f63853?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
