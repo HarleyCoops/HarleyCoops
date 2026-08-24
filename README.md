@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Aug 24, 2026 | [Prediction market traders doubtful Bessent’s bond interventions will push yields lower](https://www.cnbc.com/2026/08/24/prediction-market-traders-skeptical-bessent-will-send-yields-lower.html) |
+| Market | Aug 24, 2026 | [Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills](https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html) |
+| Market | Aug 24, 2026 | [Crypto extends gains after biggest 3-day rally since 2023](https://www.cnbc.com/2026/08/24/crypto-extends-gains-after-biggest-3-day-rally-since-2023.html) |
 | Market | Aug 24, 2026 | [Alibaba plunges after announcing $10.2 billion share placement to fund AI push](https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html) |
-| Market | Aug 23, 2026 | [Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill](https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html) |
-| Market | Aug 21, 2026 | [Kalshi traders think the bitcoin rally could end the year near current levels](https://www.cnbc.com/2026/08/21/kalshi-traders-say-bitcoin-rally-wont-go-much-higher-by-end-of-2026.html) |
-| Market | Aug 21, 2026 | [Trump admin taps former JPMorgan Chase exec Matt Zames to advise Social Security agency](https://www.cnbc.com/2026/08/21/jpmorgan-matt-zames-social-security-administration.html) |
-| Market | Aug 21, 2026 | [Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback](https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html) |
-| Finance | Aug 24, 2026 | [Iran threatens 46 ships in Strait of Hormuz transit crackdown](https://www.ft.com/content/9ebcd1d7-9959-468b-af96-987ef5bf83a8?syn-25a6b1a6=1) |
-| Finance | Aug 24, 2026 | [Saudi Arabia holds talks over state-backed war insurance as costs jump](https://www.ft.com/content/fce79e4a-3979-4af9-b8e5-27aeb890e53b?syn-25a6b1a6=1) |
-| Finance | Aug 24, 2026 | [Can AI glasses replace the smartphone?](https://www.ft.com/content/3f25f892-2de2-40e6-9592-a7ac18682c6c?syn-25a6b1a6=1) |
+| Market | Aug 24, 2026 | [Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill](https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html) |
+| Finance | Aug 24, 2026 | [Trump says US to increase tariffs on Canadian cars to 50%](https://www.ft.com/content/52978bad-2b91-41e3-be94-7fb6776fbb91?syn-25a6b1a6=1) |
+| Finance | Aug 24, 2026 | [Canadian businesses fear ‘vortex of downward pressures’ from Trump’s tariffs](https://www.ft.com/content/7522bdde-49f8-4bf0-a930-6591b40eb5e4?syn-25a6b1a6=1) |
+| Finance | Aug 24, 2026 | [An offer Canada could only refuse](https://www.ft.com/content/c806d2ce-efed-47a0-9abb-508e218b62b5?syn-25a6b1a6=1) |
+| Finance | Aug 24, 2026 | [How Shein’s $100bn dream unravelled](https://www.ft.com/content/5c8aaa6d-5170-4688-beeb-f1319e5ff29e?syn-25a6b1a6=1) |
 | Finance | Aug 23, 2026 | [An economic D-Day is coming for Iran](https://www.ft.com/content/cb865200-1a06-40be-86a3-10ee2bb05804) |
-| Finance | Aug 24, 2026 | [A ‘democratised’ financial crisis is still a crisis](https://www.ft.com/content/f3f51071-3c6e-49ee-a984-92d8d7af99b2?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
