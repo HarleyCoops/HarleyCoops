@@ -297,11 +297,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Aug 21, 2026 | [Kalshi traders think the bitcoin rally could end the year near current levels](https://www.cnbc.com/2026/08/21/kalshi-traders-say-bitcoin-rally-wont-go-much-higher-by-end-of-2026.html) |
 | Market | Aug 21, 2026 | [Trump admin taps former JPMorgan Chase exec Matt Zames to advise Social Security agency](https://www.cnbc.com/2026/08/21/jpmorgan-matt-zames-social-security-administration.html) |
 | Market | Aug 21, 2026 | [Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback](https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html) |
-| Finance | Aug 23, 2026 | [Warsh seeks to soothe investors’ nerves as signs of economic strain mount](https://www.ft.com/content/40ae9cd3-fbc8-4a55-adaa-c24bc80481c9?syn-25a6b1a6=1) |
-| Finance | Aug 24, 2026 | [Does AI belong on your face?](https://www.ft.com/content/3f25f892-2de2-40e6-9592-a7ac18682c6c?syn-25a6b1a6=1) |
+| Finance | Aug 24, 2026 | [Iran threatens 46 ships in Strait of Hormuz transit crackdown](https://www.ft.com/content/9ebcd1d7-9959-468b-af96-987ef5bf83a8?syn-25a6b1a6=1) |
+| Finance | Aug 24, 2026 | [Saudi Arabia holds talks over state-backed war insurance as costs jump](https://www.ft.com/content/fce79e4a-3979-4af9-b8e5-27aeb890e53b?syn-25a6b1a6=1) |
+| Finance | Aug 24, 2026 | [Can AI glasses replace the smartphone?](https://www.ft.com/content/3f25f892-2de2-40e6-9592-a7ac18682c6c?syn-25a6b1a6=1) |
 | Finance | Aug 23, 2026 | [An economic D-Day is coming for Iran](https://www.ft.com/content/cb865200-1a06-40be-86a3-10ee2bb05804) |
 | Finance | Aug 24, 2026 | [A ‘democratised’ financial crisis is still a crisis](https://www.ft.com/content/f3f51071-3c6e-49ee-a984-92d8d7af99b2?syn-25a6b1a6=1) |
-| Finance | Aug 24, 2026 | [US widens AI-driven investment gap with Europe](https://www.ft.com/content/77b94c4a-4b4b-4983-9138-7db6926150f4?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
