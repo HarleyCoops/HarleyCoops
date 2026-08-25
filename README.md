@@ -297,8 +297,8 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Aug 24, 2026 | [Crypto extends gains after biggest 3-day rally since 2023](https://www.cnbc.com/2026/08/24/crypto-extends-gains-after-biggest-3-day-rally-since-2023.html) |
 | Market | Aug 24, 2026 | [Alibaba plunges after announcing $10.2 billion share placement to fund AI push](https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html) |
 | Market | Aug 24, 2026 | [Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill](https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html) |
-| Finance | Aug 25, 2026 | [US grain farmers pummelled as Iran war triggers surge in costs](https://www.ft.com/content/acb64e29-a3ce-4282-82b0-6b7b5dd4f63e?syn-25a6b1a6=1) |
-| Finance | Aug 25, 2026 | [US affordability tracker: the data that could decide the 2026 midterm elections](https://www.ft.com/content/71dccbca-4a1f-485a-9790-28cc527cdb82?syn-25a6b1a6=1) |
+| Finance | Aug 25, 2026 | [China warns US it could retaliate over Iran sanctions](https://www.ft.com/content/aa7ba671-8175-4b53-b6a5-28803a851493?syn-25a6b1a6=1) |
+| Finance | Aug 25, 2026 | [Iranians queue for petrol as US blockade bites](https://www.ft.com/content/e08d7f0e-f9fb-45a4-a1ef-025a75a5b776?syn-25a6b1a6=1) |
 | Finance | Aug 25, 2026 | [The threats to ‘Swiss Made’](https://www.ft.com/content/db7494b8-c590-4a50-8644-211d154a8f7b?syn-25a6b1a6=1) |
 | Finance | Aug 25, 2026 | [Socialists and Maga are both wrong about economic liberalism](https://www.ft.com/content/02e197fb-e6dc-426b-a952-72cc906a2733) |
 | Finance | Aug 25, 2026 | [The little-known French company trying to unseat Palantir in Europe](https://www.ft.com/content/f4a1aa36-761b-4b5a-86a4-4be9abc5cd46?syn-25a6b1a6=1) |
