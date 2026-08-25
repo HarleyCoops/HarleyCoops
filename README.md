@@ -301,7 +301,7 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Finance | Aug 24, 2026 | [Canadian businesses fear ‘vortex of downward pressures’ from Trump’s tariffs](https://www.ft.com/content/7522bdde-49f8-4bf0-a930-6591b40eb5e4?syn-25a6b1a6=1) |
 | Finance | Aug 24, 2026 | [An offer Canada could only refuse](https://www.ft.com/content/c806d2ce-efed-47a0-9abb-508e218b62b5?syn-25a6b1a6=1) |
 | Finance | Aug 24, 2026 | [How Shein’s $100bn dream unravelled](https://www.ft.com/content/5c8aaa6d-5170-4688-beeb-f1319e5ff29e?syn-25a6b1a6=1) |
-| Finance | Aug 23, 2026 | [An economic D-Day is coming for Iran](https://www.ft.com/content/cb865200-1a06-40be-86a3-10ee2bb05804) |
+| Finance | Aug 24, 2026 | [Treasury market interventions are only a band-aid](https://www.ft.com/content/d6c9e705-ef30-4896-880b-8e88941e0f58?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
