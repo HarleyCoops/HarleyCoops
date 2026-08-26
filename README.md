@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Aug 26, 2026 | [HP partners with U.S.-blacklisted Huawei for licensing the Chinese company's WiFi tech](https://www.cnbc.com/2026/08/25/hp-partners-huawei-wifi-tech-us-entity-list.html) |
 | Market | Aug 25, 2026 | [China needs U.S. dollars but is building a hedge against Washington’s sanctions](https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html) |
 | Market | Aug 24, 2026 | [Prediction market traders doubtful Bessent’s bond interventions will push yields lower](https://www.cnbc.com/2026/08/24/prediction-market-traders-skeptical-bessent-will-send-yields-lower.html) |
 | Market | Aug 24, 2026 | [Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills](https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html) |
 | Market | Aug 25, 2026 | [Crypto extends gains after biggest 3-day rally since 2023](https://www.cnbc.com/2026/08/24/crypto-extends-gains-after-biggest-3-day-rally-since-2023.html) |
-| Market | Aug 24, 2026 | [Alibaba plunges after announcing $10.2 billion share placement to fund AI push](https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html) |
-| Finance | Aug 25, 2026 | [Canada announces $20bn retaliatory tariffs as US trade war escalates](https://www.ft.com/content/7ced71c2-03b8-4569-a68d-14624a7e83f2?syn-25a6b1a6=1) |
-| Finance | Aug 25, 2026 | [‘Embarrassing’: US officials recoil from Trump’s Canada attacks](https://www.ft.com/content/3b7ac1fe-4761-4b4a-8fff-95c8c28566b9?syn-25a6b1a6=1) |
-| Finance | Aug 25, 2026 | [US affordability tracker: the data that could decide the 2026 midterm elections](https://www.ft.com/content/71dccbca-4a1f-485a-9790-28cc527cdb82?syn-25a6b1a6=1) |
-| Finance | Aug 25, 2026 | [The drip-drip US debt crisis](https://www.ft.com/content/7588a11f-ff57-4c1a-b4cf-2a55a6d8c6b2?syn-25a6b1a6=1) |
-| Finance | Aug 25, 2026 | [The old asbestos town at the heart of the rare earths race](https://www.ft.com/content/a40460fa-88fa-437f-99c6-828b2636f300?syn-25a6b1a6=1) |
+| Finance | Aug 26, 2026 | [Bessent’s bond intervention puts US Treasury on collision course with Fed](https://www.ft.com/content/a50df99b-0621-44ea-a7c7-c9c685e2eba1?syn-25a6b1a6=1) |
+| Finance | Aug 26, 2026 | [How chicken conquered the world](https://www.ft.com/content/6cbabfff-c549-42ce-b4a8-4a6535bf165b?syn-25a6b1a6=1) |
+| Finance | Aug 26, 2026 | [The bankers cashing in on Italy’s wealth boom](https://www.ft.com/content/73134cc3-2ff4-43db-8d49-019bf1abb385?syn-25a6b1a6=1) |
+| Finance | Aug 26, 2026 | [‘It seems crazy’: SpaceX’s orbital data centre bet tests physics and finance](https://www.ft.com/content/41e60b41-5f13-4d72-8dfc-9bab83f57fb3?syn-25a6b1a6=1) |
+| Finance | Aug 25, 2026 | [Trump administration pauses immigrant visa applications](https://www.ft.com/content/857fb8e1-eec6-443e-97e8-f6876302aabc?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
