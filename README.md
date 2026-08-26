@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Aug 26, 2026 | [China's short-drama producers flood the market with cheap bets — and let audiences pick the winners](https://www.cnbc.com/2026/08/26/short-drama-china-production-ai-entertainment-economics.html) |
 | Market | Aug 26, 2026 | [HP partners with U.S.-blacklisted Huawei for licensing the Chinese company's WiFi tech](https://www.cnbc.com/2026/08/25/hp-partners-huawei-wifi-tech-us-entity-list.html) |
 | Market | Aug 25, 2026 | [China needs U.S. dollars but is building a hedge against Washington’s sanctions](https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html) |
 | Market | Aug 24, 2026 | [Prediction market traders doubtful Bessent’s bond interventions will push yields lower](https://www.cnbc.com/2026/08/24/prediction-market-traders-skeptical-bessent-will-send-yields-lower.html) |
 | Market | Aug 24, 2026 | [Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills](https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html) |
-| Market | Aug 25, 2026 | [Crypto extends gains after biggest 3-day rally since 2023](https://www.cnbc.com/2026/08/24/crypto-extends-gains-after-biggest-3-day-rally-since-2023.html) |
 | Finance | Aug 26, 2026 | [Bessent’s bond intervention puts US Treasury on collision course with Fed](https://www.ft.com/content/a50df99b-0621-44ea-a7c7-c9c685e2eba1?syn-25a6b1a6=1) |
+| Finance | Aug 26, 2026 | [Why today’s markets are not as contradictory as they seem](https://www.ft.com/content/c96c25c1-b27c-4c08-a2ba-21821b39dd78?syn-25a6b1a6=1) |
 | Finance | Aug 26, 2026 | [How chicken conquered the world](https://www.ft.com/content/6cbabfff-c549-42ce-b4a8-4a6535bf165b?syn-25a6b1a6=1) |
+| Finance | Aug 26, 2026 | [The end of Trumpsplaining](https://www.ft.com/content/ea6efd7b-83c3-40ed-803a-e86402aa3aeb?syn-25a6b1a6=1) |
 | Finance | Aug 26, 2026 | [The bankers cashing in on Italy’s wealth boom](https://www.ft.com/content/73134cc3-2ff4-43db-8d49-019bf1abb385?syn-25a6b1a6=1) |
-| Finance | Aug 26, 2026 | [‘It seems crazy’: SpaceX’s orbital data centre bet tests physics and finance](https://www.ft.com/content/41e60b41-5f13-4d72-8dfc-9bab83f57fb3?syn-25a6b1a6=1) |
-| Finance | Aug 25, 2026 | [Trump administration pauses immigrant visa applications](https://www.ft.com/content/857fb8e1-eec6-443e-97e8-f6876302aabc?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
