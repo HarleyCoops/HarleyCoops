@@ -301,7 +301,7 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Finance | Aug 25, 2026 | [‘Embarrassing’: US officials recoil from Trump’s Canada attacks](https://www.ft.com/content/3b7ac1fe-4761-4b4a-8fff-95c8c28566b9?syn-25a6b1a6=1) |
 | Finance | Aug 25, 2026 | [US affordability tracker: the data that could decide the 2026 midterm elections](https://www.ft.com/content/71dccbca-4a1f-485a-9790-28cc527cdb82?syn-25a6b1a6=1) |
 | Finance | Aug 25, 2026 | [The drip-drip US debt crisis](https://www.ft.com/content/7588a11f-ff57-4c1a-b4cf-2a55a6d8c6b2?syn-25a6b1a6=1) |
-| Finance | Aug 25, 2026 | [The threats to ‘Swiss Made’](https://www.ft.com/content/db7494b8-c590-4a50-8644-211d154a8f7b?syn-25a6b1a6=1) |
+| Finance | Aug 25, 2026 | [The old asbestos town at the heart of the rare earths race](https://www.ft.com/content/a40460fa-88fa-437f-99c6-828b2636f300?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
