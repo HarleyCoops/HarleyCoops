@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Aug 27, 2026 | [Z.ai shares surge 8% after releasing new AI model running only on Chinese chips](https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html) |
 | Market | Aug 26, 2026 | [China's short-drama producers flood the market with cheap bets — and let audiences pick the winners](https://www.cnbc.com/2026/08/26/short-drama-china-production-ai-entertainment-economics.html) |
-| Market | Aug 27, 2026 | [HP partners with U.S.-blacklisted Huawei for licensing the Chinese company's WiFi tech](https://www.cnbc.com/2026/08/25/hp-partners-huawei-wifi-tech-us-entity-list.html) |
+| Market | Aug 27, 2026 | [HP inks deal with U.S.-blacklisted Huawei for licensing the Chinese company's WiFi tech](https://www.cnbc.com/2026/08/25/hp-partners-huawei-wifi-tech-us-entity-list.html) |
 | Market | Aug 25, 2026 | [China needs U.S. dollars but is building a hedge against Washington’s sanctions](https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html) |
 | Market | Aug 24, 2026 | [Prediction market traders doubtful Bessent’s bond interventions will push yields lower](https://www.cnbc.com/2026/08/24/prediction-market-traders-skeptical-bessent-will-send-yields-lower.html) |
-| Market | Aug 24, 2026 | [Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills](https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html) |
-| Finance | Aug 27, 2026 | [Nvidia projects 70% sales growth next year as it rebuts ‘circular financing’ criticisms](https://www.ft.com/content/72908915-5e4a-457c-8c3a-aee8917a664a?syn-25a6b1a6=1) |
-| Finance | Aug 26, 2026 | [Anthropic agrees $45bn AI data centre deal with UK start-up Nscale](https://www.ft.com/content/0ec76ba3-5f7f-4085-88fb-acf21954bc85?syn-25a6b1a6=1) |
-| Finance | Aug 26, 2026 | [The multiplying risks of financing data centres](https://www.ft.com/content/9cb63980-cd43-419d-a7e5-42039b9fd01e?syn-25a6b1a6=1) |
-| Finance | Aug 26, 2026 | [Hundreds reported missing after flash flood on Nepal border with China](https://www.ft.com/content/a97acd81-ed7c-4d27-a9c9-298348242e37?syn-25a6b1a6=1) |
-| Finance | Aug 26, 2026 | [Dolly Parton’s lessons for business](https://www.ft.com/content/c36f89d0-0d53-41f6-a0eb-89c5921e14df?syn-25a6b1a6=1) |
+| Finance | Aug 27, 2026 | [Nvidia forecasts 70% sales growth fuelled by relentless AI boom](https://www.ft.com/content/72908915-5e4a-457c-8c3a-aee8917a664a?syn-25a6b1a6=1) |
+| Finance | Aug 27, 2026 | [Jane Street’s growing pains](https://www.ft.com/content/ea9c073d-4e9d-4e8a-98c0-68e278faa081?syn-25a6b1a6=1) |
+| Finance | Aug 27, 2026 | [Are economists making themselves too useful in the AI boom?](https://www.ft.com/content/84718e2b-13c9-4469-a1d6-52556c7f637f?syn-25a6b1a6=1) |
+| Finance | Aug 27, 2026 | [The US is gambling with its role as the world’s investment hub](https://www.ft.com/content/ce910f62-6119-4d5f-97a4-77bbad03318d?syn-25a6b1a6=1) |
+| Finance | Aug 27, 2026 | [Bitcoin treasury companies shed $80bn in value as business model unwinds](https://www.ft.com/content/79884de5-774a-4633-ba92-be4184eb22c1?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
