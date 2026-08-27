@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Aug 27, 2026 | [Kansas City Fed's Schmid says inflation 'stubborn' and 'sticky,' policy rate not restrictive](https://www.cnbc.com/2026/08/27/kansas-city-feds-schmid-says-inflation-stubborn-and-sticky-policy-rate-not-restrictive.html) |
 | Market | Aug 27, 2026 | [Z.ai shares surge 8% after releasing new AI model running only on Chinese chips](https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html) |
 | Market | Aug 26, 2026 | [China's short-drama producers flood the market with cheap bets — and let audiences pick the winners](https://www.cnbc.com/2026/08/26/short-drama-china-production-ai-entertainment-economics.html) |
 | Market | Aug 27, 2026 | [HP inks deal with U.S.-blacklisted Huawei for licensing the Chinese company's WiFi tech](https://www.cnbc.com/2026/08/25/hp-partners-huawei-wifi-tech-us-entity-list.html) |
 | Market | Aug 25, 2026 | [China needs U.S. dollars but is building a hedge against Washington’s sanctions](https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html) |
-| Market | Aug 24, 2026 | [Prediction market traders doubtful Bessent’s bond interventions will push yields lower](https://www.cnbc.com/2026/08/24/prediction-market-traders-skeptical-bessent-will-send-yields-lower.html) |
-| Finance | Aug 27, 2026 | [Nvidia forecasts 70% sales growth fuelled by relentless AI boom](https://www.ft.com/content/72908915-5e4a-457c-8c3a-aee8917a664a?syn-25a6b1a6=1) |
+| Finance | Aug 27, 2026 | [Uefa prepares criminal complaint against Fifa’s Infantino](https://www.ft.com/content/7729314c-4928-485e-bfe8-5d6749d65cd2?syn-25a6b1a6=1) |
 | Finance | Aug 27, 2026 | [Jane Street’s growing pains](https://www.ft.com/content/ea9c073d-4e9d-4e8a-98c0-68e278faa081?syn-25a6b1a6=1) |
-| Finance | Aug 27, 2026 | [Are economists making themselves too useful in the AI boom?](https://www.ft.com/content/84718e2b-13c9-4469-a1d6-52556c7f637f?syn-25a6b1a6=1) |
-| Finance | Aug 27, 2026 | [The US is gambling with its role as the world’s investment hub](https://www.ft.com/content/ce910f62-6119-4d5f-97a4-77bbad03318d?syn-25a6b1a6=1) |
-| Finance | Aug 27, 2026 | [Bitcoin treasury companies shed $80bn in value as business model unwinds](https://www.ft.com/content/79884de5-774a-4633-ba92-be4184eb22c1?syn-25a6b1a6=1) |
+| Finance | Aug 27, 2026 | [Don’t draw the wrong conclusion from Treasury yields](https://www.ft.com/content/a919761d-dab1-4a6e-93fe-f69910192c1c) |
+| Finance | Aug 27, 2026 | [Humanoid robots will be useful, just not as we imagined](https://www.ft.com/content/52e03e5d-12f7-41e2-a62e-3822200ea7b7?syn-25a6b1a6=1) |
+| Finance | Aug 27, 2026 | [Jes Staley told Congress it was ‘incredible’ Epstein’s abuse continued after jail](https://www.ft.com/content/5250dd00-5bfc-44ce-80d6-2295c020efb8?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
