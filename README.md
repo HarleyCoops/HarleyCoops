@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Aug 28, 2026 | [Trump ratchets up rhetoric against Beijing as U.S.-China officials meet for Xi's Washington visit](https://www.cnbc.com/2026/08/28/trump-x-meeting-us-china-iran-sanctions.html) |
 | Market | Aug 27, 2026 | [Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect](https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html) |
 | Market | Aug 27, 2026 | [Kansas City Fed's Schmid says inflation 'stubborn' and 'sticky,' policy rate not restrictive](https://www.cnbc.com/2026/08/27/kansas-city-feds-schmid-says-inflation-stubborn-and-sticky-policy-rate-not-restrictive.html) |
 | Market | Aug 27, 2026 | [Z.ai shares surge 8% after releasing new AI model running only on Chinese chips](https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html) |
 | Market | Aug 26, 2026 | [China's short-drama producers flood the market with cheap bets — and let audiences pick the winners](https://www.cnbc.com/2026/08/26/short-drama-china-production-ai-entertainment-economics.html) |
-| Market | Aug 27, 2026 | [HP inks deal with U.S.-blacklisted Huawei for licensing the Chinese company's WiFi tech](https://www.cnbc.com/2026/08/25/hp-partners-huawei-wifi-tech-us-entity-list.html) |
 | Finance | Aug 27, 2026 | [Uefa prepares criminal complaint against Fifa’s Infantino](https://www.ft.com/content/7729314c-4928-485e-bfe8-5d6749d65cd2?syn-25a6b1a6=1) |
-| Finance | Aug 27, 2026 | [Does Trump still have working-class appeal? The Bronx offers clues](https://www.ft.com/content/f0fae869-6139-489c-9b96-5ec05c3fcfb3?syn-25a6b1a6=1) |
+| Finance | Aug 27, 2026 | [The devastating forces behind the deadly Himalayan flood](https://www.ft.com/content/0d794bd6-a7ec-465a-ba97-452c9928df4e?syn-25a6b1a6=1) |
 | Finance | Aug 27, 2026 | [Don’t draw the wrong conclusion from Treasury yields](https://www.ft.com/content/a919761d-dab1-4a6e-93fe-f69910192c1c) |
-| Finance | Aug 27, 2026 | [Humanoid robots will be useful, just not as we imagined](https://www.ft.com/content/52e03e5d-12f7-41e2-a62e-3822200ea7b7?syn-25a6b1a6=1) |
 | Finance | Aug 27, 2026 | [Trump orders Lake Ontario to be renamed ‘Lake America’ in new slight to Canada](https://www.ft.com/content/6f0cdf31-de96-4058-92a9-f6684b5e1ef6?syn-25a6b1a6=1) |
+| Finance | Aug 27, 2026 | [Canada poaches 48 top US-based academics](https://www.ft.com/content/8cc488a5-54c2-41f9-8b87-327ff591be6a?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
