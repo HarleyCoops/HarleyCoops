@@ -297,11 +297,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Aug 27, 2026 | [Kansas City Fed's Schmid says inflation 'stubborn' and 'sticky,' policy rate not restrictive](https://www.cnbc.com/2026/08/27/kansas-city-feds-schmid-says-inflation-stubborn-and-sticky-policy-rate-not-restrictive.html) |
 | Market | Aug 27, 2026 | [Z.ai shares surge 8% after releasing new AI model running only on Chinese chips](https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html) |
 | Market | Aug 26, 2026 | [China's short-drama producers flood the market with cheap bets — and let audiences pick the winners](https://www.cnbc.com/2026/08/26/short-drama-china-production-ai-entertainment-economics.html) |
-| Finance | Aug 27, 2026 | [Uefa prepares criminal complaint against Fifa’s Infantino](https://www.ft.com/content/7729314c-4928-485e-bfe8-5d6749d65cd2?syn-25a6b1a6=1) |
+| Finance | Aug 28, 2026 | [US corporate profits surge to record as worker payouts wilt](https://www.ft.com/content/6f3ada65-c56c-499c-8eb6-008fac58949d?syn-25a6b1a6=1) |
+| Finance | Aug 28, 2026 | [The cowboy clinics selling unproven longevity treatments](https://www.ft.com/content/007e0862-ffe7-4b8f-a540-05a19d1a45dc?syn-25a6b1a6=1) |
 | Finance | Aug 27, 2026 | [The devastating forces behind the deadly Himalayan flood](https://www.ft.com/content/0d794bd6-a7ec-465a-ba97-452c9928df4e?syn-25a6b1a6=1) |
-| Finance | Aug 27, 2026 | [Don’t draw the wrong conclusion from Treasury yields](https://www.ft.com/content/a919761d-dab1-4a6e-93fe-f69910192c1c) |
-| Finance | Aug 27, 2026 | [Trump orders Lake Ontario to be renamed ‘Lake America’ in new slight to Canada](https://www.ft.com/content/6f0cdf31-de96-4058-92a9-f6684b5e1ef6?syn-25a6b1a6=1) |
-| Finance | Aug 27, 2026 | [Canada poaches 48 top US-based academics](https://www.ft.com/content/8cc488a5-54c2-41f9-8b87-327ff591be6a?syn-25a6b1a6=1) |
+| Finance | Aug 28, 2026 | [Is China’s ‘wise camel’ the winner from the US-Iran war?](https://www.ft.com/content/42935d28-2998-4c1b-a2f3-82ec0e462ec4?syn-25a6b1a6=1) |
+| Finance | Aug 28, 2026 | [China suspends Himalaya flood rescue efforts as lake overflows](https://www.ft.com/content/65478d4a-7edd-45b6-884e-144b22b50a0f?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
