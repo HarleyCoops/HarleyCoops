@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Aug 28, 2026 | [Corn and wheat prices jump to highest prices in more than three years](https://www.cnbc.com/2026/08/28/corn-and-wheat-prices-jump-to-highest-prices-in-more-than-three-years.html) |
+| Market | Aug 28, 2026 | [U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court](https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html) |
 | Market | Aug 28, 2026 | [September Fed decision is now a coin flip as rate hike odds increase post Warsh](https://www.cnbc.com/2026/08/28/-september-fed-decision-now-a-coin-flip-as-rate-hike-odds-increase.html) |
 | Market | Aug 28, 2026 | [Trump ratchets up rhetoric against Beijing as U.S.-China officials meet for Xi's Washington visit](https://www.cnbc.com/2026/08/28/trump-x-meeting-us-china-iran-sanctions.html) |
 | Market | Aug 28, 2026 | [Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect](https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html) |
-| Market | Aug 27, 2026 | [Kansas City Fed's Schmid says inflation 'stubborn' and 'sticky,' policy rate not restrictive](https://www.cnbc.com/2026/08/27/kansas-city-feds-schmid-says-inflation-stubborn-and-sticky-policy-rate-not-restrictive.html) |
-| Market | Aug 27, 2026 | [Z.ai shares surge 8% after releasing new AI model running only on Chinese chips](https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html) |
 | Finance | Aug 28, 2026 | [Hawkish Warsh hints Fed will raise rates if inflation does not fall soon](https://www.ft.com/content/d15851dc-9177-4bfe-9039-8d9994a2e4b3?syn-25a6b1a6=1) |
+| Finance | Aug 28, 2026 | [Warsh settles some nerves at Jackson Hole](https://www.ft.com/content/646b812e-c9de-49ba-90f3-f9d12205f876?syn-25a6b1a6=1) |
+| Finance | Aug 28, 2026 | [Read: Warsh’s Jackson Hole address in full](https://d1e00ek4ebabms.cloudfront.net/production/uploaded-files/warsh20260828a-368f962a-6c63-42b1-906c-5f65f27d83d6.pdf?syn-25a6b1a6=1) |
 | Finance | Aug 28, 2026 | [Former IMF deputy Gita Gopinath: ‘It’s straight-out protectionism’](https://www.ft.com/content/f983d0be-e58b-4e61-bd67-59e487dad9fe?syn-25a6b1a6=1) |
-| Finance | Aug 28, 2026 | [Is China’s ‘wise camel’ the winner from the US-Iran war?](https://www.ft.com/content/42935d28-2998-4c1b-a2f3-82ec0e462ec4?syn-25a6b1a6=1) |
-| Finance | Aug 28, 2026 | [Liechtenstein prince tightens grip in succession shake-up](https://www.ft.com/content/c25c1bdf-8acf-4ccc-bc67-c31bc9fb83bc?syn-25a6b1a6=1) |
-| Finance | Aug 28, 2026 | [China suspends Himalaya flood rescue efforts as lake overflows](https://www.ft.com/content/65478d4a-7edd-45b6-884e-144b22b50a0f?syn-25a6b1a6=1) |
+| Finance | Aug 28, 2026 | [The cult $4.99 rotisserie chicken defying inflation](https://www.ft.com/content/30ac3572-06a9-4718-8043-60b1dee50c40?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
