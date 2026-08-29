@@ -293,15 +293,15 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Category | Date | Headline |
 |----------|------|----------|
 | Market | Aug 28, 2026 | [Corn and wheat prices jump to highest prices in more than three years](https://www.cnbc.com/2026/08/28/corn-and-wheat-prices-jump-to-highest-prices-in-more-than-three-years.html) |
-| Market | Aug 28, 2026 | [U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court](https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html) |
+| Market | Aug 29, 2026 | [U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court](https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html) |
 | Market | Aug 28, 2026 | [September Fed decision is now a coin flip as rate hike odds increase post Warsh](https://www.cnbc.com/2026/08/28/-september-fed-decision-now-a-coin-flip-as-rate-hike-odds-increase.html) |
 | Market | Aug 28, 2026 | [Trump ratchets up rhetoric against Beijing as U.S.-China officials meet for Xi's Washington visit](https://www.cnbc.com/2026/08/28/trump-x-meeting-us-china-iran-sanctions.html) |
 | Market | Aug 28, 2026 | [Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect](https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html) |
-| Finance | Aug 28, 2026 | [Hawkish Warsh hints Fed will raise rates if inflation does not fall soon](https://www.ft.com/content/d15851dc-9177-4bfe-9039-8d9994a2e4b3?syn-25a6b1a6=1) |
-| Finance | Aug 28, 2026 | [Warsh settles some nerves at Jackson Hole](https://www.ft.com/content/646b812e-c9de-49ba-90f3-f9d12205f876?syn-25a6b1a6=1) |
-| Finance | Aug 28, 2026 | [Read: Warsh’s Jackson Hole address in full](https://d1e00ek4ebabms.cloudfront.net/production/uploaded-files/warsh20260828a-368f962a-6c63-42b1-906c-5f65f27d83d6.pdf?syn-25a6b1a6=1) |
-| Finance | Aug 28, 2026 | [Former IMF deputy Gita Gopinath: ‘It’s straight-out protectionism’](https://www.ft.com/content/f983d0be-e58b-4e61-bd67-59e487dad9fe?syn-25a6b1a6=1) |
-| Finance | Aug 28, 2026 | [The cult $4.99 rotisserie chicken defying inflation](https://www.ft.com/content/30ac3572-06a9-4718-8043-60b1dee50c40?syn-25a6b1a6=1) |
+| Finance | Aug 29, 2026 | [Trump says US to take control of 65bn barrels of Venezuelan oil](https://www.ft.com/content/2f88581f-4fbc-46a2-8127-830bb630c2f2?syn-25a6b1a6=1) |
+| Finance | Aug 29, 2026 | [Did AI write this? It’s getting harder to tell](https://www.ft.com/content/f100c90b-c138-4125-aaa7-853b77690db9?syn-25a6b1a6=1) |
+| Finance | Aug 29, 2026 | [How finance redeemed itself](https://www.ft.com/content/63981a46-5849-4c1b-b5df-bfacd85c9d93?syn-25a6b1a6=1) |
+| Finance | Aug 29, 2026 | [Risk of a new age of financial repression is rising](https://www.ft.com/content/ba4b940e-4a44-473b-9846-eaba9434b65f?syn-25a6b1a6=1) |
+| Finance | Aug 29, 2026 | [US campaign to isolate Iran closes in on Dubai](https://www.ft.com/content/930386eb-b5d4-4a62-a258-f7ab46401655?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
