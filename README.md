@@ -297,11 +297,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Aug 28, 2026 | [September Fed decision is now a coin flip as rate hike odds increase post Warsh](https://www.cnbc.com/2026/08/28/-september-fed-decision-now-a-coin-flip-as-rate-hike-odds-increase.html) |
 | Market | Aug 28, 2026 | [Trump ratchets up rhetoric against Beijing as U.S.-China officials meet for Xi's Washington visit](https://www.cnbc.com/2026/08/28/trump-x-meeting-us-china-iran-sanctions.html) |
 | Market | Aug 28, 2026 | [Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect](https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html) |
-| Finance | Aug 29, 2026 | [Trump says US to take control of 65bn barrels of Venezuelan oil](https://www.ft.com/content/2f88581f-4fbc-46a2-8127-830bb630c2f2?syn-25a6b1a6=1) |
+| Finance | Aug 29, 2026 | [Warsh puts Fed on collision course with Trump ahead of midterms](https://www.ft.com/content/69452aea-cee0-47de-be8a-dc790fed3db1?syn-25a6b1a6=1) |
+| Finance | Aug 29, 2026 | [Warsh charts a forward-looking path for the Fed at Jackson Hole](https://www.ft.com/content/4319c6b7-5a25-41a7-836f-ca068ac4fe60?syn-25a6b1a6=1) |
+| Finance | Aug 29, 2026 | [Risk of a new age of financial repression is rising](https://www.ft.com/content/ba4b940e-4a44-473b-9846-eaba9434b65f?syn-25a6b1a6=1) |
 | Finance | Aug 29, 2026 | [Did AI write this? It’s getting harder to tell](https://www.ft.com/content/f100c90b-c138-4125-aaa7-853b77690db9?syn-25a6b1a6=1) |
 | Finance | Aug 29, 2026 | [How finance redeemed itself](https://www.ft.com/content/63981a46-5849-4c1b-b5df-bfacd85c9d93?syn-25a6b1a6=1) |
-| Finance | Aug 29, 2026 | [Risk of a new age of financial repression is rising](https://www.ft.com/content/ba4b940e-4a44-473b-9846-eaba9434b65f?syn-25a6b1a6=1) |
-| Finance | Aug 29, 2026 | [US campaign to isolate Iran closes in on Dubai](https://www.ft.com/content/930386eb-b5d4-4a62-a258-f7ab46401655?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
