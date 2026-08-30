@@ -299,9 +299,9 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Aug 28, 2026 | [Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect](https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html) |
 | Finance | Aug 30, 2026 | [Rising bond yields add tens of billions to G7 countries’ debt costs](https://www.ft.com/content/bbe90db5-64ac-441d-87e4-e984c5ef8629?syn-25a6b1a6=1) |
 | Finance | Aug 30, 2026 | [What’s the fiscal hit from higher yields?](https://www.ft.com/content/63311687-676b-4548-9bd8-3d7ad96d7ce5) |
-| Finance | Aug 29, 2026 | [What the Indiana state fair reveals about Trump’s America](https://www.ft.com/content/4f9bd1ed-f783-45c9-8542-addd8b57ee9f?syn-25a6b1a6=1) |
 | Finance | Aug 30, 2026 | [Summer might be ending, but we can hold on to some of its magic](https://www.ft.com/content/ba323075-bf96-4acf-af32-1e5967be0590?syn-25a6b1a6=1) |
-| Finance | Aug 30, 2026 | [Your body is not a machine](https://www.ft.com/content/360e9a56-287d-4d94-8a90-9cc88d49c807) |
+| Finance | Aug 30, 2026 | [Friends with fiscal benefits](https://www.ft.com/content/ce3139ac-e88e-4c0d-ab92-b36e79052836?syn-25a6b1a6=1) |
+| Finance | Aug 29, 2026 | [US oil deal denounced by both sides of Venezuelan politics](https://www.ft.com/content/b3c98ca2-fe67-459d-89ff-4728993110b7?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
