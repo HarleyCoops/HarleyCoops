@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Aug 31, 2026 | [Aon CEO says insurance broker seeks to build 'premiere middle market platform' with purchase of r...](https://www.cnbc.com/2026/08/31/aon-ceo-says-usi-deal-seeks-to-build-premiere-middle-market-insurance-platform.html) |
 | Market | Aug 31, 2026 | [Kalshi partners with brokerage Alpaca as it tries to build its international audience](https://www.cnbc.com/2026/08/31/kalshi-looks-international-partners-with-brokerage-alpaca.html) |
 | Market | Aug 31, 2026 | [Crypto exchange Gemini not at fault for collapse of Earn lending program, arbitrator says](https://www.cnbc.com/2026/08/31/gemini-not-at-fault-for-collapse-of-earn-lending-program-arbitrator-says.html) |
 | Market | Aug 31, 2026 | [China's Xi builds diplomatic clout with multiple state visits ahead of Trump summit](https://www.cnbc.com/2026/08/31/china-xi-us-trump-visit-sco-brics-modi-india.html) |
 | Market | Aug 31, 2026 | [Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed 'at odds' wit...](https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html) |
-| Market | Aug 28, 2026 | [Corn and wheat prices jump to highest prices in more than three years](https://www.cnbc.com/2026/08/28/corn-and-wheat-prices-jump-to-highest-prices-in-more-than-three-years.html) |
-| Finance | Aug 31, 2026 | [Consultants head for a showdown — with their own clients](https://www.ft.com/content/709d7e2d-0c2f-45bc-b559-e7328372cf9e?syn-25a6b1a6=1) |
-| Finance | Aug 31, 2026 | [Alejandro Betancourt: the man who would be Trump’s ‘viceroy’ in Venezuela](https://www.ft.com/content/9dbf9c9a-b3e2-4701-b584-dca72b349716?syn-25a6b1a6=1) |
+| Finance | Aug 31, 2026 | [Trump says data centre critics ‘want to end up backwards and poor’](https://www.ft.com/content/744c448c-858e-4398-85dc-a66cecd02abb?syn-25a6b1a6=1) |
+| Finance | Aug 31, 2026 | [The dawn of physical AI](https://www.ft.com/content/fc8f86f2-96ad-4bfb-bba4-75326115aa24?syn-25a6b1a6=1) |
+| Finance | Aug 31, 2026 | [Darializa Avila Chevalier: The face of America’s socialist insurgency](https://www.ft.com/content/2ca855a9-be0d-4915-b4f0-b48355c6aa4a?syn-25a6b1a6=1) |
 | Finance | Aug 31, 2026 | [Tim Cook’s Apple legacy by the numbers](https://www.ft.com/content/886acdbf-7a9d-4af3-a2e7-3c4a2e446370?syn-25a6b1a6=1) |
-| Finance | Aug 31, 2026 | [Will financial innovation dethrone the dollar?](https://www.ft.com/content/1481e787-77dc-4d54-8871-8ffb369e5dd3) |
-| Finance | Aug 30, 2026 | [Ukraine’s ex-defence minister touts ‘new history’ in war against Russia with planned tech fund](https://www.ft.com/content/c9d10aeb-163e-46a3-b7ca-376ce6be9f8e?syn-25a6b1a6=1) |
+| Finance | Aug 31, 2026 | [Whose fiscal problems would you prefer?](https://www.ft.com/content/0f74b589-3fdf-447d-aa44-9570496bf7c7?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
