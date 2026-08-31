@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Aug 31, 2026 | [China's Xi builds diplomatic clout with multiple state visits ahead of Trump summit](https://www.cnbc.com/2026/08/31/china-xi-us-trump-visit-sco-brics-modi-india.html) |
+| Market | Aug 31, 2026 | [Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed `at odds' wit...](https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html) |
 | Market | Aug 28, 2026 | [Corn and wheat prices jump to highest prices in more than three years](https://www.cnbc.com/2026/08/28/corn-and-wheat-prices-jump-to-highest-prices-in-more-than-three-years.html) |
 | Market | Aug 29, 2026 | [U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court](https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html) |
 | Market | Aug 28, 2026 | [September Fed decision is now a coin flip as rate hike odds increase post Warsh](https://www.cnbc.com/2026/08/28/-september-fed-decision-now-a-coin-flip-as-rate-hike-odds-increase.html) |
-| Market | Aug 28, 2026 | [Trump ratchets up rhetoric against Beijing as U.S.-China officials meet for Xi's Washington visit](https://www.cnbc.com/2026/08/28/trump-x-meeting-us-china-iran-sanctions.html) |
-| Market | Aug 28, 2026 | [Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect](https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html) |
-| Finance | Aug 30, 2026 | [US and Iran exchange fire for the first time in more than a month](https://www.ft.com/content/f270814f-e836-44e8-80c2-ec1034f80519?syn-25a6b1a6=1) |
-| Finance | Aug 30, 2026 | [Americans feel they have lost their agency](https://www.ft.com/content/63e8a4f3-7c18-4ddc-b3b7-e472159a7adf?syn-25a6b1a6=1) |
-| Finance | Aug 30, 2026 | [Friends with fiscal benefits](https://www.ft.com/content/ce3139ac-e88e-4c0d-ab92-b36e79052836?syn-25a6b1a6=1) |
-| Finance | Aug 30, 2026 | [Big Tech profits get $160bn boost from gains on stakes in other AI companies](https://www.ft.com/content/a5a0081f-e998-4c80-b967-cc535cbc4933?syn-25a6b1a6=1) |
-| Finance | Aug 30, 2026 | [Ukraine’s ex-defence minister touts ‘new history’ in war against Russia with planned tech fund](https://www.ft.com/content/c9d10aeb-163e-46a3-b7ca-376ce6be9f8e?syn-25a6b1a6=1) |
+| Finance | Aug 31, 2026 | [US and Iran exchange fire for the first time in more than a month](https://www.ft.com/content/f270814f-e836-44e8-80c2-ec1034f80519?syn-25a6b1a6=1) |
+| Finance | Aug 31, 2026 | [Long-term investors turn to shipping as Middle East conflict boosts returns](https://www.ft.com/content/114a2f47-11b8-4b96-ba6a-ac0d8e4d1393?syn-25a6b1a6=1) |
+| Finance | Aug 31, 2026 | [Alejandro Betancourt: the man who would be Trump’s ‘viceroy’ in Venezuela](https://www.ft.com/content/9dbf9c9a-b3e2-4701-b584-dca72b349716?syn-25a6b1a6=1) |
+| Finance | Aug 31, 2026 | [Tim Cook’s Apple legacy by the numbers](https://www.ft.com/content/886acdbf-7a9d-4af3-a2e7-3c4a2e446370?syn-25a6b1a6=1) |
+| Finance | Aug 31, 2026 | [Will financial innovation dethrone the dollar?](https://www.ft.com/content/1481e787-77dc-4d54-8871-8ffb369e5dd3) |
 
 <!-- NEWS:END -->
 
