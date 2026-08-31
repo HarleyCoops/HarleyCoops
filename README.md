@@ -297,11 +297,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Aug 28, 2026 | [September Fed decision is now a coin flip as rate hike odds increase post Warsh](https://www.cnbc.com/2026/08/28/-september-fed-decision-now-a-coin-flip-as-rate-hike-odds-increase.html) |
 | Market | Aug 28, 2026 | [Trump ratchets up rhetoric against Beijing as U.S.-China officials meet for Xi's Washington visit](https://www.cnbc.com/2026/08/28/trump-x-meeting-us-china-iran-sanctions.html) |
 | Market | Aug 28, 2026 | [Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect](https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html) |
-| Finance | Aug 30, 2026 | [Rising bond yields add tens of billions to G7 countries’ debt costs](https://www.ft.com/content/bbe90db5-64ac-441d-87e4-e984c5ef8629?syn-25a6b1a6=1) |
-| Finance | Aug 30, 2026 | [What’s the fiscal hit from higher yields?](https://www.ft.com/content/63311687-676b-4548-9bd8-3d7ad96d7ce5) |
+| Finance | Aug 30, 2026 | [US and Iran exchange fire for the first time in more than a month](https://www.ft.com/content/f270814f-e836-44e8-80c2-ec1034f80519?syn-25a6b1a6=1) |
 | Finance | Aug 30, 2026 | [Americans feel they have lost their agency](https://www.ft.com/content/63e8a4f3-7c18-4ddc-b3b7-e472159a7adf?syn-25a6b1a6=1) |
 | Finance | Aug 30, 2026 | [Friends with fiscal benefits](https://www.ft.com/content/ce3139ac-e88e-4c0d-ab92-b36e79052836?syn-25a6b1a6=1) |
-| Finance | Aug 30, 2026 | [Iceland rejects talks on EU entry](https://www.ft.com/content/53b5abd8-2919-4dc6-8dd6-81fc054e8b6f?syn-25a6b1a6=1) |
+| Finance | Aug 30, 2026 | [Big Tech profits get $160bn boost from gains on stakes in other AI companies](https://www.ft.com/content/a5a0081f-e998-4c80-b967-cc535cbc4933?syn-25a6b1a6=1) |
+| Finance | Aug 30, 2026 | [Ukraine’s ex-defence minister touts ‘new history’ in war against Russia with planned tech fund](https://www.ft.com/content/c9d10aeb-163e-46a3-b7ca-376ce6be9f8e?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
