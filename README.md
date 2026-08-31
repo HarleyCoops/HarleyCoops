@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Aug 31, 2026 | [Kalshi partners with brokerage Alpaca as it tries to build its international audience](https://www.cnbc.com/2026/08/31/kalshi-looks-international-partners-with-brokerage-alpaca.html) |
+| Market | Aug 31, 2026 | [Crypto exchange Gemini not at fault for collapse of Earn lending program, arbitrator says](https://www.cnbc.com/2026/08/31/gemini-not-at-fault-for-collapse-of-earn-lending-program-arbitrator-says.html) |
 | Market | Aug 31, 2026 | [China's Xi builds diplomatic clout with multiple state visits ahead of Trump summit](https://www.cnbc.com/2026/08/31/china-xi-us-trump-visit-sco-brics-modi-india.html) |
-| Market | Aug 31, 2026 | [Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed `at odds' wit...](https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html) |
+| Market | Aug 31, 2026 | [Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed 'at odds' wit...](https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html) |
 | Market | Aug 28, 2026 | [Corn and wheat prices jump to highest prices in more than three years](https://www.cnbc.com/2026/08/28/corn-and-wheat-prices-jump-to-highest-prices-in-more-than-three-years.html) |
-| Market | Aug 29, 2026 | [U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court](https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html) |
-| Market | Aug 28, 2026 | [September Fed decision is now a coin flip as rate hike odds increase post Warsh](https://www.cnbc.com/2026/08/28/-september-fed-decision-now-a-coin-flip-as-rate-hike-odds-increase.html) |
-| Finance | Aug 31, 2026 | [US and Iran exchange fire for the first time in more than a month](https://www.ft.com/content/f270814f-e836-44e8-80c2-ec1034f80519?syn-25a6b1a6=1) |
-| Finance | Aug 31, 2026 | [Long-term investors turn to shipping as Middle East conflict boosts returns](https://www.ft.com/content/114a2f47-11b8-4b96-ba6a-ac0d8e4d1393?syn-25a6b1a6=1) |
+| Finance | Aug 31, 2026 | [Consultants head for a showdown — with their own clients](https://www.ft.com/content/709d7e2d-0c2f-45bc-b559-e7328372cf9e?syn-25a6b1a6=1) |
 | Finance | Aug 31, 2026 | [Alejandro Betancourt: the man who would be Trump’s ‘viceroy’ in Venezuela](https://www.ft.com/content/9dbf9c9a-b3e2-4701-b584-dca72b349716?syn-25a6b1a6=1) |
 | Finance | Aug 31, 2026 | [Tim Cook’s Apple legacy by the numbers](https://www.ft.com/content/886acdbf-7a9d-4af3-a2e7-3c4a2e446370?syn-25a6b1a6=1) |
 | Finance | Aug 31, 2026 | [Will financial innovation dethrone the dollar?](https://www.ft.com/content/1481e787-77dc-4d54-8871-8ffb369e5dd3) |
+| Finance | Aug 30, 2026 | [Ukraine’s ex-defence minister touts ‘new history’ in war against Russia with planned tech fund](https://www.ft.com/content/c9d10aeb-163e-46a3-b7ca-376ce6be9f8e?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
