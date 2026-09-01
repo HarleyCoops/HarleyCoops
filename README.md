@@ -297,11 +297,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Aug 31, 2026 | [Kalshi partners with brokerage Alpaca as it tries to build its international audience](https://www.cnbc.com/2026/08/31/kalshi-looks-international-partners-with-brokerage-alpaca.html) |
 | Market | Aug 31, 2026 | [Crypto exchange Gemini not at fault for collapse of Earn lending program, arbitrator says](https://www.cnbc.com/2026/08/31/gemini-not-at-fault-for-collapse-of-earn-lending-program-arbitrator-says.html) |
 | Market | Aug 31, 2026 | [China's Xi builds diplomatic clout with multiple state visits ahead of Trump summit](https://www.cnbc.com/2026/08/31/china-xi-us-trump-visit-sco-brics-modi-india.html) |
-| Finance | Sep 01, 2026 | [US Army secretary resigns after tension with Pete Hegseth](https://www.ft.com/content/0d72d3c1-8786-44f0-b88a-ca41b6286a31?syn-25a6b1a6=1) |
-| Finance | Aug 31, 2026 | [Darializa Avila Chevalier: The face of America’s socialist insurgency](https://www.ft.com/content/2ca855a9-be0d-4915-b4f0-b48355c6aa4a?syn-25a6b1a6=1) |
-| Finance | Aug 31, 2026 | [Consultants head for an AI showdown — with their own clients](https://www.ft.com/content/709d7e2d-0c2f-45bc-b559-e7328372cf9e?syn-25a6b1a6=1) |
-| Finance | Aug 31, 2026 | [Whose fiscal problems would you prefer?](https://www.ft.com/content/0f74b589-3fdf-447d-aa44-9570496bf7c7?syn-25a6b1a6=1) |
-| Finance | Aug 31, 2026 | [Europeans shun Russian finance minister at US-hosted G20 meeting](https://www.ft.com/content/16285abd-6bc2-4a38-942c-5206c79f4c4b?syn-25a6b1a6=1) |
+| Finance | Sep 01, 2026 | [Japan’s benchmark yield hits 3% as global bond sell-off deepens](https://www.ft.com/content/e6f5f97a-b199-444e-aaec-b8199359b08e?syn-25a6b1a6=1) |
+| Finance | Sep 01, 2026 | [More Warshology](https://www.ft.com/content/bcc5aa85-4d23-4a7c-9147-c52aa69027bc?syn-25a6b1a6=1) |
+| Finance | Sep 01, 2026 | [Revolut’s mission to dominate banking](https://www.ft.com/content/f9f240f9-4077-421f-b320-6dc895d65fd1?syn-25a6b1a6=1) |
+| Finance | Sep 01, 2026 | [The Meta settlement is regulation by enforcement](https://www.ft.com/content/34318a35-b2ad-4f0f-af74-c5d09bfcd23e?syn-25a6b1a6=1) |
+| Finance | Sep 01, 2026 | [A real-world trial for work in the age of AI](https://www.ft.com/content/337b3e33-88b9-462d-9dfb-d2f24c8e67d6?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
