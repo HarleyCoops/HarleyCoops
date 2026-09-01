@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Sep 01, 2026 | [Fed Governor Barr says he'll support rate hike if inflation doesn't ease](https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html) |
 | Market | Sep 01, 2026 | [Hugging Face's new duck robot is selling fast. A Chinese chip powers it](https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html) |
 | Market | Aug 31, 2026 | [Markets see Warsh endorsing a rate hike in September. Not everyone is convinced](https://www.cnbc.com/2026/08/31/markets-see-warsh-endorsing-a-rate-hike-in-september-not-everyone-is-convinced.html) |
 | Market | Aug 31, 2026 | [Aon CEO says insurance broker seeks to build 'premiere middle market platform' with purchase of r...](https://www.cnbc.com/2026/08/31/aon-ceo-says-usi-deal-seeks-to-build-premiere-middle-market-insurance-platform.html) |
 | Market | Aug 31, 2026 | [Kalshi partners with brokerage Alpaca as it tries to build its international audience](https://www.cnbc.com/2026/08/31/kalshi-looks-international-partners-with-brokerage-alpaca.html) |
-| Market | Aug 31, 2026 | [Crypto exchange Gemini not at fault for collapse of Earn lending program, arbitrator says](https://www.cnbc.com/2026/08/31/gemini-not-at-fault-for-collapse-of-earn-lending-program-arbitrator-says.html) |
-| Finance | Sep 01, 2026 | [Global bond sell-off deepens amid inflation fears](https://www.ft.com/content/e6f5f97a-b199-444e-aaec-b8199359b08e?syn-25a6b1a6=1) |
-| Finance | Sep 01, 2026 | [How to understand the current puzzle in bonds and equities](https://www.ft.com/content/b189d31a-5e56-471e-91d1-c319aa68f174?syn-25a6b1a6=1) |
-| Finance | Sep 01, 2026 | [Warsh clears up his own mess, but US credibility is still stretched](https://www.ft.com/content/b0bde505-2093-4d72-9f20-b1db23e08261?syn-25a6b1a6=1) |
+| Finance | Sep 01, 2026 | [US launches further strikes on Iran as conflict flares up](https://www.ft.com/content/c557ccc2-9fe7-4725-8a1c-c40a0948e8d3?syn-25a6b1a6=1) |
 | Finance | Sep 01, 2026 | [Revolut’s mission to dominate banking](https://www.ft.com/content/f9f240f9-4077-421f-b320-6dc895d65fd1?syn-25a6b1a6=1) |
 | Finance | Sep 01, 2026 | [It was billed as effortless London luxury. Then tenants found out the rules](https://www.ft.com/content/e9b9a8fa-bbce-44a0-adc4-c1f1cc9f2113?syn-25a6b1a6=1) |
+| Finance | Sep 01, 2026 | [The pitfalls in Trump’s Venezuela oil play](https://www.ft.com/content/58840205-448b-4d17-9dd7-0313c8b8ed81?syn-25a6b1a6=1) |
+| Finance | Sep 01, 2026 | [Big banks want a cut of lawyers’ AI savings](https://www.ft.com/content/5240a6ac-b2e8-4897-a0a4-cbc7fc283bc9?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
