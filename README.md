@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Sep 02, 2026 | [New York Fed's Williams says yield surge due to strong economic prospects](https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html) |
 | Market | Sep 02, 2026 | [Berkshire CEO Greg Abel says Japanese bond yields not a challenge for trading houses right now](https://www.cnbc.com/2026/09/02/berkshire-ceo-says-japanese-bond-yields-not-a-challenge-for-trading-houses.html) |
 | Market | Sep 02, 2026 | [Nepal’s mountain tourism industry faces ‘serious warning’ after Himalayan flood disaster](https://www.cnbc.com/2026/09/02/nepal-tibet-floods-adventure-tourism-economy.html) |
 | Market | Sep 01, 2026 | [Prediction market traders think job creation rebounded in August](https://www.cnbc.com/2026/09/01/prediction-market-traders-think-job-creation-rebounded-in-august.html) |
 | Market | Sep 01, 2026 | [Fed Governor Barr says he'll support rate hike if inflation doesn't ease](https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html) |
-| Market | Sep 02, 2026 | [Hugging Face's new duck robot is selling fast. A Chinese chip powers it](https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html) |
-| Finance | Sep 02, 2026 | [Chevron to double Venezuela output in $7bn investment pledge](https://www.ft.com/content/a76721db-36e1-4198-aad8-8c90137aace9?syn-25a6b1a6=1) |
+| Finance | Sep 02, 2026 | [Uber to axe 10% of its workforce in biggest cuts since pandemic](https://www.ft.com/content/5eda86fe-1d2c-4a4e-9563-24a50aa734a4?syn-25a6b1a6=1) |
 | Finance | Sep 02, 2026 | [Pentagon chaos deepens after Driscoll quits in clash with Hegseth](https://www.ft.com/content/c74c483e-82ff-4b53-b59b-2404e659555a?syn-25a6b1a6=1) |
 | Finance | Sep 02, 2026 | [Growth is a life-and-death matter for Europe](https://www.ft.com/content/978fbb75-14b1-4cb7-96b7-c761b4b9a8a6?syn-25a6b1a6=1) |
-| Finance | Sep 02, 2026 | [The wheels are coming off the US world order](https://www.ft.com/content/c51dec0b-977e-463e-9590-daff0d91a8a6?syn-25a6b1a6=1) |
-| Finance | Sep 02, 2026 | [Energy price surge hits bond markets as European gas reaches three-year high](https://www.ft.com/content/f73c2c95-5c73-4b2f-9f00-9fa8c12c10c9?syn-25a6b1a6=1) |
+| Finance | Sep 02, 2026 | [A vital tenet of US equity markets is under threat](https://www.ft.com/content/38d5c39f-901f-4306-9412-f7e1d7553174?syn-25a6b1a6=1) |
+| Finance | Sep 02, 2026 | [Chevron to double Venezuela oil production with $7bn pledge](https://www.ft.com/content/a76721db-36e1-4198-aad8-8c90137aace9?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
