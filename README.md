@@ -297,11 +297,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Sep 02, 2026 | [Hugging Face's new duck robot is selling fast. A Chinese chip powers it](https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html) |
 | Market | Aug 31, 2026 | [Markets see Warsh endorsing a rate hike in September. Not everyone is convinced](https://www.cnbc.com/2026/08/31/markets-see-warsh-endorsing-a-rate-hike-in-september-not-everyone-is-convinced.html) |
 | Market | Aug 31, 2026 | [Aon CEO says insurance broker seeks to build 'premiere middle market platform' with purchase of r...](https://www.cnbc.com/2026/08/31/aon-ceo-says-usi-deal-seeks-to-build-premiere-middle-market-insurance-platform.html) |
-| Finance | Sep 01, 2026 | [US launches further strikes on Iran as conflict flares up](https://www.ft.com/content/c557ccc2-9fe7-4725-8a1c-c40a0948e8d3?syn-25a6b1a6=1) |
-| Finance | Sep 01, 2026 | [US diesel prices soar as Trump hauls in refiners](https://www.ft.com/content/697253e0-01d3-44fe-85e5-d4d9af207a3c?syn-25a6b1a6=1) |
-| Finance | Sep 01, 2026 | [Saudi and South Korean oil tankers hit in Strait of Hormuz](https://www.ft.com/content/bbbce2e1-6542-4806-9c26-d35e8c3b702e?syn-25a6b1a6=1) |
 | Finance | Sep 01, 2026 | [Russia secretly helping Iran develop supersonic cruise missiles](https://www.ft.com/content/6cf367bc-95b0-4f1f-b149-a25684adefc3?syn-25a6b1a6=1) |
-| Finance | Sep 01, 2026 | [The pitfalls in Trump’s Venezuela oil play](https://www.ft.com/content/58840205-448b-4d17-9dd7-0313c8b8ed81?syn-25a6b1a6=1) |
+| Finance | Sep 02, 2026 | [The Takaichi revolution](https://www.ft.com/content/4abc4d57-fa90-4d33-99ea-ee165be7a79d?syn-25a6b1a6=1) |
+| Finance | Sep 02, 2026 | [The wheels are coming off the US world order](https://www.ft.com/content/c51dec0b-977e-463e-9590-daff0d91a8a6?syn-25a6b1a6=1) |
+| Finance | Sep 01, 2026 | [China’s real robot revolution is not about humanoids](https://www.ft.com/content/2bb2b670-999d-499c-ad56-47702b3830b1?syn-25a6b1a6=1) |
+| Finance | Sep 02, 2026 | [US launches further strikes on Iran as conflict flares up](https://www.ft.com/content/c557ccc2-9fe7-4725-8a1c-c40a0948e8d3?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
