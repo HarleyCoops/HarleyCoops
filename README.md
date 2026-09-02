@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Sep 01, 2026 | [Prediction market traders think job creation rebounded in August](https://www.cnbc.com/2026/09/01/prediction-market-traders-think-job-creation-rebounded-in-august.html) |
 | Market | Sep 01, 2026 | [Fed Governor Barr says he'll support rate hike if inflation doesn't ease](https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html) |
-| Market | Sep 01, 2026 | [Hugging Face's new duck robot is selling fast. A Chinese chip powers it](https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html) |
+| Market | Sep 02, 2026 | [Hugging Face's new duck robot is selling fast. A Chinese chip powers it](https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html) |
 | Market | Aug 31, 2026 | [Markets see Warsh endorsing a rate hike in September. Not everyone is convinced](https://www.cnbc.com/2026/08/31/markets-see-warsh-endorsing-a-rate-hike-in-september-not-everyone-is-convinced.html) |
 | Market | Aug 31, 2026 | [Aon CEO says insurance broker seeks to build 'premiere middle market platform' with purchase of r...](https://www.cnbc.com/2026/08/31/aon-ceo-says-usi-deal-seeks-to-build-premiere-middle-market-insurance-platform.html) |
-| Market | Aug 31, 2026 | [Kalshi partners with brokerage Alpaca as it tries to build its international audience](https://www.cnbc.com/2026/08/31/kalshi-looks-international-partners-with-brokerage-alpaca.html) |
 | Finance | Sep 01, 2026 | [US launches further strikes on Iran as conflict flares up](https://www.ft.com/content/c557ccc2-9fe7-4725-8a1c-c40a0948e8d3?syn-25a6b1a6=1) |
-| Finance | Sep 01, 2026 | [Revolut’s mission to dominate banking](https://www.ft.com/content/f9f240f9-4077-421f-b320-6dc895d65fd1?syn-25a6b1a6=1) |
-| Finance | Sep 01, 2026 | [It was billed as effortless London luxury. Then tenants found out the rules](https://www.ft.com/content/e9b9a8fa-bbce-44a0-adc4-c1f1cc9f2113?syn-25a6b1a6=1) |
+| Finance | Sep 01, 2026 | [US diesel prices soar as Trump hauls in refiners](https://www.ft.com/content/697253e0-01d3-44fe-85e5-d4d9af207a3c?syn-25a6b1a6=1) |
+| Finance | Sep 01, 2026 | [Saudi and South Korean oil tankers hit in Strait of Hormuz](https://www.ft.com/content/bbbce2e1-6542-4806-9c26-d35e8c3b702e?syn-25a6b1a6=1) |
+| Finance | Sep 01, 2026 | [Russia secretly helping Iran develop supersonic cruise missiles](https://www.ft.com/content/6cf367bc-95b0-4f1f-b149-a25684adefc3?syn-25a6b1a6=1) |
 | Finance | Sep 01, 2026 | [The pitfalls in Trump’s Venezuela oil play](https://www.ft.com/content/58840205-448b-4d17-9dd7-0313c8b8ed81?syn-25a6b1a6=1) |
-| Finance | Sep 01, 2026 | [Big banks want a cut of lawyers’ AI savings](https://www.ft.com/content/5240a6ac-b2e8-4897-a0a4-cbc7fc283bc9?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
