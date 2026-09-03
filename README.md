@@ -297,11 +297,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Sep 02, 2026 | [Nepal’s mountain tourism industry faces ‘serious warning’ after Himalayan flood disaster](https://www.cnbc.com/2026/09/02/nepal-tibet-floods-adventure-tourism-economy.html) |
 | Market | Sep 01, 2026 | [Prediction market traders think job creation rebounded in August](https://www.cnbc.com/2026/09/01/prediction-market-traders-think-job-creation-rebounded-in-august.html) |
 | Market | Sep 01, 2026 | [Fed Governor Barr says he'll support rate hike if inflation doesn't ease](https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html) |
-| Finance | Sep 02, 2026 | [JPMorgan curbed lending to Jane Street as trading firm muscled into bonds](https://www.ft.com/content/07e849ac-ea87-4227-81d4-7f18b0d7d473?syn-25a6b1a6=1) |
-| Finance | Sep 02, 2026 | [Struggling Republicans urge Trump to open Maga Inc’s $400mn war chest](https://www.ft.com/content/8f699fbc-cb01-4846-837c-0d1528a620d0?syn-25a6b1a6=1) |
-| Finance | Sep 02, 2026 | [A vital tenet of US equity markets is under threat](https://www.ft.com/content/38d5c39f-901f-4306-9412-f7e1d7553174?syn-25a6b1a6=1) |
-| Finance | Sep 02, 2026 | [Pentagon chaos deepens after Driscoll quits in clash with Hegseth](https://www.ft.com/content/c74c483e-82ff-4b53-b59b-2404e659555a?syn-25a6b1a6=1) |
-| Finance | Sep 02, 2026 | [Dutch central bank moves gold bars out of New York over ‘geopolitical unrest’](https://www.ft.com/content/1749e753-9c90-4ff5-91ec-8df764f3b26d?syn-25a6b1a6=1) |
+| Finance | Sep 03, 2026 | [KPMG warned Guggenheim unit over deficiencies in internal controls](https://www.ft.com/content/70e8e4e6-def9-4683-9aa3-4bf7351474e4?syn-25a6b1a6=1) |
+| Finance | Sep 03, 2026 | [James Orr and the gospel of the new British right](https://www.ft.com/content/c2d02f83-a5a0-4c46-adad-1bd8b70b7ea1?syn-25a6b1a6=1) |
+| Finance | Sep 03, 2026 | [Fixing the AI industry’s PR problem](https://www.ft.com/content/115c886f-23e4-4a8d-9656-5d7fc9480803?syn-25a6b1a6=1) |
+| Finance | Sep 03, 2026 | [The port that built Dubai: war exposes a dangerous dependence](https://www.ft.com/content/daab8d53-7c4f-479b-be84-d073ba32897e?syn-25a6b1a6=1) |
+| Finance | Sep 03, 2026 | [VW, Amazon and others name blacklisted groups among potential suppliers](https://www.ft.com/content/70fdf5c3-6b3a-494d-a141-85aba60d14d5?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
