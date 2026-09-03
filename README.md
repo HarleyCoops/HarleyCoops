@@ -297,11 +297,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Sep 02, 2026 | [Nepal’s mountain tourism industry faces ‘serious warning’ after Himalayan flood disaster](https://www.cnbc.com/2026/09/02/nepal-tibet-floods-adventure-tourism-economy.html) |
 | Market | Sep 01, 2026 | [Prediction market traders think job creation rebounded in August](https://www.cnbc.com/2026/09/01/prediction-market-traders-think-job-creation-rebounded-in-august.html) |
 | Market | Sep 01, 2026 | [Fed Governor Barr says he'll support rate hike if inflation doesn't ease](https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html) |
-| Finance | Sep 02, 2026 | [Uber to axe 10% of its workforce in biggest cuts since pandemic](https://www.ft.com/content/5eda86fe-1d2c-4a4e-9563-24a50aa734a4?syn-25a6b1a6=1) |
-| Finance | Sep 02, 2026 | [Pentagon chaos deepens after Driscoll quits in clash with Hegseth](https://www.ft.com/content/c74c483e-82ff-4b53-b59b-2404e659555a?syn-25a6b1a6=1) |
-| Finance | Sep 02, 2026 | [Growth is a life-and-death matter for Europe](https://www.ft.com/content/978fbb75-14b1-4cb7-96b7-c761b4b9a8a6?syn-25a6b1a6=1) |
+| Finance | Sep 02, 2026 | [JPMorgan curbed lending to Jane Street as trading firm muscled into bonds](https://www.ft.com/content/07e849ac-ea87-4227-81d4-7f18b0d7d473?syn-25a6b1a6=1) |
+| Finance | Sep 02, 2026 | [Struggling Republicans urge Trump to open Maga Inc’s $400mn war chest](https://www.ft.com/content/8f699fbc-cb01-4846-837c-0d1528a620d0?syn-25a6b1a6=1) |
 | Finance | Sep 02, 2026 | [A vital tenet of US equity markets is under threat](https://www.ft.com/content/38d5c39f-901f-4306-9412-f7e1d7553174?syn-25a6b1a6=1) |
-| Finance | Sep 02, 2026 | [Chevron to double Venezuela oil production with $7bn pledge](https://www.ft.com/content/a76721db-36e1-4198-aad8-8c90137aace9?syn-25a6b1a6=1) |
+| Finance | Sep 02, 2026 | [Pentagon chaos deepens after Driscoll quits in clash with Hegseth](https://www.ft.com/content/c74c483e-82ff-4b53-b59b-2404e659555a?syn-25a6b1a6=1) |
+| Finance | Sep 02, 2026 | [Dutch central bank moves gold bars out of New York over ‘geopolitical unrest’](https://www.ft.com/content/1749e753-9c90-4ff5-91ec-8df764f3b26d?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
