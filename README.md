@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Sep 03, 2026 | [China hits back at G20 statement on its reliance on exports, accusing them of 'promoting protecti...](https://www.cnbc.com/2026/09/03/china-g20-exports-trade.html) |
 | Market | Sep 02, 2026 | [New York Fed's Williams says yield surge due to strong economic prospects](https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html) |
 | Market | Sep 02, 2026 | [Berkshire CEO Greg Abel says Japanese bond yields not a challenge for trading houses right now](https://www.cnbc.com/2026/09/02/berkshire-ceo-says-japanese-bond-yields-not-a-challenge-for-trading-houses.html) |
 | Market | Sep 02, 2026 | [Nepal’s mountain tourism industry faces ‘serious warning’ after Himalayan flood disaster](https://www.cnbc.com/2026/09/02/nepal-tibet-floods-adventure-tourism-economy.html) |
 | Market | Sep 01, 2026 | [Prediction market traders think job creation rebounded in August](https://www.cnbc.com/2026/09/01/prediction-market-traders-think-job-creation-rebounded-in-august.html) |
-| Market | Sep 01, 2026 | [Fed Governor Barr says he'll support rate hike if inflation doesn't ease](https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html) |
+| Finance | Sep 03, 2026 | [Nvidia to buy open-source AI platform Hugging Face for $13bn](https://www.ft.com/content/776dcb01-75cd-44df-bc52-63ca76d5718d?syn-25a6b1a6=1) |
+| Finance | Sep 03, 2026 | [Merz becomes a liability as AfD surges](https://www.ft.com/content/51afa87f-7452-4c5c-8beb-7eed624f6f22?syn-25a6b1a6=1) |
+| Finance | Sep 03, 2026 | [Europe’s seven fantasy M&A deals](https://www.ft.com/content/d4e5956a-200c-47d1-9241-f15f495c2cf2?syn-25a6b1a6=1) |
+| Finance | Sep 03, 2026 | [How AI can put out its PR dumpster fire](https://www.ft.com/content/115c886f-23e4-4a8d-9656-5d7fc9480803?syn-25a6b1a6=1) |
 | Finance | Sep 03, 2026 | [KPMG warned Guggenheim unit over deficiencies in internal controls](https://www.ft.com/content/70e8e4e6-def9-4683-9aa3-4bf7351474e4?syn-25a6b1a6=1) |
-| Finance | Sep 03, 2026 | [James Orr and the gospel of the new British right](https://www.ft.com/content/c2d02f83-a5a0-4c46-adad-1bd8b70b7ea1?syn-25a6b1a6=1) |
-| Finance | Sep 03, 2026 | [Fixing the AI industry’s PR problem](https://www.ft.com/content/115c886f-23e4-4a8d-9656-5d7fc9480803?syn-25a6b1a6=1) |
-| Finance | Sep 03, 2026 | [The port that built Dubai: war exposes a dangerous dependence](https://www.ft.com/content/daab8d53-7c4f-479b-be84-d073ba32897e?syn-25a6b1a6=1) |
-| Finance | Sep 03, 2026 | [VW, Amazon and others name blacklisted groups among potential suppliers](https://www.ft.com/content/70fdf5c3-6b3a-494d-a141-85aba60d14d5?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
