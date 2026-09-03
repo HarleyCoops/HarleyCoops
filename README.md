@@ -297,11 +297,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Sep 02, 2026 | [Berkshire CEO Greg Abel says Japanese bond yields not a challenge for trading houses right now](https://www.cnbc.com/2026/09/02/berkshire-ceo-says-japanese-bond-yields-not-a-challenge-for-trading-houses.html) |
 | Market | Sep 02, 2026 | [Nepal’s mountain tourism industry faces ‘serious warning’ after Himalayan flood disaster](https://www.cnbc.com/2026/09/02/nepal-tibet-floods-adventure-tourism-economy.html) |
 | Market | Sep 01, 2026 | [Prediction market traders think job creation rebounded in August](https://www.cnbc.com/2026/09/01/prediction-market-traders-think-job-creation-rebounded-in-august.html) |
-| Finance | Sep 03, 2026 | [Nvidia to buy open-source AI platform Hugging Face for $13bn](https://www.ft.com/content/776dcb01-75cd-44df-bc52-63ca76d5718d?syn-25a6b1a6=1) |
-| Finance | Sep 03, 2026 | [Merz becomes a liability as AfD surges](https://www.ft.com/content/51afa87f-7452-4c5c-8beb-7eed624f6f22?syn-25a6b1a6=1) |
-| Finance | Sep 03, 2026 | [Europe’s seven fantasy M&A deals](https://www.ft.com/content/d4e5956a-200c-47d1-9241-f15f495c2cf2?syn-25a6b1a6=1) |
+| Finance | Sep 03, 2026 | [OpenAI says it has overtaken Anthropic with its latest AI model](https://www.ft.com/content/55ab40c0-59e2-4c0b-97c9-4f4f5a71a8bb?syn-25a6b1a6=1) |
 | Finance | Sep 03, 2026 | [How AI can put out its PR dumpster fire](https://www.ft.com/content/115c886f-23e4-4a8d-9656-5d7fc9480803?syn-25a6b1a6=1) |
-| Finance | Sep 03, 2026 | [KPMG warned Guggenheim unit over deficiencies in internal controls](https://www.ft.com/content/70e8e4e6-def9-4683-9aa3-4bf7351474e4?syn-25a6b1a6=1) |
+| Finance | Sep 03, 2026 | [Hugging Face attack is a wake-up call about the risks of AI](https://www.ft.com/content/1a1f6c54-8dbc-4446-a6dc-45a060b7cdc8?syn-25a6b1a6=1) |
+| Finance | Sep 03, 2026 | [‘People are going to get screwed’: Pennsylvania voters unite against data centres](https://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5?syn-25a6b1a6=1) |
+| Finance | Sep 03, 2026 | [Feminist icon Gloria Steinem dies at 92](https://www.ft.com/content/34813f31-aaa0-4bd2-9c87-b1b258dab872?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
