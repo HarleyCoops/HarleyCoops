@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Sep 04, 2026 | [White House has vetted candidates for key CFTC vacancies, sources tell CNBC. It's unclear if they...](https://www.cnbc.com/2026/09/04/white-house-has-vetted-candidates-for-key-cftc-vacancies-sources-tell-cnbc.html) |
+| Market | Sep 04, 2026 | [Bitcoin heads for third winning week in a row as macro pressures mount](https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html) |
 | Market | Sep 03, 2026 | [China hits back at G20 statement on its reliance on exports, accusing them of 'promoting protecti...](https://www.cnbc.com/2026/09/03/china-g20-exports-trade.html) |
 | Market | Sep 02, 2026 | [New York Fed's Williams says yield surge due to strong economic prospects](https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html) |
 | Market | Sep 02, 2026 | [Berkshire CEO Greg Abel says Japanese bond yields not a challenge for trading houses right now](https://www.cnbc.com/2026/09/02/berkshire-ceo-says-japanese-bond-yields-not-a-challenge-for-trading-houses.html) |
-| Market | Sep 02, 2026 | [Nepal’s mountain tourism industry faces ‘serious warning’ after Himalayan flood disaster](https://www.cnbc.com/2026/09/02/nepal-tibet-floods-adventure-tourism-economy.html) |
-| Market | Sep 01, 2026 | [Prediction market traders think job creation rebounded in August](https://www.cnbc.com/2026/09/01/prediction-market-traders-think-job-creation-rebounded-in-august.html) |
-| Finance | Sep 04, 2026 | [Manager of Norway’s $2tn oil fund proposes slashing US Treasury holdings](https://www.ft.com/content/ecc15aa6-6e7b-409d-8753-2fb6aadd0592?syn-25a6b1a6=1) |
-| Finance | Sep 04, 2026 | [Fear not the bond market skinny dippers](https://www.ft.com/content/3a232341-a470-4270-84a7-5c0e5782db3b?syn-25a6b1a6=1) |
+| Finance | Sep 04, 2026 | [US economy smashes forecast with 162,000 jobs added in August](https://www.ft.com/content/a7ce8b2f-98f5-4e96-afa0-ccf4dceef8bd?syn-25a6b1a6=1) |
+| Finance | Sep 04, 2026 | [John Ternus, Apple’s new ‘wicked calm’ CEO](https://www.ft.com/content/7347b9fc-ba63-48fb-b06d-b9fe5e9b046a?syn-25a6b1a6=1) |
 | Finance | Sep 04, 2026 | [The Texas experiment](https://www.ft.com/content/fff531fc-988c-4016-9b5b-25f2274f4d47?syn-25a6b1a6=1) |
-| Finance | Sep 04, 2026 | [America must learn AI lessons from Astro Boy](https://www.ft.com/content/68751904-522a-41cc-85e0-08015fe75059?syn-25a6b1a6=1) |
 | Finance | Sep 04, 2026 | [The university degree is losing its lustre](https://www.ft.com/content/54cf40cd-149f-40db-b603-21aecd5f66ec?syn-25a6b1a6=1) |
+| Finance | Sep 04, 2026 | [US diesel prices soar to record high](https://www.ft.com/content/aa71ca9a-b64f-41b6-8e6f-00ce03a47553?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
