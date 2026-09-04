@@ -297,11 +297,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Sep 02, 2026 | [Berkshire CEO Greg Abel says Japanese bond yields not a challenge for trading houses right now](https://www.cnbc.com/2026/09/02/berkshire-ceo-says-japanese-bond-yields-not-a-challenge-for-trading-houses.html) |
 | Market | Sep 02, 2026 | [Nepal’s mountain tourism industry faces ‘serious warning’ after Himalayan flood disaster](https://www.cnbc.com/2026/09/02/nepal-tibet-floods-adventure-tourism-economy.html) |
 | Market | Sep 01, 2026 | [Prediction market traders think job creation rebounded in August](https://www.cnbc.com/2026/09/01/prediction-market-traders-think-job-creation-rebounded-in-august.html) |
-| Finance | Sep 03, 2026 | [OpenAI says it has overtaken Anthropic with its latest AI model](https://www.ft.com/content/55ab40c0-59e2-4c0b-97c9-4f4f5a71a8bb?syn-25a6b1a6=1) |
-| Finance | Sep 03, 2026 | [How AI can put out its PR dumpster fire](https://www.ft.com/content/115c886f-23e4-4a8d-9656-5d7fc9480803?syn-25a6b1a6=1) |
-| Finance | Sep 03, 2026 | [Hugging Face attack is a wake-up call about the risks of AI](https://www.ft.com/content/1a1f6c54-8dbc-4446-a6dc-45a060b7cdc8?syn-25a6b1a6=1) |
-| Finance | Sep 03, 2026 | [‘People are going to get screwed’: Pennsylvania voters unite against data centres](https://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5?syn-25a6b1a6=1) |
-| Finance | Sep 03, 2026 | [Feminist icon Gloria Steinem dies at 92](https://www.ft.com/content/34813f31-aaa0-4bd2-9c87-b1b258dab872?syn-25a6b1a6=1) |
+| Finance | Sep 04, 2026 | [UK failing to capitalise on Brexit, top Trump trade official says](https://www.ft.com/content/0d2beac3-ef62-4cbf-959e-b5c6b9703081?syn-25a6b1a6=1) |
+| Finance | Sep 04, 2026 | [The rise of Texas](https://www.ft.com/content/fff531fc-988c-4016-9b5b-25f2274f4d47?syn-25a6b1a6=1) |
+| Finance | Sep 04, 2026 | [America must learn AI lessons from Astro Boy](https://www.ft.com/content/68751904-522a-41cc-85e0-08015fe75059?syn-25a6b1a6=1) |
+| Finance | Sep 04, 2026 | [The university degree is losing its lustre](https://www.ft.com/content/54cf40cd-149f-40db-b603-21aecd5f66ec?syn-25a6b1a6=1) |
+| Finance | Sep 04, 2026 | [Manager of Norway’s $2tn oil fund proposes slashing US Treasury holdings](https://www.ft.com/content/ecc15aa6-6e7b-409d-8753-2fb6aadd0592?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
