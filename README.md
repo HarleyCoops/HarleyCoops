@@ -297,11 +297,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Sep 03, 2026 | [China hits back at G20 statement on its reliance on exports, accusing them of 'promoting protecti...](https://www.cnbc.com/2026/09/03/china-g20-exports-trade.html) |
 | Market | Sep 02, 2026 | [New York Fed's Williams says yield surge due to strong economic prospects](https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html) |
 | Market | Sep 02, 2026 | [Berkshire CEO Greg Abel says Japanese bond yields not a challenge for trading houses right now](https://www.cnbc.com/2026/09/02/berkshire-ceo-says-japanese-bond-yields-not-a-challenge-for-trading-houses.html) |
-| Finance | Sep 05, 2026 | [Treasury sell-off piles pressure on weakest US borrowers](https://www.ft.com/content/6e096712-5abe-48c5-8e4d-c0042f947639?syn-25a6b1a6=1) |
-| Finance | Sep 05, 2026 | [The gloves are starting to come off in markets](https://www.ft.com/content/d3f7a1a1-7fc1-4349-a202-a6fee6ef4a5b?syn-25a6b1a6=1) |
+| Finance | Sep 05, 2026 | [Trump and Musk Super Pacs boost spending on midterm elections](https://www.ft.com/content/d8fa06e5-5929-47c9-815c-47d2221fc9e9?syn-25a6b1a6=1) |
+| Finance | Sep 05, 2026 | [Pro-Israel groups fight to help Republicans keep control of Congress](https://www.ft.com/content/c98f4d9b-ec17-4bc0-a137-dbd12a23cba6?syn-25a6b1a6=1) |
+| Finance | Sep 05, 2026 | [‘Sowing doubt’: Trump’s attempt to overhaul voting causes headaches for state officials](https://www.ft.com/content/47ac914f-ab0e-441b-9152-9ef06dc17741?syn-25a6b1a6=1) |
 | Finance | Sep 05, 2026 | [How nationalists, theocrats and tech titans turned their backs on the future](https://www.ft.com/content/bd134250-00d8-4bfd-bf4b-d32479ac0fed) |
 | Finance | Sep 05, 2026 | [The other side of the 1990s](https://www.ft.com/content/845a0760-cf73-4e06-b378-233123361a50?syn-25a6b1a6=1) |
-| Finance | Sep 05, 2026 | [Is Keynesianism dead?](https://www.ft.com/content/e1afdbf1-eb21-45c0-ad88-1ec0913b1f7c?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
