@@ -297,11 +297,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Sep 03, 2026 | [China hits back at G20 statement on its reliance on exports, accusing them of 'promoting protecti...](https://www.cnbc.com/2026/09/03/china-g20-exports-trade.html) |
 | Market | Sep 02, 2026 | [New York Fed's Williams says yield surge due to strong economic prospects](https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html) |
 | Market | Sep 02, 2026 | [Berkshire CEO Greg Abel says Japanese bond yields not a challenge for trading houses right now](https://www.cnbc.com/2026/09/02/berkshire-ceo-says-japanese-bond-yields-not-a-challenge-for-trading-houses.html) |
-| Finance | Sep 04, 2026 | [Anthropic close to awarding Morgan Stanley and Goldman top roles in $2tn IPO](https://www.ft.com/content/3c9d0a82-643b-44ef-96a0-74a00e3c72ba?syn-25a6b1a6=1) |
-| Finance | Sep 05, 2026 | [How nationalists, theocrats and tech titans turned their backs on the future](https://www.ft.com/content/bd134250-00d8-4bfd-bf4b-d32479ac0fed) |
-| Finance | Sep 04, 2026 | [John Ternus, Apple’s new ‘wicked calm’ CEO](https://www.ft.com/content/7347b9fc-ba63-48fb-b06d-b9fe5e9b046a?syn-25a6b1a6=1) |
-| Finance | Sep 05, 2026 | [The other side of the 1990s](https://www.ft.com/content/845a0760-cf73-4e06-b378-233123361a50?syn-25a6b1a6=1) |
+| Finance | Sep 05, 2026 | [Treasury sell-off piles pressure on weakest US borrowers](https://www.ft.com/content/6e096712-5abe-48c5-8e4d-c0042f947639?syn-25a6b1a6=1) |
 | Finance | Sep 05, 2026 | [The gloves are starting to come off in markets](https://www.ft.com/content/d3f7a1a1-7fc1-4349-a202-a6fee6ef4a5b?syn-25a6b1a6=1) |
+| Finance | Sep 05, 2026 | [How nationalists, theocrats and tech titans turned their backs on the future](https://www.ft.com/content/bd134250-00d8-4bfd-bf4b-d32479ac0fed) |
+| Finance | Sep 05, 2026 | [The other side of the 1990s](https://www.ft.com/content/845a0760-cf73-4e06-b378-233123361a50?syn-25a6b1a6=1) |
+| Finance | Sep 05, 2026 | [Is Keynesianism dead?](https://www.ft.com/content/e1afdbf1-eb21-45c0-ad88-1ec0913b1f7c?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
