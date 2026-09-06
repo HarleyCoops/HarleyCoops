@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Sep 06, 2026 | [Sugar is outperforming the stock market this year. Here's what's driving it, and where it can go ...](https://www.cnbc.com/2026/09/06/sugar-is-outperforming-the-stock-market-this-year-whats-driving-it.html) |
 | Market | Sep 04, 2026 | [White House has vetted candidates for key CFTC vacancies, sources tell CNBC. It's unclear if they...](https://www.cnbc.com/2026/09/04/white-house-has-vetted-candidates-for-key-cftc-vacancies-sources-tell-cnbc.html) |
 | Market | Sep 04, 2026 | [Bitcoin heads for third winning week in a row as macro pressures mount](https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html) |
 | Market | Sep 03, 2026 | [China hits back at G20 statement on its reliance on exports, accusing them of 'promoting protecti...](https://www.cnbc.com/2026/09/03/china-g20-exports-trade.html) |
 | Market | Sep 02, 2026 | [New York Fed's Williams says yield surge due to strong economic prospects](https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html) |
-| Market | Sep 02, 2026 | [Berkshire CEO Greg Abel says Japanese bond yields not a challenge for trading houses right now](https://www.cnbc.com/2026/09/02/berkshire-ceo-says-japanese-bond-yields-not-a-challenge-for-trading-houses.html) |
-| Finance | Sep 06, 2026 | [Trump envoys arrive in Ukraine after meeting Putin in Moscow](https://www.ft.com/content/1e2d9db0-cb2c-4c79-942b-f0aff960e4c5) |
-| Finance | Sep 06, 2026 | [Russian gold floods through Hong Kong in wake of western sanctions](https://www.ft.com/content/39b0c966-b153-4706-9325-2f6176ba3752?syn-25a6b1a6=1) |
+| Finance | Sep 06, 2026 | [Far-right AfD surges in German state elections, exit polls show](https://www.ft.com/content/a0229455-1822-4de8-ad2f-7453577d95cd?syn-25a6b1a6=1) |
 | Finance | Sep 06, 2026 | [The risky mission to de-mine the Strait of Hormuz](https://www.ft.com/content/04031dbe-7412-441e-8aaa-89a9ee6c7439?syn-25a6b1a6=1) |
+| Finance | Sep 06, 2026 | [Pete Hegseth’s Pentagon purge](https://www.ft.com/content/6ea98322-96a3-408a-87e4-eb5e4eb05b52) |
 | Finance | Sep 06, 2026 | [Iceland’s ‘no’ exposes EU complacency](https://www.ft.com/content/646c7152-a720-4ef9-8b84-e37188b9a8f4?syn-25a6b1a6=1) |
-| Finance | Sep 06, 2026 | [Trump’s approval rating falls to all-time low in FT poll](https://www.ft.com/content/9bcce1fa-997e-49f2-9530-f1255e4cb28b?syn-25a6b1a6=1) |
+| Finance | Sep 06, 2026 | [Trump’s approval rating falls to lowest yet in FT poll](https://www.ft.com/content/9bcce1fa-997e-49f2-9530-f1255e4cb28b?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
