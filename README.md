@@ -297,11 +297,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Sep 03, 2026 | [China hits back at G20 statement on its reliance on exports, accusing them of 'promoting protecti...](https://www.cnbc.com/2026/09/03/china-g20-exports-trade.html) |
 | Market | Sep 02, 2026 | [New York Fed's Williams says yield surge due to strong economic prospects](https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html) |
 | Market | Sep 02, 2026 | [Berkshire CEO Greg Abel says Japanese bond yields not a challenge for trading houses right now](https://www.cnbc.com/2026/09/02/berkshire-ceo-says-japanese-bond-yields-not-a-challenge-for-trading-houses.html) |
+| Finance | Sep 06, 2026 | [Trump envoys arrive in Ukraine after meeting Putin in Moscow](https://www.ft.com/content/1e2d9db0-cb2c-4c79-942b-f0aff960e4c5) |
 | Finance | Sep 06, 2026 | [Russian gold floods through Hong Kong in wake of western sanctions](https://www.ft.com/content/39b0c966-b153-4706-9325-2f6176ba3752?syn-25a6b1a6=1) |
 | Finance | Sep 06, 2026 | [The risky mission to de-mine the Strait of Hormuz](https://www.ft.com/content/04031dbe-7412-441e-8aaa-89a9ee6c7439?syn-25a6b1a6=1) |
 | Finance | Sep 06, 2026 | [Iceland’s ‘no’ exposes EU complacency](https://www.ft.com/content/646c7152-a720-4ef9-8b84-e37188b9a8f4?syn-25a6b1a6=1) |
 | Finance | Sep 06, 2026 | [Trump’s approval rating falls to all-time low in FT poll](https://www.ft.com/content/9bcce1fa-997e-49f2-9530-f1255e4cb28b?syn-25a6b1a6=1) |
-| Finance | Sep 05, 2026 | [Trump and Musk Super Pacs boost spending on midterm elections](https://www.ft.com/content/d8fa06e5-5929-47c9-815c-47d2221fc9e9?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
