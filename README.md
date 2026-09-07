@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Sep 07, 2026 | [China says it will pump $54 billion into banks and insurers — but their stocks still fell](https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html) |
 | Market | Sep 06, 2026 | [Sugar is outperforming the stock market this year. Here's what's driving it, and where it can go ...](https://www.cnbc.com/2026/09/06/sugar-is-outperforming-the-stock-market-this-year-whats-driving-it.html) |
 | Market | Sep 04, 2026 | [White House has vetted candidates for key CFTC vacancies, sources tell CNBC. It's unclear if they...](https://www.cnbc.com/2026/09/04/white-house-has-vetted-candidates-for-key-cftc-vacancies-sources-tell-cnbc.html) |
 | Market | Sep 04, 2026 | [Bitcoin heads for third winning week in a row as macro pressures mount](https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html) |
 | Market | Sep 03, 2026 | [China hits back at G20 statement on its reliance on exports, accusing them of 'promoting protecti...](https://www.cnbc.com/2026/09/03/china-g20-exports-trade.html) |
-| Market | Sep 02, 2026 | [New York Fed's Williams says yield surge due to strong economic prospects](https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html) |
-| Finance | Sep 07, 2026 | [Far-right AfD surges to victory in German state election](https://www.ft.com/content/a0229455-1822-4de8-ad2f-7453577d95cd?syn-25a6b1a6=1) |
-| Finance | Sep 06, 2026 | [Germany’s Merz on the ropes after far right delivers devastating blow](https://www.ft.com/content/48e7b92b-affc-4fd0-8de1-ae8765e5c799?syn-25a6b1a6=1) |
+| Finance | Sep 07, 2026 | [Germany’s AfD vows to build on ‘dream result’](https://www.ft.com/content/ec1396b9-185e-4a55-86d6-36a560b549fb?syn-25a6b1a6=1) |
+| Finance | Sep 07, 2026 | [A German election result heard around the world](https://www.ft.com/content/06f51592-d259-4f53-b74c-31279414674d?syn-25a6b1a6=1) |
 | Finance | Sep 07, 2026 | [Sweden’s fightback against the gangs](https://www.ft.com/content/b2d744cf-de2c-4ef1-84ca-41e897463484?syn-25a6b1a6=1) |
 | Finance | Sep 07, 2026 | [Why America’s debt binge is starting to matter](https://www.ft.com/content/8827baa7-163d-4122-9ea8-a2c9ff6e8a4d?syn-25a6b1a6=1) |
-| Finance | Sep 07, 2026 | [Bonds have become bonds again](https://www.ft.com/content/e8eb7c0f-a50e-4c77-b7f0-dfe4cb11dac9) |
+| Finance | Sep 07, 2026 | [Bonds have become bonds again](https://www.ft.com/content/e8eb7c0f-a50e-4c77-b7f0-dfe4cb11dac9?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
