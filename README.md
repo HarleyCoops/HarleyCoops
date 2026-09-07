@@ -297,11 +297,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Sep 04, 2026 | [White House has vetted candidates for key CFTC vacancies, sources tell CNBC. It's unclear if they...](https://www.cnbc.com/2026/09/04/white-house-has-vetted-candidates-for-key-cftc-vacancies-sources-tell-cnbc.html) |
 | Market | Sep 04, 2026 | [Bitcoin heads for third winning week in a row as macro pressures mount](https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html) |
 | Market | Sep 03, 2026 | [China hits back at G20 statement on its reliance on exports, accusing them of 'promoting protecti...](https://www.cnbc.com/2026/09/03/china-g20-exports-trade.html) |
-| Finance | Sep 07, 2026 | [Germany’s AfD vows to build on ‘dream result’](https://www.ft.com/content/ec1396b9-185e-4a55-86d6-36a560b549fb?syn-25a6b1a6=1) |
-| Finance | Sep 07, 2026 | [A German election result heard around the world](https://www.ft.com/content/06f51592-d259-4f53-b74c-31279414674d?syn-25a6b1a6=1) |
+| Finance | Sep 07, 2026 | [Republicans fear Trump has turned toxic on the campaign trail](https://www.ft.com/content/3edf3717-4737-424c-9162-d330851edcf6?syn-25a6b1a6=1) |
+| Finance | Sep 07, 2026 | [US voters reel as fuel prices hit Labor Day record high](https://www.ft.com/content/da937483-cda9-4417-9257-540c680696c3?syn-25a6b1a6=1) |
 | Finance | Sep 07, 2026 | [Sweden’s fightback against the gangs](https://www.ft.com/content/b2d744cf-de2c-4ef1-84ca-41e897463484?syn-25a6b1a6=1) |
-| Finance | Sep 07, 2026 | [Why America’s debt binge is starting to matter](https://www.ft.com/content/8827baa7-163d-4122-9ea8-a2c9ff6e8a4d?syn-25a6b1a6=1) |
-| Finance | Sep 07, 2026 | [Bonds have become bonds again](https://www.ft.com/content/e8eb7c0f-a50e-4c77-b7f0-dfe4cb11dac9?syn-25a6b1a6=1) |
+| Finance | Sep 07, 2026 | [A German election result heard around the world](https://www.ft.com/content/06f51592-d259-4f53-b74c-31279414674d?syn-25a6b1a6=1) |
+| Finance | Sep 07, 2026 | [‘Chimerica’ is now a chimera — and global stability is the victim](https://www.ft.com/content/8c5c7c44-c9fd-4326-b09a-9f58e3f144b9) |
 
 <!-- NEWS:END -->
 
