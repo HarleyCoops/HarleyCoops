@@ -297,11 +297,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Sep 04, 2026 | [Bitcoin heads for third winning week in a row as macro pressures mount](https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html) |
 | Market | Sep 03, 2026 | [China hits back at G20 statement on its reliance on exports, accusing them of 'promoting protecti...](https://www.cnbc.com/2026/09/03/china-g20-exports-trade.html) |
 | Market | Sep 02, 2026 | [New York Fed's Williams says yield surge due to strong economic prospects](https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html) |
-| Finance | Sep 06, 2026 | [Far-right AfD surges to first place in German state elections](https://www.ft.com/content/a0229455-1822-4de8-ad2f-7453577d95cd?syn-25a6b1a6=1) |
+| Finance | Sep 07, 2026 | [Far-right AfD surges to victory in German state election](https://www.ft.com/content/a0229455-1822-4de8-ad2f-7453577d95cd?syn-25a6b1a6=1) |
 | Finance | Sep 06, 2026 | [Germany’s Merz on the ropes after far right delivers devastating blow](https://www.ft.com/content/48e7b92b-affc-4fd0-8de1-ae8765e5c799?syn-25a6b1a6=1) |
-| Finance | Sep 06, 2026 | [Europe failing to deter Russia’s ‘hybrid’ war, warn defence officials](https://www.ft.com/content/83e08169-69b5-4997-9bf0-e0622e752eda?syn-25a6b1a6=1) |
-| Finance | Sep 06, 2026 | [Pete Hegseth’s Pentagon purge](https://www.ft.com/content/6ea98322-96a3-408a-87e4-eb5e4eb05b52) |
-| Finance | Sep 06, 2026 | [Iceland’s ‘no’ exposes EU complacency](https://www.ft.com/content/646c7152-a720-4ef9-8b84-e37188b9a8f4?syn-25a6b1a6=1) |
+| Finance | Sep 07, 2026 | [Sweden’s fightback against the gangs](https://www.ft.com/content/b2d744cf-de2c-4ef1-84ca-41e897463484?syn-25a6b1a6=1) |
+| Finance | Sep 07, 2026 | [Why America’s debt binge is starting to matter](https://www.ft.com/content/8827baa7-163d-4122-9ea8-a2c9ff6e8a4d?syn-25a6b1a6=1) |
+| Finance | Sep 07, 2026 | [Bonds have become bonds again](https://www.ft.com/content/e8eb7c0f-a50e-4c77-b7f0-dfe4cb11dac9) |
 
 <!-- NEWS:END -->
 
