@@ -300,8 +300,8 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Finance | Sep 08, 2026 | [Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO](https://www.ft.com/content/aa304856-cade-4ad8-a2bf-2dd34fa75b1b?syn-25a6b1a6=1) |
 | Finance | Sep 08, 2026 | [Mistral raises record €3bn as Europe strains to keep pace in AI race](https://www.ft.com/content/adbf5262-c4d5-4312-a9b8-4d3cf30c9e00?syn-25a6b1a6=1) |
 | Finance | Sep 08, 2026 | [The $2tn monster](https://www.ft.com/content/4f28ef6c-f727-4d36-88a3-bbdbd13ddfbf?syn-25a6b1a6=1) |
+| Finance | Sep 08, 2026 | [Young Americans have never witnessed a functioning foreign policy](https://www.ft.com/content/2e97fb28-24cf-4ab0-89b1-454b4f97cdbc) |
 | Finance | Sep 08, 2026 | [AI is ushering in an era of mass toe-treading at work](https://www.ft.com/content/ed214778-2a6d-4862-99b5-abc256daff92?syn-25a6b1a6=1) |
-| Finance | Sep 08, 2026 | [The battle to prove who owns Gaza’s ruins](https://www.ft.com/content/ab6233dc-bfdb-48d8-b71c-864ec040e78d?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
