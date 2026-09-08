@@ -297,11 +297,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Sep 04, 2026 | [White House has vetted candidates for key CFTC vacancies, sources tell CNBC. It's unclear if they...](https://www.cnbc.com/2026/09/04/white-house-has-vetted-candidates-for-key-cftc-vacancies-sources-tell-cnbc.html) |
 | Market | Sep 04, 2026 | [Bitcoin heads for third winning week in a row as macro pressures mount](https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html) |
 | Market | Sep 03, 2026 | [China hits back at G20 statement on its reliance on exports, accusing them of 'promoting protecti...](https://www.cnbc.com/2026/09/03/china-g20-exports-trade.html) |
-| Finance | Sep 07, 2026 | [Republicans fear Trump has turned toxic on the campaign trail](https://www.ft.com/content/3edf3717-4737-424c-9162-d330851edcf6?syn-25a6b1a6=1) |
-| Finance | Sep 07, 2026 | [US voters reel as fuel prices hit Labor Day record high](https://www.ft.com/content/da937483-cda9-4417-9257-540c680696c3?syn-25a6b1a6=1) |
-| Finance | Sep 07, 2026 | [Sweden’s fightback against the gangs](https://www.ft.com/content/b2d744cf-de2c-4ef1-84ca-41e897463484?syn-25a6b1a6=1) |
-| Finance | Sep 07, 2026 | [A German election result heard around the world](https://www.ft.com/content/06f51592-d259-4f53-b74c-31279414674d?syn-25a6b1a6=1) |
-| Finance | Sep 07, 2026 | [‘Chimerica’ is now a chimera — and global stability is the victim](https://www.ft.com/content/8c5c7c44-c9fd-4326-b09a-9f58e3f144b9) |
+| Finance | Sep 08, 2026 | [Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO](https://www.ft.com/content/aa304856-cade-4ad8-a2bf-2dd34fa75b1b?syn-25a6b1a6=1) |
+| Finance | Sep 08, 2026 | [Mistral raises record €3bn as Europe strains to keep pace in AI race](https://www.ft.com/content/adbf5262-c4d5-4312-a9b8-4d3cf30c9e00?syn-25a6b1a6=1) |
+| Finance | Sep 08, 2026 | [The world’s $2tn interest bill](https://www.ft.com/content/4f28ef6c-f727-4d36-88a3-bbdbd13ddfbf?syn-25a6b1a6=1) |
+| Finance | Sep 08, 2026 | [AI is ushering in an era of mass toe-treading at work](https://www.ft.com/content/ed214778-2a6d-4862-99b5-abc256daff92?syn-25a6b1a6=1) |
+| Finance | Sep 08, 2026 | [The crisis for Merz and the CDU](https://www.ft.com/content/22eacb3c-6cab-490d-a117-75ba90a2d35c?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
