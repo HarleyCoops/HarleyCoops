@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Sep 08, 2026 | [Visa tells CNBC it is expanding data offering for blockchain lenders as demand for stablecoin-lin...](https://www.cnbc.com/2026/09/08/visa-blockchain-lender-stablecoin-cards.html) |
+| Market | Sep 08, 2026 | [Crypto platforms have lost over $3.63 billion to cyberattacks — even though most of them did secu...](https://www.cnbc.com/2026/09/08/crypto-platforms-lost-billions-to-cyberattacks-many-even-after-audits.html) |
 | Market | Sep 07, 2026 | [China says it will pump $54 billion into banks and insurers — but their stocks still fell](https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html) |
 | Market | Sep 06, 2026 | [Sugar is outperforming the stock market this year. Here's what's driving it, and where it can go ...](https://www.cnbc.com/2026/09/06/sugar-is-outperforming-the-stock-market-this-year-whats-driving-it.html) |
-| Market | Sep 04, 2026 | [White House has vetted candidates for key CFTC vacancies, sources tell CNBC. It's unclear if they...](https://www.cnbc.com/2026/09/04/white-house-has-vetted-candidates-for-key-cftc-vacancies-sources-tell-cnbc.html) |
-| Market | Sep 04, 2026 | [Bitcoin heads for third winning week in a row as macro pressures mount](https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html) |
-| Market | Sep 03, 2026 | [China hits back at G20 statement on its reliance on exports, accusing them of 'promoting protecti...](https://www.cnbc.com/2026/09/03/china-g20-exports-trade.html) |
+| Market | Sep 08, 2026 | [White House has vetted candidates for key CFTC vacancies, sources tell CNBC. It's unclear if they...](https://www.cnbc.com/2026/09/04/white-house-has-vetted-candidates-for-key-cftc-vacancies-sources-tell-cnbc.html) |
 | Finance | Sep 08, 2026 | [Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO](https://www.ft.com/content/aa304856-cade-4ad8-a2bf-2dd34fa75b1b?syn-25a6b1a6=1) |
 | Finance | Sep 08, 2026 | [Mistral raises record €3bn as Europe strains to keep pace in AI race](https://www.ft.com/content/adbf5262-c4d5-4312-a9b8-4d3cf30c9e00?syn-25a6b1a6=1) |
-| Finance | Sep 08, 2026 | [The world’s $2tn interest bill](https://www.ft.com/content/4f28ef6c-f727-4d36-88a3-bbdbd13ddfbf?syn-25a6b1a6=1) |
+| Finance | Sep 08, 2026 | [The $2tn monster](https://www.ft.com/content/4f28ef6c-f727-4d36-88a3-bbdbd13ddfbf?syn-25a6b1a6=1) |
 | Finance | Sep 08, 2026 | [AI is ushering in an era of mass toe-treading at work](https://www.ft.com/content/ed214778-2a6d-4862-99b5-abc256daff92?syn-25a6b1a6=1) |
-| Finance | Sep 08, 2026 | [The crisis for Merz and the CDU](https://www.ft.com/content/22eacb3c-6cab-490d-a117-75ba90a2d35c?syn-25a6b1a6=1) |
+| Finance | Sep 08, 2026 | [The battle to prove who owns Gaza’s ruins](https://www.ft.com/content/ab6233dc-bfdb-48d8-b71c-864ec040e78d?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
