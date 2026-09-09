@@ -297,11 +297,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Sep 08, 2026 | [How one hedge-fund manager built his firm to be powered entirely by AI agents](https://www.cnbc.com/2026/09/08/brian-kelly-bracket22-ai-agents.html) |
 | Market | Sep 08, 2026 | [Visa tells CNBC it is expanding data offering for blockchain lenders as demand for stablecoin-lin...](https://www.cnbc.com/2026/09/08/visa-blockchain-lender-stablecoin-cards.html) |
 | Market | Sep 08, 2026 | [Crypto platforms have lost over $3.63 billion to cyberattacks — even though most of them did secu...](https://www.cnbc.com/2026/09/08/crypto-platforms-lost-billions-to-cyberattacks-many-even-after-audits.html) |
-| Finance | Sep 09, 2026 | [Oil hits $100 for first time since July](https://www.ft.com/content/c8921e49-1d06-4d27-ab38-7a1d8e3d43fe?syn-25a6b1a6=1) |
-| Finance | Sep 09, 2026 | [Iran turns to crypto to shore up economy](https://www.ft.com/content/c1029e47-7487-4bd7-8ed4-7512b76f1834?syn-25a6b1a6=1) |
+| Finance | Sep 09, 2026 | [US spy chief prepares for greater role in Russia-Ukraine talks](https://www.ft.com/content/d0557d25-78b5-45d8-bb33-d655e859d803?syn-25a6b1a6=1) |
+| Finance | Sep 09, 2026 | [Kushner and Witkoff’s blind amateurism](https://www.ft.com/content/bc02e99c-c6e0-4b1e-825c-330b4646ee9e?syn-25a6b1a6=1) |
 | Finance | Sep 09, 2026 | [Trump’s Golden Dome brought down to Earth](https://ig.ft.com/golden-dome/?syn-25a6b1a6=1) |
-| Finance | Sep 09, 2026 | [How Greece is wooing hedge funds](https://www.ft.com/content/a60fe9fe-3905-44c0-ad32-07762cf44786?syn-25a6b1a6=1) |
 | Finance | Sep 09, 2026 | [Warsh might yet be a good Fed chair](https://www.ft.com/content/e58008a5-d757-4570-af08-d2396f46f03f?syn-25a6b1a6=1) |
+| Finance | Sep 09, 2026 | [Who is voting for the far-right Alternative for Germany?](https://www.ft.com/content/ef6d5693-a5b0-445a-8f30-d514d50651e1?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
