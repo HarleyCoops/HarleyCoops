@@ -297,11 +297,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Sep 08, 2026 | [How one hedge-fund manager built his firm to be powered entirely by AI agents](https://www.cnbc.com/2026/09/08/brian-kelly-bracket22-ai-agents.html) |
 | Market | Sep 08, 2026 | [Visa tells CNBC it is expanding data offering for blockchain lenders as demand for stablecoin-lin...](https://www.cnbc.com/2026/09/08/visa-blockchain-lender-stablecoin-cards.html) |
 | Market | Sep 08, 2026 | [Crypto platforms have lost over $3.63 billion to cyberattacks — even though most of them did secu...](https://www.cnbc.com/2026/09/08/crypto-platforms-lost-billions-to-cyberattacks-many-even-after-audits.html) |
-| Finance | Sep 09, 2026 | [US spy chief prepares for greater role in Russia-Ukraine talks](https://www.ft.com/content/d0557d25-78b5-45d8-bb33-d655e859d803?syn-25a6b1a6=1) |
+| Finance | Sep 09, 2026 | [Treasury yields jump as Bessent’s $6bn buyback plan disappoints investors](https://www.ft.com/content/2476992f-c9fe-4992-887d-f34c81c100ab?syn-25a6b1a6=1) |
+| Finance | Sep 09, 2026 | [‘I am the house now’: Bessent warns traders not to bet against yen](https://www.ft.com/content/38d718f6-110b-4822-9403-f7d12a48cfa8?syn-25a6b1a6=1) |
+| Finance | Sep 09, 2026 | [Foldable iPhone Duo will cost $1,999 as Apple raises smartphone prices](https://www.ft.com/content/dea481e8-d30b-4cbb-b535-5ff219c4e546?syn-25a6b1a6=1) |
 | Finance | Sep 09, 2026 | [Kushner and Witkoff’s blind amateurism](https://www.ft.com/content/bc02e99c-c6e0-4b1e-825c-330b4646ee9e?syn-25a6b1a6=1) |
-| Finance | Sep 09, 2026 | [Trump’s Golden Dome brought down to Earth](https://ig.ft.com/golden-dome/?syn-25a6b1a6=1) |
-| Finance | Sep 09, 2026 | [Warsh might yet be a good Fed chair](https://www.ft.com/content/e58008a5-d757-4570-af08-d2396f46f03f?syn-25a6b1a6=1) |
-| Finance | Sep 09, 2026 | [Who is voting for the far-right Alternative for Germany?](https://www.ft.com/content/ef6d5693-a5b0-445a-8f30-d514d50651e1?syn-25a6b1a6=1) |
+| Finance | Sep 09, 2026 | [France’s Le Pen stays silent on far-right victory in German election](https://www.ft.com/content/8be9ce96-3307-43db-b755-c67f3c50be29?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
