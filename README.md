@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Sep 09, 2026 | [Adani Enterprises shares jump as airport unit enters into $1 billion fundraising deal](https://www.cnbc.com/2026/09/09/adani-enterprises-airport-fundraise-shares.html) |
+| Market | Sep 09, 2026 | [China's EV makers shift gears to focus on humanoids as car market slows](https://www.cnbc.com/2026/09/09/chinas-ev-makers-shift-gears-to-focus-on-humanoids-as-car-market-slows.html) |
 | Market | Sep 08, 2026 | [How one hedge-fund manager built his firm to be powered entirely by AI agents](https://www.cnbc.com/2026/09/08/brian-kelly-bracket22-ai-agents.html) |
 | Market | Sep 08, 2026 | [Visa tells CNBC it is expanding data offering for blockchain lenders as demand for stablecoin-lin...](https://www.cnbc.com/2026/09/08/visa-blockchain-lender-stablecoin-cards.html) |
 | Market | Sep 08, 2026 | [Crypto platforms have lost over $3.63 billion to cyberattacks — even though most of them did secu...](https://www.cnbc.com/2026/09/08/crypto-platforms-lost-billions-to-cyberattacks-many-even-after-audits.html) |
-| Market | Sep 07, 2026 | [China says it will pump $54 billion into banks and insurers — but their stocks still fell](https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html) |
-| Market | Sep 06, 2026 | [Sugar is outperforming the stock market this year. Here's what's driving it, and where it can go ...](https://www.cnbc.com/2026/09/06/sugar-is-outperforming-the-stock-market-this-year-whats-driving-it.html) |
-| Finance | Sep 08, 2026 | [Oil nears $100 as US launches new strikes on Iranian tankers](https://www.ft.com/content/b460b828-6183-4914-9140-5dfb6d61312c?syn-25a6b1a6=1) |
-| Finance | Sep 08, 2026 | [Meta unveils AI personal assistant linked to WhatsApp and Instagram](https://www.ft.com/content/5816292b-c36b-4c22-aa50-2680b9970382?syn-25a6b1a6=1) |
-| Finance | Sep 08, 2026 | [Young Americans have never witnessed a functioning foreign policy](https://www.ft.com/content/2e97fb28-24cf-4ab0-89b1-454b4f97cdbc) |
-| Finance | Sep 08, 2026 | [Tung Chee-hwa, Hong Kong’s first chief executive, 1937-2026](https://www.ft.com/content/a943b766-c4f1-4417-8578-2c9f60ec6c11?syn-25a6b1a6=1) |
-| Finance | Sep 08, 2026 | [US bans Canadian dairy, motorcycles and most alcoholic beverages](https://www.ft.com/content/639d8eac-fd8c-4557-a852-f826501681ad?syn-25a6b1a6=1) |
+| Finance | Sep 09, 2026 | [Oil hits $100 for first time since July](https://www.ft.com/content/c8921e49-1d06-4d27-ab38-7a1d8e3d43fe?syn-25a6b1a6=1) |
+| Finance | Sep 09, 2026 | [Iran turns to crypto to shore up economy](https://www.ft.com/content/c1029e47-7487-4bd7-8ed4-7512b76f1834?syn-25a6b1a6=1) |
+| Finance | Sep 09, 2026 | [Trump’s Golden Dome brought down to Earth](https://ig.ft.com/golden-dome/?syn-25a6b1a6=1) |
+| Finance | Sep 09, 2026 | [How Greece is wooing hedge funds](https://www.ft.com/content/a60fe9fe-3905-44c0-ad32-07762cf44786?syn-25a6b1a6=1) |
+| Finance | Sep 09, 2026 | [Warsh might yet be a good Fed chair](https://www.ft.com/content/e58008a5-d757-4570-af08-d2396f46f03f?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
