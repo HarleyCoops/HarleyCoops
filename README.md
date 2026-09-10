@@ -297,11 +297,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Sep 09, 2026 | [China's EV makers shift gears to focus on humanoids as car market slows](https://www.cnbc.com/2026/09/09/chinas-ev-makers-shift-gears-to-focus-on-humanoids-as-car-market-slows.html) |
 | Market | Sep 08, 2026 | [How one hedge-fund manager built his firm to be powered entirely by AI agents](https://www.cnbc.com/2026/09/08/brian-kelly-bracket22-ai-agents.html) |
 | Market | Sep 08, 2026 | [Visa tells CNBC it is expanding data offering for blockchain lenders as demand for stablecoin-lin...](https://www.cnbc.com/2026/09/08/visa-blockchain-lender-stablecoin-cards.html) |
+| Finance | Sep 10, 2026 | [IMF ditched top candidate for chief economist job over Trump tariff remarks](https://www.ft.com/content/98329c45-f5b7-4885-9911-e0c8a9c83c0a?syn-25a6b1a6=1) |
+| Finance | Sep 10, 2026 | [Silicon Valley bets on the impossible again](https://www.ft.com/content/0c440134-686f-4b55-ab35-2afe4e6a3f91?syn-25a6b1a6=1) |
+| Finance | Sep 10, 2026 | [On Europe’s economy, let’s ditch the lazy stereotypes](https://www.ft.com/content/362b3139-b0de-42f1-83db-67d4572a66ce?syn-25a6b1a6=1) |
+| Finance | Sep 10, 2026 | [The end of the ‘win-win’ era](https://www.ft.com/content/8fe10fa2-e061-4ebe-9853-f5b7136f6e56?syn-25a6b1a6=1) |
 | Finance | Sep 10, 2026 | [Trump promises $5,000 ‘dividend’ for US voters if Republicans win midterms](https://www.ft.com/content/acfc3ed7-9e2d-4d86-a915-a68c9a55db1f?syn-25a6b1a6=1) |
-| Finance | Sep 09, 2026 | [Foldable iPhone Duo will cost $1,999 as Apple raises smartphone prices](https://www.ft.com/content/dea481e8-d30b-4cbb-b535-5ff219c4e546?syn-25a6b1a6=1) |
-| Finance | Sep 09, 2026 | [Kushner and Witkoff’s blind amateurism](https://www.ft.com/content/bc02e99c-c6e0-4b1e-825c-330b4646ee9e?syn-25a6b1a6=1) |
-| Finance | Sep 09, 2026 | [The curse of supporting the NFL’s worst team](https://www.ft.com/content/ad209e95-c5f2-4031-b207-7abaafe75d43?syn-25a6b1a6=1) |
-| Finance | Sep 09, 2026 | [Treasury yields jump as Bessent’s $6bn buyback plan disappoints investors](https://www.ft.com/content/2476992f-c9fe-4992-887d-f34c81c100ab?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
