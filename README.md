@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Sep 10, 2026 | [Ant International partners with Visa, Mastercard on developing AI payments](https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html) |
 | Market | Sep 09, 2026 | [Adani Enterprises shares jump as airport unit enters into $1 billion fundraising deal](https://www.cnbc.com/2026/09/09/adani-enterprises-airport-fundraise-shares.html) |
 | Market | Sep 09, 2026 | [China's EV makers shift gears to focus on humanoids as car market slows](https://www.cnbc.com/2026/09/09/chinas-ev-makers-shift-gears-to-focus-on-humanoids-as-car-market-slows.html) |
 | Market | Sep 08, 2026 | [How one hedge-fund manager built his firm to be powered entirely by AI agents](https://www.cnbc.com/2026/09/08/brian-kelly-bracket22-ai-agents.html) |
 | Market | Sep 08, 2026 | [Visa tells CNBC it is expanding data offering for blockchain lenders as demand for stablecoin-lin...](https://www.cnbc.com/2026/09/08/visa-blockchain-lender-stablecoin-cards.html) |
-| Market | Sep 08, 2026 | [Crypto platforms have lost over $3.63 billion to cyberattacks — even though most of them did secu...](https://www.cnbc.com/2026/09/08/crypto-platforms-lost-billions-to-cyberattacks-many-even-after-audits.html) |
-| Finance | Sep 09, 2026 | [Treasury yields jump as Bessent’s $6bn buyback plan disappoints investors](https://www.ft.com/content/2476992f-c9fe-4992-887d-f34c81c100ab?syn-25a6b1a6=1) |
-| Finance | Sep 09, 2026 | [‘I am the house now’: Bessent warns traders not to bet against yen](https://www.ft.com/content/38d718f6-110b-4822-9403-f7d12a48cfa8?syn-25a6b1a6=1) |
+| Finance | Sep 10, 2026 | [Trump promises $5,000 ‘dividend’ for US voters if Republicans win midterms](https://www.ft.com/content/acfc3ed7-9e2d-4d86-a915-a68c9a55db1f?syn-25a6b1a6=1) |
 | Finance | Sep 09, 2026 | [Foldable iPhone Duo will cost $1,999 as Apple raises smartphone prices](https://www.ft.com/content/dea481e8-d30b-4cbb-b535-5ff219c4e546?syn-25a6b1a6=1) |
 | Finance | Sep 09, 2026 | [Kushner and Witkoff’s blind amateurism](https://www.ft.com/content/bc02e99c-c6e0-4b1e-825c-330b4646ee9e?syn-25a6b1a6=1) |
-| Finance | Sep 09, 2026 | [France’s Le Pen stays silent on far-right victory in German election](https://www.ft.com/content/8be9ce96-3307-43db-b755-c67f3c50be29?syn-25a6b1a6=1) |
+| Finance | Sep 09, 2026 | [The curse of supporting the NFL’s worst team](https://www.ft.com/content/ad209e95-c5f2-4031-b207-7abaafe75d43?syn-25a6b1a6=1) |
+| Finance | Sep 09, 2026 | [Treasury yields jump as Bessent’s $6bn buyback plan disappoints investors](https://www.ft.com/content/2476992f-c9fe-4992-887d-f34c81c100ab?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
