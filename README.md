@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Sep 10, 2026 | [Kalshi launches ‘perps’ for gold and silver following CFTC approval, expanding futures offerings](https://www.cnbc.com/2026/09/10/kalshi-launches-perps-for-gold-and-silver-following-cftc-approval-expanding-futures-offerings.html) |
 | Market | Sep 10, 2026 | [Ant International partners with Visa, Mastercard on developing AI payments](https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html) |
 | Market | Sep 09, 2026 | [Adani Enterprises shares jump as airport unit enters into $1 billion fundraising deal](https://www.cnbc.com/2026/09/09/adani-enterprises-airport-fundraise-shares.html) |
 | Market | Sep 09, 2026 | [China's EV makers shift gears to focus on humanoids as car market slows](https://www.cnbc.com/2026/09/09/chinas-ev-makers-shift-gears-to-focus-on-humanoids-as-car-market-slows.html) |
 | Market | Sep 08, 2026 | [How one hedge-fund manager built his firm to be powered entirely by AI agents](https://www.cnbc.com/2026/09/08/brian-kelly-bracket22-ai-agents.html) |
-| Market | Sep 08, 2026 | [Visa tells CNBC it is expanding data offering for blockchain lenders as demand for stablecoin-lin...](https://www.cnbc.com/2026/09/08/visa-blockchain-lender-stablecoin-cards.html) |
-| Finance | Sep 10, 2026 | [IMF ditched top candidate for chief economist job over Trump tariff remarks](https://www.ft.com/content/98329c45-f5b7-4885-9911-e0c8a9c83c0a?syn-25a6b1a6=1) |
+| Finance | Sep 10, 2026 | [Global bond sell-off reignites as oil jumps above $105](https://www.ft.com/content/49e8c693-0064-4ef9-917f-5f2be97458fc?syn-25a6b1a6=1) |
+| Finance | Sep 10, 2026 | [America is losing its captive creditors](https://www.ft.com/content/a441ea66-329a-4f42-8e50-3ff140958e53) |
+| Finance | Sep 10, 2026 | [ECB warns of ‘upside risk’ to inflation as it raises rates to 2.5%](https://www.ft.com/content/083a9c4b-3913-496d-be13-22c96053624b?syn-25a6b1a6=1) |
 | Finance | Sep 10, 2026 | [Silicon Valley bets on the impossible again](https://www.ft.com/content/0c440134-686f-4b55-ab35-2afe4e6a3f91?syn-25a6b1a6=1) |
-| Finance | Sep 10, 2026 | [On Europe’s economy, let’s ditch the lazy stereotypes](https://www.ft.com/content/362b3139-b0de-42f1-83db-67d4572a66ce?syn-25a6b1a6=1) |
-| Finance | Sep 10, 2026 | [The end of the ‘win-win’ era](https://www.ft.com/content/8fe10fa2-e061-4ebe-9853-f5b7136f6e56?syn-25a6b1a6=1) |
-| Finance | Sep 10, 2026 | [Trump promises $5,000 ‘dividend’ for US voters if Republicans win midterms](https://www.ft.com/content/acfc3ed7-9e2d-4d86-a915-a68c9a55db1f?syn-25a6b1a6=1) |
+| Finance | Sep 10, 2026 | [Hugging Face co-founder: What we learnt from OpenAI’s hack](https://www.ft.com/content/9faf688d-9192-418e-b7d3-c2202526e85e?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
