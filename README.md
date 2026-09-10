@@ -292,14 +292,14 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Sep 10, 2026 | [OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services](https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html) |
 | Market | Sep 10, 2026 | [Kalshi launches ‘perps’ for gold and silver following CFTC approval, expanding futures offerings](https://www.cnbc.com/2026/09/10/kalshi-launches-perps-for-gold-and-silver-following-cftc-approval-expanding-futures-offerings.html) |
 | Market | Sep 10, 2026 | [Ant International partners with Visa, Mastercard on developing AI payments](https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html) |
 | Market | Sep 09, 2026 | [Adani Enterprises shares jump as airport unit enters into $1 billion fundraising deal](https://www.cnbc.com/2026/09/09/adani-enterprises-airport-fundraise-shares.html) |
 | Market | Sep 09, 2026 | [China's EV makers shift gears to focus on humanoids as car market slows](https://www.cnbc.com/2026/09/09/chinas-ev-makers-shift-gears-to-focus-on-humanoids-as-car-market-slows.html) |
-| Market | Sep 08, 2026 | [How one hedge-fund manager built his firm to be powered entirely by AI agents](https://www.cnbc.com/2026/09/08/brian-kelly-bracket22-ai-agents.html) |
-| Finance | Sep 10, 2026 | [Global bond sell-off reignites as oil jumps above $105](https://www.ft.com/content/49e8c693-0064-4ef9-917f-5f2be97458fc?syn-25a6b1a6=1) |
-| Finance | Sep 10, 2026 | [America is losing its captive creditors](https://www.ft.com/content/a441ea66-329a-4f42-8e50-3ff140958e53) |
-| Finance | Sep 10, 2026 | [ECB warns of ‘upside risk’ to inflation as it raises rates to 2.5%](https://www.ft.com/content/083a9c4b-3913-496d-be13-22c96053624b?syn-25a6b1a6=1) |
+| Finance | Sep 10, 2026 | [Global bond sell-off reignites as oil jumps to $107](https://www.ft.com/content/49e8c693-0064-4ef9-917f-5f2be97458fc?syn-25a6b1a6=1) |
+| Finance | Sep 10, 2026 | [Druckenmiller says US borrowing costs still ‘a little low’ despite surge in yields](https://www.ft.com/content/7410c56e-5350-48f8-a5e6-24f37c1581e9?syn-25a6b1a6=1) |
+| Finance | Sep 10, 2026 | [Treasury yields hit session highs after Bessent’s buyback operation misses target](https://www.ft.com/content/083a9c4b-3913-496d-be13-22c96053624b?syn-25a6b1a6=1) |
 | Finance | Sep 10, 2026 | [Silicon Valley bets on the impossible again](https://www.ft.com/content/0c440134-686f-4b55-ab35-2afe4e6a3f91?syn-25a6b1a6=1) |
 | Finance | Sep 10, 2026 | [Hugging Face co-founder: What we learnt from OpenAI’s hack](https://www.ft.com/content/9faf688d-9192-418e-b7d3-c2202526e85e?syn-25a6b1a6=1) |
 
