@@ -297,9 +297,9 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Sep 10, 2026 | [OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services](https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html) |
 | Market | Sep 10, 2026 | [Kalshi launches ‘perps’ for gold and silver following CFTC approval, expanding futures offerings](https://www.cnbc.com/2026/09/10/kalshi-launches-perps-for-gold-and-silver-following-cftc-approval-expanding-futures-offerings.html) |
 | Market | Sep 10, 2026 | [Ant International partners with Visa, Mastercard on developing AI payments](https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html) |
+| Finance | Sep 11, 2026 | [Warsh under mounting pressure to raise rates as US inflation persists](https://www.ft.com/content/24646e74-9506-4718-b1be-789208db86d9?syn-25a6b1a6=1) |
+| Finance | Sep 11, 2026 | [US diesel hits record $6 a gallon on Iran supply shock](https://www.ft.com/content/ebfa69a3-323b-450d-8bfd-0b12e01d2a5b?syn-25a6b1a6=1) |
 | Finance | Sep 11, 2026 | [Scott Bessent fails to break ‘fever’ in US bond market](https://www.ft.com/content/dd4cc4a0-844e-486a-b99c-b379d457019b?syn-25a6b1a6=1) |
-| Finance | Sep 11, 2026 | [Bond markets stabilise after global sell-off](https://www.ft.com/content/2c9ce5b0-32ae-4460-aa89-9c80eb05ee41?syn-25a6b1a6=1) |
-| Finance | Sep 11, 2026 | [Bessent’s intervention risks damaging BoJ’s credibility, bankers warn](https://www.ft.com/content/f7ca7904-b0d8-428b-9bf7-883740ba9922?syn-25a6b1a6=1) |
 | Finance | Sep 11, 2026 | [9/11 and the America it left behind](https://www.ft.com/content/bbdad57e-bd57-4c75-98b8-12fca7cbd268?syn-25a6b1a6=1) |
 | Finance | Sep 11, 2026 | [Europe’s difficult choices on AI](https://www.ft.com/content/f054f927-b512-452a-b494-ea53f5ac1079) |
 
