@@ -292,12 +292,12 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Sep 12, 2026 | [Inflation is outpacing wage growth again, squeezing Americans’ paychecks](https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html) |
 | Market | Sep 11, 2026 | [A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model](https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html) |
 | Market | Sep 11, 2026 | [The iPhone Duo enters China’s crowded foldable market — and faces a price test](https://www.cnbc.com/2026/09/11/the-iphone-duo-enters-chinas-crowded-foldable-market.html) |
 | Market | Sep 11, 2026 | [OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services](https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html) |
 | Market | Sep 10, 2026 | [Kalshi launches ‘perps’ for gold and silver following CFTC approval, expanding futures offerings](https://www.cnbc.com/2026/09/10/kalshi-launches-perps-for-gold-and-silver-following-cftc-approval-expanding-futures-offerings.html) |
-| Market | Sep 10, 2026 | [Ant International partners with Visa, Mastercard on developing AI payments](https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html) |
-| Finance | Sep 11, 2026 | [Saudi Arabia shuts East-West pipeline that bypasses Hormuz after attacks](https://www.ft.com/content/3bafb3ae-ba94-44f0-984c-ec7c9f54a5e0?syn-25a6b1a6=1) |
+| Finance | Sep 12, 2026 | [Saudi Arabia shuts East-West pipeline that bypasses Hormuz after attacks](https://www.ft.com/content/3bafb3ae-ba94-44f0-984c-ec7c9f54a5e0?syn-25a6b1a6=1) |
 | Finance | Sep 12, 2026 | [US limits air defence time slots for tankers sailing through Hormuz](https://www.ft.com/content/d4b4105e-d91f-48bb-820e-64290e916f5e?syn-25a6b1a6=1) |
 | Finance | Sep 11, 2026 | [Why the AI race has its creators fearing human extinction](https://www.ft.com/content/b7fe0fe0-0463-4f55-9590-0a7d08d8fe66?syn-25a6b1a6=1) |
 | Finance | Sep 12, 2026 | [We are setting up a generation to fail at school](https://www.ft.com/content/724f8ecb-1e2b-4c7f-bbb6-14239abd50dd?syn-25a6b1a6=1) |
