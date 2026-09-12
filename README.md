@@ -298,10 +298,10 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Sep 10, 2026 | [Kalshi launches ‘perps’ for gold and silver following CFTC approval, expanding futures offerings](https://www.cnbc.com/2026/09/10/kalshi-launches-perps-for-gold-and-silver-following-cftc-approval-expanding-futures-offerings.html) |
 | Market | Sep 10, 2026 | [Ant International partners with Visa, Mastercard on developing AI payments](https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html) |
 | Finance | Sep 11, 2026 | [Saudi Arabia shuts East-West pipeline that bypasses Hormuz after attacks](https://www.ft.com/content/3bafb3ae-ba94-44f0-984c-ec7c9f54a5e0?syn-25a6b1a6=1) |
-| Finance | Sep 11, 2026 | [Houthis seize Red Sea islands in lightning offensive](https://www.ft.com/content/976fa0d6-ed09-4a6f-be02-ff4317b45f40?syn-25a6b1a6=1) |
-| Finance | Sep 11, 2026 | [Houthis used Anthropic AI to try to build ballistic missiles](https://www.ft.com/content/8310cf56-ce60-4e6e-8254-5bb470e9a880?syn-25a6b1a6=1) |
+| Finance | Sep 12, 2026 | [US limits air defence time slots for tankers sailing through Hormuz](https://www.ft.com/content/d4b4105e-d91f-48bb-820e-64290e916f5e?syn-25a6b1a6=1) |
 | Finance | Sep 11, 2026 | [Why the AI race has its creators fearing human extinction](https://www.ft.com/content/b7fe0fe0-0463-4f55-9590-0a7d08d8fe66?syn-25a6b1a6=1) |
-| Finance | Sep 11, 2026 | [The day that blew America and the world off course](https://www.ft.com/content/b9a48a1b-5896-46fb-91a1-d7beb18a64b7?syn-25a6b1a6=1) |
+| Finance | Sep 12, 2026 | [We are setting up a generation to fail at school](https://www.ft.com/content/724f8ecb-1e2b-4c7f-bbb6-14239abd50dd?syn-25a6b1a6=1) |
+| Finance | Sep 11, 2026 | [How both sides lost after 9/11](https://www.ft.com/content/d7f197dd-a39a-43dc-a2f9-6204c5876e76?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
