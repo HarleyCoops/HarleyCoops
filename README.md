@@ -298,10 +298,10 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Sep 11, 2026 | [OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services](https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html) |
 | Market | Sep 10, 2026 | [Kalshi launches ‘perps’ for gold and silver following CFTC approval, expanding futures offerings](https://www.cnbc.com/2026/09/10/kalshi-launches-perps-for-gold-and-silver-following-cftc-approval-expanding-futures-offerings.html) |
 | Finance | Sep 12, 2026 | [Rivals Altman and Musk rally behind Dario Amodei’s call for an AI slowdown](https://www.ft.com/content/31220b59-b0c6-401c-a146-2b7b5d138837?syn-25a6b1a6=1) |
-| Finance | Sep 12, 2026 | [We are setting up a generation to fail at school](https://www.ft.com/content/724f8ecb-1e2b-4c7f-bbb6-14239abd50dd?syn-25a6b1a6=1) |
-| Finance | Sep 12, 2026 | [Trump says united Ireland ‘inevitable’ and ‘a very cool thing’](https://www.ft.com/content/70bd4f6c-a5f4-4e59-b773-614f0a5efd58?syn-25a6b1a6=1) |
-| Finance | Sep 12, 2026 | [EU races to Le Pen-proof its agenda](https://www.ft.com/content/94c2830e-cbec-43ed-b329-23a79060469a?syn-25a6b1a6=1) |
-| Finance | Sep 12, 2026 | [US limits air defence time slots for tankers sailing through Hormuz](https://www.ft.com/content/d4b4105e-d91f-48bb-820e-64290e916f5e?syn-25a6b1a6=1) |
+| Finance | Sep 13, 2026 | [The anti-AI portfolio: fountain pens, Warhammer and film cameras](https://www.ft.com/content/4ffff2a7-b2aa-42aa-a68b-037f9a3fd603?syn-25a6b1a6=1) |
+| Finance | Sep 13, 2026 | [As Europe’s memory fades, radicalism is returning](https://www.ft.com/content/65181a27-bea2-4ac0-96df-2d0d8dfe0b58) |
+| Finance | Sep 13, 2026 | [Why teenagers are doing worse at school](https://www.ft.com/content/dc5012ed-cb82-469e-9be8-e65ac7f6745c?syn-25a6b1a6=1) |
+| Finance | Sep 13, 2026 | [Boom-era PE funds will fall short on promises, executives warn](https://www.ft.com/content/183569b4-8102-4b38-8a20-a3597a442f26?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
