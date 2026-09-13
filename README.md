@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Sep 13, 2026 | [NFL and midterm elections set up prediction markets for a critical fall season](https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html) |
 | Market | Sep 12, 2026 | [Inflation is outpacing wage growth again, squeezing Americans’ paychecks](https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html) |
 | Market | Sep 11, 2026 | [A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model](https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html) |
 | Market | Sep 11, 2026 | [The iPhone Duo enters China’s crowded foldable market — and faces a price test](https://www.cnbc.com/2026/09/11/the-iphone-duo-enters-chinas-crowded-foldable-market.html) |
 | Market | Sep 11, 2026 | [OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services](https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html) |
-| Market | Sep 10, 2026 | [Kalshi launches ‘perps’ for gold and silver following CFTC approval, expanding futures offerings](https://www.cnbc.com/2026/09/10/kalshi-launches-perps-for-gold-and-silver-following-cftc-approval-expanding-futures-offerings.html) |
 | Finance | Sep 12, 2026 | [Rivals Altman and Musk rally behind Dario Amodei’s call for an AI slowdown](https://www.ft.com/content/31220b59-b0c6-401c-a146-2b7b5d138837?syn-25a6b1a6=1) |
 | Finance | Sep 13, 2026 | [The anti-AI portfolio: fountain pens, Warhammer and film cameras](https://www.ft.com/content/4ffff2a7-b2aa-42aa-a68b-037f9a3fd603?syn-25a6b1a6=1) |
-| Finance | Sep 13, 2026 | [As Europe’s memory fades, radicalism is returning](https://www.ft.com/content/65181a27-bea2-4ac0-96df-2d0d8dfe0b58) |
+| Finance | Sep 13, 2026 | [The calculated desperation of Trump-a-palooza](https://www.ft.com/content/d4604abb-d357-4ebd-b709-23902d1e1868?syn-25a6b1a6=1) |
 | Finance | Sep 13, 2026 | [Why teenagers are doing worse at school](https://www.ft.com/content/dc5012ed-cb82-469e-9be8-e65ac7f6745c?syn-25a6b1a6=1) |
-| Finance | Sep 13, 2026 | [Boom-era PE funds will fall short on promises, executives warn](https://www.ft.com/content/183569b4-8102-4b38-8a20-a3597a442f26?syn-25a6b1a6=1) |
+| Finance | Sep 13, 2026 | [Russia hits evacuated Kyiv-Warsaw train on line used by foreign leaders](https://www.ft.com/content/cdce9cd6-4857-4332-af34-ffc9ce45eadf?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
