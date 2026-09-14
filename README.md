@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Sep 14, 2026 | [Prediction markets are becoming more professionalized, but also harder to beat](https://www.cnbc.com/2026/09/14/prediction-markets-efficient-win-lose-beat.html) |
 | Market | Sep 13, 2026 | [NFL and midterm elections set up prediction markets for a critical fall season](https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html) |
 | Market | Sep 12, 2026 | [Inflation is outpacing wage growth again, squeezing Americans’ paychecks](https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html) |
 | Market | Sep 11, 2026 | [A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model](https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html) |
 | Market | Sep 11, 2026 | [The iPhone Duo enters China’s crowded foldable market — and faces a price test](https://www.cnbc.com/2026/09/11/the-iphone-duo-enters-chinas-crowded-foldable-market.html) |
-| Market | Sep 11, 2026 | [OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services](https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html) |
-| Finance | Sep 13, 2026 | [Donald Trump rejects calls from tech bosses for an AI slowdown](https://www.ft.com/content/cae60732-f929-4735-a627-db8c14e7c7ed?syn-25a6b1a6=1) |
+| Finance | Sep 13, 2026 | [Anthropic tells investors it will be profitable for second straight quarter](https://www.ft.com/content/4564e6a5-69e9-40a6-bf0f-a888f2f4f002?syn-25a6b1a6=1) |
+| Finance | Sep 13, 2026 | [Trump rejects calls from tech bosses for AI slowdown](https://www.ft.com/content/cae60732-f929-4735-a627-db8c14e7c7ed?syn-25a6b1a6=1) |
 | Finance | Sep 13, 2026 | [Russia strikes Ukraine train line moments after foreign dignitaries pass](https://www.ft.com/content/cdce9cd6-4857-4332-af34-ffc9ce45eadf?syn-25a6b1a6=1) |
 | Finance | Sep 13, 2026 | [The calculated desperation of Trump-a-palooza](https://www.ft.com/content/d4604abb-d357-4ebd-b709-23902d1e1868?syn-25a6b1a6=1) |
 | Finance | Sep 13, 2026 | [Why teenagers are doing worse at school](https://www.ft.com/content/dc5012ed-cb82-469e-9be8-e65ac7f6745c?syn-25a6b1a6=1) |
-| Finance | Sep 13, 2026 | [Musk’s secretive backer builds $40bn SpaceX stake](https://www.ft.com/content/c765f312-e698-4d31-bf71-f64a656ad6f4?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
