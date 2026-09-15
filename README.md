@@ -297,11 +297,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Sep 14, 2026 | [Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike](https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html) |
 | Market | Sep 14, 2026 | [Prediction market traders think gas prices will hit new highs for the year](https://www.cnbc.com/2026/09/14/prediction-markets-traders-think-gas-prices-will-hit-new-highs-in-2026.html) |
 | Market | Sep 14, 2026 | [China says AI CEOs' call for a slowdown is 'fear mongering'](https://www.cnbc.com/2026/09/14/china-ai-slowdown-us-tech-ceos.html) |
-| Finance | Sep 15, 2026 | [Supreme Court rejects Trump’s mail-in ballot restrictions for midterms](https://www.ft.com/content/b3674c9d-9db2-448d-bd57-f1c040de2d54?syn-25a6b1a6=1) |
-| Finance | Sep 14, 2026 | [Carney urges EU to cement trade deal as Ottawa seeks pivot from US](https://www.ft.com/content/1a1d76fc-e02b-40ee-8afc-b45ab9f17c0f?syn-25a6b1a6=1) |
-| Finance | Sep 14, 2026 | [A spreading war threatens Trump and MBS](https://www.ft.com/content/f2a472e6-352a-4067-b9e5-56596a8ba215?syn-25a6b1a6=1) |
 | Finance | Sep 15, 2026 | [China tightens control of overseas travel in sweeping new law](https://www.ft.com/content/3f2b2172-0c1a-4708-aba2-559eb37eabc8?syn-25a6b1a6=1) |
-| Finance | Sep 14, 2026 | [Ten-year Treasury yield hits 5% for first time since 2023](https://www.ft.com/content/06cb850d-089a-4318-88d7-a410e9766b89?syn-25a6b1a6=1) |
+| Finance | Sep 15, 2026 | [China’s economy shows signs of weakness as investment slumps](https://www.ft.com/content/d9158802-5836-441a-9969-47409044c503?syn-25a6b1a6=1) |
+| Finance | Sep 15, 2026 | [How Poland lost $230mn trying to buy Venezuelan oil with crypto](https://www.ft.com/content/6c387cda-61b0-4396-9353-0d7d99781f9b?syn-25a6b1a6=1) |
+| Finance | Sep 15, 2026 | [War ‘on all fronts’ tests Saudi Arabia’s crown prince](https://www.ft.com/content/a143e08d-e979-410a-8e81-160fd4eba367?syn-25a6b1a6=1) |
+| Finance | Sep 15, 2026 | [The ex-JPMorgan banker facing Wall Street’s toughest turnaround job](https://www.ft.com/content/43729997-e516-45a9-893b-de7bd729bc2f?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
