@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Sep 15, 2026 | [China's August retail sales miss forecast while investment slump deepens, piling pressure on Beijing](https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html) |
 | Market | Sep 14, 2026 | [Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide](https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html) |
 | Market | Sep 14, 2026 | [Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike](https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html) |
 | Market | Sep 14, 2026 | [Prediction market traders think gas prices will hit new highs for the year](https://www.cnbc.com/2026/09/14/prediction-markets-traders-think-gas-prices-will-hit-new-highs-in-2026.html) |
 | Market | Sep 14, 2026 | [China says AI CEOs' call for a slowdown is 'fear mongering'](https://www.cnbc.com/2026/09/14/china-ai-slowdown-us-tech-ceos.html) |
-| Market | Sep 14, 2026 | [Prediction markets are becoming more professionalized, but also harder to beat](https://www.cnbc.com/2026/09/14/prediction-markets-efficient-win-lose-beat.html) |
-| Finance | Sep 14, 2026 | [Ten-year Treasury yield hits 5% for first time since 2023](https://www.ft.com/content/06cb850d-089a-4318-88d7-a410e9766b89?syn-25a6b1a6=1) |
-| Finance | Sep 14, 2026 | [US tech stocks fall after big AI groups call for slowdown](https://www.ft.com/content/aa8a1be7-abe0-44b7-bcd3-31fd0a44de08?syn-25a6b1a6=1) |
-| Finance | Sep 14, 2026 | [Steve Bannon and Bernie Sanders unite in AI safety call](https://www.ft.com/content/bab5c4c5-5377-4dd0-8b46-d8c4ce9a36d5?syn-25a6b1a6=1) |
+| Finance | Sep 15, 2026 | [Supreme Court rejects Trump’s mail-in ballot restrictions for midterms](https://www.ft.com/content/b3674c9d-9db2-448d-bd57-f1c040de2d54?syn-25a6b1a6=1) |
 | Finance | Sep 14, 2026 | [Carney urges EU to cement trade deal as Ottawa seeks pivot from US](https://www.ft.com/content/1a1d76fc-e02b-40ee-8afc-b45ab9f17c0f?syn-25a6b1a6=1) |
 | Finance | Sep 14, 2026 | [A spreading war threatens Trump and MBS](https://www.ft.com/content/f2a472e6-352a-4067-b9e5-56596a8ba215?syn-25a6b1a6=1) |
+| Finance | Sep 15, 2026 | [China tightens control of overseas travel in sweeping new law](https://www.ft.com/content/3f2b2172-0c1a-4708-aba2-559eb37eabc8?syn-25a6b1a6=1) |
+| Finance | Sep 14, 2026 | [Ten-year Treasury yield hits 5% for first time since 2023](https://www.ft.com/content/06cb850d-089a-4318-88d7-a410e9766b89?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
