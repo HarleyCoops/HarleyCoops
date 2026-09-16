@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Sep 16, 2026 | [Here is what changed in the new Fed statement under Warsh](https://www.cnbc.com/2026/09/16/september-fed-statement-redline.html) |
+| Market | Sep 16, 2026 | [Fed approves interest rate hike, signals one more to come this year](https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html) |
+| Market | Sep 16, 2026 | [Senate is still a toss-up, but Democrats now have slight edge, prediction market traders think](https://www.cnbc.com/2026/09/16/prediction-markets-say-democrats-are-slightly-favored-to-win-senate.html) |
 | Market | Sep 16, 2026 | [China's AI leaders keep quiet despite U.S. 'publicity' on tech risks](https://www.cnbc.com/2026/09/16/chinas-ai-leaders-keep-quiet-despite-us-publicity-on-tech-risks.html) |
 | Market | Sep 15, 2026 | [China's August retail sales miss forecast while investment slump deepens, piling pressure on Beijing](https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html) |
-| Market | Sep 14, 2026 | [Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide](https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html) |
-| Market | Sep 14, 2026 | [Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike](https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html) |
-| Market | Sep 14, 2026 | [Prediction market traders think gas prices will hit new highs for the year](https://www.cnbc.com/2026/09/14/prediction-markets-traders-think-gas-prices-will-hit-new-highs-in-2026.html) |
+| Finance | Sep 16, 2026 | [Federal Reserve raises rates for first time since 2023](https://www.ft.com/content/61b5fbae-9dd6-4980-bd1f-effe54b72d84) |
+| Finance | Sep 16, 2026 | [Fed should defy Trump with rate rise, top economists say](https://www.ft.com/content/f62e467a-bcb6-423d-96f2-b2b1e08faaa8?syn-25a6b1a6=1) |
 | Finance | Sep 16, 2026 | [US billionaires line up to bankroll Republicans’ election push](https://www.ft.com/content/2285c111-b103-4b04-96c7-fe26a3c04c3e?syn-25a6b1a6=1) |
 | Finance | Sep 16, 2026 | [Nuclear fusion’s moment of truth](https://www.ft.com/content/ef511d46-a689-4868-9654-15b96a71586d?syn-25a6b1a6=1) |
-| Finance | Sep 16, 2026 | [With AI, ‘I told you so’ will be too late](https://www.ft.com/content/9dd894cd-dddd-4388-ac00-dbd14d40dc52?syn-25a6b1a6=1) |
-| Finance | Sep 16, 2026 | [How Switzerland turned tax competition into a national sport](https://www.ft.com/content/c11fd1dd-8783-4894-9f53-109d7edf376f?syn-25a6b1a6=1) |
-| Finance | Sep 15, 2026 | [OpenAI weighs funding round at $1.2tn valuation before IPO](https://www.ft.com/content/27509db8-b032-4437-9b2a-e909f466022f?syn-25a6b1a6=1) |
+| Finance | Sep 16, 2026 | [The British right’s patriotism problem](https://www.ft.com/content/d29a4116-0511-4a85-b005-b1b4b110cdcd?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
