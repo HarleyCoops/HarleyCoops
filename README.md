@@ -297,11 +297,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Sep 14, 2026 | [Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike](https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html) |
 | Market | Sep 14, 2026 | [Prediction market traders think gas prices will hit new highs for the year](https://www.cnbc.com/2026/09/14/prediction-markets-traders-think-gas-prices-will-hit-new-highs-in-2026.html) |
 | Market | Sep 14, 2026 | [China says AI CEOs' call for a slowdown is 'fear mongering'](https://www.cnbc.com/2026/09/14/china-ai-slowdown-us-tech-ceos.html) |
+| Finance | Sep 15, 2026 | [OpenAI weighs funding round at $1.2tn valuation before IPO](https://www.ft.com/content/27509db8-b032-4437-9b2a-e909f466022f?syn-25a6b1a6=1) |
 | Finance | Sep 15, 2026 | [US manufacturers hit by fresh burst of supply chain cost inflation](https://www.ft.com/content/e14542d9-2bc5-49c8-8e7e-c9656b0a2d36?syn-25a6b1a6=1) |
-| Finance | Sep 15, 2026 | [How Poland lost $230mn trying to buy Venezuelan oil with crypto](https://www.ft.com/content/6c387cda-61b0-4396-9353-0d7d99781f9b?syn-25a6b1a6=1) |
+| Finance | Sep 15, 2026 | [The ex-JPMorgan banker facing Wall Street’s toughest turnaround job](https://www.ft.com/content/43729997-e516-45a9-893b-de7bd729bc2f?syn-25a6b1a6=1) |
 | Finance | Sep 15, 2026 | [Scott Bessent’s wobbly house](https://www.ft.com/content/608a9f4e-0beb-4840-a37c-831a5265d7da?syn-25a6b1a6=1) |
-| Finance | Sep 15, 2026 | [War ‘on all fronts’ tests Saudi Arabia’s crown prince](https://www.ft.com/content/a143e08d-e979-410a-8e81-160fd4eba367?syn-25a6b1a6=1) |
-| Finance | Sep 15, 2026 | [Ten-year Treasury yield hits highest level since 2007](https://www.ft.com/content/5e2327aa-dbd0-4a79-8c99-622a893876d7?syn-25a6b1a6=1) |
+| Finance | Sep 15, 2026 | [Jensen Huang says battle over AI innovation and safety is ‘false choice’](https://www.ft.com/content/2e20c674-3386-46ad-b07f-5cd8a013f67e?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
