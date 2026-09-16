@@ -298,10 +298,10 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Sep 14, 2026 | [Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike](https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html) |
 | Market | Sep 14, 2026 | [Prediction market traders think gas prices will hit new highs for the year](https://www.cnbc.com/2026/09/14/prediction-markets-traders-think-gas-prices-will-hit-new-highs-in-2026.html) |
 | Finance | Sep 16, 2026 | [US billionaires line up to bankroll Republicans’ election push](https://www.ft.com/content/2285c111-b103-4b04-96c7-fe26a3c04c3e?syn-25a6b1a6=1) |
-| Finance | Sep 16, 2026 | [Why the US and China are at odds on AI threats](https://www.ft.com/content/83023f2f-0c12-4239-bf27-99d8e378ec5d?syn-25a6b1a6=1) |
+| Finance | Sep 16, 2026 | [Nuclear fusion’s moment of truth](https://www.ft.com/content/ef511d46-a689-4868-9654-15b96a71586d?syn-25a6b1a6=1) |
 | Finance | Sep 16, 2026 | [With AI, ‘I told you so’ will be too late](https://www.ft.com/content/9dd894cd-dddd-4388-ac00-dbd14d40dc52?syn-25a6b1a6=1) |
 | Finance | Sep 16, 2026 | [How Switzerland turned tax competition into a national sport](https://www.ft.com/content/c11fd1dd-8783-4894-9f53-109d7edf376f?syn-25a6b1a6=1) |
-| Finance | Sep 16, 2026 | [EU rebuffs Carney’s ‘unique alliance’ with Canada](https://www.ft.com/content/2e2e0c1e-51d6-49e2-9f4a-6ef793908b85?syn-25a6b1a6=1) |
+| Finance | Sep 15, 2026 | [OpenAI weighs funding round at $1.2tn valuation before IPO](https://www.ft.com/content/27509db8-b032-4437-9b2a-e909f466022f?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
