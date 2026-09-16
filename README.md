@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Sep 16, 2026 | [China's AI leaders keep quiet despite U.S. 'publicity' on tech risks](https://www.cnbc.com/2026/09/16/chinas-ai-leaders-keep-quiet-despite-us-publicity-on-tech-risks.html) |
 | Market | Sep 15, 2026 | [China's August retail sales miss forecast while investment slump deepens, piling pressure on Beijing](https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html) |
 | Market | Sep 14, 2026 | [Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide](https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html) |
 | Market | Sep 14, 2026 | [Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike](https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html) |
 | Market | Sep 14, 2026 | [Prediction market traders think gas prices will hit new highs for the year](https://www.cnbc.com/2026/09/14/prediction-markets-traders-think-gas-prices-will-hit-new-highs-in-2026.html) |
-| Market | Sep 14, 2026 | [China says AI CEOs' call for a slowdown is 'fear mongering'](https://www.cnbc.com/2026/09/14/china-ai-slowdown-us-tech-ceos.html) |
-| Finance | Sep 15, 2026 | [OpenAI weighs funding round at $1.2tn valuation before IPO](https://www.ft.com/content/27509db8-b032-4437-9b2a-e909f466022f?syn-25a6b1a6=1) |
-| Finance | Sep 15, 2026 | [US manufacturers hit by fresh burst of supply chain cost inflation](https://www.ft.com/content/e14542d9-2bc5-49c8-8e7e-c9656b0a2d36?syn-25a6b1a6=1) |
-| Finance | Sep 15, 2026 | [The ex-JPMorgan banker facing Wall Street’s toughest turnaround job](https://www.ft.com/content/43729997-e516-45a9-893b-de7bd729bc2f?syn-25a6b1a6=1) |
-| Finance | Sep 15, 2026 | [Scott Bessent’s wobbly house](https://www.ft.com/content/608a9f4e-0beb-4840-a37c-831a5265d7da?syn-25a6b1a6=1) |
-| Finance | Sep 15, 2026 | [Jensen Huang says battle over AI innovation and safety is ‘false choice’](https://www.ft.com/content/2e20c674-3386-46ad-b07f-5cd8a013f67e?syn-25a6b1a6=1) |
+| Finance | Sep 16, 2026 | [US billionaires line up to bankroll Republicans’ election push](https://www.ft.com/content/2285c111-b103-4b04-96c7-fe26a3c04c3e?syn-25a6b1a6=1) |
+| Finance | Sep 16, 2026 | [Why the US and China are at odds on AI threats](https://www.ft.com/content/83023f2f-0c12-4239-bf27-99d8e378ec5d?syn-25a6b1a6=1) |
+| Finance | Sep 16, 2026 | [With AI, ‘I told you so’ will be too late](https://www.ft.com/content/9dd894cd-dddd-4388-ac00-dbd14d40dc52?syn-25a6b1a6=1) |
+| Finance | Sep 16, 2026 | [How Switzerland turned tax competition into a national sport](https://www.ft.com/content/c11fd1dd-8783-4894-9f53-109d7edf376f?syn-25a6b1a6=1) |
+| Finance | Sep 16, 2026 | [EU rebuffs Carney’s ‘unique alliance’ with Canada](https://www.ft.com/content/2e2e0c1e-51d6-49e2-9f4a-6ef793908b85?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
