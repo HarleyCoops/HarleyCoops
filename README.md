@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Sep 17, 2026 | [Securitize jumps after regulators greenlight some tokenized U.S. stock trading](https://www.cnbc.com/2026/09/17/securitize-jumps-after-regulators-greenlight-tokenized-us-stocks.html) |
+| Market | Sep 17, 2026 | [A Chinese AI company just connected its model to Wall Street's leading data providers](https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html) |
 | Market | Sep 17, 2026 | [OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, resear...](https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html) |
 | Market | Sep 16, 2026 | [Here are five key takeaways from Wednesday's Fed rate hike](https://www.cnbc.com/2026/09/16/here-are-five-key-takeaways-from-wednesdays-fed-rate-hike.html) |
 | Market | Sep 16, 2026 | [Here is what changed in the new Fed statement under Warsh](https://www.cnbc.com/2026/09/16/september-fed-statement-redline.html) |
-| Market | Sep 16, 2026 | [Fed approves interest rate hike, signals one more to come this year](https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html) |
-| Market | Sep 16, 2026 | [Senate is still a toss-up, but Democrats now have slight edge, prediction market traders think](https://www.cnbc.com/2026/09/16/prediction-markets-say-democrats-are-slightly-favored-to-win-senate.html) |
-| Finance | Sep 17, 2026 | [Trump fails to bend the Fed to his will](https://www.ft.com/content/fb8e1037-8c48-49d2-809e-950472bcbae5?syn-25a6b1a6=1) |
-| Finance | Sep 17, 2026 | [China cuts US Treasury holdings to lowest level since 2008](https://www.ft.com/content/69f02abc-e0dc-46e5-aa6c-61d209e095d9?syn-25a6b1a6=1) |
-| Finance | Sep 17, 2026 | [Getting to know Mr Warsh](https://www.ft.com/content/be4a0acf-f4e8-41da-ba04-2ed6d44b7fc2?syn-25a6b1a6=1) |
+| Finance | Sep 17, 2026 | [Turkish authorities rush to stem fallout from stock market scandal](https://www.ft.com/content/ef54585a-4d2f-4538-b185-9bff75ef2f5e?syn-25a6b1a6=1) |
 | Finance | Sep 17, 2026 | [The era of AI warfare has arrived](https://www.ft.com/content/686429c0-daf3-42a5-9b7c-7ff06eb291ef?syn-25a6b1a6=1) |
 | Finance | Sep 17, 2026 | [Apple’s most valuable product isn’t the iPhone](https://www.ft.com/content/f5325951-7049-4d3a-97e4-cbe34f9058d8?syn-25a6b1a6=1) |
+| Finance | Sep 17, 2026 | [Who was right on job creation — Adam Smith or Schumpeter?](https://www.ft.com/content/9edd3f8c-c28b-4532-b5c1-fa55ad71e432?syn-25a6b1a6=1) |
+| Finance | Sep 17, 2026 | [OpenAI discloses new ‘concerning’ model behaviour](https://www.ft.com/content/2c34414a-5381-4083-ac34-00bbe67ef8db?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
