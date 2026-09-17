@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Sep 16, 2026 | [Here are five key takeaways from Wednesday's Fed rate hike](https://www.cnbc.com/2026/09/16/here-are-five-key-takeaways-from-wednesdays-fed-rate-hike.html) |
 | Market | Sep 16, 2026 | [Here is what changed in the new Fed statement under Warsh](https://www.cnbc.com/2026/09/16/september-fed-statement-redline.html) |
 | Market | Sep 16, 2026 | [Fed approves interest rate hike, signals one more to come this year](https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html) |
 | Market | Sep 16, 2026 | [Senate is still a toss-up, but Democrats now have slight edge, prediction market traders think](https://www.cnbc.com/2026/09/16/prediction-markets-say-democrats-are-slightly-favored-to-win-senate.html) |
 | Market | Sep 16, 2026 | [China's AI leaders keep quiet despite U.S. 'publicity' on tech risks](https://www.cnbc.com/2026/09/16/chinas-ai-leaders-keep-quiet-despite-us-publicity-on-tech-risks.html) |
-| Market | Sep 15, 2026 | [China's August retail sales miss forecast while investment slump deepens, piling pressure on Beijing](https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html) |
-| Finance | Sep 16, 2026 | [Federal Reserve raises rates for first time since 2023](https://www.ft.com/content/61b5fbae-9dd6-4980-bd1f-effe54b72d84) |
-| Finance | Sep 16, 2026 | [Fed should defy Trump with rate rise, top economists say](https://www.ft.com/content/f62e467a-bcb6-423d-96f2-b2b1e08faaa8?syn-25a6b1a6=1) |
-| Finance | Sep 16, 2026 | [US billionaires line up to bankroll Republicans’ election push](https://www.ft.com/content/2285c111-b103-4b04-96c7-fe26a3c04c3e?syn-25a6b1a6=1) |
+| Finance | Sep 16, 2026 | [Fed defies Trump with first rate rise since 2023](https://www.ft.com/content/f5ce5c38-76e3-4212-8c60-4c868f6dee70?syn-25a6b1a6=1) |
+| Finance | Sep 16, 2026 | [Iran’s hidden leader stirs unease at home](https://www.ft.com/content/ffe402ca-564a-457f-a861-18083a361e50?syn-25a6b1a6=1) |
 | Finance | Sep 16, 2026 | [Nuclear fusion’s moment of truth](https://www.ft.com/content/ef511d46-a689-4868-9654-15b96a71586d?syn-25a6b1a6=1) |
-| Finance | Sep 16, 2026 | [The British right’s patriotism problem](https://www.ft.com/content/d29a4116-0511-4a85-b005-b1b4b110cdcd?syn-25a6b1a6=1) |
+| Finance | Sep 16, 2026 | [Bach choir is a rare symbol of unity in a swing state](https://www.ft.com/content/fc08dba8-3e16-4262-9e2c-0d59d049efdc?syn-25a6b1a6=1) |
+| Finance | Sep 16, 2026 | [Walter and Boehly sell Chelsea FC stakes to Clearlake for £950mn](https://www.ft.com/content/a9099b59-b5ed-47e2-bdf3-ae26f5dd7317?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
