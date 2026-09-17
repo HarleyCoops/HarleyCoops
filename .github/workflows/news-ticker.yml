@@ -1,8 +1,9 @@
 name: Financial News Ticker
 
 on:
-  # The industrial profile no longer includes a financial news feed.
-  # Keep manual execution available for a future opt-in return.
+  schedule:
+    # Run every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 permissions:
