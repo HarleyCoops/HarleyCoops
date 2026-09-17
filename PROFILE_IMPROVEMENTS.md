@@ -1,299 +1,96 @@
-# GitHub Profile Improvements Documentation
-
-This document outlines all improvements made to your GitHub profile to better showcase your skills and expertise.
-
-## Changes Made
-
-### 1. Enhanced News Ticker System
-
-**Location:** `.github/workflows/news-ticker.yml` and `.github/scripts/update_news.py`
-
-**Improvements:**
-- Migrated from bash/grep/sed to Python with proper RSS parsing
-- Added multiple news sources (CNBC, Reuters, Financial Times)
-- Implemented robust error handling and fallback mechanisms
-- Added category column to distinguish news types
-- Automatic updates every 6 hours
-- Better formatting with markdown tables
-
-**Benefits:**
-- More reliable parsing that won't break if RSS format changes
-- Multiple sources for comprehensive news coverage
-- Professional error handling with logging
-- Easier to maintain and extend
-
-### 2. Enhanced About Me Section
-
-**Changes:**
-- Transformed from bullet points to professional narrative
-- Added clear sections: Current Focus, Expertise Areas, Learning Journey
-- Emphasized quantitative finance and ML expertise
-- Highlighted specific technical skills and domains
-
-**Benefits:**
-- More professional presentation
-- Better SEO for profile searches
-- Clear value proposition for recruiters/collaborators
-- Shows depth of expertise
-
-### 3. Improved Project Showcases
-
-**Visualization Section:**
-- Converted to side-by-side table layout
-- Added detailed technical descriptions
-- Created "Technical Highlights" section
-- Better context for volatility surface and 3D geometry work
-
-**Benefits:**
-- More professional presentation
-- Explains the technical depth of work
-- Showcases both finance and computational skills
-- Better mobile responsiveness
-
-### 4. Expanded Tech Stack Section
-
-**New Additions:**
-- Financial & Quantitative Tools section
-- GitHub Actions badge (showing DevOps skills)
-- More comprehensive technology coverage
-
-**Tools Added:**
-- Bloomberg Terminal
-- QuantLib
-- NumPy
-- Jupyter Notebooks
-- GitHub Actions
-
-**Benefits:**
-- Demonstrates breadth of technical expertise
-- Shows industry-specific tool proficiency
-- Highlights automation and DevOps capabilities
-
-### 5. Dynamic Quote System
-
-**Addition:**
-- Financial quote rotates on page load
-- Adds personality and thematic consistency
-- Currently features Philip Fisher quote
-
-**Benefits:**
-- Makes profile more engaging
-- Reinforces financial expertise theme
-- Adds visual interest
-
-### 6. Weekly Profile Theme Rotation
-
-**Location:** `.github/workflows/rotate-profile-theme.yml` and `.github/scripts/rotate_profile_theme.py`
-
-**Implementation:**
-- Automatically rotates through 10 different 3D contribution graph themes
-- Runs every Monday at midnight UTC via GitHub Actions
-- Can be manually triggered via workflow_dispatch
-- Themes rotate in sequence: night-view → night-green → night-rainbow → season-animate → green-animate → gitblock → south-season-animate → south-season → season → green → (back to night-view)
-
-**Benefits:**
-- Keeps profile visually fresh and engaging
-- Showcases all available 3D contribution themes
-- No manual intervention required
-- Adds variety to profile appearance
-- Demonstrates automation expertise
-
-## Files Modified/Created
-
-### New Files:
-1. `.github/workflows/news-ticker.yml` - GitHub Action workflow for news updates
-2. `.github/scripts/update_news.py` - Python news fetcher script
-3. `.github/workflows/rotate-profile-theme.yml` - GitHub Action workflow for theme rotation
-4. `.github/scripts/rotate_profile_theme.py` - Python theme rotation script
-5. `PROFILE_IMPROVEMENTS.md` - This documentation
-
-### Modified Files:
-1. `README.md` - Enhanced with all improvements and rotating theme
-
-## Maintenance
-
-### News Ticker
-- Runs automatically every 6 hours via GitHub Actions
-- Can be manually triggered via "workflow_dispatch"
-- News appears between `<!-- NEWS:START -->` and `<!-- NEWS:END -->` markers
-- To add more news sources, edit `NEWS_SOURCES` in `.github/scripts/update_news.py`
-
-### Profile Theme Rotation
-- Runs automatically every Monday at midnight UTC via GitHub Actions
-- Can be manually triggered via "workflow_dispatch"
-- Rotates through 10 different 3D contribution graph themes in sequence
-- To customize the rotation order or add/remove themes, edit `THEMES` list in `.github/scripts/rotate_profile_theme.py`
-- Current rotation order:
-  1. night-view
-  2. night-green
-  3. night-rainbow
-  4. season-animate
-  5. green-animate
-  6. gitblock
-  7. south-season-animate
-  8. south-season
-  9. season
-  10. green
-
-### Adding New News Sources
-Edit `.github/scripts/update_news.py` and add to `NEWS_SOURCES`:
-
-```python
-{
-    "name": "Source Name",
-    "url": "https://example.com/rss-feed",
-    "category": "Category"
-}
-```
-
-### Quote Rotation
-To change or add quotes, modify the quote URL in README.md:
-```markdown
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=YOUR_QUOTE&author=AUTHOR" />
-```
-
-## Testing the Automated Features
-
-### Testing News Ticker
-
-```bash
-# Install dependencies
-pip install feedparser requests beautifulsoup4
-
-# Run the script
-python .github/scripts/update_news.py
-
-# Check the README.md for updates
-```
-
-### Testing Theme Rotation
-
-```bash
-# Run the rotation script
-python .github/scripts/rotate_profile_theme.py
-
-# Check the README.md to see the new theme
-# Run again to see it rotate to the next theme
-```
-
-### Manual Workflow Triggers
-Both workflows can be manually triggered from GitHub:
-1. Go to your repository's Actions tab
-2. Select either "Financial News Ticker" or "Rotate Profile Theme"
-3. Click "Run workflow"
-4. Click the green "Run workflow" button
-
-## Optional Future Enhancements
-
-### 1. WakaTime Integration
-Track coding time and languages used in real-time
-- Shows what you're actively working on
-- Demonstrates daily coding habits
-- Displays language distribution over time
-
-### 2. Blog Post Feed
-If you start a blog, automatically pull in latest posts
-- Uses same RSS fetching approach
-- Updates automatically
-- Drives traffic to your content
-
-### 3. Recent Activity
-Show recent GitHub activities:
-- Latest commits
-- Pull requests
-- Issues opened/closed
-
-### 4. Spotify Currently Playing
-Show what music you're listening to while coding
-- Fun personal touch
-- Makes profile more relatable
-
-### 5. Visitor Map
-Geographic visualization of profile visitors
-- Shows global reach
-- Interesting analytics
-
-## Skills Highlighted
-
-The improvements emphasize:
-
-1. **Quantitative Finance Expertise**
-   - Derivatives and options trading
-   - Volatility modeling
-   - Financial analysis
-
-2. **Machine Learning Engineering**
-   - PyTorch and TensorFlow
-   - Model fine-tuning (GRPO, RLHF)
-   - LLM alignment
-
-3. **Software Engineering**
-   - Python development
-   - DevOps and automation
-   - Cloud infrastructure
-
-4. **Mathematical Visualization**
-   - 3D graphics
-   - Computational geometry
-   - Manim animations
-
-5. **Data Science**
-   - Statistical analysis
-   - Data visualization
-   - Predictive modeling
-
-## Impact Assessment
-
-### Before:
-- Simple bullet points for "About Me"
-- Basic news ticker with fragile parsing
-- Limited context for visualizations
-- Incomplete tech stack presentation
-
-### After:
-- Professional narrative highlighting expertise
-- Robust, multi-source news system
-- Detailed technical context for projects
-- Comprehensive skill showcase
-- Enhanced visual presentation
-
-## Recommendations for Continued Growth
-
-1. **Regular Updates**
-   - Keep Hugging Face models section current
-   - Update featured projects as work evolves
-   - Refresh quote periodically
-
-2. **Content Creation**
-   - Consider starting a technical blog
-   - Document interesting problem-solving
-   - Share insights on LinkedIn
-
-3. **Portfolio Projects**
-   - Pin your best 4 repositories
-   - Ensure they have:
-     - Clear README files
-     - Live demos where possible
-     - Documentation
-     - Code quality
-
-4. **Networking**
-   - Engage on Kaggle
-   - Contribute to open source
-   - Share work on Twitter/LinkedIn
-
-## Conclusion
-
-These improvements transform your profile from a basic GitHub page into a comprehensive professional showcase that:
-- Demonstrates technical depth
-- Highlights unique expertise in quantitative finance + ML
-- Shows active engagement with cutting-edge technologies
-- Presents work in a polished, professional manner
-- Automates content updates to stay current
-
-The enhanced profile serves as a powerful tool for:
-- Job applications
-- Professional networking
-- Establishing thought leadership
-- Attracting collaborators
-- Building your personal brand
+# Profile strategy: industrial clients and deployment partners
+
+Reviewed 2026-09-16 (America/Edmonton). This is the editorial plan behind the local README rewrite. No profile settings, repository pins, remote repositories, or Hub cards were changed.
+
+## The positioning
+
+**AI for the people who build things.**
+
+The first screen should answer: who do you help, what can you put to work, and how does someone begin? The strongest story is the connection between onsite deployment, supported tools, reviewed harness improvements, and inspectable training research.
+
+Suggested GitHub bio:
+
+> Building AI workspaces for Canadian industry. Onsite terminals, custom agent harnesses, and verifiable model training. WorkspaceAlberta / Warre & Vavasour.
+
+Suggested professional headline:
+
+> Applied AI engineer | Industrial deployments, agent harnesses & RL | WorkspaceAlberta / Warre & Vavasour
+
+Keep the family-doctor model of engineering support and the “Wouldn't it be great if…” invitation. Explain the concrete service before the philosophy.
+
+## What changed in the draft
+
+- WorkspaceAlberta now leads the page, with the procurement, harness, and setup repositories shown together.
+- Business questions lead to observable outputs: an opportunity shortlist, a bid brief, a document review, or a scoped working artifact.
+- The harness section explains reviewed procedure improvement separately from model-weight training.
+- RailroadHarness connects the industrial direction to actual agent-training research without claiming deployment results.
+- The research section uses the current railroad release and its evaluation scope, plus a compact selection of language work.
+- Two animations preserve the visual identity without making a visitor scroll past a movie wall to find the business.
+- Removed hardcoded repository/Hub counts, profile-view counters, duplicated badges, generic tool walls, and the financial news feed. The news workflow is manual-only in this local change.
+- Contribution history remains in a collapsed section, compatible with the existing theme rotator.
+- The industrial collage is copied from the existing WorkspaceAlberta checkout, credited, and explicitly historical.
+
+## What the evidence supports
+
+| Evidence | Source | Presentation decision |
+|---|---|---|
+| Procurement tools and hosted/local deployment documentation | [WorkspaceAlberta](https://github.com/HarleyCoops/WorkspaceAlberta), [deployment guide](https://github.com/HarleyCoops/WorkspaceAlberta/blob/main/docs/deployment.md) | Lead with the concrete procurement workflow. This review did not run a live customer transaction or verify production uptime. |
+| Onsite terminal setup and support procedures | [Setup](https://github.com/HarleyCoops/workspaceAlbertaSetup), [support runbook](https://github.com/HarleyCoops/workspaceAlbertaSetup/blob/main/docs/tailscale-pi-remote-support.md) | Show the deployment capability. Avoid an independently verified fleet-size or customer-results claim. |
+| Separate task and improvement procedures, with human review | [Harness deployment](https://github.com/HarleyCoops/workspacealberta-harness/blob/workspace-alberta/WORKSPACE_ALBERTA.md) | Describe the documented mechanism. Publishing a skill is not proof that a scheduler or fleet rollout is active. |
+| Proposed training export and evaluation design | [Harness learning](https://github.com/HarleyCoops/WorkspaceAlberta/blob/main/docs/harness-learning.md) | Label further RL from authorized work traces as research. |
+| OpenCode + TRL/OpenEnv training scaffold | [RailroadHarness](https://github.com/HarleyCoops/RailroadHarness) | Link as the harness-training experiment, separately from Tinker results. |
+| 2,708 railroad tasks, 2,438 train / 270 test | [Dataset](https://huggingface.co/datasets/HarleyCooper/volume2gym-railroad-1959) | Replace the stale seven-row fixture description. Rule-linkage audit still has unresolved labels; do not claim complete citation coverage. |
+| Held-out similarity reward 0.2493 → 0.3753; tokens/turn 255.86 → 90.08 | [Model card](https://huggingface.co/HarleyCooper/Qwen3-4B-RailRoadEngineer1959), [machine-readable summary](https://huggingface.co/HarleyCooper/Qwen3-4B-RailRoadEngineer1959/blob/main/analysis/run-summary.json) | State 270 repeated held-out scenarios, four gates, final gate at step 60. These are lexical/format measures, not industrial safety or business-outcome measures. |
+| Dakota 35B adapter and 82.05M training tokens | [Model card](https://huggingface.co/HarleyCooper/Qwen3.6-35B-A3B-Dakota1890-GRPO) | Evidence of training and reward instrumentation; disclose zero exact match. |
+| Laguna completed run with public metrics | [Run card](https://huggingface.co/HarleyCooper/Laguna-XS.2-Adaption-Dakota-QA-GRPO) | Describe as a run card, not downloadable adapter weights. Training reward is not held-out linguistic accuracy. |
+
+## The biggest improvement still to make
+
+Publish **one real, permission-cleared deployment case study**. The present public evidence is much stronger on implementation and research than on independently inspectable customer outcomes.
+
+Use this structure:
+
+1. **The business task:** who performs it, how often, and what makes it difficult.
+2. **The previous workflow:** tools, elapsed time, human effort, and common failure.
+3. **The installed workflow:** terminal, model route, connected sources, and operator handoff.
+4. **A visible artifact:** a redacted brief, source links, requirements, unknowns, and the operator's decision.
+5. **A measured comparison:** number of tasks, dates, baseline method, median time, correction rate, and cost per accepted artifact.
+6. **What failed:** one real failure and the change that addressed it.
+7. **What happened commercially:** attributable new work only when documented and permitted for publication; distinguish an opportunity from a bid, award, or paid invoice.
+
+Do not fill these fields with projections. Choose one repeatable task and measure it before generalizing.
+
+## Visual direction and asset plan
+
+Use a restrained industrial palette: warm paper, charcoal, steel blue, and a small copper accent. Preserve readable text and source captions. Prefer one image per claim over many decorative images.
+
+| Placement | Asset | Status / next action |
+|---|---|---|
+| Opening | Existing Foothills foundry triptych | Included as historical brand imagery, with attribution. Replace or follow with a real terminal photograph when available. |
+| WorkspaceAlberta | 30–60 second terminal walkthrough | Capture a public or sanitized task from company capabilities to sources, brief, and operator correction. Label a staged example as a demonstration. |
+| Deployment | Actual terminal on a desk, with clear caption | Needed. The existing hardware renders are concepts; do not present them as customer installation photographs. |
+| Harness | Task → evidence → artifact → correction → review → terminal update | Included as a compact Mermaid diagram. A later demo should show a real reviewed change. |
+| Research | Railroad held-out evaluation chart | Embedded from the published model card and linked to the full run. |
+| Visual engineering | Two Math-To-Manim animations | Reused existing local GIFs. More films remain one click away. |
+
+A GitHub profile should remain understandable when images fail to load. The headline, business outputs, repository map, results, and contact links are text. Keep wide research tables out of the opening screen.
+
+## GitHub and Hugging Face cleanup
+
+- Use the new bio and the six repositories in [PIN_PROJECTS_GUIDE.md](PIN_PROJECTS_GUIDE.md).
+- Add concise About descriptions to the harness and setup repositories; their public pages currently lack them.
+- On Hugging Face, curate a small industrial/procedural learning collection: railroad dataset → published Tinker adapter → RailroadHarness code. Keep language experiments in a separate collection with cross-links.
+- The current Hub API returned 20 model repositories, 7 datasets, and 8 Spaces. Those are repository counts, not trained-model or working-demo counts; omit them from the headline.
+- `railroad-judge-grpo-4b` currently contains only `.gitattributes`. Do not feature it as a released trained model.
+- `railroad-judge-grpo-4b-smoke` has adapter files but an unfilled autogenerated model card. Add base model, method, dataset/split, run identifier, actual outcome, and limitations before featuring it.
+- The current public listing does not include the old `StoneyNakoda45k` dataset or `StoneyApp` Space links. Use verified current artifacts instead.
+- The checked Cree, Dakota, STONEY-1, and AskAboutCIL Spaces reported `SLEEPING`. Do not label the collection “live demos” without checking startup and performing a representative request.
+- Inspect weights, documentation, and outcomes individually. A new repository or a successful upload does not prove a completed training experiment.
+
+These settings and remote edits are recommendations; they were not applied.
+
+## Measure whether the profile works
+
+Use qualified deployment conversations as the main outcome. Ask incoming contacts which project or demonstration brought them in. Maintain a simple monthly record of relevant inquiries, walkthroughs, scoped pilots, and completed deployments.
+
+For the technical case study, use task completion, evidence correctness, human corrections, median time to an accepted artifact, and cost. Report the sample size and dates. Repository activity and training-token volume belong in the supporting evidence.
