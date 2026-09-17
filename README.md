@@ -297,11 +297,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Sep 16, 2026 | [Fed approves interest rate hike, signals one more to come this year](https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html) |
 | Market | Sep 16, 2026 | [Senate is still a toss-up, but Democrats now have slight edge, prediction market traders think](https://www.cnbc.com/2026/09/16/prediction-markets-say-democrats-are-slightly-favored-to-win-senate.html) |
 | Market | Sep 16, 2026 | [China's AI leaders keep quiet despite U.S. 'publicity' on tech risks](https://www.cnbc.com/2026/09/16/chinas-ai-leaders-keep-quiet-despite-us-publicity-on-tech-risks.html) |
-| Finance | Sep 16, 2026 | [Fed defies Trump with first rate rise since 2023](https://www.ft.com/content/f5ce5c38-76e3-4212-8c60-4c868f6dee70?syn-25a6b1a6=1) |
-| Finance | Sep 16, 2026 | [Iran’s hidden leader stirs unease at home](https://www.ft.com/content/ffe402ca-564a-457f-a861-18083a361e50?syn-25a6b1a6=1) |
-| Finance | Sep 16, 2026 | [Nuclear fusion’s moment of truth](https://www.ft.com/content/ef511d46-a689-4868-9654-15b96a71586d?syn-25a6b1a6=1) |
-| Finance | Sep 16, 2026 | [Bach choir is a rare symbol of unity in a swing state](https://www.ft.com/content/fc08dba8-3e16-4262-9e2c-0d59d049efdc?syn-25a6b1a6=1) |
-| Finance | Sep 16, 2026 | [Walter and Boehly sell Chelsea FC stakes to Clearlake for £950mn](https://www.ft.com/content/a9099b59-b5ed-47e2-bdf3-ae26f5dd7317?syn-25a6b1a6=1) |
+| Finance | Sep 17, 2026 | [Trump fails to bend the Fed to his will](https://www.ft.com/content/fb8e1037-8c48-49d2-809e-950472bcbae5?syn-25a6b1a6=1) |
+| Finance | Sep 17, 2026 | [Getting to know Mr Warsh](https://www.ft.com/content/be4a0acf-f4e8-41da-ba04-2ed6d44b7fc2?syn-25a6b1a6=1) |
+| Finance | Sep 17, 2026 | [US rate rise jolts yen ahead of Bank of Japan meeting](https://www.ft.com/content/5226dcb7-d89d-4b68-981f-b2736d7e4dca?syn-25a6b1a6=1) |
+| Finance | Sep 17, 2026 | [The era of AI warfare has arrived](https://www.ft.com/content/686429c0-daf3-42a5-9b7c-7ff06eb291ef?syn-25a6b1a6=1) |
+| Finance | Sep 17, 2026 | [The Apple trust premium in the age of AI](https://www.ft.com/content/f5325951-7049-4d3a-97e4-cbe34f9058d8?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
