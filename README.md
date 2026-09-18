@@ -297,11 +297,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Sep 17, 2026 | [OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, resear...](https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html) |
 | Market | Sep 16, 2026 | [Here are five key takeaways from Wednesday's Fed rate hike](https://www.cnbc.com/2026/09/16/here-are-five-key-takeaways-from-wednesdays-fed-rate-hike.html) |
 | Market | Sep 16, 2026 | [Here is what changed in the new Fed statement under Warsh](https://www.cnbc.com/2026/09/16/september-fed-statement-redline.html) |
-| Finance | Sep 17, 2026 | [Turkish authorities rush to stem fallout from stock market scandal](https://www.ft.com/content/ef54585a-4d2f-4538-b185-9bff75ef2f5e?syn-25a6b1a6=1) |
-| Finance | Sep 17, 2026 | [The era of AI warfare has arrived](https://www.ft.com/content/686429c0-daf3-42a5-9b7c-7ff06eb291ef?syn-25a6b1a6=1) |
-| Finance | Sep 17, 2026 | [Has AI broken the old VC model?](https://www.ft.com/content/8c4143c7-f846-43a0-807a-b460fff7cd75?syn-25a6b1a6=1) |
-| Finance | Sep 17, 2026 | [Reform UK’s mega-donor backed a friend’s libel claim. Now he controls her home](https://www.ft.com/content/21aa563b-2cd1-4f09-b505-fcf579248fe6?syn-25a6b1a6=1) |
-| Finance | Sep 17, 2026 | [OpenAI discloses new ‘concerning’ model behaviour](https://www.ft.com/content/2c34414a-5381-4083-ac34-00bbe67ef8db?syn-25a6b1a6=1) |
+| Finance | Sep 18, 2026 | [Bank of Japan raises rates to 31-year high after Fed move](https://www.ft.com/content/97a0bed5-0580-4ccc-bd3c-fe9a714259e2?syn-25a6b1a6=1) |
+| Finance | Sep 18, 2026 | [Medical AI has a proof problem](https://www.ft.com/content/34319b00-f874-4119-aa28-8376d81e7190?syn-25a6b1a6=1) |
+| Finance | Sep 18, 2026 | [The west must hurry to catch up with Ukraine on AI combat](https://www.ft.com/content/5b08fae3-51b5-465b-acb5-e842c30ebd0c?syn-25a6b1a6=1) |
+| Finance | Sep 18, 2026 | [Liechtenstein royals threaten lawsuit over dynasty reforms](https://www.ft.com/content/6fd9f78e-f822-4e48-b8e2-968a3e4d2181?syn-25a6b1a6=1) |
+| Finance | Sep 18, 2026 | [OpenAI breached by researchers using Anthropic models](https://www.ft.com/content/c4aa118e-a258-48bc-b50e-28e453a95db8?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
