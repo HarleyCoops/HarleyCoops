@@ -292,15 +292,15 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Sep 18, 2026 | [Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes](https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html) |
 | Market | Sep 18, 2026 | [Warren Buffett steps down as chairman of Berkshire Hathaway: 'Father Time always wins'](https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html) |
 | Market | Sep 17, 2026 | [Securitize jumps after regulators greenlight some tokenized U.S. stock trading](https://www.cnbc.com/2026/09/17/securitize-jumps-after-regulators-greenlight-tokenized-us-stocks.html) |
 | Market | Sep 18, 2026 | [A Chinese AI company just connected its model to Wall Street's leading data providers](https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html) |
 | Market | Sep 17, 2026 | [OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, resear...](https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html) |
-| Market | Sep 16, 2026 | [Here are five key takeaways from Wednesday's Fed rate hike](https://www.cnbc.com/2026/09/16/here-are-five-key-takeaways-from-wednesdays-fed-rate-hike.html) |
-| Finance | Sep 18, 2026 | [Howard Buffett to succeed father Warren as Berkshire Hathaway chair](https://www.ft.com/content/e26d8335-426a-4405-ae4c-433bd2696994) |
+| Finance | Sep 18, 2026 | [Warren Buffett’s son to succeed his father as Berkshire Hathaway chair](https://www.ft.com/content/e26d8335-426a-4405-ae4c-433bd2696994?syn-25a6b1a6=1) |
 | Finance | Sep 18, 2026 | [Medical AI has a proof problem](https://www.ft.com/content/34319b00-f874-4119-aa28-8376d81e7190?syn-25a6b1a6=1) |
-| Finance | Sep 18, 2026 | [Liechtenstein royals threaten lawsuit over dynasty reforms](https://www.ft.com/content/6fd9f78e-f822-4e48-b8e2-968a3e4d2181?syn-25a6b1a6=1) |
-| Finance | Sep 18, 2026 | [Joining the dots between big AI](https://www.ft.com/content/8475dc9b-b2d4-4e10-a6b6-12796b11758a) |
+| Finance | Sep 18, 2026 | [Xi’s edge over Trump on AI](https://www.ft.com/content/a528adc7-3a8c-4a00-826f-1fdde748efb5?syn-25a6b1a6=1) |
+| Finance | Sep 18, 2026 | [Anthropic and the golden rules of business](https://www.ft.com/content/e2d2b86f-4f22-477f-9578-75c72683f1e9) |
 | Finance | Sep 18, 2026 | [Yen sinks after BoJ raises rates to highest level since 1995](https://www.ft.com/content/97a0bed5-0580-4ccc-bd3c-fe9a714259e2?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
