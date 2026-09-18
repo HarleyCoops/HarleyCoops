@@ -299,8 +299,8 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Sep 16, 2026 | [Here is what changed in the new Fed statement under Warsh](https://www.cnbc.com/2026/09/16/september-fed-statement-redline.html) |
 | Finance | Sep 17, 2026 | [Turkish authorities rush to stem fallout from stock market scandal](https://www.ft.com/content/ef54585a-4d2f-4538-b185-9bff75ef2f5e?syn-25a6b1a6=1) |
 | Finance | Sep 17, 2026 | [The era of AI warfare has arrived](https://www.ft.com/content/686429c0-daf3-42a5-9b7c-7ff06eb291ef?syn-25a6b1a6=1) |
-| Finance | Sep 17, 2026 | [Apple’s most valuable product isn’t the iPhone](https://www.ft.com/content/f5325951-7049-4d3a-97e4-cbe34f9058d8?syn-25a6b1a6=1) |
-| Finance | Sep 17, 2026 | [Who was right on job creation — Adam Smith or Schumpeter?](https://www.ft.com/content/9edd3f8c-c28b-4532-b5c1-fa55ad71e432?syn-25a6b1a6=1) |
+| Finance | Sep 17, 2026 | [Has AI broken the old VC model?](https://www.ft.com/content/8c4143c7-f846-43a0-807a-b460fff7cd75?syn-25a6b1a6=1) |
+| Finance | Sep 17, 2026 | [Reform UK’s mega-donor backed a friend’s libel claim. Now he controls her home](https://www.ft.com/content/21aa563b-2cd1-4f09-b505-fcf579248fe6?syn-25a6b1a6=1) |
 | Finance | Sep 17, 2026 | [OpenAI discloses new ‘concerning’ model behaviour](https://www.ft.com/content/2c34414a-5381-4083-ac34-00bbe67ef8db?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
