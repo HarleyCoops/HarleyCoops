@@ -297,8 +297,8 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Sep 17, 2026 | [Securitize jumps after regulators greenlight some tokenized U.S. stock trading](https://www.cnbc.com/2026/09/17/securitize-jumps-after-regulators-greenlight-tokenized-us-stocks.html) |
 | Market | Sep 18, 2026 | [A Chinese AI company just connected its model to Wall Street's leading data providers](https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html) |
 | Market | Sep 17, 2026 | [OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, resear...](https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html) |
-| Finance | Sep 19, 2026 | [Investors weigh whether Anthropic can sustain surging revenues post-IPO](https://www.ft.com/content/96d0a206-a37b-4166-b78d-b27ed24f7d57?syn-25a6b1a6=1) |
-| Finance | Sep 19, 2026 | [Google’s Gemini hacked three companies in new AI safety incident](https://www.ft.com/content/158740d1-fde7-4dbc-a282-5830c3201189?syn-25a6b1a6=1) |
+| Finance | Sep 19, 2026 | [Investors warn Anthropic could struggle to sustain revenues post-IPO](https://www.ft.com/content/96d0a206-a37b-4166-b78d-b27ed24f7d57?syn-25a6b1a6=1) |
+| Finance | Sep 18, 2026 | [OpenAI expects to burn $280bn by 2030](https://www.ft.com/content/6011d061-eee3-4193-b3b7-8ee4155f538c?syn-25a6b1a6=1) |
 | Finance | Sep 19, 2026 | [How should investors position for the robot apocalypse?](https://www.ft.com/content/129a5052-ac31-4975-8a88-91ce09740a0b?syn-25a6b1a6=1) |
 | Finance | Sep 19, 2026 | [I’ve covered wine for 50 years. Here are 50 ways it changed](https://www.ft.com/content/b4317f3f-ba01-4547-bf69-98628d7ebe7b) |
 | Finance | Sep 19, 2026 | [Unpacking the real fiscal costs of immigration](https://www.ft.com/content/124c1cf0-4885-495c-a907-a5217d589f9d?syn-25a6b1a6=1) |
