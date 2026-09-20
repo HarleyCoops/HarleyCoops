@@ -297,11 +297,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Sep 17, 2026 | [Securitize jumps after regulators greenlight some tokenized U.S. stock trading](https://www.cnbc.com/2026/09/17/securitize-jumps-after-regulators-greenlight-tokenized-us-stocks.html) |
 | Market | Sep 18, 2026 | [A Chinese AI company just connected its model to Wall Street's leading data providers](https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html) |
 | Market | Sep 17, 2026 | [OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, resear...](https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html) |
-| Finance | Sep 20, 2026 | [Saudi Arabia quits China-led cross-border currency platform](https://www.ft.com/content/ac104987-f43d-4e7d-97b6-057d98f7e422?syn-25a6b1a6=1) |
-| Finance | Sep 20, 2026 | [The Gulf cargo trade that vanished](https://www.ft.com/content/c9d13509-7a93-40a9-b2d4-c3292028813a?syn-25a6b1a6=1) |
-| Finance | Sep 20, 2026 | [Freedom in adulthood isn’t what you think](https://www.ft.com/content/5b315540-3622-4b6b-b305-688668544252?syn-25a6b1a6=1) |
-| Finance | Sep 20, 2026 | [Low UK growth is a product of neglect](https://www.ft.com/content/35d699ce-b6fc-44b9-981f-dc598e310e91) |
+| Finance | Sep 20, 2026 | [Big Tech uses guarantees to keep $300bn AI exposure off balance sheets](https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563?syn-25a6b1a6=1) |
 | Finance | Sep 19, 2026 | [Trump announces ‘AI Force’ as alarm grows over technology’s advance](https://www.ft.com/content/bcbfe352-9e9f-4ef5-81b2-2e01505b8477?syn-25a6b1a6=1) |
+| Finance | Sep 20, 2026 | [Billionaire Tata scion faces battle of his life to avert listing](https://www.ft.com/content/a0771c0f-71e6-4c0b-9ff6-9845624f4875?syn-25a6b1a6=1) |
+| Finance | Sep 20, 2026 | [Freedom in adulthood isn’t what you think](https://www.ft.com/content/5b315540-3622-4b6b-b305-688668544252?syn-25a6b1a6=1) |
+| Finance | Sep 20, 2026 | [The Gulf cargo trade that vanished](https://www.ft.com/content/c9d13509-7a93-40a9-b2d4-c3292028813a?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
