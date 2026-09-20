@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Sep 20, 2026 | [‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American co...](https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html) |
 | Market | Sep 18, 2026 | [Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes](https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html) |
 | Market | Sep 18, 2026 | [Warren Buffett steps down as chairman of Berkshire Hathaway: 'Father Time always wins'](https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html) |
 | Market | Sep 17, 2026 | [Securitize jumps after regulators greenlight some tokenized U.S. stock trading](https://www.cnbc.com/2026/09/17/securitize-jumps-after-regulators-greenlight-tokenized-us-stocks.html) |
 | Market | Sep 18, 2026 | [A Chinese AI company just connected its model to Wall Street's leading data providers](https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html) |
-| Market | Sep 17, 2026 | [OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, resear...](https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html) |
-| Finance | Sep 20, 2026 | [Big Tech uses guarantees to keep $300bn AI exposure off balance sheets](https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563?syn-25a6b1a6=1) |
-| Finance | Sep 19, 2026 | [Trump announces ‘AI Force’ as alarm grows over technology’s advance](https://www.ft.com/content/bcbfe352-9e9f-4ef5-81b2-2e01505b8477?syn-25a6b1a6=1) |
+| Finance | Sep 20, 2026 | [Wall Street expects US to issue about $1tn of short-term debt as borrowing costs climb](https://www.ft.com/content/3fcee89f-b69d-4f4b-a944-39fe1c214fb8?syn-25a6b1a6=1) |
+| Finance | Sep 20, 2026 | [Jon Ossoff’s Georgia race stirs talk of 2028 US presidential audition](https://www.ft.com/content/90714056-d364-43d9-9411-9bde92f966b3?syn-25a6b1a6=1) |
 | Finance | Sep 20, 2026 | [Billionaire Tata scion faces battle of his life to avert listing](https://www.ft.com/content/a0771c0f-71e6-4c0b-9ff6-9845624f4875?syn-25a6b1a6=1) |
-| Finance | Sep 20, 2026 | [Freedom in adulthood isn’t what you think](https://www.ft.com/content/5b315540-3622-4b6b-b305-688668544252?syn-25a6b1a6=1) |
-| Finance | Sep 20, 2026 | [The Gulf cargo trade that vanished](https://www.ft.com/content/c9d13509-7a93-40a9-b2d4-c3292028813a?syn-25a6b1a6=1) |
+| Finance | Sep 20, 2026 | [Lula, Costa, Ruto and Carney: Multilateralism is not idealism, it is a necessity](https://www.ft.com/content/d9e6c07e-7d84-4e41-a9a2-0d0ac2319dd2) |
+| Finance | Sep 20, 2026 | [German chancellor Merz vows to stay on despite ‘disaster’ in regional elections](https://www.ft.com/content/d74ce82a-2a15-404a-ae3a-3921e887bab3?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
