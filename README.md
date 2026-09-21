@@ -297,11 +297,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Sep 18, 2026 | [Warren Buffett steps down as chairman of Berkshire Hathaway: 'Father Time always wins'](https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html) |
 | Market | Sep 17, 2026 | [Securitize jumps after regulators greenlight some tokenized U.S. stock trading](https://www.cnbc.com/2026/09/17/securitize-jumps-after-regulators-greenlight-tokenized-us-stocks.html) |
 | Market | Sep 18, 2026 | [A Chinese AI company just connected its model to Wall Street's leading data providers](https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html) |
-| Finance | Sep 20, 2026 | [German chancellor Merz vows to stay on despite ‘disaster’ in regional elections](https://www.ft.com/content/d74ce82a-2a15-404a-ae3a-3921e887bab3?syn-25a6b1a6=1) |
-| Finance | Sep 20, 2026 | [Germany’s Merz stands his ground but for how long?](https://www.ft.com/content/a4901983-10a2-488d-8725-66177d6f9ea2?syn-25a6b1a6=1) |
-| Finance | Sep 20, 2026 | [Jon Ossoff’s Georgia race stirs talk of 2028 US presidential audition](https://www.ft.com/content/90714056-d364-43d9-9411-9bde92f966b3?syn-25a6b1a6=1) |
-| Finance | Sep 20, 2026 | [Billionaire Tata scion faces battle of his life to avert listing](https://www.ft.com/content/a0771c0f-71e6-4c0b-9ff6-9845624f4875?syn-25a6b1a6=1) |
-| Finance | Sep 20, 2026 | [Lula, Costa, Ruto and Carney: Multilateralism is not idealism, it is a necessity](https://www.ft.com/content/d9e6c07e-7d84-4e41-a9a2-0d0ac2319dd2) |
+| Finance | Sep 21, 2026 | [German chancellor Merz vows to stay on despite ‘disaster’ in regional elections](https://www.ft.com/content/d74ce82a-2a15-404a-ae3a-3921e887bab3?syn-25a6b1a6=1) |
+| Finance | Sep 21, 2026 | [Germany’s Merz stands his ground but for how long?](https://www.ft.com/content/a4901983-10a2-488d-8725-66177d6f9ea2?syn-25a6b1a6=1) |
+| Finance | Sep 21, 2026 | [Nik Storonsky’s plan for Revolut: a global bank with ‘effectively zero risk’](https://www.ft.com/content/df52a49a-ab6a-4997-a609-169e830a26fa?syn-25a6b1a6=1) |
+| Finance | Sep 21, 2026 | [Why the world’s hottest stock market is a national liability](https://www.ft.com/content/6f0ceb7d-597d-4c83-ac8b-0fe7c8bd74f9?syn-25a6b1a6=1) |
+| Finance | Sep 21, 2026 | [Lex in depth: Anthropic at $2tn isn’t far-fetched](https://www.ft.com/content/01a7b883-452c-4902-b40e-e3957de5d89e?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
