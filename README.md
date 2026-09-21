@@ -297,11 +297,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Sep 18, 2026 | [Warren Buffett steps down as chairman of Berkshire Hathaway: 'Father Time always wins'](https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html) |
 | Market | Sep 17, 2026 | [Securitize jumps after regulators greenlight some tokenized U.S. stock trading](https://www.cnbc.com/2026/09/17/securitize-jumps-after-regulators-greenlight-tokenized-us-stocks.html) |
 | Market | Sep 18, 2026 | [A Chinese AI company just connected its model to Wall Street's leading data providers](https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html) |
-| Finance | Sep 21, 2026 | [German chancellor Merz vows to stay on despite ‘disaster’ in regional elections](https://www.ft.com/content/d74ce82a-2a15-404a-ae3a-3921e887bab3?syn-25a6b1a6=1) |
-| Finance | Sep 21, 2026 | [Germany’s Merz stands his ground but for how long?](https://www.ft.com/content/a4901983-10a2-488d-8725-66177d6f9ea2?syn-25a6b1a6=1) |
-| Finance | Sep 21, 2026 | [Nik Storonsky’s plan for Revolut: a global bank with ‘effectively zero risk’](https://www.ft.com/content/df52a49a-ab6a-4997-a609-169e830a26fa?syn-25a6b1a6=1) |
+| Finance | Sep 21, 2026 | [Trump presses Zelenskyy to stop hitting Russian refineries](https://www.ft.com/content/adb80fa3-b54a-4b3d-8ed2-0ebe55a5e05e?syn-25a6b1a6=1) |
+| Finance | Sep 21, 2026 | [Slide in oil prices drives rebound in battered government bonds](https://www.ft.com/content/18f9e0ac-b7d9-4648-803f-3e894990c626?syn-25a6b1a6=1) |
+| Finance | Sep 21, 2026 | [Lex in depth: the challenging maths of Anthropic’s IPO](https://www.ft.com/content/01a7b883-452c-4902-b40e-e3957de5d89e?syn-25a6b1a6=1) |
 | Finance | Sep 21, 2026 | [Why the world’s hottest stock market is a national liability](https://www.ft.com/content/6f0ceb7d-597d-4c83-ac8b-0fe7c8bd74f9?syn-25a6b1a6=1) |
-| Finance | Sep 21, 2026 | [Lex in depth: Anthropic at $2tn isn’t far-fetched](https://www.ft.com/content/01a7b883-452c-4902-b40e-e3957de5d89e?syn-25a6b1a6=1) |
+| Finance | Sep 21, 2026 | [The cartel civil war tearing apart a Mexican state](https://www.ft.com/content/f2dca0b0-6387-4022-8dba-dc8015823dfe?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
