@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Sep 22, 2026 | [Here's who we know is going to the Trump-Xi dinner so far](https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html) |
+| Market | Sep 22, 2026 | [Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year](https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html) |
 | Market | Sep 21, 2026 | [‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American co...](https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html) |
 | Market | Sep 18, 2026 | [Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes](https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html) |
 | Market | Sep 18, 2026 | [Warren Buffett steps down as chairman of Berkshire Hathaway: 'Father Time always wins'](https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html) |
-| Market | Sep 17, 2026 | [Securitize jumps after regulators greenlight some tokenized U.S. stock trading](https://www.cnbc.com/2026/09/17/securitize-jumps-after-regulators-greenlight-tokenized-us-stocks.html) |
-| Market | Sep 18, 2026 | [A Chinese AI company just connected its model to Wall Street's leading data providers](https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html) |
 | Finance | Sep 21, 2026 | [Kremlin-backed forgery scheme moved $6.9bn through global banks](https://www.ft.com/content/3848a4ad-1426-4352-ba86-ef1279c4ffd1?syn-25a6b1a6=1) |
-| Finance | Sep 21, 2026 | [Lex in depth: the challenging maths of Anthropic’s IPO](https://www.ft.com/content/01a7b883-452c-4902-b40e-e3957de5d89e?syn-25a6b1a6=1) |
-| Finance | Sep 21, 2026 | [Trump and Xi are the wrong men at the wrong time](https://www.ft.com/content/aa1dbf18-eaa3-411a-9bf0-52c99adcb7a8?syn-25a6b1a6=1) |
-| Finance | Sep 21, 2026 | [The cartel civil war tearing apart a Mexican state](https://www.ft.com/content/f2dca0b0-6387-4022-8dba-dc8015823dfe?syn-25a6b1a6=1) |
-| Finance | Sep 21, 2026 | [‘Stop the bleeding’: Republicans tell Trump to ban US diesel exports](https://www.ft.com/content/319c7b67-b585-407e-a0da-6e23b1612180?syn-25a6b1a6=1) |
+| Finance | Sep 22, 2026 | [Betting on the yen: the risks of the carry trade](https://www.ft.com/content/f11485ba-39fb-422c-b0ff-5e71e1fe4f44?syn-25a6b1a6=1) |
+| Finance | Sep 22, 2026 | [What Xi wants from his summit with Trump](https://www.ft.com/content/9bea08f4-c9e8-450a-9d0f-0af0bf47b64e?syn-25a6b1a6=1) |
+| Finance | Sep 22, 2026 | [Are we developing a distaste for effort?](https://www.ft.com/content/b30eb538-b5a3-4fb2-bae2-785273bfda1c?syn-25a6b1a6=1) |
+| Finance | Sep 22, 2026 | [Merz’s woes cast doubt over EU’s €2tn budget deal](https://www.ft.com/content/3c494ae7-67b3-4ca1-a9e2-f3a8356bc0a4?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
