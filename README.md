@@ -298,8 +298,8 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Sep 18, 2026 | [Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes](https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html) |
 | Market | Sep 18, 2026 | [Warren Buffett steps down as chairman of Berkshire Hathaway: 'Father Time always wins'](https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html) |
 | Finance | Sep 21, 2026 | [Kremlin-backed forgery scheme moved $6.9bn through global banks](https://www.ft.com/content/3848a4ad-1426-4352-ba86-ef1279c4ffd1?syn-25a6b1a6=1) |
-| Finance | Sep 22, 2026 | [Betting on the yen: the risks of the carry trade](https://www.ft.com/content/f11485ba-39fb-422c-b0ff-5e71e1fe4f44?syn-25a6b1a6=1) |
-| Finance | Sep 22, 2026 | [What Xi wants from his summit with Trump](https://www.ft.com/content/9bea08f4-c9e8-450a-9d0f-0af0bf47b64e?syn-25a6b1a6=1) |
+| Finance | Sep 22, 2026 | [How the cost of Japan’s money shapes the world](https://www.ft.com/content/f11485ba-39fb-422c-b0ff-5e71e1fe4f44?syn-25a6b1a6=1) |
+| Finance | Sep 22, 2026 | [Trump is checking out of his presidency](https://www.ft.com/content/571df338-895b-4c9b-9be3-c1d2b755221b?syn-25a6b1a6=1) |
 | Finance | Sep 22, 2026 | [Are we developing a distaste for effort?](https://www.ft.com/content/b30eb538-b5a3-4fb2-bae2-785273bfda1c?syn-25a6b1a6=1) |
 | Finance | Sep 22, 2026 | [Merz’s woes cast doubt over EU’s €2tn budget deal](https://www.ft.com/content/3c494ae7-67b3-4ca1-a9e2-f3a8356bc0a4?syn-25a6b1a6=1) |
 
