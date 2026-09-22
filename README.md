@@ -297,11 +297,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Sep 18, 2026 | [Warren Buffett steps down as chairman of Berkshire Hathaway: 'Father Time always wins'](https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html) |
 | Market | Sep 17, 2026 | [Securitize jumps after regulators greenlight some tokenized U.S. stock trading](https://www.cnbc.com/2026/09/17/securitize-jumps-after-regulators-greenlight-tokenized-us-stocks.html) |
 | Market | Sep 18, 2026 | [A Chinese AI company just connected its model to Wall Street's leading data providers](https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html) |
-| Finance | Sep 21, 2026 | [Trump presses Zelenskyy to stop hitting Russian refineries](https://www.ft.com/content/adb80fa3-b54a-4b3d-8ed2-0ebe55a5e05e?syn-25a6b1a6=1) |
-| Finance | Sep 21, 2026 | [Battered government bonds rebound as oil falls below $100](https://www.ft.com/content/18f9e0ac-b7d9-4648-803f-3e894990c626?syn-25a6b1a6=1) |
+| Finance | Sep 21, 2026 | [Kremlin-backed forgery scheme moved $6.9bn through global banks](https://www.ft.com/content/3848a4ad-1426-4352-ba86-ef1279c4ffd1?syn-25a6b1a6=1) |
 | Finance | Sep 21, 2026 | [Lex in depth: the challenging maths of Anthropic’s IPO](https://www.ft.com/content/01a7b883-452c-4902-b40e-e3957de5d89e?syn-25a6b1a6=1) |
 | Finance | Sep 21, 2026 | [Trump and Xi are the wrong men at the wrong time](https://www.ft.com/content/aa1dbf18-eaa3-411a-9bf0-52c99adcb7a8?syn-25a6b1a6=1) |
 | Finance | Sep 21, 2026 | [The cartel civil war tearing apart a Mexican state](https://www.ft.com/content/f2dca0b0-6387-4022-8dba-dc8015823dfe?syn-25a6b1a6=1) |
+| Finance | Sep 21, 2026 | [‘Stop the bleeding’: Republicans tell Trump to ban US diesel exports](https://www.ft.com/content/319c7b67-b585-407e-a0da-6e23b1612180?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
