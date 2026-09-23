@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
-| Market | Sep 22, 2026 | [CFTC says prediction markets' 'mentions' contracts present a higher risk of manipulation](https://www.cnbc.com/2026/09/22/cftc-prediction-markets-mentions-contracts-have-manipulation-risk.html) |
+| Market | Sep 23, 2026 | [CFTC says prediction markets' 'mentions' contracts present a higher risk of manipulation](https://www.cnbc.com/2026/09/22/cftc-prediction-markets-mentions-contracts-have-manipulation-risk.html) |
 | Market | Sep 22, 2026 | [Kalshi asks CFTC to allow margin trading on its platform, letting users buy with borrowed funds](https://www.cnbc.com/2026/09/22/kalshi-asks-cftc-to-allow-margin-trading-on-its-platform-letting-users-buy-with-borrowed-funds.html) |
 | Market | Sep 22, 2026 | [Here's who we know is going to the Trump-Xi dinner so far](https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html) |
 | Market | Sep 22, 2026 | [Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year](https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html) |
 | Market | Sep 21, 2026 | [‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American co...](https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html) |
-| Finance | Sep 22, 2026 | [US and Iran hold first talks since June as Trump threatens ‘annihilation’](https://www.ft.com/content/1434496d-0eaf-4270-8ad3-87724cd3721e?syn-25a6b1a6=1) |
-| Finance | Sep 22, 2026 | [Burnham says world must ‘rise to the moment’ on AI](https://www.ft.com/content/16d676c9-94c4-4df1-8fa6-56966b2c9aa7) |
-| Finance | Sep 22, 2026 | [What Xi wants from his summit with Trump](https://www.ft.com/content/9bea08f4-c9e8-450a-9d0f-0af0bf47b64e?syn-25a6b1a6=1) |
-| Finance | Sep 22, 2026 | [Nasdaq 100 rises to new high as ‘AI Fomo’ returns](https://www.ft.com/content/2c60812b-77b4-4de5-a276-5e3eb2ceb5c3?syn-25a6b1a6=1) |
-| Finance | Sep 22, 2026 | [Trump is checking out of his presidency](https://www.ft.com/content/571df338-895b-4c9b-9be3-c1d2b755221b?syn-25a6b1a6=1) |
+| Finance | Sep 22, 2026 | [US government and Gulf billionaires back Todd Boehly bid for Lukoil assets](https://www.ft.com/content/152aa77b-977f-4607-8a09-77291f85d2a0?syn-25a6b1a6=1) |
+| Finance | Sep 23, 2026 | [Mark Carney and the limits of defying Donald Trump](https://www.ft.com/content/4a808a51-c6e9-4ade-b1f7-95c27fd1aa1e?syn-25a6b1a6=1) |
+| Finance | Sep 23, 2026 | [The battle between the Fed and Trump](https://www.ft.com/content/d2e5ed9c-a123-4275-afc7-14b75b9337a0?syn-25a6b1a6=1) |
+| Finance | Sep 23, 2026 | [How private equity ended up in limbo](https://www.ft.com/content/2b307c1e-cd98-4666-91d5-000b1dc7bbd1?syn-25a6b1a6=1) |
+| Finance | Sep 23, 2026 | [US and Iran hold first talks since June as Trump threatens ‘annihilation’](https://www.ft.com/content/1434496d-0eaf-4270-8ad3-87724cd3721e?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
