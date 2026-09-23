@@ -297,11 +297,11 @@ Every training run ships with its curves public — reward channels, entropy, le
 | Market | Sep 22, 2026 | [Kalshi asks CFTC to allow margin trading on its platform, letting users buy with borrowed funds](https://www.cnbc.com/2026/09/22/kalshi-asks-cftc-to-allow-margin-trading-on-its-platform-letting-users-buy-with-borrowed-funds.html) |
 | Market | Sep 22, 2026 | [Here's who we know is going to the Trump-Xi dinner so far](https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html) |
 | Market | Sep 22, 2026 | [Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year](https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html) |
-| Finance | Sep 22, 2026 | [US government and Gulf billionaires back Todd Boehly bid for Lukoil assets](https://www.ft.com/content/152aa77b-977f-4607-8a09-77291f85d2a0?syn-25a6b1a6=1) |
-| Finance | Sep 23, 2026 | [Has Trump caged his China hawks?](https://www.ft.com/content/5b7decf1-08fd-43fc-b9f3-9870ffa5716f?syn-25a6b1a6=1) |
+| Finance | Sep 23, 2026 | [US Treasury yields soar most since ‘liberation day’ tariffs shook markets](https://www.ft.com/content/5b11b598-7c77-4bdf-82bf-a763adf71a72?syn-25a6b1a6=1) |
+| Finance | Sep 23, 2026 | [OECD sounds alarm on surging government bond yields](https://www.ft.com/content/6c13ada9-f325-428b-b91e-bffcf92eddad?syn-25a6b1a6=1) |
+| Finance | Sep 23, 2026 | [Iran’s president says Tehran ready for talks but hits back at Trump’s ‘bullying’](https://www.ft.com/content/31a27312-8032-4957-be69-ba32561e8db3) |
 | Finance | Sep 23, 2026 | [The west does not have a leadership problem](https://www.ft.com/content/67f10dca-63f3-4cf8-951b-22d0c87f6be2?syn-25a6b1a6=1) |
-| Finance | Sep 23, 2026 | [How private equity ended up in limbo](https://www.ft.com/content/2b307c1e-cd98-4666-91d5-000b1dc7bbd1?syn-25a6b1a6=1) |
-| Finance | Sep 23, 2026 | [UK data centre group left biggest customer ByteDance unnamed in $35bn IPO push](https://www.ft.com/content/d1090476-7be6-4bba-ae2a-f417499e820a?syn-25a6b1a6=1) |
+| Finance | Sep 23, 2026 | [What to do when your Waymo holds up a Secret Service motorcade](https://www.ft.com/content/9cc479a6-8206-4af3-a6e5-77176b8d43c4?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
