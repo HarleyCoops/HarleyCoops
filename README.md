@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Sep 23, 2026 | [Trump-Xi meeting: Why China's self-sufficiency changes the calculus](https://www.cnbc.com/2026/09/23/trump-xi-meeting-why-chinas-self-sufficiency-changes-the-calculus.html) |
 | Market | Sep 23, 2026 | [CFTC says prediction markets' 'mentions' contracts present a higher risk of manipulation](https://www.cnbc.com/2026/09/22/cftc-prediction-markets-mentions-contracts-have-manipulation-risk.html) |
 | Market | Sep 22, 2026 | [Kalshi asks CFTC to allow margin trading on its platform, letting users buy with borrowed funds](https://www.cnbc.com/2026/09/22/kalshi-asks-cftc-to-allow-margin-trading-on-its-platform-letting-users-buy-with-borrowed-funds.html) |
 | Market | Sep 22, 2026 | [Here's who we know is going to the Trump-Xi dinner so far](https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html) |
 | Market | Sep 22, 2026 | [Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year](https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html) |
-| Market | Sep 21, 2026 | [‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American co...](https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html) |
 | Finance | Sep 22, 2026 | [US government and Gulf billionaires back Todd Boehly bid for Lukoil assets](https://www.ft.com/content/152aa77b-977f-4607-8a09-77291f85d2a0?syn-25a6b1a6=1) |
-| Finance | Sep 23, 2026 | [Mark Carney and the limits of defying Donald Trump](https://www.ft.com/content/4a808a51-c6e9-4ade-b1f7-95c27fd1aa1e?syn-25a6b1a6=1) |
-| Finance | Sep 23, 2026 | [The battle between the Fed and Trump](https://www.ft.com/content/d2e5ed9c-a123-4275-afc7-14b75b9337a0?syn-25a6b1a6=1) |
+| Finance | Sep 23, 2026 | [Has Trump caged his China hawks?](https://www.ft.com/content/5b7decf1-08fd-43fc-b9f3-9870ffa5716f?syn-25a6b1a6=1) |
+| Finance | Sep 23, 2026 | [The west does not have a leadership problem](https://www.ft.com/content/67f10dca-63f3-4cf8-951b-22d0c87f6be2?syn-25a6b1a6=1) |
 | Finance | Sep 23, 2026 | [How private equity ended up in limbo](https://www.ft.com/content/2b307c1e-cd98-4666-91d5-000b1dc7bbd1?syn-25a6b1a6=1) |
-| Finance | Sep 23, 2026 | [US and Iran hold first talks since June as Trump threatens ‘annihilation’](https://www.ft.com/content/1434496d-0eaf-4270-8ad3-87724cd3721e?syn-25a6b1a6=1) |
+| Finance | Sep 23, 2026 | [UK data centre group left biggest customer ByteDance unnamed in $35bn IPO push](https://www.ft.com/content/d1090476-7be6-4bba-ae2a-f417499e820a?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
