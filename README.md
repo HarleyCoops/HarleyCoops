@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Sep 24, 2026 | [China confirms first AI talks with U.S. have taken place, hints at trade truce extension](https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html) |
 | Market | Sep 24, 2026 | [U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit](https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html) |
 | Market | Sep 24, 2026 | [Trump-Xi meeting: Why China's self-sufficiency changes the calculus](https://www.cnbc.com/2026/09/23/trump-xi-meeting-why-chinas-self-sufficiency-changes-the-calculus.html) |
 | Market | Sep 23, 2026 | [CFTC says prediction markets' 'mentions' contracts present a higher risk of manipulation](https://www.cnbc.com/2026/09/22/cftc-prediction-markets-mentions-contracts-have-manipulation-risk.html) |
 | Market | Sep 22, 2026 | [Kalshi asks CFTC to allow margin trading on its platform, letting users buy with borrowed funds](https://www.cnbc.com/2026/09/22/kalshi-asks-cftc-to-allow-margin-trading-on-its-platform-letting-users-buy-with-borrowed-funds.html) |
-| Market | Sep 24, 2026 | [Here's who we know is going to the Trump-Xi dinner so far](https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html) |
-| Finance | Sep 24, 2026 | [OpenAI ‘agent’ hacked an Australian health service website](https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507?syn-25a6b1a6=1) |
-| Finance | Sep 23, 2026 | [US and China extend trade truce as Trump welcomes Xi](https://www.ft.com/content/8ff1b8fd-ff58-42a4-8e44-6a31f6db8154?syn-25a6b1a6=1) |
+| Finance | Sep 24, 2026 | [Global bond sell-off deepens as oil climbs back to $105](https://www.ft.com/content/2d87f8bf-d529-4997-90c5-393ef65d280c?syn-25a6b1a6=1) |
+| Finance | Sep 24, 2026 | [Emerging markets sell foreign currency bonds at record rate](https://www.ft.com/content/e3c74df4-9131-44cd-bd31-49691112bc85?syn-25a6b1a6=1) |
+| Finance | Sep 24, 2026 | [Hasan Piker: the Republican Party’s bogeyman](https://www.ft.com/content/e73aeb7e-a408-4272-9d87-743a040db0dc?syn-25a6b1a6=1) |
 | Finance | Sep 24, 2026 | [How to think about the end of the world](https://www.ft.com/content/9d1192a9-abb7-4a91-9638-4ffa855afbb8?syn-25a6b1a6=1) |
-| Finance | Sep 23, 2026 | [Trump lays a new trap for Takaichi](https://www.ft.com/content/8dfae006-c1ac-4713-8497-0e0e59e419f6?syn-25a6b1a6=1) |
-| Finance | Sep 24, 2026 | [Judge orders White House to restore banned media’s access](https://www.ft.com/content/72d1df1f-cc71-4e17-a442-0a4201ba41aa?syn-25a6b1a6=1) |
+| Finance | Sep 24, 2026 | [Trump’s tariff war is clobbering the Hanks of America](https://www.ft.com/content/15bfe2fb-6b13-48dc-99dd-b732f3564b8f?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
