@@ -292,16 +292,16 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Sep 24, 2026 | [Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation](https://www.cnbc.com/2026/09/24/philadelphia-feds-anna-paulson-says-modest-rate-moves-likely-ahead-to-tame-inflation.html) |
 | Market | Sep 24, 2026 | [China confirms first AI talks with U.S. have taken place, hints at trade truce extension](https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html) |
 | Market | Sep 24, 2026 | [U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit](https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html) |
 | Market | Sep 24, 2026 | [Trump-Xi meeting: Why China's self-sufficiency changes the calculus](https://www.cnbc.com/2026/09/23/trump-xi-meeting-why-chinas-self-sufficiency-changes-the-calculus.html) |
 | Market | Sep 23, 2026 | [CFTC says prediction markets' 'mentions' contracts present a higher risk of manipulation](https://www.cnbc.com/2026/09/22/cftc-prediction-markets-mentions-contracts-have-manipulation-risk.html) |
-| Market | Sep 22, 2026 | [Kalshi asks CFTC to allow margin trading on its platform, letting users buy with borrowed funds](https://www.cnbc.com/2026/09/22/kalshi-asks-cftc-to-allow-margin-trading-on-its-platform-letting-users-buy-with-borrowed-funds.html) |
-| Finance | Sep 24, 2026 | [Global bond sell-off deepens as oil climbs back to $105](https://www.ft.com/content/2d87f8bf-d529-4997-90c5-393ef65d280c?syn-25a6b1a6=1) |
-| Finance | Sep 24, 2026 | [Emerging markets sell foreign currency bonds at record rate](https://www.ft.com/content/e3c74df4-9131-44cd-bd31-49691112bc85?syn-25a6b1a6=1) |
+| Finance | Sep 24, 2026 | [Xi says US and China must ‘coexist in peace’ in historic White House visit](https://www.ft.com/content/24c13fd3-5de5-4916-8300-ec3073027ff6?syn-25a6b1a6=1) |
+| Finance | Sep 24, 2026 | [US mortgage rates breach 7% as affordability pressures mount](https://www.ft.com/content/cabe2c29-9f66-470b-b7ac-b2bc324aa367?syn-25a6b1a6=1) |
 | Finance | Sep 24, 2026 | [Hasan Piker: the Republican Party’s bogeyman](https://www.ft.com/content/e73aeb7e-a408-4272-9d87-743a040db0dc?syn-25a6b1a6=1) |
-| Finance | Sep 24, 2026 | [How to think about the end of the world](https://www.ft.com/content/9d1192a9-abb7-4a91-9638-4ffa855afbb8?syn-25a6b1a6=1) |
-| Finance | Sep 24, 2026 | [Trump’s tariff war is clobbering the Hanks of America](https://www.ft.com/content/15bfe2fb-6b13-48dc-99dd-b732f3564b8f?syn-25a6b1a6=1) |
+| Finance | Sep 24, 2026 | [Space: the final frontline](https://www.ft.com/content/7eb47e53-d130-4c5a-858e-49df9bd4f5fe?syn-25a6b1a6=1) |
+| Finance | Sep 24, 2026 | [Global politics live: Netanyahu prepares to address UN summit](https://www.ft.com/content/979ae3ac-4623-4fe9-a771-43ce451a9e73) |
 
 <!-- NEWS:END -->
 
