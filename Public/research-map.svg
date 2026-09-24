@@ -43,7 +43,7 @@
     <text x="24" y="78" class="metric">1890</text>
     <text x="92" y="77" class="label">Dakota grammar</text>
     <text x="24" y="112" class="small">Riggs grammar and dictionary</text>
-    <text x="24" y="139" class="small">Stoney Nakoda dictionaries</text>
+    <text x="24" y="139" class="small">Watkins 1865 Cree dictionary</text>
     <text x="24" y="166" class="small">Audited source manifests</text>
     <g transform="translate(24 194)">
       <rect width="92" height="28" rx="14" fill="#0f2f45" stroke="#1d4ed8"/>
@@ -60,8 +60,8 @@
     <text x="24" y="78" class="metric">7</text>
     <text x="58" y="77" class="label">Hugging Face datasets</text>
     <text x="24" y="112" class="small">Dakota bilingual QA</text>
-    <text x="24" y="139" class="small">Stoney10kRL train/valid split</text>
-    <text x="24" y="166" class="small">Stoney Nakoda corpora</text>
+    <text x="24" y="139" class="small">Cree synthetic bilingual QA</text>
+    <text x="24" y="166" class="small">Source-derived task splits</text>
     <g transform="translate(24 194)">
       <rect width="84" height="28" rx="14" fill="#452f13" stroke="#b45309"/>
       <text x="18" y="19" class="chip">JSONL</text>
@@ -93,7 +93,7 @@
     <text x="24" y="42" class="card-title">Demos + Tools</text>
     <text x="24" y="78" class="metric">8</text>
     <text x="58" y="77" class="label">Hugging Face Spaces</text>
-    <text x="24" y="112" class="small">StoneyApp and Dakota demos</text>
+    <text x="24" y="112" class="small">Cree and Dakota demos</text>
     <text x="24" y="139" class="small">Math-To-Manim render pipeline</text>
     <text x="24" y="166" class="small">Agent and workflow experiments</text>
     <g transform="translate(24 194)">

@@ -23,7 +23,9 @@
 
 ## The Short Version
 
-I build **verifiable training loops**: pipelines that turn a single historical source — an 1890 Dakota grammar, an 1865 Cree dictionary, a 1959 railroad rulebook — into extracted rules, labeled tasks, deterministic reward functions, and published models. Plus the project's other half: **Math-To-Manim** ( 2,400+), a prompt-to-animation engine that turns questions into computed mathematical film.
+I'm Christian H. Cooper, an **ML engineer working on low-resource language models, reinforcement learning, and agent harnesses**. My main research line is **Dakota and Cree**: turning historical grammars and dictionaries into extracted data, verifiable tasks, reward functions, and models that can be evaluated and corrected.
+
+I also build **[Math-To-Manim](https://github.com/HarleyCoops/Math-To-Manim)**, where a mathematical question becomes a visual explanation, and **WorkspaceAlberta Harness**, which connects AI tools to practical work for Canadian businesses and skilled trades. Across these projects, I work on the whole loop: prepare the data, build the system, inspect its failures, and measure what improves.
 
 <table>
   <tr>
@@ -31,22 +33,24 @@ I build **verifiable training loops**: pipelines that turn a single historical s
     <td align="center" width="20%"><strong>2,400+</strong><br/>stars on Math-To-Manim</td>
     <td align="center" width="20%"><strong>17 / 7 / 8</strong><br/>HF models, datasets, Spaces</td>
     <td align="center" width="20%"><strong>82M+</strong><br/>tokens through one GRPO run</td>
-    <td align="center" width="20%"><strong>3</strong><br/>languages brought to RL</td>
+    <td align="center" width="20%"><strong>Dakota + Cree</strong><br/>low-resource language research</td>
   </tr>
 </table>
 
-**What I do that employers actually hire for:**
+**The engineering behind the projects:**
 
-- **Model training & fine-tuning** — GRPO / RL post-training with deterministic, decomposed reward functions; LoRA adapters from 0.5B to 35B on Tinker and Prime Intellect; full run cards, reward ledgers, and audits published on Hugging Face and W&B.
+- **Model training & fine-tuning** — GRPO post-training and LoRA experiments on Tinker and Prime Intellect, with model cards, checkpoints, and training logs on Hugging Face and W&B.
 - **Data labeling & dataset engineering** — VLM extraction from archival scans, orthography-preserving labeling, synthetic Q&A expansion, structural holdouts, hash-addressed dataset artifacts with citations intact.
-- **Reward/verifier design** — grammar rules compiled into executable, per-component reward channels (no LLM judge; every gradient is inspectable).
+- **Reward/verifier design** — grammar-derived checks with separate orthography, morphology, and reference-matching scores, so a change in reward can be traced to the scoring code.
 - **Visualization that explains** — Manim render pipelines, RL training-curve dashboards, LiDAR terrain viewers.
 
 ---
 
 ## The Movie Wall — Math-To-Manim
 
-**Ask a question → get a freakin' movie.** Nothing keyframed — every frame is integrated, simulated, or derived. 2,400+ stars.
+**Ask a question → get a visual explanation.** Math-To-Manim works backward through prerequisites, builds a teaching sequence, checks the mathematics, and turns it into a Manim scene for rendering and review.
+
+I started it on the morning of **January 20, 2025**, the day DeepSeek-R1 was released. The [first project commit](https://github.com/HarleyCoops/Math-To-Manim/commit/09a2f22ec02b0374d38373d28f76c5764a1e9a2e) records 04:24 Mountain Time. GRPO made me think about recursive self-reasoning: could a system check intermediate results and use that feedback to improve its next attempt? Math-To-Manim gave me something concrete to test. [R1's release record](https://huggingface.co/deepseek-ai/DeepSeek-R1/commit/5a56bdbde75a16bdfbf3a8e9c852be3dfcfb8eef) marks the same day.
 
 <table>
   <tr>
@@ -91,13 +95,23 @@ I build **verifiable training loops**: pipelines that turn a single historical s
   <a href="https://github.com/HarleyCoops/Math-To-Manim/tree/main/docs/showcase"><img alt="Full showcase" src="https://img.shields.io/badge/Full%20motion%20showcase-30%2B%20films-0ea5e9"></a>
 </p>
 
+**Still in progress:** I am using Math-To-Manim as an RL experiment, turning failed scenes and repair attempts into training tasks. Cheap code checks guide rollouts; rendered frames provide slower evaluation. Inference-time revision and RL weight updates are separate steps, and I am still working on the connection between them. [Read the experiment notes](https://github.com/HarleyCoops/Math-To-Manim/blob/main/docs/PRIME_INTELLECT_RL.md).
+
 ---
 
-## The Training Lab — GRPO on Things Nobody Tries
+## The Training Lab — Dakota, Cree, and GRPO
 
-The signature move: **grammar as a reward function**. Take a source document, compile its rules into verifiable tasks, and let GRPO optimize against per-component reward channels — orthography, morphology, semantics — with zero LLM-judge fuzz. The reward ledger reconciles to the step.
+**Can a historical language volume provide enough structure to start a useful training loop?**
+
+[**Dakota1890**](https://github.com/HarleyCoops/Dakota1890) starts with Riggs' 1890 grammar and dictionary: preserve the orthography, extract rules, generate tasks, and score outputs against explicit constraints. The experiments have progressed from a 0.6B model to a 35B GRPO adapter.
+
+[**Cree1865**](https://github.com/HarleyCoops/Cree1865) tests the approach on Watkins' 1865 dictionary, with synthetic bilingual Q&A, a Cree-specific verifier, and LoRA training through Tinker. Its 800-step run, model card, and inference demo are linked below.
+
+The shared idea is **grammar as a reward function**. I log the scoring components separately to see what the model is learning and where the verifier falls short. A higher score on source-derived tasks does not establish fluency; speaker-led evaluation and correction remain the next stage I want to develop.
 
 **Now building:** [Baguettotron-Dakota1890](https://github.com/HarleyCoops/Baguettotron-Dakota1890) connects the Dakota1890 morphology gym to a GRPO fine-tuning stack for PleIAs/Baguettotron.
+
+One Dakota reward formulation illustrates the component breakdown; the Cree verifier uses its own rubric.
 
 ```python
 reward = (
@@ -132,7 +146,7 @@ reward = (
 
 ### Published model runs
 
-| Model | Params | Method | Verified result |
+| Model | Params | Method | Reported run result |
 |---|---:|---|---|
 | [Laguna-XS.2-Adaption-Dakota-QA-GRPO](https://huggingface.co/HarleyCooper/Laguna-XS.2-Adaption-Dakota-QA-GRPO) | XS | GRPO, Prime Hosted Training | Reward **0.283 → 0.433**, char-F1 **0.327 → 0.635** |
 | [Qwen3.6-35B-A3B-Dakota1890-GRPO](https://huggingface.co/HarleyCooper/Qwen3.6-35B-A3B-Dakota1890-GRPO) | 35B | GRPO, Tinker | **82.05M tokens**, audited reward channels |
@@ -154,7 +168,7 @@ reward = (
 
 ## Data Labeling & Dataset Engineering — Book → Gym → Model
 
-[**volume2gym**](https://github.com/HarleyCoops/volume2gym) is the general compiler behind the language work: **any structured volume becomes an RL gym**. Sections name the world, rules constrain action, procedures encode order, exceptions define edge cases. The compiler emits cited knowledge units, six task families, grouped holdouts, deterministic reward ledgers, and SFT/GRPO trainer exports — hash-addressed and tamper-evident.
+[**volume2gym**](https://github.com/HarleyCoops/volume2gym) develops the broader engineering idea: turn structured source material into cited knowledge units, training tasks, and executable checks. It supports six task families, grouped holdouts, reward ledgers, and SFT/GRPO exports, with hashes that make changes to artifacts detectable.
 
 | Task family the compiler emits | What it tests |
 |---|---|
@@ -173,10 +187,7 @@ The 1959 *Consolidated Code of Operating Rules* lineage: **536 extracted rules �
 |---|---|---|
 | [adaption-dakota-english-qa](https://huggingface.co/datasets/HarleyCooper/adaption-dakota-english-qa) | Remastered Dakota–English QA for instruction tuning & GRPO | 1,953 examples |
 | [dakota-bilingual-qa](https://huggingface.co/datasets/HarleyCooper/dakota-bilingual-qa) | Bilingual QA pairs from the 1890 dictionary | 2,445 examples, train/val |
-| [Stoney10kRL](https://huggingface.co/datasets/HarleyCooper/Stoney10kRL) | 2026 Stoney Nakoda RL fine-tuning package | 8,000 train / 2,000 val |
-| [StoneyNakoda45k](https://huggingface.co/datasets/HarleyCooper/StoneyNakoda45k) | Community-in-the-loop language dataset | 25–50K size class |
 | [volume2gym-railroad-1959](https://huggingface.co/datasets/HarleyCooper/volume2gym-railroad-1959) | Rule 99 artifact-contract fixture with ledgers | 6 train / 1 held-out |
-| [synthetic_stoney_data](https://huggingface.co/datasets/HarleyCooper/synthetic_stoney_data) | Synthetic Q&A bootstrap resource | JSONL |
 
 <p align="center">
   <img src="./Public/research-map.svg" alt="Research and build map connecting sources, datasets, model runs, and public demos" width="100%" />
@@ -184,9 +195,11 @@ The 1959 *Consolidated Code of Operating Rules* lineage: **536 extracted rules �
 
 ---
 
-## The Archive — Handwriting, Letterpress, and Self-Training Models
+## The Archive — The Sources Behind Dakota and Cree
 
-A research line in three languages: **give an endangered language one good historical book, and train.** VLM extraction reads the scans — diacritics, letterpress ligatures, and all — then synthetic Q&A multiplies the surface area, then GRPO with a rubric built from the book itself. The final stage belongs to the community: speakers correct the model, and the corrections become the next training round. The model is a toddler that has read the book cover to cover; the community teaches it the rest.
+The scans are part of the engineering problem. Diacritics, variant spellings, and dictionary direction matter when text becomes training data. I use VLM extraction and synthetic Q&A to create more tasks from the relationships recorded in each source, while keeping the distinction between extracted material and generated examples.
+
+These historical books are starting points. They cannot capture a living language on their own. The correction loop I want to build retains the prompt, the model's answer, and a speaker's correction with the context that explains the mistake.
 
 <table>
   <tr>
@@ -204,13 +217,9 @@ A research line in three languages: **give an endangered language one good histo
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/HarleyCoops/Dakota1890"><img src="./Public/dakota-grammar.jpg" alt="Riggs 1890 Grammar and Dictionary of the Dakota Language scan" width="100%" /></a>
+    <td colspan="3" align="center">
+      <a href="https://github.com/HarleyCoops/Dakota1890"><img src="./Public/dakota-grammar.jpg" alt="Riggs 1890 Grammar and Dictionary of the Dakota Language scan" width="50%" /></a>
       <p align="center"><strong>Dakota1890</strong> — Riggs' 1890 grammar: 1,497 rules → 10,576 verifiable tasks</p>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/HarleyCoops/StoneyNakoda"><img src="./Public/dawson-map.jpg" alt="Dawson's historical map of the Bow Valley, Stoney Nakoda territory" width="100%" /></a>
-      <p align="center"><strong>StoneyNakoda</strong> — Dawson's Bow Valley survey; the community-in-the-loop origin</p>
     </td>
   </tr>
 </table>
@@ -219,10 +228,17 @@ A research line in three languages: **give an endangered language one good histo
 |---|---|---|
 | [Dakota1890](https://github.com/HarleyCoops/Dakota1890) | Riggs 1890 *Grammar & Dictionary of the Dakota Language* | [Baguettotron GRPO stack](https://github.com/HarleyCoops/Baguettotron-Dakota1890) · [35B adapter](https://huggingface.co/HarleyCooper/Qwen3.6-35B-A3B-Dakota1890-GRPO) · [Laguna run card](https://huggingface.co/HarleyCooper/Laguna-XS.2-Adaption-Dakota-QA-GRPO) |
 | [Cree1865](https://github.com/HarleyCoops/Cree1865) | Watkins 1865 *Dictionary of the Cree Language* | [HF model](https://huggingface.co/HarleyCooper/Cree1865) · [W&B run](https://wandb.ai/christian-cooper-us/thinking-machines-qwen3-30b/runs/hda2wqhl) · [explained dashboard](https://wandb.ai/christian-cooper-us/thinking-machines-qwen3-30b/reports/Cree1865-Synthetic-Expansion-V1-Explained-Dashboard--VmlldzoxNzM1MDY2MQ==) · [inference Space](https://huggingface.co/spaces/HarleyCooper/Cree1865-Tinker-Inference) |
-| [StoneyNakoda](https://github.com/HarleyCoops/StoneyNakoda) | Contemporary speakers + historical survey material | [Stoney10kRL](https://huggingface.co/datasets/HarleyCooper/Stoney10kRL) · [StoneyApp](https://huggingface.co/spaces/HarleyCooper/StoneyApp) |
 | [Railroad Engineer 1959](https://github.com/HarleyCoops/Qwen3-RailroadEngineer1959-RL) | 1959 *Consolidated Code of Operating Rules* | [Qwen3-4B LoRA](https://huggingface.co/HarleyCooper/Qwen3-4B-RailRoadEngineer1959) · [dataset fixture](https://huggingface.co/datasets/HarleyCooper/volume2gym-railroad-1959) |
 
 Handwriting and OCR lineage runs through the repo list too — [PyLaia](https://github.com/HarleyCoops/PyLaia) (handwritten document analysis), [deepseek-ocr](https://github.com/HarleyCoops/deepseek-ocr), [olmocr](https://github.com/HarleyCoops/olmocr) (PDF linearization for training data), and a reproduction of [LeCun 1989 handwritten zip-code recognition](https://github.com/HarleyCoops/lecun1989-repro) — the ancestor of all of this.
+
+---
+
+## WorkspaceAlberta Harness — AI for Businesses and Skilled Trades
+
+I design **WorkspaceAlberta Harness**, a custom AI terminal that connects business context with procurement evidence from CanadaBuys and Alberta Purchasing Connection. The aim is practical: help an operator assess an opportunity and produce a useful bid brief, document, or working tool.
+
+My work covers connectors, tool routing, persistent task state, and agent procedures that can be improved through reviewed corrections. It applies the same discipline as the training work: keep the evidence visible, distinguish missing information from a confirmed answer, and measure whether the result helps the person doing the job.
 
 ---
 
@@ -248,14 +264,13 @@ Handwriting and OCR lineage runs through the repo list too — [PyLaia](https://
 
 | Live demos (Spaces) | Try it |
 |---|---|
-| [StoneyApp](https://huggingface.co/spaces/HarleyCooper/StoneyApp) | Stoney Nakoda community-in-the-loop app |
 | [Cree1865-Tinker-Inference](https://huggingface.co/spaces/HarleyCooper/Cree1865-Tinker-Inference) | Sample from the Cree1865 training run |
 | [Dakota-.6B](https://huggingface.co/spaces/HarleyCooper/Dakota-.6B) | Dakota grammar RL demo |
 | [AskAboutCIL](https://huggingface.co/spaces/HarleyCooper/AskAboutCIL) | Community-in-the-loop method explainer |
 
 ## Weights & Biases
 
-Every training run ships with its curves public — reward channels, entropy, ledger audits, per-step components.
+The linked training runs expose reward curves and component metrics. I use these logs to investigate failures and check whether the recorded rewards agree with the verifier.
 
 <p>
   <a href="https://wandb.ai/christian-cooper-us"><img alt="W&B profile" src="https://img.shields.io/badge/W%26B-christian--cooper--us-FFBE00?logo=weightsandbiases&logoColor=111827"></a>
@@ -368,7 +383,7 @@ Every training run ships with its curves public — reward channels, entropy, le
   <a href="https://kaggle.com/christianhcooper">Kaggle</a>
 </p>
 
-<p align="center"><em>Open source is the portfolio. The best entry points are the project READMEs, model cards, dataset cards, W&B runs, and demos linked above.</em></p>
+<p align="center"><em>Interested in low-resource language modeling, RL environments, or agent harnesses? The repos and run cards above show how I work. Get in touch if you are building in the same direction.</em></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d97757,50:7f1d1d,100:111827&height=120&section=footer" alt="Footer banner" width="100%" />
