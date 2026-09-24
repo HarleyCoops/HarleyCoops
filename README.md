@@ -292,15 +292,15 @@ Every training run ships with its curves public — reward channels, entropy, le
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Sep 23, 2026 | [U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit](https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html) |
 | Market | Sep 23, 2026 | [Trump-Xi meeting: Why China's self-sufficiency changes the calculus](https://www.cnbc.com/2026/09/23/trump-xi-meeting-why-chinas-self-sufficiency-changes-the-calculus.html) |
 | Market | Sep 23, 2026 | [CFTC says prediction markets' 'mentions' contracts present a higher risk of manipulation](https://www.cnbc.com/2026/09/22/cftc-prediction-markets-mentions-contracts-have-manipulation-risk.html) |
 | Market | Sep 22, 2026 | [Kalshi asks CFTC to allow margin trading on its platform, letting users buy with borrowed funds](https://www.cnbc.com/2026/09/22/kalshi-asks-cftc-to-allow-margin-trading-on-its-platform-letting-users-buy-with-borrowed-funds.html) |
 | Market | Sep 22, 2026 | [Here's who we know is going to the Trump-Xi dinner so far](https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html) |
-| Market | Sep 22, 2026 | [Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year](https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html) |
-| Finance | Sep 23, 2026 | [US Treasury yields soar most since ‘liberation day’ tariffs shook markets](https://www.ft.com/content/5b11b598-7c77-4bdf-82bf-a763adf71a72?syn-25a6b1a6=1) |
-| Finance | Sep 23, 2026 | [OECD sounds alarm on surging government bond yields](https://www.ft.com/content/6c13ada9-f325-428b-b91e-bffcf92eddad?syn-25a6b1a6=1) |
-| Finance | Sep 23, 2026 | [Iran’s president says Tehran ready for talks but hits back at Trump’s ‘bullying’](https://www.ft.com/content/31a27312-8032-4957-be69-ba32561e8db3) |
-| Finance | Sep 23, 2026 | [The west does not have a leadership problem](https://www.ft.com/content/67f10dca-63f3-4cf8-951b-22d0c87f6be2?syn-25a6b1a6=1) |
+| Finance | Sep 23, 2026 | [OpenAI ‘agent’ hacked an Australian health service website](https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507?syn-25a6b1a6=1) |
+| Finance | Sep 23, 2026 | [UN live: Anthropic’s Dario Amodei calls for ‘narrow’ AI safety agreements](https://www.ft.com/content/31a27312-8032-4957-be69-ba32561e8db3) |
+| Finance | Sep 23, 2026 | [Xi arrives for high-stakes summit with Trump as leaders extend trade truce](https://www.ft.com/content/8ff1b8fd-ff58-42a4-8e44-6a31f6db8154?syn-25a6b1a6=1) |
+| Finance | Sep 23, 2026 | [Rosneft billions fed Kremlin-backed money laundering network](https://www.ft.com/content/fb42c5dd-1550-402c-8881-49a3902710a0?syn-25a6b1a6=1) |
 | Finance | Sep 23, 2026 | [What to do when your Waymo holds up a Secret Service motorcade](https://www.ft.com/content/9cc479a6-8206-4af3-a6e5-77176b8d43c4?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
