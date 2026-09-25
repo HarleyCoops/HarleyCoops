@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Sep 24, 2026 | [U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit](https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html) |
 | Market | Sep 24, 2026 | [Trump-Xi meeting: Why China's self-sufficiency changes the calculus](https://www.cnbc.com/2026/09/23/trump-xi-meeting-why-chinas-self-sufficiency-changes-the-calculus.html) |
 | Market | Sep 23, 2026 | [CFTC says prediction markets' 'mentions' contracts present a higher risk of manipulation](https://www.cnbc.com/2026/09/22/cftc-prediction-markets-mentions-contracts-have-manipulation-risk.html) |
-| Finance | Sep 24, 2026 | [Xi says US and China must ‘coexist in peace’ in historic White House visit](https://www.ft.com/content/24c13fd3-5de5-4916-8300-ec3073027ff6?syn-25a6b1a6=1) |
 | Finance | Sep 24, 2026 | [US mortgage rates breach 7% as affordability pressures mount](https://www.ft.com/content/cabe2c29-9f66-470b-b7ac-b2bc324aa367?syn-25a6b1a6=1) |
-| Finance | Sep 24, 2026 | [Hasan Piker: the Republican Party’s bogeyman](https://www.ft.com/content/e73aeb7e-a408-4272-9d87-743a040db0dc?syn-25a6b1a6=1) |
-| Finance | Sep 24, 2026 | [Space: the final frontline](https://www.ft.com/content/7eb47e53-d130-4c5a-858e-49df9bd4f5fe?syn-25a6b1a6=1) |
-| Finance | Sep 24, 2026 | [Global politics live: Netanyahu prepares to address UN summit](https://www.ft.com/content/979ae3ac-4623-4fe9-a771-43ce451a9e73) |
+| Finance | Sep 24, 2026 | [US long-term borrowing costs touch highest level since 2004](https://www.ft.com/content/2d87f8bf-d529-4997-90c5-393ef65d280c?syn-25a6b1a6=1) |
+| Finance | Sep 24, 2026 | [Goldman reaped more than $200mn in fees from hedge fund Situational Awareness](https://www.ft.com/content/bdec4129-ccac-4149-aa53-90ddd50cb925?syn-25a6b1a6=1) |
+| Finance | Sep 24, 2026 | [Republicans spend big to counter Trump’s sinking popularity](https://www.ft.com/content/83beb007-8ef5-45e9-9edc-62eb5db46e40?syn-25a6b1a6=1) |
+| Finance | Sep 24, 2026 | [The AI agent revolution has moved a big step closer](https://www.ft.com/content/e60b40b6-dae5-4ccf-83cc-978269cbcaa5?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
