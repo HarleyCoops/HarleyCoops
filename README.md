@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Sep 25, 2026 | [Here's who attended the Trump-Xi state dinner](https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html) |
 | Market | Sep 24, 2026 | [Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation](https://www.cnbc.com/2026/09/24/philadelphia-feds-anna-paulson-says-modest-rate-moves-likely-ahead-to-tame-inflation.html) |
 | Market | Sep 24, 2026 | [China confirms first AI talks with U.S. have taken place, hints at trade truce extension](https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html) |
-| Finance | Sep 25, 2026 | [Russia targets Ukraine’s data centres](https://www.ft.com/content/7fbecb15-c396-49d2-8cab-1518809a7b2b?syn-25a6b1a6=1) |
-| Finance | Sep 25, 2026 | [Russia expands fleet as crackdown on stateless vessels intensifies](https://www.ft.com/content/fe377a54-88d7-4d6c-a763-fd56bc608827?syn-25a6b1a6=1) |
-| Finance | Sep 25, 2026 | [Pomp prevails over substance as Trump hosts Xi](https://www.ft.com/content/cdff194b-8106-4f71-b5b8-d0dbaf2c4d79?syn-25a6b1a6=1) |
+| Finance | Sep 25, 2026 | [Houthis promise not to target European ships](https://www.ft.com/content/a255d9e6-ae6f-4b30-9ca6-b694663f547c?syn-25a6b1a6=1) |
+| Finance | Sep 25, 2026 | [Iran offers US new seven-day ceasefire proposal](https://www.ft.com/content/917a9cba-6afd-4ba3-8742-2b7601ecc2ba?syn-25a6b1a6=1) |
+| Finance | Sep 25, 2026 | [Former US spymaster Avril Haines: a third world war is ‘plausible’](https://www.ft.com/content/8f1030c3-9ad0-45b2-86bf-71d8dec27be4?syn-25a6b1a6=1) |
 | Finance | Sep 25, 2026 | [Can quantum turn ‘magic’ into money?](https://www.ft.com/content/ae9eedd2-4530-47e4-be4b-242d0e2a6253?syn-25a6b1a6=1) |
-| Finance | Sep 25, 2026 | [David Beckham takes $51mn dividend as World Cup deals lift earnings](https://www.ft.com/content/7273f2f9-e630-479d-a1b7-ba29cbb96b5e?syn-25a6b1a6=1) |
+| Finance | Sep 25, 2026 | [Pomp prevails over substance as Trump hosts Xi](https://www.ft.com/content/cdff194b-8106-4f71-b5b8-d0dbaf2c4d79?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
