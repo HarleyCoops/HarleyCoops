@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Sep 25, 2026 | [Crypto platform Bitget suspects North Korea is responsible for $352 million hack](https://www.cnbc.com/2026/09/25/crypto-platform-bitget-suspects-north-korea-in-352-million-hack.html) |
+| Market | Sep 25, 2026 | [China's Xi urges U.S. to cooperate on AI](https://www.cnbc.com/2026/09/25/chinas-xi-urges-us-to-cooperate-on-ai.html) |
+| Market | Sep 25, 2026 | [Here's who is attending the Trump-Xi state dinner](https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html) |
 | Market | Sep 24, 2026 | [Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation](https://www.cnbc.com/2026/09/24/philadelphia-feds-anna-paulson-says-modest-rate-moves-likely-ahead-to-tame-inflation.html) |
 | Market | Sep 24, 2026 | [China confirms first AI talks with U.S. have taken place, hints at trade truce extension](https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html) |
-| Market | Sep 24, 2026 | [U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit](https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html) |
-| Market | Sep 24, 2026 | [Trump-Xi meeting: Why China's self-sufficiency changes the calculus](https://www.cnbc.com/2026/09/23/trump-xi-meeting-why-chinas-self-sufficiency-changes-the-calculus.html) |
-| Market | Sep 23, 2026 | [CFTC says prediction markets' 'mentions' contracts present a higher risk of manipulation](https://www.cnbc.com/2026/09/22/cftc-prediction-markets-mentions-contracts-have-manipulation-risk.html) |
-| Finance | Sep 24, 2026 | [US mortgage rates breach 7% as affordability pressures mount](https://www.ft.com/content/cabe2c29-9f66-470b-b7ac-b2bc324aa367?syn-25a6b1a6=1) |
-| Finance | Sep 24, 2026 | [US long-term borrowing costs touch highest level since 2004](https://www.ft.com/content/2d87f8bf-d529-4997-90c5-393ef65d280c?syn-25a6b1a6=1) |
-| Finance | Sep 24, 2026 | [Goldman reaped more than $200mn in fees from hedge fund Situational Awareness](https://www.ft.com/content/bdec4129-ccac-4149-aa53-90ddd50cb925?syn-25a6b1a6=1) |
-| Finance | Sep 24, 2026 | [Republicans spend big to counter Trump’s sinking popularity](https://www.ft.com/content/83beb007-8ef5-45e9-9edc-62eb5db46e40?syn-25a6b1a6=1) |
-| Finance | Sep 24, 2026 | [The AI agent revolution has moved a big step closer](https://www.ft.com/content/e60b40b6-dae5-4ccf-83cc-978269cbcaa5?syn-25a6b1a6=1) |
+| Finance | Sep 25, 2026 | [EU urges UK to raise tariffs on Chinese cars to avoid ‘made in Europe’ barriers](https://www.ft.com/content/5453be91-7bd9-4097-9e83-870354d3a248?syn-25a6b1a6=1) |
+| Finance | Sep 25, 2026 | [Pomp prevails over substance as Trump hosts Xi](https://www.ft.com/content/cdff194b-8106-4f71-b5b8-d0dbaf2c4d79?syn-25a6b1a6=1) |
+| Finance | Sep 25, 2026 | [How can we tackle AI’s financial risks?](https://www.ft.com/content/065dd0d6-804d-4609-8964-e0af05a4603e?syn-25a6b1a6=1) |
+| Finance | Sep 25, 2026 | [Can quantum turn ‘magic’ into money?](https://www.ft.com/content/ae9eedd2-4530-47e4-be4b-242d0e2a6253?syn-25a6b1a6=1) |
+| Finance | Sep 25, 2026 | [The cheap new AI model taking aim at OpenAI and Anthropic](https://www.ft.com/content/456884ea-2558-4648-8036-a77b73733430?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
