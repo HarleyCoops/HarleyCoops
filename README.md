@@ -307,15 +307,15 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Sep 25, 2026 | [Appeals court rules that states can regulate Kalshi’s sports prediction markets, dealing another ...](https://www.cnbc.com/2026/09/25/appeals-court-rules-states-can-regulate-sports-prediction-markets.html) |
 | Market | Sep 25, 2026 | [Crypto platform Bitget suspects North Korea is responsible for $352 million hack](https://www.cnbc.com/2026/09/25/crypto-platform-bitget-suspects-north-korea-in-352-million-hack.html) |
 | Market | Sep 25, 2026 | [China's Xi urges U.S. to cooperate on AI](https://www.cnbc.com/2026/09/25/chinas-xi-urges-us-to-cooperate-on-ai.html) |
 | Market | Sep 25, 2026 | [Here's who attended the Trump-Xi state dinner](https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html) |
 | Market | Sep 24, 2026 | [Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation](https://www.cnbc.com/2026/09/24/philadelphia-feds-anna-paulson-says-modest-rate-moves-likely-ahead-to-tame-inflation.html) |
-| Market | Sep 24, 2026 | [China confirms first AI talks with U.S. have taken place, hints at trade truce extension](https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html) |
-| Finance | Sep 25, 2026 | [Houthis promise not to target European ships](https://www.ft.com/content/a255d9e6-ae6f-4b30-9ca6-b694663f547c?syn-25a6b1a6=1) |
-| Finance | Sep 25, 2026 | [Iran offers US new seven-day ceasefire proposal](https://www.ft.com/content/917a9cba-6afd-4ba3-8742-2b7601ecc2ba?syn-25a6b1a6=1) |
-| Finance | Sep 25, 2026 | [Former US spymaster Avril Haines: a third world war is ‘plausible’](https://www.ft.com/content/8f1030c3-9ad0-45b2-86bf-71d8dec27be4?syn-25a6b1a6=1) |
-| Finance | Sep 25, 2026 | [Can quantum turn ‘magic’ into money?](https://www.ft.com/content/ae9eedd2-4530-47e4-be4b-242d0e2a6253?syn-25a6b1a6=1) |
+| Finance | Sep 25, 2026 | [Soaring bond yields ‘not even close’ to cooling red-hot US economy, investors say](https://www.ft.com/content/bcf0715b-4292-428e-80ec-e6702d430aa4?syn-25a6b1a6=1) |
+| Finance | Sep 25, 2026 | [US bond sell-off pushes long-term yields to highest since 2004](https://www.ft.com/content/c5af4151-2c14-481b-8145-f5ec1f43a3f4?syn-25a6b1a6=1) |
+| Finance | Sep 25, 2026 | [Bond ructions point to new danger zone in markets](https://www.ft.com/content/4acbdc1f-d898-4966-b865-924470de0066?syn-25a6b1a6=1) |
+| Finance | Sep 25, 2026 | [Maga base recoils as Trump goes all-in on AI](https://www.ft.com/content/e8a815e6-a105-42ea-938e-352b8c8d5c3b?syn-25a6b1a6=1) |
 | Finance | Sep 25, 2026 | [Pomp prevails over substance as Trump hosts Xi](https://www.ft.com/content/cdff194b-8106-4f71-b5b8-d0dbaf2c4d79?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
