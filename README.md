@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Sep 25, 2026 | [Crypto platform Bitget suspects North Korea is responsible for $352 million hack](https://www.cnbc.com/2026/09/25/crypto-platform-bitget-suspects-north-korea-in-352-million-hack.html) |
 | Market | Sep 25, 2026 | [China's Xi urges U.S. to cooperate on AI](https://www.cnbc.com/2026/09/25/chinas-xi-urges-us-to-cooperate-on-ai.html) |
 | Market | Sep 25, 2026 | [Here's who attended the Trump-Xi state dinner](https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html) |
+| Finance | Sep 26, 2026 | [Foreign capital flows into US stocks hit record as appetite for debt fades](https://www.ft.com/content/a1a1318b-8051-4539-a485-5a4e1d021578?syn-25a6b1a6=1) |
 | Finance | Sep 25, 2026 | [Soaring bond yields ‘not even close’ to cooling red-hot US economy, investors say](https://www.ft.com/content/bcf0715b-4292-428e-80ec-e6702d430aa4?syn-25a6b1a6=1) |
 | Finance | Sep 25, 2026 | [Bond ructions point to new danger zone in markets](https://www.ft.com/content/4acbdc1f-d898-4966-b865-924470de0066?syn-25a6b1a6=1) |
-| Finance | Sep 26, 2026 | [Tourist taxes on the march](https://www.ft.com/content/e6856a1a-77e4-42b5-bcd8-f91973ca9755?syn-25a6b1a6=1) |
+| Finance | Sep 26, 2026 | [The great tourist tax boom](https://www.ft.com/content/e6856a1a-77e4-42b5-bcd8-f91973ca9755?syn-25a6b1a6=1) |
 | Finance | Sep 26, 2026 | [A tribute to great wrong ideas](https://www.ft.com/content/d877455c-ee9a-4753-87e2-6e31522e3862?syn-25a6b1a6=1) |
-| Finance | Sep 26, 2026 | [The climate doom-mongers now dread sovereign debt blowouts](https://www.ft.com/content/9c071d82-4a23-4b77-b5dd-384e39a95140?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
