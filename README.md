@@ -313,10 +313,10 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Sep 26, 2026 | [Why Xi believes the U.S. and China can overcome the 'Thucydides Trap'](https://www.cnbc.com/2026/09/26/xi-trump-thucydides-trap-us-china.html) |
 | Market | Sep 25, 2026 | [Appeals court rules that states can regulate Kalshi’s sports prediction markets, dealing another ...](https://www.cnbc.com/2026/09/25/appeals-court-rules-states-can-regulate-sports-prediction-markets.html) |
 | Finance | Sep 27, 2026 | [US housing crunch puts private equity in midterm campaign crosshairs](https://www.ft.com/content/7e91f857-30d9-4bf9-b7c9-ec04d4a6e1ed?syn-25a6b1a6=1) |
-| Finance | Sep 27, 2026 | [The EU needs a clearer strategy for partners like Canada](https://www.ft.com/content/762c1f08-a1bf-4118-8296-52ed96d76fa8?syn-25a6b1a6=1) |
+| Finance | Sep 27, 2026 | [Private credit turmoil eases as investor withdrawals slow](https://www.ft.com/content/f342efa7-96b0-4bb2-aa19-fae740d8c286?syn-25a6b1a6=1) |
+| Finance | Sep 27, 2026 | [Pay to play in the age of corporate migration](https://www.ft.com/content/267379ff-8491-478b-a10f-ad19a67df37c?syn-25a6b1a6=1) |
 | Finance | Sep 27, 2026 | [The India shock: exporting workers to the world](https://www.ft.com/content/afb910e4-5425-4d3e-b0ef-c1d260f29945?syn-25a6b1a6=1) |
-| Finance | Sep 26, 2026 | [Trump and Xi to meet twice more after summit fails to resolve tensions](https://www.ft.com/content/bd99d372-d3d1-4972-a3fe-1bed8f71e14c?syn-25a6b1a6=1) |
-| Finance | Sep 27, 2026 | [Gold-rich Nicaragua hands Chinese miners rights to a tenth of its land](https://www.ft.com/content/452648fd-90d6-450f-9739-073f5b6a0d18?syn-25a6b1a6=1) |
+| Finance | Sep 27, 2026 | [Investors pursue Dubai investment group over missing payments](https://www.ft.com/content/39eb5cb2-f73e-4c18-8357-f7378428c8e1?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
