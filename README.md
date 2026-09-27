@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Sep 26, 2026 | [Why Xi believes the U.S. and China can overcome the 'Thucydides Trap'](https://www.cnbc.com/2026/09/26/xi-trump-thucydides-trap-us-china.html) |
 | Market | Sep 25, 2026 | [Appeals court rules that states can regulate Kalshi’s sports prediction markets, dealing another ...](https://www.cnbc.com/2026/09/25/appeals-court-rules-states-can-regulate-sports-prediction-markets.html) |
 | Market | Sep 25, 2026 | [Crypto platform Bitget suspects North Korea is responsible for $352 million hack](https://www.cnbc.com/2026/09/25/crypto-platform-bitget-suspects-north-korea-in-352-million-hack.html) |
-| Finance | Sep 26, 2026 | [Foreign capital flows into US stocks hit record as appetite for debt fades](https://www.ft.com/content/a1a1318b-8051-4539-a485-5a4e1d021578?syn-25a6b1a6=1) |
-| Finance | Sep 26, 2026 | [The great tourist tax boom](https://www.ft.com/content/e6856a1a-77e4-42b5-bcd8-f91973ca9755?syn-25a6b1a6=1) |
-| Finance | Sep 26, 2026 | [A tribute to great wrong ideas](https://www.ft.com/content/d877455c-ee9a-4753-87e2-6e31522e3862?syn-25a6b1a6=1) |
-| Finance | Sep 26, 2026 | [The climate doom-mongers now dread sovereign debt blowouts](https://www.ft.com/content/9c071d82-4a23-4b77-b5dd-384e39a95140?syn-25a6b1a6=1) |
-| Finance | Sep 26, 2026 | [German and Russian foreign ministers meet for first time in over four years](https://www.ft.com/content/ec92933f-7147-410e-8ade-ab09add476a7?syn-25a6b1a6=1) |
+| Finance | Sep 27, 2026 | [US housing crunch puts private equity in midterm campaign crosshairs](https://www.ft.com/content/7e91f857-30d9-4bf9-b7c9-ec04d4a6e1ed?syn-25a6b1a6=1) |
+| Finance | Sep 27, 2026 | [De Beers bets on a taste for the real to restore diamonds’ sparkle](https://www.ft.com/content/40ec5413-3990-40b8-8066-6d6c215626f7?syn-25a6b1a6=1) |
+| Finance | Sep 27, 2026 | [The executives going ‘fractional’, not freelance](https://www.ft.com/content/d08d8530-ef99-49f3-a7b3-a886139f6b27) |
+| Finance | Sep 26, 2026 | [Trump and Xi to meet twice more after summit fails to resolve tensions](https://www.ft.com/content/bd99d372-d3d1-4972-a3fe-1bed8f71e14c?syn-25a6b1a6=1) |
+| Finance | Sep 27, 2026 | [Gold-rich Nicaragua hands Chinese miners rights to a tenth of its land](https://www.ft.com/content/452648fd-90d6-450f-9739-073f5b6a0d18?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
