@@ -307,14 +307,14 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Sep 27, 2026 | [Debt-hungry AI companies face increased risk as bond yields spike](https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html) |
 | Market | Sep 26, 2026 | [This may be the ‘missing piece’ for investors looking to boost AI exposure](https://www.cnbc.com/2026/09/26/ai-portfolios-may-need-china-to-grab-the-biggest-gains.html) |
 | Market | Sep 26, 2026 | [The 10-year Treasury yield is at its highest in nearly two decades. How we got here](https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html) |
 | Market | Sep 26, 2026 | [Why Xi believes the U.S. and China can overcome the 'Thucydides Trap'](https://www.cnbc.com/2026/09/26/xi-trump-thucydides-trap-us-china.html) |
 | Market | Sep 25, 2026 | [Appeals court rules that states can regulate Kalshi’s sports prediction markets, dealing another ...](https://www.cnbc.com/2026/09/25/appeals-court-rules-states-can-regulate-sports-prediction-markets.html) |
-| Market | Sep 25, 2026 | [Crypto platform Bitget suspects North Korea is responsible for $352 million hack](https://www.cnbc.com/2026/09/25/crypto-platform-bitget-suspects-north-korea-in-352-million-hack.html) |
 | Finance | Sep 27, 2026 | [US housing crunch puts private equity in midterm campaign crosshairs](https://www.ft.com/content/7e91f857-30d9-4bf9-b7c9-ec04d4a6e1ed?syn-25a6b1a6=1) |
-| Finance | Sep 27, 2026 | [De Beers bets on a taste for the real to restore diamonds’ sparkle](https://www.ft.com/content/40ec5413-3990-40b8-8066-6d6c215626f7?syn-25a6b1a6=1) |
-| Finance | Sep 27, 2026 | [The executives going ‘fractional’, not freelance](https://www.ft.com/content/d08d8530-ef99-49f3-a7b3-a886139f6b27) |
+| Finance | Sep 27, 2026 | [The EU needs a clearer strategy for partners like Canada](https://www.ft.com/content/762c1f08-a1bf-4118-8296-52ed96d76fa8?syn-25a6b1a6=1) |
+| Finance | Sep 27, 2026 | [The India shock: exporting workers to the world](https://www.ft.com/content/afb910e4-5425-4d3e-b0ef-c1d260f29945?syn-25a6b1a6=1) |
 | Finance | Sep 26, 2026 | [Trump and Xi to meet twice more after summit fails to resolve tensions](https://www.ft.com/content/bd99d372-d3d1-4972-a3fe-1bed8f71e14c?syn-25a6b1a6=1) |
 | Finance | Sep 27, 2026 | [Gold-rich Nicaragua hands Chinese miners rights to a tenth of its land](https://www.ft.com/content/452648fd-90d6-450f-9739-073f5b6a0d18?syn-25a6b1a6=1) |
 
