@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Sep 28, 2026 | [U.S., China to lower tariffs on $60 billion of goods. Here's what qualifies](https://www.cnbc.com/2026/09/28/us-china-lower-tariffs-trump-xi-meeting.html) |
 | Market | Sep 28, 2026 | [Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold](https://www.cnbc.com/2026/09/28/trump-xi-summit-tangible-outcomes-us-china-truce.html) |
 | Market | Sep 27, 2026 | [Debt-hungry AI companies face increased risk as bond yields spike](https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html) |
 | Market | Sep 26, 2026 | [This may be the ‘missing piece’ for investors looking to boost AI exposure](https://www.cnbc.com/2026/09/26/ai-portfolios-may-need-china-to-grab-the-biggest-gains.html) |
 | Market | Sep 26, 2026 | [The 10-year Treasury yield is at its highest in nearly two decades. How we got here](https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html) |
-| Market | Sep 26, 2026 | [Why Xi believes the U.S. and China can overcome the 'Thucydides Trap'](https://www.cnbc.com/2026/09/26/xi-trump-thucydides-trap-us-china.html) |
-| Finance | Sep 28, 2026 | [EU countries consider Nato-style joint responses to Russian hybrid attacks](https://www.ft.com/content/5513b441-a575-4c73-8532-cb09216c4406?syn-25a6b1a6=1) |
+| Finance | Sep 28, 2026 | [Nvidia launches record $150bn share buyback](https://www.ft.com/content/88e87863-4cf6-4c4e-8858-f0099db350d4?syn-25a6b1a6=1) |
 | Finance | Sep 28, 2026 | [AI hyperscalers are transforming debt](https://www.ft.com/content/00f94018-e658-4545-b16e-1bc00e19b754?syn-25a6b1a6=1) |
-| Finance | Sep 28, 2026 | [The post-Enron auditor reforms are being rolled back](https://www.ft.com/content/2ef0c2fa-9626-4785-94cd-65fbf5be5741?syn-25a6b1a6=1) |
+| Finance | Sep 28, 2026 | [Why Europe’s centre will hold](https://www.ft.com/content/7783e1fd-5787-461f-be5d-63dad6eb0150?syn-25a6b1a6=1) |
 | Finance | Sep 28, 2026 | [For once, the Fed has put Main Street before Wall Street](https://www.ft.com/content/4339e9f0-ff48-4873-be6a-36cbac2631c4) |
-| Finance | Sep 28, 2026 | [US and China agree $60bn low tariff regime for goods from foie gras to camels](https://www.ft.com/content/b1ba7dd2-3e3a-4944-b637-ff7db3b636e1?syn-25a6b1a6=1) |
+| Finance | Sep 28, 2026 | [Bond sell-off deepens as oil rises above $108](https://www.ft.com/content/d751ad99-531d-4990-9a4c-ee89a9fc1b2d?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
