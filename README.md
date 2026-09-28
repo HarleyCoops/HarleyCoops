@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Sep 28, 2026 | [Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold](https://www.cnbc.com/2026/09/28/trump-xi-summit-tangible-outcomes-us-china-truce.html) |
 | Market | Sep 27, 2026 | [Debt-hungry AI companies face increased risk as bond yields spike](https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html) |
 | Market | Sep 26, 2026 | [This may be the ‘missing piece’ for investors looking to boost AI exposure](https://www.cnbc.com/2026/09/26/ai-portfolios-may-need-china-to-grab-the-biggest-gains.html) |
 | Market | Sep 26, 2026 | [The 10-year Treasury yield is at its highest in nearly two decades. How we got here](https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html) |
 | Market | Sep 26, 2026 | [Why Xi believes the U.S. and China can overcome the 'Thucydides Trap'](https://www.cnbc.com/2026/09/26/xi-trump-thucydides-trap-us-china.html) |
-| Market | Sep 25, 2026 | [Appeals court rules that states can regulate Kalshi’s sports prediction markets, dealing another ...](https://www.cnbc.com/2026/09/25/appeals-court-rules-states-can-regulate-sports-prediction-markets.html) |
-| Finance | Sep 27, 2026 | [US housing crunch puts private equity in midterm campaign crosshairs](https://www.ft.com/content/7e91f857-30d9-4bf9-b7c9-ec04d4a6e1ed?syn-25a6b1a6=1) |
-| Finance | Sep 27, 2026 | [Private credit turmoil eases as investor withdrawals slow](https://www.ft.com/content/f342efa7-96b0-4bb2-aa19-fae740d8c286?syn-25a6b1a6=1) |
-| Finance | Sep 27, 2026 | [Pay to play in the age of corporate migration](https://www.ft.com/content/267379ff-8491-478b-a10f-ad19a67df37c?syn-25a6b1a6=1) |
-| Finance | Sep 27, 2026 | [The India shock: exporting workers to the world](https://www.ft.com/content/afb910e4-5425-4d3e-b0ef-c1d260f29945?syn-25a6b1a6=1) |
-| Finance | Sep 27, 2026 | [Terrorism arrests made in ‘major incident’ near RAF Fairford](https://www.ft.com/content/875027a3-db29-40a6-b17c-fa97c30fd07b?syn-25a6b1a6=1) |
+| Finance | Sep 28, 2026 | [EU countries consider Nato-style joint responses to Russian hybrid attacks](https://www.ft.com/content/5513b441-a575-4c73-8532-cb09216c4406?syn-25a6b1a6=1) |
+| Finance | Sep 28, 2026 | [AI hyperscalers are transforming debt](https://www.ft.com/content/00f94018-e658-4545-b16e-1bc00e19b754?syn-25a6b1a6=1) |
+| Finance | Sep 28, 2026 | [The post-Enron auditor reforms are being rolled back](https://www.ft.com/content/2ef0c2fa-9626-4785-94cd-65fbf5be5741?syn-25a6b1a6=1) |
+| Finance | Sep 28, 2026 | [For once, the Fed has put Main Street before Wall Street](https://www.ft.com/content/4339e9f0-ff48-4873-be6a-36cbac2631c4) |
+| Finance | Sep 28, 2026 | [US and China agree $60bn low tariff regime for goods from foie gras to camels](https://www.ft.com/content/b1ba7dd2-3e3a-4944-b637-ff7db3b636e1?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
