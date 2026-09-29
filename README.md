@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Sep 29, 2026 | [China has three new criteria for humanoid robot IPOs. Few, if any, meet them](https://www.cnbc.com/2026/09/29/china-criteria-humanoid-robot-ipos.html) |
 | Market | Sep 28, 2026 | [Nearly half the stocks in the S&P 500 are at cross purposes with the rest of the market](https://www.cnbc.com/2026/09/28/nearly-half-of-the-stocks-in-the-sp-500-are-working-against-it.html) |
 | Market | Sep 28, 2026 | [U.S., China to lower tariffs on $60 billion of goods. Here's what qualifies](https://www.cnbc.com/2026/09/28/us-china-lower-tariffs-trump-xi-meeting.html) |
 | Market | Sep 28, 2026 | [Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold](https://www.cnbc.com/2026/09/28/trump-xi-summit-tangible-outcomes-us-china-truce.html) |
 | Market | Sep 27, 2026 | [Debt-hungry AI companies face increased risk as bond yields spike](https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html) |
-| Market | Sep 26, 2026 | [This may be the ‘missing piece’ for investors looking to boost AI exposure](https://www.cnbc.com/2026/09/26/ai-portfolios-may-need-china-to-grab-the-biggest-gains.html) |
-| Finance | Sep 28, 2026 | [Bond sell-off deepens and oil rises as Iran-US deal hopes fade](https://www.ft.com/content/d751ad99-531d-4990-9a4c-ee89a9fc1b2d?syn-25a6b1a6=1) |
-| Finance | Sep 28, 2026 | [Why Europe’s centre will hold](https://www.ft.com/content/7783e1fd-5787-461f-be5d-63dad6eb0150?syn-25a6b1a6=1) |
-| Finance | Sep 28, 2026 | [The crisis at Big Law powerhouse Weil](https://www.ft.com/content/ba19ec85-c736-4cfd-9a85-4e1ddf1938e5?syn-25a6b1a6=1) |
-| Finance | Sep 28, 2026 | [Pope Leo criticises Nvidia’s Jensen Huang over AI safety](https://www.ft.com/content/5c627794-766b-49db-ab96-7532731e7084?syn-25a6b1a6=1) |
-| Finance | Sep 28, 2026 | [AMD to buy Fei-Fei Li’s AI start-up for $8bn](https://www.ft.com/content/33344fa5-6a25-4d72-8934-528526dd89bd?syn-25a6b1a6=1) |
+| Finance | Sep 29, 2026 | [Anthropic warns of ‘existential risks to humanity’ in IPO prospectus](https://www.ft.com/content/c7685a7e-7745-4cbc-8053-4958d0ea449b?syn-25a6b1a6=1) |
+| Finance | Sep 29, 2026 | [Nvidia turns to insurers to spread the risk of AI build-out](https://www.ft.com/content/d6a9f5df-08d0-4f80-ad2d-5d8a17e2cc82?syn-25a6b1a6=1) |
+| Finance | Sep 29, 2026 | [OpenAI axes next model citing safety issues](https://www.ft.com/content/488cb467-3cb7-4d06-9a5f-c0749c729d91?syn-25a6b1a6=1) |
+| Finance | Sep 29, 2026 | [The booming business of insuring against US gun violence](https://www.ft.com/content/5ad7c42c-b95d-47b8-8dfd-896c1deda1df?syn-25a6b1a6=1) |
+| Finance | Sep 29, 2026 | [A meeting a day keeps the robots away](https://www.ft.com/content/4aad6056-761f-42df-ab65-683a15cf40dc?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
