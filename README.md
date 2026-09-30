@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Sep 30, 2026 | [Singapore's Temasek to expand Middle East presence, open Abu Dhabi, Riyadh offices](https://www.cnbc.com/2026/09/30/singapores-temasek-expands-in-mideast-with-abu-dhabi-riyadh-offices-.html) |
 | Market | Sep 30, 2026 | [Beijing warns of retaliation if Europe imposes curbs on Chinese businesses](https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html) |
 | Market | Sep 29, 2026 | [Goldman Sachs CEO succession planning faces one big problem](https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html) |
 | Market | Sep 29, 2026 | [Prediction market traders think the U.S. added more jobs in September than economists estimate](https://www.cnbc.com/2026/09/29/prediction-market-traders-september-jobs-report-will-beat-estimates.html) |
 | Market | Sep 29, 2026 | [Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity](https://www.cnbc.com/2026/09/29/polymarket-lisa-mantil-institutional-growth.html) |
-| Market | Sep 29, 2026 | [Trump’s municipal bond portfolio reaches as much as $1 billion as policy overlaps mount](https://www.cnbc.com/2026/09/29/trump-municipal-bond-portfolio.html) |
 | Finance | Sep 30, 2026 | [White House holds crunch talks on diesel export ban as midterms near](https://www.ft.com/content/562f2988-0c04-4669-b0b7-2c16d3821926?syn-25a6b1a6=1) |
-| Finance | Sep 30, 2026 | [The risks of HSBC’s return to its roots](https://www.ft.com/content/bd049e24-ac4e-4315-b67c-7e3d18d541c2?syn-25a6b1a6=1) |
+| Finance | Sep 30, 2026 | [Russia extends diesel export ban](https://www.ft.com/content/fc705366-9a91-4e99-9c07-e962dca6354b?syn-25a6b1a6=1) |
+| Finance | Sep 30, 2026 | [HSBC turns east](https://www.ft.com/content/bd049e24-ac4e-4315-b67c-7e3d18d541c2?syn-25a6b1a6=1) |
 | Finance | Sep 30, 2026 | [Is the world really drowning in debt?](https://www.ft.com/content/a1202ae1-0324-4383-a082-4cc522a8fdbc?syn-25a6b1a6=1) |
 | Finance | Sep 30, 2026 | [Luxury watches must win back wrist space](https://www.ft.com/content/838a6480-9888-4f4a-9d2f-8e02cb3889c9?syn-25a6b1a6=1) |
-| Finance | Sep 30, 2026 | [AI industry moves to thwart data centre backlash ahead of US midterms](https://www.ft.com/content/9705f5bf-bc06-481d-b2a3-1299463074b8?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
