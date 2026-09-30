@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Sep 29, 2026 | [Goldman Sachs CEO succession planning faces one big problem](https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html) |
+| Market | Sep 29, 2026 | [Prediction market traders think the U.S. added more jobs in September than economists estimate](https://www.cnbc.com/2026/09/29/prediction-market-traders-september-jobs-report-will-beat-estimates.html) |
 | Market | Sep 29, 2026 | [Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity](https://www.cnbc.com/2026/09/29/polymarket-lisa-mantil-institutional-growth.html) |
 | Market | Sep 29, 2026 | [Trump’s municipal bond portfolio reaches as much as $1 billion as policy overlaps mount](https://www.cnbc.com/2026/09/29/trump-municipal-bond-portfolio.html) |
 | Market | Sep 29, 2026 | [China has three new criteria for humanoid robot IPOs. Few, if any, meet them](https://www.cnbc.com/2026/09/29/china-criteria-humanoid-robot-ipos.html) |
-| Market | Sep 28, 2026 | [Nearly half the stocks in the S&P 500 are at cross purposes with the rest of the market](https://www.cnbc.com/2026/09/28/nearly-half-of-the-stocks-in-the-sp-500-are-working-against-it.html) |
-| Market | Sep 28, 2026 | [U.S., China to lower tariffs on $60 billion of goods. Here's what qualifies](https://www.cnbc.com/2026/09/28/us-china-lower-tariffs-trump-xi-meeting.html) |
 | Finance | Sep 29, 2026 | [US 30-year Treasury yield hits highest since 2002](https://www.ft.com/content/c8693313-7750-40c7-892a-101ab16dec70?syn-25a6b1a6=1) |
 | Finance | Sep 29, 2026 | [Bond investors become oil traders as Iran war drives yields](https://www.ft.com/content/f894f69a-9e2b-4c3f-bf5d-c5c4dc0e6197?syn-25a6b1a6=1) |
-| Finance | Sep 29, 2026 | [How gun violence became a cost of doing business](https://www.ft.com/content/5ad7c42c-b95d-47b8-8dfd-896c1deda1df?syn-25a6b1a6=1) |
+| Finance | Sep 29, 2026 | [Trump praises ‘tremendous self-regulation’ of AI after summoning tech bosses to the White House](https://www.ft.com/content/a8c1d14d-97aa-4b09-8162-adbcac1d0029?syn-25a6b1a6=1) |
+| Finance | Sep 29, 2026 | [Starbucks scales back ESG goals and fires sustainability staff](https://www.ft.com/content/f537987f-e88e-4f60-93bf-74e838235b2d?syn-25a6b1a6=1) |
 | Finance | Sep 29, 2026 | [A Republican midterm defeat will not be an earthquake](https://www.ft.com/content/7b9df85a-59ed-4863-9682-1c5b868fd3af?syn-25a6b1a6=1) |
-| Finance | Sep 29, 2026 | [Can Kering’s ‘car guy’ CEO make luxury move twice as fast?](https://www.ft.com/content/78bfdad6-cf74-44c0-a3ec-dd2825563b99?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
