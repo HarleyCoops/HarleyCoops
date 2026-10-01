@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
-| Market | Sep 30, 2026 | [Kalshi, Polymarket trading volumes on some products raises questions amid massive growth](https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html) |
+| Market | Sep 30, 2026 | [Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor...](https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html) |
+| Market | Sep 30, 2026 | [Kalshi, Polymarket trading volumes on some products raise questions amid massive growth](https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html) |
 | Market | Sep 30, 2026 | [Singapore's Temasek to expand Middle East presence, open Abu Dhabi, Riyadh offices](https://www.cnbc.com/2026/09/30/singapores-temasek-expands-in-mideast-with-abu-dhabi-riyadh-offices-.html) |
 | Market | Sep 30, 2026 | [Beijing warns of retaliation if Europe imposes curbs on Chinese businesses](https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html) |
 | Market | Sep 29, 2026 | [Goldman Sachs CEO succession planning faces one big problem](https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html) |
-| Market | Sep 29, 2026 | [Prediction market traders think the U.S. added more jobs in September than economists estimate](https://www.cnbc.com/2026/09/29/prediction-market-traders-september-jobs-report-will-beat-estimates.html) |
-| Finance | Sep 30, 2026 | [One pilot of Israel-bound flight stabbed the other and tried to crash plane](https://www.ft.com/content/7ed6ed48-79e4-46c2-968f-f2a69d263d35?syn-25a6b1a6=1) |
-| Finance | Sep 30, 2026 | [What we know about the  Flydubai flight to Israel](https://www.ft.com/content/cd4611e7-c0ee-4acf-b0dd-e820b067a9f6?syn-25a6b1a6=1) |
-| Finance | Sep 30, 2026 | [‘Strong indications’ Iran was involved in RAF Fairford incident, says Burnham](https://www.ft.com/content/bb557b06-6880-4bae-a719-fbd733c63787?syn-25a6b1a6=1) |
-| Finance | Sep 30, 2026 | [Fed watchdog finds ‘deficiencies’ but no criminal wrongdoing in $2.5bn renovation](https://www.ft.com/content/78431eef-50ee-4ec9-9ca6-af801da1e617?syn-25a6b1a6=1) |
+| Finance | Sep 30, 2026 | [US government debt rout triggers ‘vicious loop’ of selling](https://www.ft.com/content/39de7709-7b5b-42f6-ad90-df50f1308ea2?syn-25a6b1a6=1) |
 | Finance | Sep 30, 2026 | [Don’t own bonds and be cautious with stocks](https://www.ft.com/content/c05f3ba5-e24e-4c88-86ed-04f4b229cd15) |
+| Finance | Sep 30, 2026 | [18,000 feet in 90 seconds: Inside Flydubai’s near-catastrophe](https://www.ft.com/content/ecc95946-92ed-426c-bcf9-e6575e1cf6c6?syn-25a6b1a6=1) |
+| Finance | Sep 30, 2026 | [What we know about the  Flydubai flight to Israel](https://www.ft.com/content/cd4611e7-c0ee-4acf-b0dd-e820b067a9f6?syn-25a6b1a6=1) |
+| Finance | Sep 30, 2026 | [Ken Griffin donates record $3bn to Carnegie Mellon in push for Miami campus](https://www.ft.com/content/3b5b46d7-2dcf-40f0-82f3-65ab6e4be76b?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
