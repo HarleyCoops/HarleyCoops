@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Sep 30, 2026 | [Singapore's Temasek to expand Middle East presence, open Abu Dhabi, Riyadh offices](https://www.cnbc.com/2026/09/30/singapores-temasek-expands-in-mideast-with-abu-dhabi-riyadh-offices-.html) |
 | Market | Sep 30, 2026 | [Beijing warns of retaliation if Europe imposes curbs on Chinese businesses](https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html) |
 | Market | Sep 29, 2026 | [Goldman Sachs CEO succession planning faces one big problem](https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html) |
-| Finance | Sep 30, 2026 | [US government debt rout triggers ‘vicious loop’ of selling](https://www.ft.com/content/39de7709-7b5b-42f6-ad90-df50f1308ea2?syn-25a6b1a6=1) |
-| Finance | Sep 30, 2026 | [Don’t own bonds and be cautious with stocks](https://www.ft.com/content/c05f3ba5-e24e-4c88-86ed-04f4b229cd15) |
+| Finance | Oct 01, 2026 | [Global bond sell-off deepens as Asian yields jump](https://www.ft.com/content/e485a228-1efe-426b-addc-26069ba48bf3?syn-25a6b1a6=1) |
+| Finance | Oct 01, 2026 | [An optimist’s guide to the bond market](https://www.ft.com/content/4ab6df98-f14d-49d1-a170-8087dc517b08?syn-25a6b1a6=1) |
 | Finance | Sep 30, 2026 | [18,000 feet in 90 seconds: Inside Flydubai’s near-catastrophe](https://www.ft.com/content/ecc95946-92ed-426c-bcf9-e6575e1cf6c6?syn-25a6b1a6=1) |
-| Finance | Sep 30, 2026 | [What we know about the  Flydubai flight to Israel](https://www.ft.com/content/cd4611e7-c0ee-4acf-b0dd-e820b067a9f6?syn-25a6b1a6=1) |
-| Finance | Sep 30, 2026 | [Ken Griffin donates record $3bn to Carnegie Mellon in push for Miami campus](https://www.ft.com/content/3b5b46d7-2dcf-40f0-82f3-65ab6e4be76b?syn-25a6b1a6=1) |
+| Finance | Oct 01, 2026 | [Why we can thumb our noses at AI](https://www.ft.com/content/dd33034e-86f0-48b6-b62f-4a32a5334be0?syn-25a6b1a6=1) |
+| Finance | Oct 01, 2026 | [How Europe can stall Russia’s hybrid war](https://www.ft.com/content/cd2e89d3-2606-4116-b523-309450462d2b) |
 
 <!-- NEWS:END -->
 
