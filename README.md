@@ -308,15 +308,15 @@ The linked training runs expose reward curves and component metrics. I use these
 | Category | Date | Headline |
 |----------|------|----------|
 | Market | Sep 30, 2026 | [Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor...](https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html) |
-| Market | Sep 30, 2026 | [Kalshi, Polymarket trading volumes on some products raise questions amid massive growth](https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html) |
+| Market | Oct 01, 2026 | [Kalshi, Polymarket trading volumes on some products raise questions amid massive growth](https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html) |
 | Market | Sep 30, 2026 | [Singapore's Temasek to expand Middle East presence, open Abu Dhabi, Riyadh offices](https://www.cnbc.com/2026/09/30/singapores-temasek-expands-in-mideast-with-abu-dhabi-riyadh-offices-.html) |
 | Market | Sep 30, 2026 | [Beijing warns of retaliation if Europe imposes curbs on Chinese businesses](https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html) |
 | Market | Sep 29, 2026 | [Goldman Sachs CEO succession planning faces one big problem](https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html) |
-| Finance | Oct 01, 2026 | [Global bond sell-off pushes 10-year Treasury yield to highest since 2002](https://www.ft.com/content/e485a228-1efe-426b-addc-26069ba48bf3?syn-25a6b1a6=1) |
-| Finance | Oct 01, 2026 | [Four potential positives from higher bond yields](https://www.ft.com/content/96e004e0-43ab-46e6-9116-fabfc7251496?syn-25a6b1a6=1) |
-| Finance | Sep 30, 2026 | [18,000 feet in 90 seconds: inside Flydubai’s near-catastrophe](https://www.ft.com/content/ecc95946-92ed-426c-bcf9-e6575e1cf6c6?syn-25a6b1a6=1) |
+| Finance | Oct 01, 2026 | [Eurozone borrowing costs surge in global bond rout](https://www.ft.com/content/e485a228-1efe-426b-addc-26069ba48bf3?syn-25a6b1a6=1) |
+| Finance | Oct 01, 2026 | [EU countries in crisis talks over release of diesel stocks](https://www.ft.com/content/0234bcc7-386c-40b6-9f04-88aef3a1e24c?syn-25a6b1a6=1) |
+| Finance | Oct 01, 2026 | [France meets fiscal reality with a crunch](https://www.ft.com/content/e7c1da68-aed3-471d-911f-0b6086a327ec?syn-25a6b1a6=1) |
+| Finance | Oct 01, 2026 | [Flydubai scare revives Israel’s hijacking trauma](https://www.ft.com/content/b6021793-741f-4b76-beab-20f1b672d014?syn-25a6b1a6=1) |
 | Finance | Oct 01, 2026 | [An AI sovereign wealth fund isn’t progressive — it’s techno-imperialism](https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243) |
-| Finance | Oct 01, 2026 | [How Europe can stall Russia’s hybrid war](https://www.ft.com/content/cd2e89d3-2606-4116-b523-309450462d2b) |
 
 <!-- NEWS:END -->
 
