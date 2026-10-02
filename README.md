@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 02, 2026 | ['The hottest skill on Wall Street’: Demand for this AI ability jumped 1,721% as banks embrace agents](https://www.cnbc.com/2026/10/02/ai-skills-most-in-demand-at-jpmorgan-chase-citigroup-capital-one.html) |
+| Market | Oct 02, 2026 | [How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%](https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html) |
 | Market | Oct 02, 2026 | [Bitget 'not expecting to recover a lot' from $388 million hack, CEO tells CNBC](https://www.cnbc.com/2026/10/02/bitget-crypto-stolen-hack-recovery.html) |
 | Market | Sep 30, 2026 | [Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor...](https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html) |
 | Market | Oct 01, 2026 | [Kalshi, Polymarket trading volumes on some products raise questions amid massive growth](https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html) |
-| Market | Sep 30, 2026 | [Singapore's Temasek to expand Middle East presence, open Abu Dhabi, Riyadh offices](https://www.cnbc.com/2026/09/30/singapores-temasek-expands-in-mideast-with-abu-dhabi-riyadh-offices-.html) |
-| Market | Sep 30, 2026 | [Beijing warns of retaliation if Europe imposes curbs on Chinese businesses](https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html) |
 | Finance | Oct 02, 2026 | [Putin has told military leaders to abandon rules of war, Zelenskyy says](https://www.ft.com/content/c2ad4cd1-a08a-4f55-8d57-fa83dbfa98af?syn-25a6b1a6=1) |
 | Finance | Oct 02, 2026 | [AI got smarter. The bills got harder to control](https://ig.ft.com/ai-tokens/?syn-25a6b1a6=1) |
-| Finance | Oct 02, 2026 | [Trump’s diesel threats could go very wrong — just look at the soyabean](https://www.ft.com/content/3ae16f02-bb00-46a4-abba-6bfea7f2b1ac?syn-25a6b1a6=1) |
-| Finance | Oct 02, 2026 | [No, AI is not similar to the Manhattan Project](https://www.ft.com/content/7b8336a1-6ac4-4f55-a987-b5f7cf6f4983) |
-| Finance | Oct 01, 2026 | [US deploys thousands of troops to Middle East as Trump weighs strikes on Iran](https://www.ft.com/content/352e14c5-267d-4c8f-981d-6ae8bea531f9?syn-25a6b1a6=1) |
+| Finance | Oct 02, 2026 | [My mortgage is a problem for the Fed, and for America](https://www.ft.com/content/9f960533-9cd7-4475-aed0-17f09fdc28fd?syn-25a6b1a6=1) |
+| Finance | Oct 02, 2026 | [Trump’s short-sighted diesel gamble](https://www.ft.com/content/3ae16f02-bb00-46a4-abba-6bfea7f2b1ac?syn-25a6b1a6=1) |
+| Finance | Oct 02, 2026 | [Diesel falls sharply as EU considers releasing 50mn barrels under pressure from Trump](https://www.ft.com/content/97200b07-755c-40ce-a50b-b51666bd4b7e?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
