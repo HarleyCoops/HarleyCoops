@@ -312,9 +312,9 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Sep 30, 2026 | [Singapore's Temasek to expand Middle East presence, open Abu Dhabi, Riyadh offices](https://www.cnbc.com/2026/09/30/singapores-temasek-expands-in-mideast-with-abu-dhabi-riyadh-offices-.html) |
 | Market | Sep 30, 2026 | [Beijing warns of retaliation if Europe imposes curbs on Chinese businesses](https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html) |
 | Market | Sep 29, 2026 | [Goldman Sachs CEO succession planning faces one big problem](https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html) |
-| Finance | Oct 01, 2026 | [Eurozone borrowing costs surge in global bond rout](https://www.ft.com/content/e485a228-1efe-426b-addc-26069ba48bf3?syn-25a6b1a6=1) |
-| Finance | Oct 01, 2026 | [EU countries in crisis talks over release of diesel stocks](https://www.ft.com/content/0234bcc7-386c-40b6-9f04-88aef3a1e24c?syn-25a6b1a6=1) |
-| Finance | Oct 01, 2026 | [France meets fiscal reality with a crunch](https://www.ft.com/content/e7c1da68-aed3-471d-911f-0b6086a327ec?syn-25a6b1a6=1) |
+| Finance | Oct 01, 2026 | [US mortgage rates jump the most in four years in blow to housing market](https://www.ft.com/content/22779c05-8bda-423e-b5bf-6839d597f499?syn-25a6b1a6=1) |
+| Finance | Oct 01, 2026 | [Top Fed official signals central bank will keep rates on hold in October](https://www.ft.com/content/e3a53272-385d-40a8-ac77-408f4c136f6f?syn-25a6b1a6=1) |
+| Finance | Oct 01, 2026 | [Europe braces for ‘severe hybrid attacks’ from Russia, says Merz](https://www.ft.com/content/04992c30-21da-46f3-8b95-ca82b2791521?syn-25a6b1a6=1) |
 | Finance | Oct 01, 2026 | [Flydubai scare revives Israel’s hijacking trauma](https://www.ft.com/content/b6021793-741f-4b76-beab-20f1b672d014?syn-25a6b1a6=1) |
 | Finance | Oct 01, 2026 | [An AI sovereign wealth fund isn’t progressive — it’s techno-imperialism](https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243) |
 
