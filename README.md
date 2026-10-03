@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 03, 2026 | [Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election](https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html) |
 | Market | Oct 02, 2026 | [Traders now see little chance of a Fed rate hike in October after weak jobs report](https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html) |
 | Market | Oct 02, 2026 | ['The hottest skill on Wall Street’: Demand for this AI ability jumped 1,721% as banks embrace agents](https://www.cnbc.com/2026/10/02/ai-skills-most-in-demand-at-jpmorgan-chase-citigroup-capital-one.html) |
 | Market | Oct 02, 2026 | [How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%](https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html) |
 | Market | Oct 02, 2026 | [Bitget 'not expecting to recover a lot' from $388 million hack, CEO tells CNBC](https://www.cnbc.com/2026/10/02/bitget-crypto-stolen-hack-recovery.html) |
-| Market | Sep 30, 2026 | [Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor...](https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html) |
-| Finance | Oct 02, 2026 | [US backs down from fuel export ban threat as G7 agrees to release 100mn barrels](https://www.ft.com/content/97200b07-755c-40ce-a50b-b51666bd4b7e?syn-25a6b1a6=1) |
+| Finance | Oct 03, 2026 | [Co-pilot used axe to carry out ‘terrorist act’ on Flydubai flight](https://www.ft.com/content/36b90fa1-f61e-4563-8622-127cdb471101?syn-25a6b1a6=1) |
+| Finance | Oct 03, 2026 | [How airlines try to weed out rogue pilots](https://www.ft.com/content/3e976e07-d85c-4ee3-8dff-208296684ca0?syn-25a6b1a6=1) |
 | Finance | Oct 03, 2026 | [China, America and the new Great Game](https://www.ft.com/content/8869caf9-3cd1-4300-aeb3-828a4d9da4f9?syn-25a6b1a6=1) |
+| Finance | Oct 03, 2026 | [The right and wrong lessons to learn from Spain’s housing crisis](https://www.ft.com/content/437ca3f0-9db4-4511-a441-ab7763d8f65c?syn-25a6b1a6=1) |
 | Finance | Oct 03, 2026 | [A Londoner’s guide to hating London](https://www.ft.com/content/c8407fb6-6134-4b2c-a428-d3a998873383) |
-| Finance | Oct 03, 2026 | [John Maynard Keynes and the search for the good life](https://www.ft.com/content/c13f9f08-2cb6-4605-893a-fd2199e4bc44) |
-| Finance | Oct 02, 2026 | [US economy adds just 29,000 jobs in September as hiring slows sharply](https://www.ft.com/content/7fc80097-1926-4306-81e0-83d90a3d8a1d?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
