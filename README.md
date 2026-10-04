@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 02, 2026 | ['The hottest skill on Wall Street’: Demand for this AI ability jumped 1,721% as banks embrace agents](https://www.cnbc.com/2026/10/02/ai-skills-most-in-demand-at-jpmorgan-chase-citigroup-capital-one.html) |
 | Market | Oct 02, 2026 | [How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%](https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html) |
 | Market | Oct 02, 2026 | [Bitget 'not expecting to recover a lot' from $388 million hack, CEO tells CNBC](https://www.cnbc.com/2026/10/02/bitget-crypto-stolen-hack-recovery.html) |
+| Finance | Oct 04, 2026 | [Wall Street’s IPO fervour cools on tepid demand and valuation worries](https://www.ft.com/content/b8924d77-364b-46c1-b783-5db73a91f351?syn-25a6b1a6=1) |
+| Finance | Oct 04, 2026 | [Dear all: how bosses should talk to the troops](https://www.ft.com/content/de27e183-c8ab-4098-946b-7c1faf5a3d8a?syn-25a6b1a6=1) |
+| Finance | Oct 04, 2026 | [Today’s youth would like to give back modernity, thank you very much](https://www.ft.com/content/471ee22e-af95-4ada-a272-a6a876bc5234?syn-25a6b1a6=1) |
 | Finance | Oct 03, 2026 | [Co-pilot used axe to carry out ‘terrorist act’ on Flydubai flight](https://www.ft.com/content/36b90fa1-f61e-4563-8622-127cdb471101?syn-25a6b1a6=1) |
-| Finance | Oct 03, 2026 | [How airlines try to weed out rogue pilots](https://www.ft.com/content/3e976e07-d85c-4ee3-8dff-208296684ca0?syn-25a6b1a6=1) |
-| Finance | Oct 03, 2026 | [China, America and the new Great Game](https://www.ft.com/content/8869caf9-3cd1-4300-aeb3-828a4d9da4f9?syn-25a6b1a6=1) |
-| Finance | Oct 03, 2026 | [The right and wrong lessons to learn from Spain’s housing crisis](https://www.ft.com/content/437ca3f0-9db4-4511-a441-ab7763d8f65c?syn-25a6b1a6=1) |
-| Finance | Oct 03, 2026 | [A Londoner’s guide to hating London](https://www.ft.com/content/c8407fb6-6134-4b2c-a428-d3a998873383) |
+| Finance | Oct 04, 2026 | [China closes hundreds of banks to bolster financial system](https://www.ft.com/content/8a8f5c97-f1d3-4d3d-a3bc-d5a2e5539177?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
