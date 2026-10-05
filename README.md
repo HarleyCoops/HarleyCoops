@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 02, 2026 | [Traders now see little chance of a Fed rate hike in October after weak jobs report](https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html) |
 | Market | Oct 02, 2026 | ['The hottest skill on Wall Street’: Demand for this AI ability jumped 1,721% as banks embrace agents](https://www.cnbc.com/2026/10/02/ai-skills-most-in-demand-at-jpmorgan-chase-citigroup-capital-one.html) |
 | Market | Oct 02, 2026 | [How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%](https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html) |
-| Finance | Oct 04, 2026 | [US recalls B-1 bombers from UK air base following alleged terror plot](https://www.ft.com/content/66897ef7-936b-43d0-a067-576be636f876?syn-25a6b1a6=1) |
-| Finance | Oct 04, 2026 | [Legal risks pile up for Altman as OpenAI uncovers dozens of hacks](https://www.ft.com/content/2c24ece3-ac99-43a8-b0e6-4a3867e37ebf?syn-25a6b1a6=1) |
-| Finance | Oct 04, 2026 | [The US is looking more like Italy](https://www.ft.com/content/a2711e64-145b-4df6-baf7-56a3da7ed0b0?syn-25a6b1a6=1) |
-| Finance | Oct 04, 2026 | [Dear all: how bosses should talk to the troops](https://www.ft.com/content/de27e183-c8ab-4098-946b-7c1faf5a3d8a?syn-25a6b1a6=1) |
-| Finance | Oct 04, 2026 | [Schneider Electric nears deal to buy software group PTC for $20bn](https://www.ft.com/content/2084f349-0829-4130-a5e6-b98929a6e633?syn-25a6b1a6=1) |
+| Finance | Oct 05, 2026 | [Flávio Bolsonaro takes lead in first round of Brazil election](https://www.ft.com/content/028da85c-0e1f-4f1b-ad04-eac78c4f18c0?syn-25a6b1a6=1) |
+| Finance | Oct 05, 2026 | [Russia’s new drive to crush Ukraine](https://www.ft.com/content/cc96ac01-7929-4954-97a3-7b30e00ef324?syn-25a6b1a6=1) |
+| Finance | Oct 05, 2026 | [Why a booming economy is not helping Trump](https://www.ft.com/content/8f4525eb-ce7c-4323-9dda-698aa1e8521a?syn-25a6b1a6=1) |
+| Finance | Oct 05, 2026 | [The FT’s stock picking game starts today](https://www.ft.com/content/c2c6a470-b1c9-4f98-af3a-65983371e6b8?syn-25a6b1a6=1) |
+| Finance | Oct 05, 2026 | [Euro tumbles to 17-month low against dollar](https://www.ft.com/content/8b19b9f7-9237-47bf-bc50-d8b78aa7fe24?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
