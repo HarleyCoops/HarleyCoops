@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 06, 2026 | [Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand](https://www.cnbc.com/2026/10/06/diesel-oil-refinery-price-capacity-demand.html) |
 | Market | Oct 05, 2026 | [House Democrat targets candidate prediction market trades after opponent’s Kalshi penalty](https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html) |
 | Market | Oct 05, 2026 | [Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency](https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html) |
 | Market | Oct 04, 2026 | [Sports betting is increasingly the norm for Gen Z.  Here’s why some financial and mental health e...](https://www.cnbc.com/2026/10/04/gen-z-sports-betting-financial-and-mental-health-risks.html) |
 | Market | Oct 03, 2026 | [Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election](https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html) |
-| Market | Oct 02, 2026 | [Traders now see little chance of a Fed rate hike in October after weak jobs report](https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html) |
 | Finance | Oct 06, 2026 | [Surge in borrowing costs hits corporate America](https://www.ft.com/content/7c7ccb82-2973-47af-ad9b-b469c6ea0048?syn-25a6b1a6=1) |
-| Finance | Oct 06, 2026 | [How AI could scupper the dollar](https://www.ft.com/content/47061507-f20e-4ff6-961d-e1f1b919cb89?syn-25a6b1a6=1) |
-| Finance | Oct 06, 2026 | [France, the bond vigilantes and the streets](https://www.ft.com/content/9b252b46-a87c-45e7-a09a-45a39ce077b8?syn-25a6b1a6=1) |
-| Finance | Oct 06, 2026 | [The politics of losing sleep](https://www.ft.com/content/0b4511be-37a8-4de1-bf7d-1718c1f01351?syn-25a6b1a6=1) |
-| Finance | Oct 06, 2026 | [Andy Burnham’s Manchester City problem](https://www.ft.com/content/ffc5d121-9143-4760-86d7-d1a0fc885af4?syn-25a6b1a6=1) |
+| Finance | Oct 06, 2026 | [Why are bond yields so high?](https://www.ft.com/content/a6161dfd-bfb9-4bf5-866f-1ca0a0c8e6aa?syn-25a6b1a6=1) |
+| Finance | Oct 06, 2026 | [The bond market turns on France](https://www.ft.com/content/9b252b46-a87c-45e7-a09a-45a39ce077b8?syn-25a6b1a6=1) |
+| Finance | Oct 06, 2026 | [California’s oligarch tax would change America](https://www.ft.com/content/9a46af48-9c69-48bd-a648-2e496486c504?syn-25a6b1a6=1) |
+| Finance | Oct 06, 2026 | [Sleep has always been a class issue](https://www.ft.com/content/0b4511be-37a8-4de1-bf7d-1718c1f01351?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
