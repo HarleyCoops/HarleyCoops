@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 05, 2026 | [House Democrat targets candidate prediction market trades after opponent’s Kalshi penalty](https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html) |
 | Market | Oct 05, 2026 | [Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency](https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html) |
 | Market | Oct 04, 2026 | [Sports betting is increasingly the norm for Gen Z.  Here’s why some financial and mental health e...](https://www.cnbc.com/2026/10/04/gen-z-sports-betting-financial-and-mental-health-risks.html) |
 | Market | Oct 03, 2026 | [Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election](https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html) |
 | Market | Oct 02, 2026 | [Traders now see little chance of a Fed rate hike in October after weak jobs report](https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html) |
-| Market | Oct 02, 2026 | ['The hottest skill on Wall Street’: Demand for this AI ability jumped 1,721% as banks embrace agents](https://www.cnbc.com/2026/10/02/ai-skills-most-in-demand-at-jpmorgan-chase-citigroup-capital-one.html) |
 | Finance | Oct 05, 2026 | [French central bank head warns country at risk of being ‘strangled by interest rates’](https://www.ft.com/content/74c3cc77-1593-4c49-90f9-0d92fa3a2418?syn-25a6b1a6=1) |
 | Finance | Oct 05, 2026 | [Euro slides to 17-month low against dollar](https://www.ft.com/content/8b19b9f7-9237-47bf-bc50-d8b78aa7fe24?syn-25a6b1a6=1) |
+| Finance | Oct 05, 2026 | [Bond turbulence means it’s time for the ECB to put QT on hold](https://www.ft.com/content/e0dfef01-4933-4ab9-8927-d08115f4822c) |
 | Finance | Oct 05, 2026 | [Trump rages as Supreme Court appointees fail to do his bidding](https://www.ft.com/content/858173c2-1869-4d77-9ecf-2b3b37a0d74d?syn-25a6b1a6=1) |
 | Finance | Oct 05, 2026 | [Putin’s nuclear threats no longer work](https://www.ft.com/content/b49f5459-92fc-4b91-92c4-d8f2a6f87893?syn-25a6b1a6=1) |
-| Finance | Oct 05, 2026 | [How the booming US healthcare economy is penalising patients](https://www.ft.com/content/7dea96bb-12ca-44fd-81c1-395fb8060395?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
