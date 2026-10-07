@@ -313,10 +313,10 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 05, 2026 | [House Democrat targets candidate prediction market trades after opponent’s Kalshi penalty](https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html) |
 | Market | Oct 05, 2026 | [Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency](https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html) |
 | Finance | Oct 06, 2026 | [SpaceX looks to raise $40bn to buy Nvidia chips in financing led by Apollo](https://www.ft.com/content/d3f5928d-f38c-4666-8f7a-8737f9c45f51?syn-25a6b1a6=1) |
-| Finance | Oct 06, 2026 | [S&P 500 hits record high as AI stocks shrug off bond market slump](https://www.ft.com/content/1c1ee003-f041-4c66-a971-f08d488d11f7?syn-25a6b1a6=1) |
-| Finance | Oct 06, 2026 | [Jim Clyburn urges Black voters not to be ‘fooled’ by Trump](https://www.ft.com/content/793d9121-1dae-498b-bae1-db8c69e67e2d?syn-25a6b1a6=1) |
-| Finance | Oct 06, 2026 | [California’s oligarch tax would change America](https://www.ft.com/content/9a46af48-9c69-48bd-a648-2e496486c504?syn-25a6b1a6=1) |
-| Finance | Oct 06, 2026 | [Sleep has always been a class issue](https://www.ft.com/content/0b4511be-37a8-4de1-bf7d-1718c1f01351?syn-25a6b1a6=1) |
+| Finance | Oct 07, 2026 | [Robust AI spending sets investors up for another bumper US earnings season](https://www.ft.com/content/7c38e8e3-8035-4036-8bc0-5fba2fbf77cb?syn-25a6b1a6=1) |
+| Finance | Oct 07, 2026 | [The taxman comes for China’s offshore riches](https://www.ft.com/content/f31baf40-a753-4cca-86e1-1373f08d99e2?syn-25a6b1a6=1) |
+| Finance | Oct 07, 2026 | [What comes next with the energy shock?](https://www.ft.com/content/37e12a42-d473-4b1b-8fc5-4ea5f06d3bfb?syn-25a6b1a6=1) |
+| Finance | Oct 07, 2026 | [How tribology makes the economic world go round](https://www.ft.com/content/d4c55464-b05c-468d-b542-620d1093a7af?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
