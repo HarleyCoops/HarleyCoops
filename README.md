@@ -313,10 +313,10 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 06, 2026 | [Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand](https://www.cnbc.com/2026/10/06/diesel-oil-refinery-price-capacity-demand.html) |
 | Market | Oct 05, 2026 | [House Democrat targets candidate prediction market trades after opponent’s Kalshi penalty](https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html) |
 | Finance | Oct 07, 2026 | [Global bond sell-off resumes as 30-year Treasury yield hits highest since 2002](https://www.ft.com/content/33c67aa0-bfdb-457b-84bb-960b4fed94b6?syn-25a6b1a6=1) |
+| Finance | Oct 07, 2026 | [French central bank chief says ECB intervention not needed to ease bond rout](https://www.ft.com/content/d9ba8e1f-54f9-4739-9ce3-94e62d585e26?syn-25a6b1a6=1) |
 | Finance | Oct 07, 2026 | [How US mortgage bonds can trigger a ‘vicious loop’ for Treasury yields](https://www.ft.com/content/a04ef3b4-2fcf-48f9-ab34-2c40c39d9a0c) |
-| Finance | Oct 07, 2026 | [The taxman comes for China’s offshore riches](https://www.ft.com/content/f31baf40-a753-4cca-86e1-1373f08d99e2?syn-25a6b1a6=1) |
+| Finance | Oct 07, 2026 | [David Ellison built a Hollywood colossus. Now he needs to run it](https://www.ft.com/content/76adb82b-3181-4d05-a383-a8131bdb19af?syn-25a6b1a6=1) |
 | Finance | Oct 07, 2026 | [How much longer can the world absorb the Iran shock?](https://www.ft.com/content/37e12a42-d473-4b1b-8fc5-4ea5f06d3bfb?syn-25a6b1a6=1) |
-| Finance | Oct 07, 2026 | [AI agents could cost banks $500bn — by winning savers better rates](https://www.ft.com/content/a21ec190-edcd-454e-886a-302b0a16ea82?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
