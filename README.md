@@ -307,14 +307,14 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 06, 2026 | [Chart: A look at the S&P 500's remarkable and defiant trip to a new record](https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html) |
+| Market | Oct 06, 2026 | [How event contract bundles are boosting volume on prediction markets](https://www.cnbc.com/2026/10/06/prediction-market-combo-contract-volume.html) |
 | Market | Oct 06, 2026 | [Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand](https://www.cnbc.com/2026/10/06/diesel-oil-refinery-price-capacity-demand.html) |
 | Market | Oct 05, 2026 | [House Democrat targets candidate prediction market trades after opponent’s Kalshi penalty](https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html) |
 | Market | Oct 05, 2026 | [Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency](https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html) |
-| Market | Oct 04, 2026 | [Sports betting is increasingly the norm for Gen Z.  Here’s why some financial and mental health e...](https://www.cnbc.com/2026/10/04/gen-z-sports-betting-financial-and-mental-health-risks.html) |
-| Market | Oct 03, 2026 | [Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election](https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html) |
-| Finance | Oct 06, 2026 | [Former German spy chief arrested for treason](https://www.ft.com/content/4c565931-6ac7-4b4c-be72-d86e8e3a8aec?syn-25a6b1a6=1) |
-| Finance | Oct 06, 2026 | [German far right secures first regional parliament president](https://www.ft.com/content/76db879a-2c53-4aee-8354-b30185f1d3a4?syn-25a6b1a6=1) |
-| Finance | Oct 06, 2026 | [The bond market turns on France](https://www.ft.com/content/9b252b46-a87c-45e7-a09a-45a39ce077b8?syn-25a6b1a6=1) |
+| Finance | Oct 06, 2026 | [SpaceX looks to raise $40bn to buy Nvidia chips in financing led by Apollo](https://www.ft.com/content/d3f5928d-f38c-4666-8f7a-8737f9c45f51?syn-25a6b1a6=1) |
+| Finance | Oct 06, 2026 | [S&P 500 hits record high as AI stocks shrug off bond market slump](https://www.ft.com/content/1c1ee003-f041-4c66-a971-f08d488d11f7?syn-25a6b1a6=1) |
+| Finance | Oct 06, 2026 | [Jim Clyburn urges Black voters not to be ‘fooled’ by Trump](https://www.ft.com/content/793d9121-1dae-498b-bae1-db8c69e67e2d?syn-25a6b1a6=1) |
 | Finance | Oct 06, 2026 | [California’s oligarch tax would change America](https://www.ft.com/content/9a46af48-9c69-48bd-a648-2e496486c504?syn-25a6b1a6=1) |
 | Finance | Oct 06, 2026 | [Sleep has always been a class issue](https://www.ft.com/content/0b4511be-37a8-4de1-bf7d-1718c1f01351?syn-25a6b1a6=1) |
 
