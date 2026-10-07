@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 07, 2026 | [Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva](https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html) |
 | Market | Oct 06, 2026 | [Chart: A look at the S&P 500's remarkable and defiant trip to a new record](https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html) |
 | Market | Oct 06, 2026 | [How event contract bundles are boosting volume on prediction markets](https://www.cnbc.com/2026/10/06/prediction-market-combo-contract-volume.html) |
 | Market | Oct 06, 2026 | [Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand](https://www.cnbc.com/2026/10/06/diesel-oil-refinery-price-capacity-demand.html) |
 | Market | Oct 05, 2026 | [House Democrat targets candidate prediction market trades after opponent’s Kalshi penalty](https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html) |
-| Market | Oct 05, 2026 | [Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency](https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html) |
-| Finance | Oct 06, 2026 | [SpaceX looks to raise $40bn to buy Nvidia chips in financing led by Apollo](https://www.ft.com/content/d3f5928d-f38c-4666-8f7a-8737f9c45f51?syn-25a6b1a6=1) |
-| Finance | Oct 07, 2026 | [Robust AI spending sets investors up for another bumper US earnings season](https://www.ft.com/content/7c38e8e3-8035-4036-8bc0-5fba2fbf77cb?syn-25a6b1a6=1) |
+| Finance | Oct 07, 2026 | [Global bond sell-off resumes as 30-year Treasury yield hits highest since 2002](https://www.ft.com/content/33c67aa0-bfdb-457b-84bb-960b4fed94b6?syn-25a6b1a6=1) |
+| Finance | Oct 07, 2026 | [How US mortgage bonds can trigger a ‘vicious loop’ for Treasury yields](https://www.ft.com/content/a04ef3b4-2fcf-48f9-ab34-2c40c39d9a0c) |
 | Finance | Oct 07, 2026 | [The taxman comes for China’s offshore riches](https://www.ft.com/content/f31baf40-a753-4cca-86e1-1373f08d99e2?syn-25a6b1a6=1) |
-| Finance | Oct 07, 2026 | [What comes next with the energy shock?](https://www.ft.com/content/37e12a42-d473-4b1b-8fc5-4ea5f06d3bfb?syn-25a6b1a6=1) |
-| Finance | Oct 07, 2026 | [How tribology makes the economic world go round](https://www.ft.com/content/d4c55464-b05c-468d-b542-620d1093a7af?syn-25a6b1a6=1) |
+| Finance | Oct 07, 2026 | [How much longer can the world absorb the Iran shock?](https://www.ft.com/content/37e12a42-d473-4b1b-8fc5-4ea5f06d3bfb?syn-25a6b1a6=1) |
+| Finance | Oct 07, 2026 | [AI agents could cost banks $500bn — by winning savers better rates](https://www.ft.com/content/a21ec190-edcd-454e-886a-302b0a16ea82?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
