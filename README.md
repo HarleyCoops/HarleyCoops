@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 08, 2026 | [After a yearslong slump, China's real estate market may be set for a turnaround](https://www.cnbc.com/2026/10/08/chinas-real-estate-market-may-be-set-for-a-turnaround-sp-says.html) |
+| Market | Oct 08, 2026 | [Huawei doubles down on smartphones as EV sales slow](https://www.cnbc.com/2026/10/08/huawei-china-smartphone-ev-slow.html) |
 | Market | Oct 07, 2026 | [Fed officials see another hike coming, but no sign as to when, minutes show](https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html) |
 | Market | Oct 07, 2026 | [Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva](https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html) |
 | Market | Oct 06, 2026 | [Chart: A look at the S&P 500's remarkable and defiant trip to a new record](https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html) |
-| Market | Oct 06, 2026 | [How event contract bundles are boosting volume on prediction markets](https://www.cnbc.com/2026/10/06/prediction-market-combo-contract-volume.html) |
-| Market | Oct 06, 2026 | [Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand](https://www.cnbc.com/2026/10/06/diesel-oil-refinery-price-capacity-demand.html) |
 | Finance | Oct 08, 2026 | [China races to build data centres in bid for AI supremacy](https://www.ft.com/content/e1dd8bff-b06d-4a40-bbb7-c0a6a36f1c8e?syn-25a6b1a6=1) |
 | Finance | Oct 08, 2026 | [How a trillion-dollar hedge fund borrowing spree became Wall Street’s cash cow](https://www.ft.com/content/d313d0ce-d552-463e-9e84-6fa8c3efeeec?syn-25a6b1a6=1) |
 | Finance | Oct 08, 2026 | [Real men don’t do climate change](https://www.ft.com/content/61118fd6-b5d2-4ce1-9a78-4535a0ef3ead?syn-25a6b1a6=1) |
 | Finance | Oct 07, 2026 | [The online life of the Flydubai attacker](https://www.ft.com/content/a92b9971-b32d-43f5-b078-a31beea62621?syn-25a6b1a6=1) |
-| Finance | Oct 08, 2026 | [Big investors ‘bottom fish’ in Eurozone bond markets after France sell-off](https://www.ft.com/content/9cf103ed-548e-4b06-baed-71632abca961?syn-25a6b1a6=1) |
+| Finance | Oct 08, 2026 | [French bond sell-off prompts ‘bottom fishing’ across Europe](https://www.ft.com/content/9cf103ed-548e-4b06-baed-71632abca961?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
