@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 07, 2026 | [Fed officials see another hike coming, but no sign as to when, minutes show](https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html) |
 | Market | Oct 07, 2026 | [Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva](https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html) |
 | Market | Oct 06, 2026 | [Chart: A look at the S&P 500's remarkable and defiant trip to a new record](https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html) |
 | Market | Oct 06, 2026 | [How event contract bundles are boosting volume on prediction markets](https://www.cnbc.com/2026/10/06/prediction-market-combo-contract-volume.html) |
 | Market | Oct 06, 2026 | [Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand](https://www.cnbc.com/2026/10/06/diesel-oil-refinery-price-capacity-demand.html) |
-| Market | Oct 05, 2026 | [House Democrat targets candidate prediction market trades after opponent’s Kalshi penalty](https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html) |
-| Finance | Oct 07, 2026 | [Global bond sell-off resumes as 30-year Treasury yield hits highest since 2002](https://www.ft.com/content/33c67aa0-bfdb-457b-84bb-960b4fed94b6?syn-25a6b1a6=1) |
-| Finance | Oct 07, 2026 | [French central bank chief says ECB intervention not needed to ease bond rout](https://www.ft.com/content/d9ba8e1f-54f9-4739-9ce3-94e62d585e26?syn-25a6b1a6=1) |
-| Finance | Oct 07, 2026 | [How US mortgage bonds can trigger a ‘vicious loop’ for Treasury yields](https://www.ft.com/content/a04ef3b4-2fcf-48f9-ab34-2c40c39d9a0c) |
-| Finance | Oct 07, 2026 | [David Ellison built a Hollywood colossus. Now he needs to run it](https://www.ft.com/content/76adb82b-3181-4d05-a383-a8131bdb19af?syn-25a6b1a6=1) |
+| Finance | Oct 07, 2026 | [SpaceX credit risk jumps on worries over its borrowing spree](https://www.ft.com/content/4f2417d3-3de6-4f62-bd3a-8c8f740a4b29?syn-25a6b1a6=1) |
+| Finance | Oct 07, 2026 | [The online life of the Flydubai attacker](https://www.ft.com/content/a92b9971-b32d-43f5-b078-a31beea62621?syn-25a6b1a6=1) |
 | Finance | Oct 07, 2026 | [How much longer can the world absorb the Iran shock?](https://www.ft.com/content/37e12a42-d473-4b1b-8fc5-4ea5f06d3bfb?syn-25a6b1a6=1) |
+| Finance | Oct 07, 2026 | [David Ellison built a Hollywood colossus. Now he needs to run it](https://www.ft.com/content/76adb82b-3181-4d05-a383-a8131bdb19af?syn-25a6b1a6=1) |
+| Finance | Oct 07, 2026 | [US government bonds steady after strong 10-year Treasury auction](https://www.ft.com/content/33c67aa0-bfdb-457b-84bb-960b4fed94b6?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
