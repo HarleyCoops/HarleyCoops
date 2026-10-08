@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 06, 2026 | [Chart: A look at the S&P 500's remarkable and defiant trip to a new record](https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html) |
 | Market | Oct 06, 2026 | [How event contract bundles are boosting volume on prediction markets](https://www.cnbc.com/2026/10/06/prediction-market-combo-contract-volume.html) |
 | Market | Oct 06, 2026 | [Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand](https://www.cnbc.com/2026/10/06/diesel-oil-refinery-price-capacity-demand.html) |
-| Finance | Oct 07, 2026 | [SpaceX credit risk jumps on worries over its borrowing spree](https://www.ft.com/content/4f2417d3-3de6-4f62-bd3a-8c8f740a4b29?syn-25a6b1a6=1) |
+| Finance | Oct 08, 2026 | [China races to build data centres in bid for AI supremacy](https://www.ft.com/content/e1dd8bff-b06d-4a40-bbb7-c0a6a36f1c8e?syn-25a6b1a6=1) |
+| Finance | Oct 08, 2026 | [How a trillion-dollar hedge fund borrowing spree became Wall Street’s cash cow](https://www.ft.com/content/d313d0ce-d552-463e-9e84-6fa8c3efeeec?syn-25a6b1a6=1) |
+| Finance | Oct 08, 2026 | [Real men don’t do climate change](https://www.ft.com/content/61118fd6-b5d2-4ce1-9a78-4535a0ef3ead?syn-25a6b1a6=1) |
 | Finance | Oct 07, 2026 | [The online life of the Flydubai attacker](https://www.ft.com/content/a92b9971-b32d-43f5-b078-a31beea62621?syn-25a6b1a6=1) |
-| Finance | Oct 07, 2026 | [How much longer can the world absorb the Iran shock?](https://www.ft.com/content/37e12a42-d473-4b1b-8fc5-4ea5f06d3bfb?syn-25a6b1a6=1) |
-| Finance | Oct 07, 2026 | [David Ellison built a Hollywood colossus. Now he needs to run it](https://www.ft.com/content/76adb82b-3181-4d05-a383-a8131bdb19af?syn-25a6b1a6=1) |
-| Finance | Oct 07, 2026 | [US government bonds steady after strong 10-year Treasury auction](https://www.ft.com/content/33c67aa0-bfdb-457b-84bb-960b4fed94b6?syn-25a6b1a6=1) |
+| Finance | Oct 08, 2026 | [Big investors ‘bottom fish’ in Eurozone bond markets after France sell-off](https://www.ft.com/content/9cf103ed-548e-4b06-baed-71632abca961?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
