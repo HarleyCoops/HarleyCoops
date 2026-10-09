@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
-| Market | Oct 08, 2026 | [Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says](https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html) |
+| Market | Oct 09, 2026 | [Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says](https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html) |
 | Market | Oct 08, 2026 | [Little relief expected for gas prices ahead of Election Day, according to prediction markets](https://www.cnbc.com/2026/10/08/little-relief-expected-for-gas-prices-ahead-of-election-day.html) |
 | Market | Oct 08, 2026 | [After a yearslong slump, China's real estate market may be set for a turnaround](https://www.cnbc.com/2026/10/08/chinas-real-estate-market-may-be-set-for-a-turnaround-sp-says.html) |
 | Market | Oct 08, 2026 | [Huawei doubles down on smartphones as EV sales slow](https://www.cnbc.com/2026/10/08/huawei-china-smartphone-ev-slow.html) |
 | Market | Oct 07, 2026 | [Fed officials see another hike coming, but no sign as to when, minutes show](https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html) |
 | Finance | Oct 09, 2026 | [SoftBank seeks $100bn from Gulf investors to expand AI bet](https://www.ft.com/content/3bc0eaa5-a8d4-47e8-903c-7dd762d947dd?syn-25a6b1a6=1) |
 | Finance | Oct 08, 2026 | [OpenAI annualised revenues $20bn less than previously signalled](https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a?syn-25a6b1a6=1) |
-| Finance | Oct 09, 2026 | [Manchester City, Abu Dhabi and the future of football](https://www.ft.com/content/bae7f43f-8954-45eb-a470-2cd7fb21a94b?syn-25a6b1a6=1) |
+| Finance | Oct 09, 2026 | [Computer scientist David Silver: ‘Where are we going without AI?’](https://www.ft.com/content/462c303b-b96c-4262-a7ca-e9ae7e440828?syn-25a6b1a6=1) |
 | Finance | Oct 09, 2026 | [Some much-needed American optimism on Europe](https://www.ft.com/content/c0bec605-c948-4249-be2d-a76e0e60203b?syn-25a6b1a6=1) |
-| Finance | Oct 09, 2026 | [Five ways to tell if market trouble lies ahead](https://www.ft.com/content/7acb5862-cde5-49b4-a5f1-5f6e6977a9c7?syn-25a6b1a6=1) |
+| Finance | Oct 09, 2026 | [Manchester City: too big to fail?](https://www.ft.com/content/bae7f43f-8954-45eb-a470-2cd7fb21a94b?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
