@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 08, 2026 | [Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says](https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html) |
 | Market | Oct 08, 2026 | [Little relief expected for gas prices ahead of Election Day, according to prediction markets](https://www.cnbc.com/2026/10/08/little-relief-expected-for-gas-prices-ahead-of-election-day.html) |
 | Market | Oct 08, 2026 | [After a yearslong slump, China's real estate market may be set for a turnaround](https://www.cnbc.com/2026/10/08/chinas-real-estate-market-may-be-set-for-a-turnaround-sp-says.html) |
 | Market | Oct 08, 2026 | [Huawei doubles down on smartphones as EV sales slow](https://www.cnbc.com/2026/10/08/huawei-china-smartphone-ev-slow.html) |
 | Market | Oct 07, 2026 | [Fed officials see another hike coming, but no sign as to when, minutes show](https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html) |
-| Market | Oct 07, 2026 | [Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva](https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html) |
 | Finance | Oct 08, 2026 | [OpenAI annualised revenues $20bn less than previously signalled](https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a?syn-25a6b1a6=1) |
 | Finance | Oct 08, 2026 | [China races to build data centres in bid for AI supremacy](https://www.ft.com/content/e1dd8bff-b06d-4a40-bbb7-c0a6a36f1c8e?syn-25a6b1a6=1) |
 | Finance | Oct 08, 2026 | [Is Trump losing the rust belt?](https://www.ft.com/content/e86d2bf9-100f-4722-b845-c3b46d94866b?syn-25a6b1a6=1) |
+| Finance | Oct 08, 2026 | [Repeated US Treasury interventions risk an erosion of credibility](https://www.ft.com/content/eec1e15d-78b9-4706-a518-2a9db4f37128?syn-25a6b1a6=1) |
 | Finance | Oct 08, 2026 | [How a trillion-dollar hedge fund borrowing spree became Wall Street’s cash cow](https://www.ft.com/content/d313d0ce-d552-463e-9e84-6fa8c3efeeec?syn-25a6b1a6=1) |
-| Finance | Oct 08, 2026 | [Real men don’t do climate change](https://www.ft.com/content/61118fd6-b5d2-4ce1-9a78-4535a0ef3ead?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
