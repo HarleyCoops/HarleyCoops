@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 08, 2026 | [After a yearslong slump, China's real estate market may be set for a turnaround](https://www.cnbc.com/2026/10/08/chinas-real-estate-market-may-be-set-for-a-turnaround-sp-says.html) |
 | Market | Oct 08, 2026 | [Huawei doubles down on smartphones as EV sales slow](https://www.cnbc.com/2026/10/08/huawei-china-smartphone-ev-slow.html) |
 | Market | Oct 07, 2026 | [Fed officials see another hike coming, but no sign as to when, minutes show](https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html) |
+| Finance | Oct 09, 2026 | [SoftBank seeks $100bn from Gulf investors to expand AI bet](https://www.ft.com/content/3bc0eaa5-a8d4-47e8-903c-7dd762d947dd?syn-25a6b1a6=1) |
 | Finance | Oct 08, 2026 | [OpenAI annualised revenues $20bn less than previously signalled](https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a?syn-25a6b1a6=1) |
-| Finance | Oct 08, 2026 | [China races to build data centres in bid for AI supremacy](https://www.ft.com/content/e1dd8bff-b06d-4a40-bbb7-c0a6a36f1c8e?syn-25a6b1a6=1) |
-| Finance | Oct 08, 2026 | [Is Trump losing the rust belt?](https://www.ft.com/content/e86d2bf9-100f-4722-b845-c3b46d94866b?syn-25a6b1a6=1) |
-| Finance | Oct 08, 2026 | [Repeated US Treasury interventions risk an erosion of credibility](https://www.ft.com/content/eec1e15d-78b9-4706-a518-2a9db4f37128?syn-25a6b1a6=1) |
-| Finance | Oct 08, 2026 | [How a trillion-dollar hedge fund borrowing spree became Wall Street’s cash cow](https://www.ft.com/content/d313d0ce-d552-463e-9e84-6fa8c3efeeec?syn-25a6b1a6=1) |
+| Finance | Oct 09, 2026 | [Manchester City, Abu Dhabi and the future of football](https://www.ft.com/content/bae7f43f-8954-45eb-a470-2cd7fb21a94b?syn-25a6b1a6=1) |
+| Finance | Oct 09, 2026 | [Some much-needed American optimism on Europe](https://www.ft.com/content/c0bec605-c948-4249-be2d-a76e0e60203b?syn-25a6b1a6=1) |
+| Finance | Oct 09, 2026 | [Five ways to tell if market trouble lies ahead](https://www.ft.com/content/7acb5862-cde5-49b4-a5f1-5f6e6977a9c7?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
