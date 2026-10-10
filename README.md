@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 08, 2026 | [Little relief expected for gas prices ahead of Election Day, according to prediction markets](https://www.cnbc.com/2026/10/08/little-relief-expected-for-gas-prices-ahead-of-election-day.html) |
 | Market | Oct 08, 2026 | [After a yearslong slump, China's real estate market may be set for a turnaround](https://www.cnbc.com/2026/10/08/chinas-real-estate-market-may-be-set-for-a-turnaround-sp-says.html) |
 | Market | Oct 08, 2026 | [Huawei doubles down on smartphones as EV sales slow](https://www.cnbc.com/2026/10/08/huawei-china-smartphone-ev-slow.html) |
-| Finance | Oct 09, 2026 | [US 10-year Treasury yields risk hitting 6% for first time since 2000, Pimco says](https://www.ft.com/content/a752a86c-cf05-4152-b842-2ae6b6bf3fe0?syn-25a6b1a6=1) |
-| Finance | Oct 09, 2026 | [Why bank stocks are falling despite surging interest rates](https://www.ft.com/content/83993bb2-35dd-4ae1-a4b2-8b6c3762a84b?syn-25a6b1a6=1) |
-| Finance | Oct 09, 2026 | [AI ‘deepfakes’ give US political attack ads a new twist](https://www.ft.com/content/42fea52e-a4de-4613-b409-ca52d0a2aac2?syn-25a6b1a6=1) |
-| Finance | Oct 09, 2026 | [Computer scientist David Silver: ‘Where are we going without AI?’](https://www.ft.com/content/462c303b-b96c-4262-a7ca-e9ae7e440828?syn-25a6b1a6=1) |
-| Finance | Oct 09, 2026 | [Trump and Hegseth’s execution-type deal](https://www.ft.com/content/39764d10-6b87-4103-8e7d-290a72a5ea5a?syn-25a6b1a6=1) |
+| Finance | Oct 09, 2026 | [Trump agrees deal with Putin for Russia to release diesel](https://www.ft.com/content/84ca76fd-0eed-4fb6-aea4-f72638a9d9c8?syn-25a6b1a6=1) |
+| Finance | Oct 09, 2026 | [Oil and gas production disrupted as Hurricane Isaias barrels towards Gulf](https://www.ft.com/content/f7d90625-0d78-44b2-927f-d63f4dbc5e8d?syn-25a6b1a6=1) |
+| Finance | Oct 09, 2026 | [EU to explore windfall tax on energy companies](https://www.ft.com/content/ffb13044-216b-4b31-885c-cda9c78cbfdb?syn-25a6b1a6=1) |
+| Finance | Oct 09, 2026 | [The hazy OpenAI growth metric driving Wall Street](https://www.ft.com/content/62653892-2333-4953-a8d5-cfd760ae3257?syn-25a6b1a6=1) |
+| Finance | Oct 09, 2026 | [Why OpenAI’s revenue numbers really matter](https://www.ft.com/content/58e684a0-b8ed-4d7a-a2d6-6bf739cb2fa2?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
