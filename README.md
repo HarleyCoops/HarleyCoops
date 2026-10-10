@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 10, 2026 | [JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity](https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html) |
 | Market | Oct 09, 2026 | [Blockchain.com seeks U.S. approval for prediction markets, crypto derivatives trading](https://www.cnbc.com/2026/10/09/blockchain-com-cftc-prediction-markets.html) |
 | Market | Oct 09, 2026 | [Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says](https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html) |
 | Market | Oct 08, 2026 | [Little relief expected for gas prices ahead of Election Day, according to prediction markets](https://www.cnbc.com/2026/10/08/little-relief-expected-for-gas-prices-ahead-of-election-day.html) |
 | Market | Oct 08, 2026 | [After a yearslong slump, China's real estate market may be set for a turnaround](https://www.cnbc.com/2026/10/08/chinas-real-estate-market-may-be-set-for-a-turnaround-sp-says.html) |
-| Market | Oct 08, 2026 | [Huawei doubles down on smartphones as EV sales slow](https://www.cnbc.com/2026/10/08/huawei-china-smartphone-ev-slow.html) |
 | Finance | Oct 10, 2026 | [US warns Kyiv that strikes on Russia jeopardise intelligence-sharing](https://www.ft.com/content/7fd4dffc-8adf-4ad8-9fba-333e1ced991d?syn-25a6b1a6=1) |
 | Finance | Oct 10, 2026 | [Russia targets Ukraine’s bridges as Vladimir Putin expands air war](https://www.ft.com/content/4e4ea744-6603-499b-baf7-83c74e4dc53e?syn-25a6b1a6=1) |
 | Finance | Oct 10, 2026 | [Napa Valley’s hangover](https://www.ft.com/content/6ff0232c-f38a-4c70-8ca9-b0eed437f09b) |
 | Finance | Oct 10, 2026 | [The danger of pessimism fatigue](https://www.ft.com/content/8d948115-5843-4419-967e-f79e65718f55?syn-25a6b1a6=1) |
-| Finance | Oct 10, 2026 | [The world of one trade — AI](https://www.ft.com/content/3f54c442-c2b7-4876-a960-5229951c9a46?syn-25a6b1a6=1) |
+| Finance | Oct 10, 2026 | [Nixonmaxxing: the strange revival of America’s disgraced president](https://www.ft.com/content/e3945b16-13f0-4640-882d-fafaca9d25e9?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
