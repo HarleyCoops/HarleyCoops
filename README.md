@@ -313,10 +313,10 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 08, 2026 | [After a yearslong slump, China's real estate market may be set for a turnaround](https://www.cnbc.com/2026/10/08/chinas-real-estate-market-may-be-set-for-a-turnaround-sp-says.html) |
 | Market | Oct 08, 2026 | [Huawei doubles down on smartphones as EV sales slow](https://www.cnbc.com/2026/10/08/huawei-china-smartphone-ev-slow.html) |
 | Finance | Oct 09, 2026 | [Trump agrees deal with Putin for Russia to release diesel](https://www.ft.com/content/84ca76fd-0eed-4fb6-aea4-f72638a9d9c8?syn-25a6b1a6=1) |
-| Finance | Oct 09, 2026 | [Oil and gas production disrupted as Hurricane Isaias barrels towards Gulf](https://www.ft.com/content/f7d90625-0d78-44b2-927f-d63f4dbc5e8d?syn-25a6b1a6=1) |
-| Finance | Oct 09, 2026 | [EU to explore windfall tax on energy companies](https://www.ft.com/content/ffb13044-216b-4b31-885c-cda9c78cbfdb?syn-25a6b1a6=1) |
-| Finance | Oct 09, 2026 | [The hazy OpenAI growth metric driving Wall Street](https://www.ft.com/content/62653892-2333-4953-a8d5-cfd760ae3257?syn-25a6b1a6=1) |
-| Finance | Oct 09, 2026 | [Why OpenAI’s revenue numbers really matter](https://www.ft.com/content/58e684a0-b8ed-4d7a-a2d6-6bf739cb2fa2?syn-25a6b1a6=1) |
+| Finance | Oct 10, 2026 | [Oil and gas production disrupted as Hurricane Isaias barrels towards Gulf](https://www.ft.com/content/f7d90625-0d78-44b2-927f-d63f4dbc5e8d?syn-25a6b1a6=1) |
+| Finance | Oct 09, 2026 | [Trump pressures Mexico for energy deals in crunch trade talks](https://www.ft.com/content/dda61be8-88bd-4ebc-bde5-ba440308d518?syn-25a6b1a6=1) |
+| Finance | Oct 10, 2026 | [Napa Valley’s hangover](https://www.ft.com/content/6ff0232c-f38a-4c70-8ca9-b0eed437f09b) |
+| Finance | Oct 10, 2026 | [The danger of pessimism fatigue](https://www.ft.com/content/8d948115-5843-4419-967e-f79e65718f55?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
