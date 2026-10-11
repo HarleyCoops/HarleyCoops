@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 09, 2026 | [Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says](https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html) |
 | Market | Oct 08, 2026 | [Little relief expected for gas prices ahead of Election Day, according to prediction markets](https://www.cnbc.com/2026/10/08/little-relief-expected-for-gas-prices-ahead-of-election-day.html) |
 | Market | Oct 08, 2026 | [After a yearslong slump, China's real estate market may be set for a turnaround](https://www.cnbc.com/2026/10/08/chinas-real-estate-market-may-be-set-for-a-turnaround-sp-says.html) |
-| Finance | Oct 11, 2026 | [Missile strike on Riyadh airport kills 12 and injures hundreds](https://www.ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010?syn-25a6b1a6=1) |
-| Finance | Oct 11, 2026 | [US hits commercial tanker in Gulf of Oman as tensions flare](https://www.ft.com/content/f9b9f937-97b0-4a03-90f6-05d7c7344ab9?syn-25a6b1a6=1) |
-| Finance | Oct 11, 2026 | [The fall of Germany’s ex-spymaster](https://www.ft.com/content/cdf8f2d0-dcde-42ab-9ec3-fc840b2b5c55?syn-25a6b1a6=1) |
-| Finance | Oct 11, 2026 | [The problem with your AI therapist](https://www.ft.com/content/ab9e2f3e-1586-4c63-b423-6a179437fc13?syn-25a6b1a6=1) |
-| Finance | Oct 11, 2026 | [Europe can fight the ‘China shock’](https://www.ft.com/content/eaaf7c65-fc11-41ab-8b83-9a163337fa6b?syn-25a6b1a6=1) |
+| Finance | Oct 11, 2026 | [US threatens to block arms for Ukraine over attacks on Russian refineries](https://www.ft.com/content/68fd8c4f-6f34-4f6e-a52c-76f635164031?syn-25a6b1a6=1) |
+| Finance | Oct 11, 2026 | [Can Russia meet Trump’s diesel demands?](https://www.ft.com/content/445b2856-a276-4d4c-bdea-44799d771c21?syn-25a6b1a6=1) |
+| Finance | Oct 11, 2026 | [Russia ‘interfered’ in 2016 Brexit vote, says Burnham](https://www.ft.com/content/4fcbf57e-c73e-4ced-be4a-5ecc6f4874de?syn-25a6b1a6=1) |
+| Finance | Oct 11, 2026 | [Houthis show military reach with deadly missile strikes on Riyadh](https://www.ft.com/content/bd2c7385-184e-425e-997f-0f5a8c54184e?syn-25a6b1a6=1) |
+| Finance | Oct 11, 2026 | [Russia steps up bid to kill European defence chiefs, spy agencies warn](https://www.ft.com/content/5da2dd05-9583-4a75-b018-2c5024383ec4?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
