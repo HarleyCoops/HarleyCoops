@@ -313,10 +313,10 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 08, 2026 | [Little relief expected for gas prices ahead of Election Day, according to prediction markets](https://www.cnbc.com/2026/10/08/little-relief-expected-for-gas-prices-ahead-of-election-day.html) |
 | Market | Oct 08, 2026 | [After a yearslong slump, China's real estate market may be set for a turnaround](https://www.cnbc.com/2026/10/08/chinas-real-estate-market-may-be-set-for-a-turnaround-sp-says.html) |
 | Finance | Oct 10, 2026 | [Missile strike on Riyadh airport kills 12 and injures hundreds](https://www.ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010?syn-25a6b1a6=1) |
-| Finance | Oct 10, 2026 | [Napa Valley’s hangover](https://www.ft.com/content/6ff0232c-f38a-4c70-8ca9-b0eed437f09b) |
-| Finance | Oct 10, 2026 | [The danger of pessimism fatigue](https://www.ft.com/content/8d948115-5843-4419-967e-f79e65718f55?syn-25a6b1a6=1) |
-| Finance | Oct 10, 2026 | [Nixonmaxxing: the strange revival of America’s disgraced president](https://www.ft.com/content/e3945b16-13f0-4640-882d-fafaca9d25e9?syn-25a6b1a6=1) |
-| Finance | Oct 10, 2026 | [Nvidia in talks to acquire US ‘open’ model start-up Reflection AI](https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1) |
+| Finance | Oct 11, 2026 | [US hits commercial tanker in Gulf of Oman as tensions flare](https://www.ft.com/content/f9b9f937-97b0-4a03-90f6-05d7c7344ab9?syn-25a6b1a6=1) |
+| Finance | Oct 11, 2026 | [The fall of Germany’s ex-spymaster](https://www.ft.com/content/cdf8f2d0-dcde-42ab-9ec3-fc840b2b5c55?syn-25a6b1a6=1) |
+| Finance | Oct 11, 2026 | [The problem with your AI therapist](https://www.ft.com/content/ab9e2f3e-1586-4c63-b423-6a179437fc13?syn-25a6b1a6=1) |
+| Finance | Oct 11, 2026 | [Why are our children not flourishing at school?](https://www.ft.com/content/1ef0813e-843a-477b-bca8-457afba61ed4) |
 
 <!-- NEWS:END -->
 
