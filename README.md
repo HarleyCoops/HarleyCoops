@@ -313,8 +313,8 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 08, 2026 | [Little relief expected for gas prices ahead of Election Day, according to prediction markets](https://www.cnbc.com/2026/10/08/little-relief-expected-for-gas-prices-ahead-of-election-day.html) |
 | Market | Oct 08, 2026 | [After a yearslong slump, China's real estate market may be set for a turnaround](https://www.cnbc.com/2026/10/08/chinas-real-estate-market-may-be-set-for-a-turnaround-sp-says.html) |
 | Finance | Oct 11, 2026 | [US threatens to block arms for Ukraine over attacks on Russian refineries](https://www.ft.com/content/68fd8c4f-6f34-4f6e-a52c-76f635164031?syn-25a6b1a6=1) |
+| Finance | Oct 11, 2026 | [Trump faces Republican opposition to his diesel deal with Russia’s Putin](https://www.ft.com/content/debf0be6-d5aa-4ba7-bb66-7daf770d99ff?syn-25a6b1a6=1) |
 | Finance | Oct 11, 2026 | [Can Russia meet Trump’s diesel demands?](https://www.ft.com/content/445b2856-a276-4d4c-bdea-44799d771c21?syn-25a6b1a6=1) |
-| Finance | Oct 11, 2026 | [Russia ‘interfered’ in 2016 Brexit vote, says Burnham](https://www.ft.com/content/4fcbf57e-c73e-4ced-be4a-5ecc6f4874de?syn-25a6b1a6=1) |
 | Finance | Oct 11, 2026 | [Houthis show military reach with deadly missile strikes on Riyadh](https://www.ft.com/content/bd2c7385-184e-425e-997f-0f5a8c54184e?syn-25a6b1a6=1) |
 | Finance | Oct 11, 2026 | [Russia steps up bid to kill European defence chiefs, spy agencies warn](https://www.ft.com/content/5da2dd05-9583-4a75-b018-2c5024383ec4?syn-25a6b1a6=1) |
 
