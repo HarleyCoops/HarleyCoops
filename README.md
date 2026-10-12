@@ -312,10 +312,10 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 09, 2026 | [Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says](https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html) |
 | Market | Oct 08, 2026 | [Little relief expected for gas prices ahead of Election Day, according to prediction markets](https://www.cnbc.com/2026/10/08/little-relief-expected-for-gas-prices-ahead-of-election-day.html) |
 | Market | Oct 08, 2026 | [After a yearslong slump, China's real estate market may be set for a turnaround](https://www.cnbc.com/2026/10/08/chinas-real-estate-market-may-be-set-for-a-turnaround-sp-says.html) |
-| Finance | Oct 11, 2026 | [US threatens to block arms for Ukraine over attacks on Russian refineries](https://www.ft.com/content/68fd8c4f-6f34-4f6e-a52c-76f635164031?syn-25a6b1a6=1) |
-| Finance | Oct 12, 2026 | [Oil prices fall after Trump claims ‘energy ceasefire’ in Ukraine war](https://www.ft.com/content/a663781e-2709-41f2-99df-4fb5a6162e6b?syn-25a6b1a6=1) |
+| Finance | Oct 12, 2026 | [Putin is breaching Trump’s ‘energy ceasefire’, Zelenskyy says](https://www.ft.com/content/863619b6-c4a7-4b1a-8a53-6950d47d1833?syn-25a6b1a6=1) |
+| Finance | Oct 12, 2026 | [Diesel prices slip after Trump claims ‘energy ceasefire’ in Ukraine war](https://www.ft.com/content/a663781e-2709-41f2-99df-4fb5a6162e6b?syn-25a6b1a6=1) |
 | Finance | Oct 11, 2026 | [Trump faces Republican opposition to his diesel deal with Russia’s Putin](https://www.ft.com/content/debf0be6-d5aa-4ba7-bb66-7daf770d99ff?syn-25a6b1a6=1) |
-| Finance | Oct 12, 2026 | [Trump battles for the Senate](https://www.ft.com/content/62bab2c8-d4e2-4ec2-a911-80439f61f238?syn-25a6b1a6=1) |
+| Finance | Oct 12, 2026 | [Trump’s midterm peril](https://www.ft.com/content/62bab2c8-d4e2-4ec2-a911-80439f61f238?syn-25a6b1a6=1) |
 | Finance | Oct 12, 2026 | [There is a smarter way to tax the rich](https://www.ft.com/content/e6c9d380-7108-405a-8393-5240771809fe) |
 
 <!-- NEWS:END -->
