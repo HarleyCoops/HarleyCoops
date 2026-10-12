@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 12, 2026 | [Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack](https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html) |
+| Market | Oct 12, 2026 | [Inflation likely peaked for 2026 but will remain sticky, according to prediction markets](https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html) |
 | Market | Oct 10, 2026 | [JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity](https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html) |
 | Market | Oct 09, 2026 | [Blockchain.com seeks U.S. approval for prediction markets, crypto derivatives trading](https://www.cnbc.com/2026/10/09/blockchain-com-cftc-prediction-markets.html) |
 | Market | Oct 09, 2026 | [Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says](https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html) |
-| Market | Oct 08, 2026 | [Little relief expected for gas prices ahead of Election Day, according to prediction markets](https://www.cnbc.com/2026/10/08/little-relief-expected-for-gas-prices-ahead-of-election-day.html) |
-| Market | Oct 08, 2026 | [After a yearslong slump, China's real estate market may be set for a turnaround](https://www.cnbc.com/2026/10/08/chinas-real-estate-market-may-be-set-for-a-turnaround-sp-says.html) |
-| Finance | Oct 12, 2026 | [Putin is breaching Trump’s ‘energy ceasefire’, Zelenskyy says](https://www.ft.com/content/863619b6-c4a7-4b1a-8a53-6950d47d1833?syn-25a6b1a6=1) |
-| Finance | Oct 12, 2026 | [Diesel prices slip after Trump claims ‘energy ceasefire’ in Ukraine war](https://www.ft.com/content/a663781e-2709-41f2-99df-4fb5a6162e6b?syn-25a6b1a6=1) |
-| Finance | Oct 11, 2026 | [Trump faces Republican opposition to his diesel deal with Russia’s Putin](https://www.ft.com/content/debf0be6-d5aa-4ba7-bb66-7daf770d99ff?syn-25a6b1a6=1) |
+| Finance | Oct 12, 2026 | [Zuckerberg says Meta has reached AI ‘frontier’ and rejects calls for slowdown](https://www.ft.com/content/fca23e77-be57-4d7e-ae61-74ff299e25cb?syn-25a6b1a6=1) |
 | Finance | Oct 12, 2026 | [Trump’s midterm peril](https://www.ft.com/content/62bab2c8-d4e2-4ec2-a911-80439f61f238?syn-25a6b1a6=1) |
-| Finance | Oct 12, 2026 | [There is a smarter way to tax the rich](https://www.ft.com/content/e6c9d380-7108-405a-8393-5240771809fe) |
+| Finance | Oct 12, 2026 | [The diesel crisis is testing the limits of globalisation](https://www.ft.com/content/076b9c64-d041-42f0-9abc-d7be75db9307) |
+| Finance | Oct 12, 2026 | [Britain, Brexit and the cat-flap option](https://www.ft.com/content/0a66d390-149d-4cdc-83b6-88015da1e835?syn-25a6b1a6=1) |
+| Finance | Oct 12, 2026 | [US agents raid home of Trump critic Ilhan Omar](https://www.ft.com/content/e05d76f8-2ced-4acc-a449-926b49559f9b?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
