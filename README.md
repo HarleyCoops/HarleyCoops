@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 13, 2026 | [Visa gets Beijing's green light for bank card business after 40 years of working with China](https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html) |
 | Market | Oct 13, 2026 | ['Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid globa...](https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html) |
 | Market | Oct 12, 2026 | [The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be ch...](https://www.cnbc.com/2026/10/12/the-bull-market-just-turned-four-after-climbing-a-wall-of-worry.html) |
 | Market | Oct 13, 2026 | [Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack](https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html) |
 | Market | Oct 12, 2026 | [Inflation likely peaked for 2026 but will remain sticky, according to prediction markets](https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html) |
-| Market | Oct 10, 2026 | [JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity](https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html) |
-| Finance | Oct 13, 2026 | [Top economies heading for biggest budget deficits since Covid, IMF warns](https://www.ft.com/content/c877685b-0f4a-4aa8-b52b-33f4babd1acb?syn-25a6b1a6=1) |
-| Finance | Oct 13, 2026 | [Asia warned over zombie companies](https://www.ft.com/content/ee4105fc-aa85-47ef-aa64-1fc3f344d740?syn-25a6b1a6=1) |
+| Finance | Oct 13, 2026 | [Bumper equities trading helps Goldman overcome Wall Street’s fixed income woes](https://www.ft.com/content/56f4a46e-3ae5-4aea-8cf3-71506b286091) |
 | Finance | Oct 13, 2026 | [The elections that could remake Europe](https://www.ft.com/content/ec433e1f-bdb4-4a1c-868e-e1c7c4121f45?syn-25a6b1a6=1) |
 | Finance | Oct 13, 2026 | [Why Trump is going for Zelenskyy’s jugular](https://www.ft.com/content/1724a30e-cf50-4a4e-ade8-bca72ea4b9a1?syn-25a6b1a6=1) |
-| Finance | Oct 13, 2026 | [Who’s really hiring you — HR or cyber security?](https://www.ft.com/content/16e1d29b-3680-4712-b8e7-ed4a4125041a?syn-25a6b1a6=1) |
+| Finance | Oct 13, 2026 | [HR doesn’t need to be the CIA](https://www.ft.com/content/16e1d29b-3680-4712-b8e7-ed4a4125041a?syn-25a6b1a6=1) |
+| Finance | Oct 13, 2026 | [Chip stocks slide in wake of ‘casino’ comment by Broadcom boss](https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
