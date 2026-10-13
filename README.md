@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 12, 2026 | [The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be ch...](https://www.cnbc.com/2026/10/12/the-bull-market-just-turned-four-after-climbing-a-wall-of-worry.html) |
 | Market | Oct 13, 2026 | [Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack](https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html) |
 | Market | Oct 12, 2026 | [Inflation likely peaked for 2026 but will remain sticky, according to prediction markets](https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html) |
-| Finance | Oct 13, 2026 | [Bumper equities trading helps Goldman overcome Wall Street’s fixed income woes](https://www.ft.com/content/56f4a46e-3ae5-4aea-8cf3-71506b286091) |
-| Finance | Oct 13, 2026 | [The elections that could remake Europe](https://www.ft.com/content/ec433e1f-bdb4-4a1c-868e-e1c7c4121f45?syn-25a6b1a6=1) |
+| Finance | Oct 13, 2026 | [Investors brave US Treasury rout to lock in highest yields in decades](https://www.ft.com/content/6fa735a2-a590-4461-b092-920ba489e7a8?syn-25a6b1a6=1) |
+| Finance | Oct 13, 2026 | [Chip stocks slide after Broadcom boss warns of ‘casino’ mentality in AI investing](https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1) |
+| Finance | Oct 13, 2026 | [How US coal mined ties to Trump — and got much of its ‘wish list’](https://www.ft.com/content/03e29a9f-1f03-46d0-9855-3b9d5081c29d?syn-25a6b1a6=1) |
 | Finance | Oct 13, 2026 | [Why Trump is going for Zelenskyy’s jugular](https://www.ft.com/content/1724a30e-cf50-4a4e-ade8-bca72ea4b9a1?syn-25a6b1a6=1) |
-| Finance | Oct 13, 2026 | [HR doesn’t need to be the CIA](https://www.ft.com/content/16e1d29b-3680-4712-b8e7-ed4a4125041a?syn-25a6b1a6=1) |
-| Finance | Oct 13, 2026 | [Chip stocks slide in wake of ‘casino’ comment by Broadcom boss](https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1) |
+| Finance | Oct 13, 2026 | [How not to revive Europe’s auto industry](https://www.ft.com/content/52a1bbdd-2171-4fcb-9efe-99ed4283def5?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
