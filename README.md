@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
-| Market | Oct 14, 2026 | [Morgan Stanley tops estimates as equities trading revenue exceeds expectations by $909 million](https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html) |
-| Market | Oct 14, 2026 | [Bank of America shares drop more than 4% after third-quarter revenue miss and regulatory penalty](https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html) |
+| Market | Oct 14, 2026 | [Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million](https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html) |
+| Market | Oct 14, 2026 | [Bank of America shares drop 8% after third-quarter revenue miss and regulatory penalty](https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html) |
 | Market | Oct 14, 2026 | [China's exports and imports surge past expectations in September](https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html) |
 | Market | Oct 13, 2026 | [Goldman says investors are looking for 'profitable' Chinese business growth overseas](https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html) |
 | Market | Oct 13, 2026 | [Williams says Fed may not have to hike rates in 2027, at odds with traders](https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html) |
-| Finance | Oct 14, 2026 | [Ukraine blindsided by Starlink restrictions and intelligence gaps](https://www.ft.com/content/37085602-726a-44dc-a859-51caab38eb75?syn-25a6b1a6=1) |
-| Finance | Oct 14, 2026 | [How Ukraine’s data centre strikes threw Russia into turmoil](https://www.ft.com/content/dc21da0b-25b7-402e-8dbe-e7d9f7431b93?syn-25a6b1a6=1) |
-| Finance | Oct 14, 2026 | [Why are European defence stocks not doing better?](https://www.ft.com/content/c5fb2ea9-9a41-416a-90b8-337936ec4971?syn-25a6b1a6=1) |
+| Finance | Oct 14, 2026 | [US inflation jumps to 3.7% as Iran war drives up prices](https://www.ft.com/content/c1e4c8b1-8fe0-414d-b52f-c74a6d927b3d?syn-25a6b1a6=1) |
+| Finance | Oct 14, 2026 | [US grocery prices poised to climb as soaring fuel costs drive inflation](https://www.ft.com/content/13929c26-1c01-41b2-b81a-d337fa5c9d27?syn-25a6b1a6=1) |
 | Finance | Oct 14, 2026 | [Marine Le Pen: ‘All the warning signs are flashing red’](https://www.ft.com/content/73cfaf41-d3ea-4202-bd9b-f355c9e5b504?syn-25a6b1a6=1) |
-| Finance | Oct 14, 2026 | [The art of living dangerously](https://www.ft.com/content/5e6d1d30-0934-4fda-b2c0-27b0d96aeba3?syn-25a6b1a6=1) |
+| Finance | Oct 14, 2026 | [He linked Saudi Arabia to Silicon Valley. Then OpenAI found a bug wrapped in toilet paper](https://www.ft.com/content/b71e0dc4-b190-49ec-b000-bd585054ddc8?syn-25a6b1a6=1) |
+| Finance | Oct 14, 2026 | [The global economy and the art of living dangerously](https://www.ft.com/content/5e6d1d30-0934-4fda-b2c0-27b0d96aeba3?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
