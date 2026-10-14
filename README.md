@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 14, 2026 | [Morgan Stanley tops estimates as equities trading revenue exceeds expectations by $909 million](https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html) |
+| Market | Oct 14, 2026 | [Bank of America shares drop more than 4% after third-quarter revenue miss and regulatory penalty](https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html) |
 | Market | Oct 14, 2026 | [China's exports and imports surge past expectations in September](https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html) |
 | Market | Oct 13, 2026 | [Goldman says investors are looking for 'profitable' Chinese business growth overseas](https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html) |
 | Market | Oct 13, 2026 | [Williams says Fed may not have to hike rates in 2027, at odds with traders](https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html) |
-| Market | Oct 13, 2026 | [JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts](https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html) |
-| Market | Oct 13, 2026 | [Visa gets Beijing's green light for bank card business after 40 years of working with China](https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html) |
-| Finance | Oct 14, 2026 | [France’s Marine Le Pen gears up for fight with EU](https://www.ft.com/content/60d09841-052a-44f3-a8ae-52c38fdbb5ab?syn-25a6b1a6=1) |
-| Finance | Oct 14, 2026 | [Military briefing: Houthis expose limits of Saudi Arabia’s vast arsenal](https://www.ft.com/content/afa0a322-ad2a-4d49-aa0e-81f15a01c3a7?syn-25a6b1a6=1) |
-| Finance | Oct 14, 2026 | [The global economy and the art of living dangerously](https://www.ft.com/content/5e6d1d30-0934-4fda-b2c0-27b0d96aeba3?syn-25a6b1a6=1) |
-| Finance | Oct 14, 2026 | [How I used AI to become a chess grandmaster at 16](https://www.ft.com/content/8267236e-f4bb-4d7b-9ed7-6ec0a9867b94) |
-| Finance | Oct 14, 2026 | [Saudi Aramco HQ attacked in suspected Houthi strike](https://www.ft.com/content/a25417b3-d4e4-4b89-b14d-6370a85ce3c4?syn-25a6b1a6=1) |
+| Finance | Oct 14, 2026 | [Ukraine blindsided by Starlink restrictions and intelligence gaps](https://www.ft.com/content/37085602-726a-44dc-a859-51caab38eb75?syn-25a6b1a6=1) |
+| Finance | Oct 14, 2026 | [How Ukraine’s data centre strikes threw Russia into turmoil](https://www.ft.com/content/dc21da0b-25b7-402e-8dbe-e7d9f7431b93?syn-25a6b1a6=1) |
+| Finance | Oct 14, 2026 | [Why are European defence stocks not doing better?](https://www.ft.com/content/c5fb2ea9-9a41-416a-90b8-337936ec4971?syn-25a6b1a6=1) |
+| Finance | Oct 14, 2026 | [Marine Le Pen: ‘All the warning signs are flashing red’](https://www.ft.com/content/73cfaf41-d3ea-4202-bd9b-f355c9e5b504?syn-25a6b1a6=1) |
+| Finance | Oct 14, 2026 | [The art of living dangerously](https://www.ft.com/content/5e6d1d30-0934-4fda-b2c0-27b0d96aeba3?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
