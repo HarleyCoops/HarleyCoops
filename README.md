@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 14, 2026 | [China's exports and imports surge past expectations in September](https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html) |
 | Market | Oct 13, 2026 | [Goldman says investors are looking for 'profitable' Chinese business growth overseas](https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html) |
 | Market | Oct 13, 2026 | [Williams says Fed may not have to hike rates in 2027, at odds with traders](https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html) |
 | Market | Oct 13, 2026 | [JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts](https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html) |
 | Market | Oct 13, 2026 | [Visa gets Beijing's green light for bank card business after 40 years of working with China](https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html) |
-| Market | Oct 13, 2026 | ['Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid globa...](https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html) |
-| Finance | Oct 13, 2026 | [US arrests Saudi employee of OpenAI for allegedly bugging its offices](https://www.ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1) |
-| Finance | Oct 13, 2026 | [How America’s dying coal industry found a lifeline in Trump’s White House](https://www.ft.com/content/03e29a9f-1f03-46d0-9855-3b9d5081c29d?syn-25a6b1a6=1) |
-| Finance | Oct 13, 2026 | [Why Trump is going for Zelenskyy’s jugular](https://www.ft.com/content/1724a30e-cf50-4a4e-ade8-bca72ea4b9a1?syn-25a6b1a6=1) |
-| Finance | Oct 13, 2026 | [How not to revive Europe’s auto industry](https://www.ft.com/content/52a1bbdd-2171-4fcb-9efe-99ed4283def5?syn-25a6b1a6=1) |
-| Finance | Oct 13, 2026 | [Saudi Aramco HQ attacked in suspected Houthi strike](https://www.ft.com/content/a25417b3-d4e4-4b89-b14d-6370a85ce3c4?syn-25a6b1a6=1) |
+| Finance | Oct 14, 2026 | [France’s Marine Le Pen gears up for fight with EU](https://www.ft.com/content/60d09841-052a-44f3-a8ae-52c38fdbb5ab?syn-25a6b1a6=1) |
+| Finance | Oct 14, 2026 | [Military briefing: Houthis expose limits of Saudi Arabia’s vast arsenal](https://www.ft.com/content/afa0a322-ad2a-4d49-aa0e-81f15a01c3a7?syn-25a6b1a6=1) |
+| Finance | Oct 14, 2026 | [The global economy and the art of living dangerously](https://www.ft.com/content/5e6d1d30-0934-4fda-b2c0-27b0d96aeba3?syn-25a6b1a6=1) |
+| Finance | Oct 14, 2026 | [How I used AI to become a chess grandmaster at 16](https://www.ft.com/content/8267236e-f4bb-4d7b-9ed7-6ec0a9867b94) |
+| Finance | Oct 14, 2026 | [Saudi Aramco HQ attacked in suspected Houthi strike](https://www.ft.com/content/a25417b3-d4e4-4b89-b14d-6370a85ce3c4?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
