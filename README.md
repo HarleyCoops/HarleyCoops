@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 13, 2026 | [Goldman says investors are looking for 'profitable' Chinese business growth overseas](https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html) |
+| Market | Oct 13, 2026 | [Williams says Fed may not have to hike rates in 2027, at odds with traders](https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html) |
+| Market | Oct 13, 2026 | [JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts](https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html) |
 | Market | Oct 13, 2026 | [Visa gets Beijing's green light for bank card business after 40 years of working with China](https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html) |
 | Market | Oct 13, 2026 | ['Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid globa...](https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html) |
-| Market | Oct 12, 2026 | [The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be ch...](https://www.cnbc.com/2026/10/12/the-bull-market-just-turned-four-after-climbing-a-wall-of-worry.html) |
-| Market | Oct 13, 2026 | [Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack](https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html) |
-| Market | Oct 12, 2026 | [Inflation likely peaked for 2026 but will remain sticky, according to prediction markets](https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html) |
-| Finance | Oct 13, 2026 | [Investors brave US Treasury rout to lock in highest yields in decades](https://www.ft.com/content/6fa735a2-a590-4461-b092-920ba489e7a8?syn-25a6b1a6=1) |
-| Finance | Oct 13, 2026 | [Chip stocks slide after Broadcom boss warns of ‘casino’ mentality in AI investing](https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1) |
-| Finance | Oct 13, 2026 | [How US coal mined ties to Trump — and got much of its ‘wish list’](https://www.ft.com/content/03e29a9f-1f03-46d0-9855-3b9d5081c29d?syn-25a6b1a6=1) |
+| Finance | Oct 13, 2026 | [US arrests Saudi employee of OpenAI for allegedly bugging its offices](https://www.ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1) |
+| Finance | Oct 13, 2026 | [How America’s dying coal industry found a lifeline in Trump’s White House](https://www.ft.com/content/03e29a9f-1f03-46d0-9855-3b9d5081c29d?syn-25a6b1a6=1) |
 | Finance | Oct 13, 2026 | [Why Trump is going for Zelenskyy’s jugular](https://www.ft.com/content/1724a30e-cf50-4a4e-ade8-bca72ea4b9a1?syn-25a6b1a6=1) |
 | Finance | Oct 13, 2026 | [How not to revive Europe’s auto industry](https://www.ft.com/content/52a1bbdd-2171-4fcb-9efe-99ed4283def5?syn-25a6b1a6=1) |
+| Finance | Oct 13, 2026 | [Saudi Aramco HQ attacked in suspected Houthi strike](https://www.ft.com/content/a25417b3-d4e4-4b89-b14d-6370a85ce3c4?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
