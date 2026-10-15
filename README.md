@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 14, 2026 | [Bank of America shares drop after third-quarter revenue miss and regulatory penalty](https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html) |
 | Market | Oct 14, 2026 | [China's exports and imports surge past expectations in September](https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html) |
 | Market | Oct 13, 2026 | [Goldman says investors are looking for 'profitable' Chinese business growth overseas](https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html) |
-| Finance | Oct 14, 2026 | [Anthropic tells investors quarterly revenue up 50% to $16.8bn ahead of IPO](https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1) |
-| Finance | Oct 14, 2026 | [US chip stocks slide as inflation and AI debt fears unsettle investors](https://www.ft.com/content/fb258413-e88d-47fe-98c8-f645adaea1e1?syn-25a6b1a6=1) |
-| Finance | Oct 14, 2026 | [He linked Saudi Arabia to Silicon Valley. Then OpenAI found a bug wrapped in toilet paper](https://www.ft.com/content/b71e0dc4-b190-49ec-b000-bd585054ddc8?syn-25a6b1a6=1) |
-| Finance | Oct 14, 2026 | [The global economy and the art of living dangerously](https://www.ft.com/content/5e6d1d30-0934-4fda-b2c0-27b0d96aeba3?syn-25a6b1a6=1) |
+| Finance | Oct 15, 2026 | [Ukraine to resume strikes on Russian refineries, Zelenskyy says](https://www.ft.com/content/4d79b52f-1f0d-4739-82ab-7ecfb4251326?syn-25a6b1a6=1) |
 | Finance | Oct 14, 2026 | [US floats unfreezing some Russian assets to restart Ukraine peace talks](https://www.ft.com/content/54353d3a-afed-4fec-985a-50f3dfb9be8e?syn-25a6b1a6=1) |
+| Finance | Oct 15, 2026 | [Global AI sell-off deepens as Asian markets tumble](https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1) |
+| Finance | Oct 15, 2026 | [The man who would lead McKinsey](https://www.ft.com/content/ff917929-c68e-4bf6-b77f-ee1f7d675934?syn-25a6b1a6=1) |
+| Finance | Oct 15, 2026 | [Is the K-shaped economy really more of an E?](https://www.ft.com/content/2feb3013-c01a-4fa6-aa11-67354fb71cc8?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
