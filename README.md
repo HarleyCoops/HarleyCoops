@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 14, 2026 | [Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million](https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html) |
 | Market | Oct 14, 2026 | [Bank of America shares drop after third-quarter revenue miss and regulatory penalty](https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html) |
 | Market | Oct 14, 2026 | [China's exports and imports surge past expectations in September](https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html) |
-| Finance | Oct 15, 2026 | [Zelenskyy defies Trump as Ukraine resumes strikes on Russian refineries](https://www.ft.com/content/4d79b52f-1f0d-4739-82ab-7ecfb4251326?syn-25a6b1a6=1) |
-| Finance | Oct 15, 2026 | [EU leaders to urge Zelenskyy to rein in criticism of Trump](https://www.ft.com/content/fb2110b4-50d2-4ff9-9886-f7b42c5b4579?syn-25a6b1a6=1) |
-| Finance | Oct 15, 2026 | [US floats unfreezing some Russian assets](https://www.ft.com/content/54353d3a-afed-4fec-985a-50f3dfb9be8e?syn-25a6b1a6=1) |
+| Finance | Oct 15, 2026 | [Investors dump data centre bonds as AI borrowers face ‘Darwin moment’](https://www.ft.com/content/678bcd31-6c2a-447b-a68c-ce6dec220bbc?syn-25a6b1a6=1) |
+| Finance | Oct 15, 2026 | [Risk of an AI crunch for stock markets is rising](https://www.ft.com/content/5dd8b17e-b0a3-4b14-9d83-aba2627e635d?syn-25a6b1a6=1) |
+| Finance | Oct 15, 2026 | [CoreWeave’s bonds scream financial distress](https://www.ft.com/content/8171ef4a-b291-4375-bc85-87bee0f8bf7b) |
 | Finance | Oct 15, 2026 | [Germany’s Merz vows to fight on: ‘We are the firewall’](https://www.ft.com/content/da781749-f146-48a7-9b5c-83911addabae?syn-25a6b1a6=1) |
-| Finance | Oct 15, 2026 | [Is the K-shaped economy really more of an E?](https://www.ft.com/content/2feb3013-c01a-4fa6-aa11-67354fb71cc8?syn-25a6b1a6=1) |
+| Finance | Oct 15, 2026 | [Republicans fund midterms ad blitz as Democrats gain in polls](https://www.ft.com/content/481f7865-b6bb-40b8-9ee2-7554f6914007?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
