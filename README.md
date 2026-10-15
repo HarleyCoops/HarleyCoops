@@ -307,15 +307,15 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 15, 2026 | [China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration](https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html) |
 | Market | Oct 14, 2026 | [Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos](https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html) |
 | Market | Oct 14, 2026 | [Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million](https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html) |
 | Market | Oct 14, 2026 | [Bank of America shares drop after third-quarter revenue miss and regulatory penalty](https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html) |
 | Market | Oct 14, 2026 | [China's exports and imports surge past expectations in September](https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html) |
-| Market | Oct 13, 2026 | [Goldman says investors are looking for 'profitable' Chinese business growth overseas](https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html) |
-| Finance | Oct 15, 2026 | [Ukraine to resume strikes on Russian refineries, Zelenskyy says](https://www.ft.com/content/4d79b52f-1f0d-4739-82ab-7ecfb4251326?syn-25a6b1a6=1) |
-| Finance | Oct 14, 2026 | [US floats unfreezing some Russian assets to restart Ukraine peace talks](https://www.ft.com/content/54353d3a-afed-4fec-985a-50f3dfb9be8e?syn-25a6b1a6=1) |
-| Finance | Oct 15, 2026 | [Global AI sell-off deepens as Asian markets tumble](https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1) |
-| Finance | Oct 15, 2026 | [The man who would lead McKinsey](https://www.ft.com/content/ff917929-c68e-4bf6-b77f-ee1f7d675934?syn-25a6b1a6=1) |
+| Finance | Oct 15, 2026 | [Zelenskyy defies Trump as Ukraine resumes strikes on Russian refineries](https://www.ft.com/content/4d79b52f-1f0d-4739-82ab-7ecfb4251326?syn-25a6b1a6=1) |
+| Finance | Oct 15, 2026 | [EU leaders to urge Zelenskyy to rein in criticism of Trump](https://www.ft.com/content/fb2110b4-50d2-4ff9-9886-f7b42c5b4579?syn-25a6b1a6=1) |
+| Finance | Oct 15, 2026 | [US floats unfreezing some Russian assets](https://www.ft.com/content/54353d3a-afed-4fec-985a-50f3dfb9be8e?syn-25a6b1a6=1) |
+| Finance | Oct 15, 2026 | [Germany’s Merz vows to fight on: ‘We are the firewall’](https://www.ft.com/content/da781749-f146-48a7-9b5c-83911addabae?syn-25a6b1a6=1) |
 | Finance | Oct 15, 2026 | [Is the K-shaped economy really more of an E?](https://www.ft.com/content/2feb3013-c01a-4fa6-aa11-67354fb71cc8?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
