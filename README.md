@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 15, 2026 | [China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration](https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html) |
 | Market | Oct 14, 2026 | [Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos](https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html) |
 | Market | Oct 14, 2026 | [Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million](https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html) |
-| Finance | Oct 16, 2026 | [Dollar weakens as Fed’s Warsh declines to hint at October rate rise](https://www.ft.com/content/95a8e05d-fc20-441d-b271-64e87fe41f76?syn-25a6b1a6=1) |
-| Finance | Oct 16, 2026 | [‘Early days’ to see full effect of energy prices on inflation, BoE’s Bailey says](https://www.ft.com/content/b6255adb-3ce5-4463-92cd-de2f8e9a1f74?syn-25a6b1a6=1) |
-| Finance | Oct 16, 2026 | [How Trump’s America fell in love with UFC](https://www.ft.com/content/56d14d34-955a-41e9-90da-5eda7d179509?syn-25a6b1a6=1) |
+| Finance | Oct 16, 2026 | [Treasuries head for best week since February as AI jitters halt bond rout](https://www.ft.com/content/4c4f03f4-f878-4bd6-8128-5be7e3bb8ca1?syn-25a6b1a6=1) |
+| Finance | Oct 16, 2026 | [Fight night for Trump’s America](https://www.ft.com/content/56d14d34-955a-41e9-90da-5eda7d179509?syn-25a6b1a6=1) |
 | Finance | Oct 16, 2026 | [US business leaders are waking up to the perils of plutopopulism](https://www.ft.com/content/586218d3-6943-4690-8dd8-63dd329c781d) |
-| Finance | Oct 16, 2026 | [The secret fight around financial flows](https://www.ft.com/content/9585ba4d-5036-4f5d-9656-0dc4f6bdee4e?syn-25a6b1a6=1) |
+| Finance | Oct 16, 2026 | [Shareholders should have a say on making AI safe](https://www.ft.com/content/8540ec79-705b-4ee0-b7d3-ce041d757ecd) |
+| Finance | Oct 16, 2026 | [EU vows to maintain Russia sanctions after US pivot](https://www.ft.com/content/ee6dfd48-fa31-4bde-9962-2f9f09c36798?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
