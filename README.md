@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 15, 2026 | [China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration](https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html) |
 | Market | Oct 14, 2026 | [Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos](https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html) |
 | Market | Oct 14, 2026 | [Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million](https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html) |
-| Finance | Oct 15, 2026 | [Investors dump data centre bonds as AI borrowers face ‘Darwin moment’](https://www.ft.com/content/678bcd31-6c2a-447b-a68c-ce6dec220bbc?syn-25a6b1a6=1) |
-| Finance | Oct 15, 2026 | [Treasuries rally as investors seek shelter from AI turbulence](https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1) |
-| Finance | Oct 15, 2026 | [CoreWeave’s bonds scream financial distress](https://www.ft.com/content/8171ef4a-b291-4375-bc85-87bee0f8bf7b) |
-| Finance | Oct 15, 2026 | [Republicans fund midterms ad blitz as Democrats gain in polls](https://www.ft.com/content/481f7865-b6bb-40b8-9ee2-7554f6914007?syn-25a6b1a6=1) |
-| Finance | Oct 15, 2026 | [Germany’s Merz vows to fight on: ‘We are the firewall’](https://www.ft.com/content/da781749-f146-48a7-9b5c-83911addabae?syn-25a6b1a6=1) |
+| Finance | Oct 16, 2026 | [Dollar weakens as Fed’s Warsh declines to hint at October rate rise](https://www.ft.com/content/95a8e05d-fc20-441d-b271-64e87fe41f76?syn-25a6b1a6=1) |
+| Finance | Oct 16, 2026 | [‘Early days’ to see full effect of energy prices on inflation, BoE’s Bailey says](https://www.ft.com/content/b6255adb-3ce5-4463-92cd-de2f8e9a1f74?syn-25a6b1a6=1) |
+| Finance | Oct 16, 2026 | [How Trump’s America fell in love with UFC](https://www.ft.com/content/56d14d34-955a-41e9-90da-5eda7d179509?syn-25a6b1a6=1) |
+| Finance | Oct 16, 2026 | [US business leaders are waking up to the perils of plutopopulism](https://www.ft.com/content/586218d3-6943-4690-8dd8-63dd329c781d) |
+| Finance | Oct 16, 2026 | [The secret fight around financial flows](https://www.ft.com/content/9585ba4d-5036-4f5d-9656-0dc4f6bdee4e?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
