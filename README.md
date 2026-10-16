@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 16, 2026 | [U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says](https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html) |
 | Market | Oct 15, 2026 | [People in China are spending nearly as much of their income as Americans on healthcare](https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html) |
 | Market | Oct 15, 2026 | [Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding](https://www.cnbc.com/2026/10/15/harvards-endowment-jumps-27percent-with-spacex-as-top-holding.html) |
 | Market | Oct 15, 2026 | [China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration](https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html) |
 | Market | Oct 14, 2026 | [Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos](https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html) |
-| Market | Oct 14, 2026 | [Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million](https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html) |
-| Finance | Oct 16, 2026 | [Treasuries head for best week since February as AI jitters halt bond rout](https://www.ft.com/content/4c4f03f4-f878-4bd6-8128-5be7e3bb8ca1?syn-25a6b1a6=1) |
+| Finance | Oct 16, 2026 | [Trump urges his new press secretary to ‘reconsider’ the role](https://www.ft.com/content/ae21e5e0-6696-4cd2-877c-7d269b3bcf48?syn-25a6b1a6=1) |
 | Finance | Oct 16, 2026 | [Fight night for Trump’s America](https://www.ft.com/content/56d14d34-955a-41e9-90da-5eda7d179509?syn-25a6b1a6=1) |
 | Finance | Oct 16, 2026 | [US business leaders are waking up to the perils of plutopopulism](https://www.ft.com/content/586218d3-6943-4690-8dd8-63dd329c781d) |
-| Finance | Oct 16, 2026 | [Shareholders should have a say on making AI safe](https://www.ft.com/content/8540ec79-705b-4ee0-b7d3-ce041d757ecd) |
-| Finance | Oct 16, 2026 | [EU vows to maintain Russia sanctions after US pivot](https://www.ft.com/content/ee6dfd48-fa31-4bde-9962-2f9f09c36798?syn-25a6b1a6=1) |
+| Finance | Oct 16, 2026 | [The secret fight around financial flows](https://www.ft.com/content/9585ba4d-5036-4f5d-9656-0dc4f6bdee4e?syn-25a6b1a6=1) |
+| Finance | Oct 16, 2026 | [Anthropic assigned highest junk credit rating in June](https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
