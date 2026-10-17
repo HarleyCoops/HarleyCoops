@@ -307,13 +307,13 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 17, 2026 | ['Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds](https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html) |
+| Market | Oct 17, 2026 | [Software’s new consolidator gets big vote of confidence from Berkshire](https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html) |
 | Market | Oct 16, 2026 | [U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says](https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html) |
 | Market | Oct 15, 2026 | [People in China are spending nearly as much of their income as Americans on healthcare](https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html) |
 | Market | Oct 15, 2026 | [Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding](https://www.cnbc.com/2026/10/15/harvards-endowment-jumps-27percent-with-spacex-as-top-holding.html) |
-| Market | Oct 15, 2026 | [China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration](https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html) |
-| Market | Oct 14, 2026 | [Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos](https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html) |
+| Finance | Oct 17, 2026 | [Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’](https://www.ft.com/content/e26723df-9076-416c-957a-7fa3bd00b4d7?syn-25a6b1a6=1) |
 | Finance | Oct 17, 2026 | [Trump exempts Russia from further sanctions mandated by new law](https://www.ft.com/content/836eddd7-3adc-4cbb-8527-7a0a7a277e50?syn-25a6b1a6=1) |
-| Finance | Oct 17, 2026 | [Trump’s press secretary Katie Zacharia fired after five days](https://www.ft.com/content/ae21e5e0-6696-4cd2-877c-7d269b3bcf48?syn-25a6b1a6=1) |
 | Finance | Oct 17, 2026 | [Are we sleepwalking into World War III?](https://www.ft.com/content/3a56575e-ecfb-4fa9-af70-01aebd869729?syn-25a6b1a6=1) |
 | Finance | Oct 17, 2026 | [The Man City theory of politics](https://www.ft.com/content/ce75ac4a-3352-4986-939f-cfb17e482709?syn-25a6b1a6=1) |
 | Finance | Oct 17, 2026 | [The dress rehearsal for an AI reckoning](https://www.ft.com/content/3f982af9-3eec-476f-9d29-39145ac485c4?syn-25a6b1a6=1) |
