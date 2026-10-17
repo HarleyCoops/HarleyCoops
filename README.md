@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 15, 2026 | [Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding](https://www.cnbc.com/2026/10/15/harvards-endowment-jumps-27percent-with-spacex-as-top-holding.html) |
 | Market | Oct 15, 2026 | [China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration](https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html) |
 | Market | Oct 14, 2026 | [Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos](https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html) |
-| Finance | Oct 16, 2026 | [Trump’s press secretary Katie Zacharia fired after five days](https://www.ft.com/content/ae21e5e0-6696-4cd2-877c-7d269b3bcf48?syn-25a6b1a6=1) |
+| Finance | Oct 17, 2026 | [Trump exempts Russia from further sanctions mandated by new law](https://www.ft.com/content/836eddd7-3adc-4cbb-8527-7a0a7a277e50?syn-25a6b1a6=1) |
+| Finance | Oct 17, 2026 | [Trump’s press secretary Katie Zacharia fired after five days](https://www.ft.com/content/ae21e5e0-6696-4cd2-877c-7d269b3bcf48?syn-25a6b1a6=1) |
 | Finance | Oct 16, 2026 | [Republicans turn on Trump’s tariffs in battle for ‘political survival’](https://www.ft.com/content/e2acd655-0a6a-4de6-9404-c838f6e7b8cb?syn-25a6b1a6=1) |
-| Finance | Oct 16, 2026 | [Alexandr Wang, Meta’s AI wunderkind](https://www.ft.com/content/7477e462-c899-4841-a5cf-c01706e23982?syn-25a6b1a6=1) |
-| Finance | Oct 16, 2026 | [US business leaders are waking up to the perils of plutopopulism](https://www.ft.com/content/586218d3-6943-4690-8dd8-63dd329c781d) |
-| Finance | Oct 16, 2026 | [The secret fight around financial flows](https://www.ft.com/content/9585ba4d-5036-4f5d-9656-0dc4f6bdee4e?syn-25a6b1a6=1) |
+| Finance | Oct 17, 2026 | [Are we sleepwalking into World War III?](https://www.ft.com/content/3a56575e-ecfb-4fa9-af70-01aebd869729?syn-25a6b1a6=1) |
+| Finance | Oct 17, 2026 | [The Man City theory of politics](https://www.ft.com/content/ce75ac4a-3352-4986-939f-cfb17e482709?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
