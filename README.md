@@ -316,7 +316,7 @@ The linked training runs expose reward curves and component metrics. I use these
 | Finance | Oct 17, 2026 | [Trump exempts Russia from further sanctions mandated by new law](https://www.ft.com/content/836eddd7-3adc-4cbb-8527-7a0a7a277e50?syn-25a6b1a6=1) |
 | Finance | Oct 17, 2026 | [Are we sleepwalking into World War III?](https://www.ft.com/content/3a56575e-ecfb-4fa9-af70-01aebd869729?syn-25a6b1a6=1) |
 | Finance | Oct 17, 2026 | [The Man City theory of politics](https://www.ft.com/content/ce75ac4a-3352-4986-939f-cfb17e482709?syn-25a6b1a6=1) |
-| Finance | Oct 17, 2026 | [The dress rehearsal for an AI reckoning](https://www.ft.com/content/3f982af9-3eec-476f-9d29-39145ac485c4?syn-25a6b1a6=1) |
+| Finance | Oct 17, 2026 | [Why have screens replaced socialising?](https://www.ft.com/content/989c757d-29ba-46fd-82de-427b810a8649?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
