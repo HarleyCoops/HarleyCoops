@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 16, 2026 | [U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says](https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html) |
 | Market | Oct 15, 2026 | [People in China are spending nearly as much of their income as Americans on healthcare](https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html) |
 | Market | Oct 15, 2026 | [Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding](https://www.cnbc.com/2026/10/15/harvards-endowment-jumps-27percent-with-spacex-as-top-holding.html) |
-| Finance | Oct 18, 2026 | [America’s $10tn AI infrastructure boom is starting to fray](https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c?syn-25a6b1a6=1) |
-| Finance | Oct 18, 2026 | [Global economy set for AI-driven surge, FT survey suggests](https://www.ft.com/content/c6aeb3a1-1874-4947-8ffc-4d993301244a?syn-25a6b1a6=1) |
-| Finance | Oct 18, 2026 | [Anthropic turns to lawyers to help AI agents strike deals](https://www.ft.com/content/f7c26ac0-f5f2-443a-86b2-39d62f7920a9?syn-25a6b1a6=1) |
+| Finance | Oct 18, 2026 | [US threatens Europe over Starlink restrictions](https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa?syn-25a6b1a6=1) |
+| Finance | Oct 18, 2026 | [St Petersburg endures biggest Ukrainian drone attack](https://www.ft.com/content/734dad42-2eef-4a70-8947-c73997e49fd1?syn-25a6b1a6=1) |
+| Finance | Oct 18, 2026 | [Russian ships fake locations to appear in two places at once](https://www.ft.com/content/f9dd0c26-3de3-4ecc-8a08-7d08f0946d08?syn-25a6b1a6=1) |
 | Finance | Oct 18, 2026 | [The world’s fastest-growing cities are not where you think](https://www.ft.com/content/5203e527-ebdd-45d2-9019-6c440b4c4e93?syn-25a6b1a6=1) |
-| Finance | Oct 18, 2026 | [The Trump administration has entered its utter shambles era](https://www.ft.com/content/cf888c97-f01e-425b-ab3a-37e696612e8a?syn-25a6b1a6=1) |
+| Finance | Oct 18, 2026 | [Trump’s bid to make America cheap again has failed](https://www.ft.com/content/52a5e9df-cd9a-4951-99b5-2364e575bb44?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
