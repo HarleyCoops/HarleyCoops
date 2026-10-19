@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 16, 2026 | [U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says](https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html) |
 | Market | Oct 15, 2026 | [People in China are spending nearly as much of their income as Americans on healthcare](https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html) |
 | Market | Oct 15, 2026 | [Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding](https://www.cnbc.com/2026/10/15/harvards-endowment-jumps-27percent-with-spacex-as-top-holding.html) |
-| Finance | Oct 18, 2026 | [US threatens Europe over Starlink restrictions](https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa?syn-25a6b1a6=1) |
-| Finance | Oct 18, 2026 | [St Petersburg endures biggest Ukrainian drone attack](https://www.ft.com/content/734dad42-2eef-4a70-8947-c73997e49fd1?syn-25a6b1a6=1) |
-| Finance | Oct 18, 2026 | [Russian ships fake locations to appear in two places at once](https://www.ft.com/content/f9dd0c26-3de3-4ecc-8a08-7d08f0946d08?syn-25a6b1a6=1) |
+| Finance | Oct 19, 2026 | [Rising interest rates derail property recovery as buyers recut deals](https://www.ft.com/content/aef890f1-e3f5-4add-b1fc-6187e2658106?syn-25a6b1a6=1) |
 | Finance | Oct 18, 2026 | [Macron faces political firestorm after riots](https://www.ft.com/content/19495e50-0f55-44b1-8d19-19244163a4e8?syn-25a6b1a6=1) |
-| Finance | Oct 18, 2026 | [Trump’s bid to make America cheap again has failed](https://www.ft.com/content/52a5e9df-cd9a-4951-99b5-2364e575bb44?syn-25a6b1a6=1) |
+| Finance | Oct 19, 2026 | [Hollywood recasts tech tycoons as bad billionaires](https://www.ft.com/content/5483aa1b-7380-45d6-be0f-1a4b2098c903?syn-25a6b1a6=1) |
+| Finance | Oct 19, 2026 | [Americans are unhappy. How will they vote in the midterms?](https://www.ft.com/content/d375cde1-ec37-4c5e-87ab-a3a655e879d8?syn-25a6b1a6=1) |
+| Finance | Oct 19, 2026 | [China’s economy picks up pace at 4.5% growth](https://www.ft.com/content/cf113314-1077-4ab4-b667-9912656684f1?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
