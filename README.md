@@ -315,7 +315,7 @@ The linked training runs expose reward curves and component metrics. I use these
 | Finance | Oct 18, 2026 | [US threatens Europe over Starlink restrictions](https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa?syn-25a6b1a6=1) |
 | Finance | Oct 18, 2026 | [St Petersburg endures biggest Ukrainian drone attack](https://www.ft.com/content/734dad42-2eef-4a70-8947-c73997e49fd1?syn-25a6b1a6=1) |
 | Finance | Oct 18, 2026 | [Russian ships fake locations to appear in two places at once](https://www.ft.com/content/f9dd0c26-3de3-4ecc-8a08-7d08f0946d08?syn-25a6b1a6=1) |
-| Finance | Oct 18, 2026 | [The world’s fastest-growing cities are not where you think](https://www.ft.com/content/5203e527-ebdd-45d2-9019-6c440b4c4e93?syn-25a6b1a6=1) |
+| Finance | Oct 18, 2026 | [Macron faces political firestorm after riots](https://www.ft.com/content/19495e50-0f55-44b1-8d19-19244163a4e8?syn-25a6b1a6=1) |
 | Finance | Oct 18, 2026 | [Trump’s bid to make America cheap again has failed](https://www.ft.com/content/52a5e9df-cd9a-4951-99b5-2364e575bb44?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
