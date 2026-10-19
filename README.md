@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 19, 2026 | [Robot factories and hypersonic missiles: JPMorgan Chase’s first $5 billion of defense investments](https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html) |
 | Market | Oct 17, 2026 | ['Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds](https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html) |
 | Market | Oct 17, 2026 | [Software’s new consolidator gets big vote of confidence from Berkshire](https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html) |
 | Market | Oct 16, 2026 | [U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says](https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html) |
 | Market | Oct 15, 2026 | [People in China are spending nearly as much of their income as Americans on healthcare](https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html) |
-| Market | Oct 15, 2026 | [Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding](https://www.cnbc.com/2026/10/15/harvards-endowment-jumps-27percent-with-spacex-as-top-holding.html) |
-| Finance | Oct 19, 2026 | [Rising interest rates derail property recovery as buyers recut deals](https://www.ft.com/content/aef890f1-e3f5-4add-b1fc-6187e2658106?syn-25a6b1a6=1) |
-| Finance | Oct 18, 2026 | [Macron faces political firestorm after riots](https://www.ft.com/content/19495e50-0f55-44b1-8d19-19244163a4e8?syn-25a6b1a6=1) |
-| Finance | Oct 19, 2026 | [Hollywood recasts tech tycoons as bad billionaires](https://www.ft.com/content/5483aa1b-7380-45d6-be0f-1a4b2098c903?syn-25a6b1a6=1) |
+| Finance | Oct 19, 2026 | [Macron rejects interior minister’s resignation after French riots](https://www.ft.com/content/cc7e577a-db7a-4e12-9a42-443696b98ec5?syn-25a6b1a6=1) |
+| Finance | Oct 19, 2026 | [Macron faces political firestorm after riots](https://www.ft.com/content/19495e50-0f55-44b1-8d19-19244163a4e8?syn-25a6b1a6=1) |
 | Finance | Oct 19, 2026 | [Americans are unhappy. How will they vote in the midterms?](https://www.ft.com/content/d375cde1-ec37-4c5e-87ab-a3a655e879d8?syn-25a6b1a6=1) |
-| Finance | Oct 19, 2026 | [China’s economy picks up pace at 4.5% growth](https://www.ft.com/content/cf113314-1077-4ab4-b667-9912656684f1?syn-25a6b1a6=1) |
+| Finance | Oct 19, 2026 | [Zelenskyy, Europe and the end of Trump whispering](https://www.ft.com/content/92f271fd-f96c-4723-91f2-48363b98127f?syn-25a6b1a6=1) |
+| Finance | Oct 19, 2026 | [Hollywood recasts tech tycoons as bad billionaires](https://www.ft.com/content/5483aa1b-7380-45d6-be0f-1a4b2098c903?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
