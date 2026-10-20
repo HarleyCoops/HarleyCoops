@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 20, 2026 | [HSBC CEO warns the AI boom won’t make every data center a good bet](https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html) |
 | Market | Oct 20, 2026 | [The world’s finance chiefs see new risks — and less China angst](https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html) |
 | Market | Oct 19, 2026 | [Anthropic is AI trade's last big hope for a major IPO this year](https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html) |
 | Market | Oct 19, 2026 | [Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments](https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html) |
 | Market | Oct 17, 2026 | ['Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds](https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html) |
-| Market | Oct 17, 2026 | [Software’s new consolidator gets big vote of confidence from Berkshire](https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html) |
 | Finance | Oct 20, 2026 | [AI debt worries spark surge in default insurance trading](https://www.ft.com/content/6dd31584-064c-4015-bf5d-e5747799ccd5?syn-25a6b1a6=1) |
-| Finance | Oct 20, 2026 | [South Korean data centre builder tumbles 30% on trading debut](https://www.ft.com/content/cddafc0a-1ae6-467b-84b8-34c172002b6a?syn-25a6b1a6=1) |
+| Finance | Oct 20, 2026 | [South Korean data centre builder tumbles 32% on trading debut](https://www.ft.com/content/cddafc0a-1ae6-467b-84b8-34c172002b6a?syn-25a6b1a6=1) |
 | Finance | Oct 20, 2026 | [Britain’s £100,000 tax trap](https://www.ft.com/content/248b7408-b4cd-46aa-a829-a54c618e31fe?syn-25a6b1a6=1) |
-| Finance | Oct 20, 2026 | [Can Africa outgrow China?](https://www.ft.com/content/4702e72d-ba3c-43c4-92e7-1dffccddcd16?syn-25a6b1a6=1) |
-| Finance | Oct 20, 2026 | [Why the UK government is living on borrowed time](https://www.ft.com/content/dec723c9-54d5-407c-a275-f302344feeac?syn-25a6b1a6=1) |
+| Finance | Oct 20, 2026 | [Putin’s American friends](https://www.ft.com/content/f2261796-20d1-4c90-ab3e-246d4aff504f?syn-25a6b1a6=1) |
+| Finance | Oct 20, 2026 | [The Dubai firm that promised 30% returns — then stopped paying](https://www.ft.com/content/83be85af-1cc5-4661-954e-f671e8f3aa3b?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
