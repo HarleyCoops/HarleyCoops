@@ -314,7 +314,7 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 16, 2026 | [U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says](https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html) |
 | Finance | Oct 19, 2026 | [US defence stocks tumble as investors bet on Democratic election sweep](https://www.ft.com/content/e73d0106-486b-4382-8ecc-5c96ac44fdff?syn-25a6b1a6=1) |
 | Finance | Oct 19, 2026 | [CME plans tungsten futures as demand for weapons rises](https://www.ft.com/content/96d88d61-002d-4b5c-8e0b-4f50577518c5?syn-25a6b1a6=1) |
-| Finance | Oct 19, 2026 | [‘I suffer with my wallet’: American voters weigh in on the midterms](https://www.ft.com/content/d375cde1-ec37-4c5e-87ab-a3a655e879d8?syn-25a6b1a6=1) |
+| Finance | Oct 19, 2026 | [‘I still do support him’: US voters weigh in on Trump and the midterms](https://www.ft.com/content/d375cde1-ec37-4c5e-87ab-a3a655e879d8?syn-25a6b1a6=1) |
 | Finance | Oct 19, 2026 | [France’s riots expose the impotence of its political class](https://www.ft.com/content/388569e9-3936-4359-8856-48b006587fb7?syn-25a6b1a6=1) |
 | Finance | Oct 19, 2026 | [Zelenskyy, Europe and the end of Trump whispering](https://www.ft.com/content/92f271fd-f96c-4723-91f2-48363b98127f?syn-25a6b1a6=1) |
 
