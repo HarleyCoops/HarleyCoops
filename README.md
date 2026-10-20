@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Oct 20, 2026 | [The world’s finance chiefs see new risks — and less China angst](https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html) |
 | Market | Oct 19, 2026 | [Anthropic is AI trade's last big hope for a major IPO this year](https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html) |
 | Market | Oct 19, 2026 | [Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments](https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html) |
 | Market | Oct 17, 2026 | ['Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds](https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html) |
 | Market | Oct 17, 2026 | [Software’s new consolidator gets big vote of confidence from Berkshire](https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html) |
-| Market | Oct 16, 2026 | [U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says](https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html) |
-| Finance | Oct 19, 2026 | [US defence stocks tumble as investors bet on Democratic election sweep](https://www.ft.com/content/e73d0106-486b-4382-8ecc-5c96ac44fdff?syn-25a6b1a6=1) |
-| Finance | Oct 19, 2026 | [CME plans tungsten futures as demand for weapons rises](https://www.ft.com/content/96d88d61-002d-4b5c-8e0b-4f50577518c5?syn-25a6b1a6=1) |
-| Finance | Oct 19, 2026 | [‘I still do support him’: US voters weigh in on Trump and the midterms](https://www.ft.com/content/d375cde1-ec37-4c5e-87ab-a3a655e879d8?syn-25a6b1a6=1) |
-| Finance | Oct 19, 2026 | [France’s riots expose the impotence of its political class](https://www.ft.com/content/388569e9-3936-4359-8856-48b006587fb7?syn-25a6b1a6=1) |
-| Finance | Oct 19, 2026 | [Zelenskyy, Europe and the end of Trump whispering](https://www.ft.com/content/92f271fd-f96c-4723-91f2-48363b98127f?syn-25a6b1a6=1) |
+| Finance | Oct 20, 2026 | [AI debt worries spark surge in default insurance trading](https://www.ft.com/content/6dd31584-064c-4015-bf5d-e5747799ccd5?syn-25a6b1a6=1) |
+| Finance | Oct 20, 2026 | [South Korean data centre builder tumbles 30% on trading debut](https://www.ft.com/content/cddafc0a-1ae6-467b-84b8-34c172002b6a?syn-25a6b1a6=1) |
+| Finance | Oct 20, 2026 | [Britain’s £100,000 tax trap](https://www.ft.com/content/248b7408-b4cd-46aa-a829-a54c618e31fe?syn-25a6b1a6=1) |
+| Finance | Oct 20, 2026 | [Can Africa outgrow China?](https://www.ft.com/content/4702e72d-ba3c-43c4-92e7-1dffccddcd16?syn-25a6b1a6=1) |
+| Finance | Oct 20, 2026 | [Why the UK government is living on borrowed time](https://www.ft.com/content/dec723c9-54d5-407c-a275-f302344feeac?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
