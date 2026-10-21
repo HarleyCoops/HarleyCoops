@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 19, 2026 | [Anthropic is AI trade's last big hope for a major IPO this year](https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html) |
 | Market | Oct 19, 2026 | [Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments](https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html) |
 | Market | Oct 17, 2026 | ['Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds](https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html) |
-| Finance | Oct 21, 2026 | [SpaceX and Tesla boards explore potential merger](https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37?syn-25a6b1a6=1) |
-| Finance | Oct 21, 2026 | [China’s nightmare: becoming the next Japan](https://www.ft.com/content/512ef255-89c2-4128-becc-914885c3a2a5?syn-25a6b1a6=1) |
-| Finance | Oct 20, 2026 | [Who are the Black Bloc?](https://www.ft.com/content/f97755f2-8b07-47bf-9c14-7963a701c9c3?syn-25a6b1a6=1) |
-| Finance | Oct 21, 2026 | [Britain cannot build its future by returning to the 1970s](https://www.ft.com/content/8c0ea73d-dc44-455a-b319-148c09f68e0a?syn-25a6b1a6=1) |
-| Finance | Oct 21, 2026 | [Netanyahu pushes to resume strikes against Iran](https://www.ft.com/content/eb4d1101-45ed-4d03-9beb-42f7c87a58ea) |
+| Finance | Oct 21, 2026 | [Rockets, robots and risk: Musk’s $3.6tn gamble to merge Tesla and SpaceX](https://www.ft.com/content/e598bbc7-8211-436f-a57e-46c3ae21ac0f?syn-25a6b1a6=1) |
+| Finance | Oct 21, 2026 | [To replace Starlink, Europe will have to reawaken its animal spirits](https://www.ft.com/content/dcf3d157-de7d-4b3a-ab6a-115558d6a47b?syn-25a6b1a6=1) |
+| Finance | Oct 21, 2026 | [Musk’s SpaceX ambitions may be ‘dangerous’ for Europe, warns EU lawmaker](https://www.ft.com/content/f9e4ddf8-5fd4-43e6-bca2-62d1067c4c48?syn-25a6b1a6=1) |
+| Finance | Oct 21, 2026 | [Could Michigan elect America’s first Muslim senator?](https://www.ft.com/content/a6972433-c303-4ace-affd-cc3ab54a3cf3?syn-25a6b1a6=1) |
+| Finance | Oct 21, 2026 | [The ‘adults in the room’ won’t save you](https://www.ft.com/content/2773c5ab-1bb6-4110-b6a7-c467b7b89717?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
