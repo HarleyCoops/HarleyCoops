@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 19, 2026 | [Anthropic is AI trade's last big hope for a major IPO this year](https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html) |
 | Market | Oct 19, 2026 | [Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments](https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html) |
 | Market | Oct 17, 2026 | ['Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds](https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html) |
+| Finance | Oct 20, 2026 | [SpaceX and Tesla boards explore potential merger](https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37?syn-25a6b1a6=1) |
 | Finance | Oct 20, 2026 | [AI debt worries spark surge in default insurance trading](https://www.ft.com/content/6dd31584-064c-4015-bf5d-e5747799ccd5?syn-25a6b1a6=1) |
-| Finance | Oct 20, 2026 | [South Korean data centre builder tumbles 32% on trading debut](https://www.ft.com/content/cddafc0a-1ae6-467b-84b8-34c172002b6a?syn-25a6b1a6=1) |
-| Finance | Oct 20, 2026 | [The hidden water crisis beneath the American west](https://www.ft.com/content/ff5859fb-dfa6-4fe5-a5cf-824a98ad32d4?syn-25a6b1a6=1) |
+| Finance | Oct 20, 2026 | [Who are the Black Bloc?](https://www.ft.com/content/f97755f2-8b07-47bf-9c14-7963a701c9c3?syn-25a6b1a6=1) |
 | Finance | Oct 20, 2026 | [Putin’s American friends](https://www.ft.com/content/f2261796-20d1-4c90-ab3e-246d4aff504f?syn-25a6b1a6=1) |
-| Finance | Oct 20, 2026 | [Older Americans brace for higher healthcare costs](https://www.ft.com/content/b101071b-0b47-4cf2-a35f-9ebb04539df2?syn-25a6b1a6=1) |
+| Finance | Oct 20, 2026 | [The unlikely winners from Trump’s Iran war](https://www.ft.com/content/cfa976d5-e320-4ee8-8c86-84733471a4a1?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
