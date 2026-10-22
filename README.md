@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 20, 2026 | [The world’s finance chiefs see new risks — and less China angst](https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html) |
 | Market | Oct 19, 2026 | [Anthropic is AI trade's last big hope for a major IPO this year](https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html) |
 | Market | Oct 19, 2026 | [Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments](https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html) |
-| Finance | Oct 22, 2026 | [Politico and Telegraph owner pitched deal to buy European arm of TikTok](https://www.ft.com/content/171220b9-8d8e-4d82-a866-f9aaf258e0fb?syn-25a6b1a6=1) |
-| Finance | Oct 22, 2026 | [Highland Spring billionaire’s property empire hit by loan defaults and creditor action](https://www.ft.com/content/7f93f4b4-beca-4566-ad60-900910d31320?syn-25a6b1a6=1) |
+| Finance | Oct 22, 2026 | [Global stocks tumble as oil prices rise](https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1) |
+| Finance | Oct 22, 2026 | [Europe’s bracing reality on US bond yields](https://www.ft.com/content/92e1700d-7990-4c6a-bd3f-63685df2fdf6?syn-25a6b1a6=1) |
+| Finance | Oct 22, 2026 | [No wars and no inflation: Has Trump delivered on his big promises?](https://www.ft.com/content/fead8c02-877a-4fd4-b940-71045266e2c4?syn-25a6b1a6=1) |
 | Finance | Oct 22, 2026 | [Which G7 economy is the profligacy poster child?](https://www.ft.com/content/43a2e871-2e82-4af7-8d56-2f00202df949?syn-25a6b1a6=1) |
 | Finance | Oct 22, 2026 | [The battle for Israel’s future](https://www.ft.com/content/50468a0e-5c1f-45bf-92ca-d6bb102e3c98?syn-25a6b1a6=1) |
-| Finance | Oct 21, 2026 | [Meta agrees deal to keep Zuckerberg in California despite wealth tax proposal](https://www.ft.com/content/b34502b6-38dc-4a46-a8e7-d9131726cd31?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
