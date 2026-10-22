@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 20, 2026 | [The world’s finance chiefs see new risks — and less China angst](https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html) |
 | Market | Oct 19, 2026 | [Anthropic is AI trade's last big hope for a major IPO this year](https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html) |
 | Market | Oct 19, 2026 | [Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments](https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html) |
-| Finance | Oct 21, 2026 | [Rockets, robots and risk: Musk’s $3.6tn gamble to merge Tesla and SpaceX](https://www.ft.com/content/e598bbc7-8211-436f-a57e-46c3ae21ac0f?syn-25a6b1a6=1) |
-| Finance | Oct 21, 2026 | [Tesla-SpaceX: a huge corporate constellation with Musk at its centre](https://www.ft.com/content/7f8e97b4-bd2e-4414-858a-bc746cb515f6?syn-25a6b1a6=1) |
-| Finance | Oct 21, 2026 | [Musk’s SpaceX ambitions may be ‘dangerous’ for Europe, warns EU lawmaker](https://www.ft.com/content/f9e4ddf8-5fd4-43e6-bca2-62d1067c4c48?syn-25a6b1a6=1) |
-| Finance | Oct 21, 2026 | [Could Michigan elect America’s first Muslim senator?](https://www.ft.com/content/a6972433-c303-4ace-affd-cc3ab54a3cf3?syn-25a6b1a6=1) |
+| Finance | Oct 21, 2026 | [Bessent shrugs off ‘systemic’ AI risks at closed-door investor conference](https://www.ft.com/content/5b7c2fdf-2300-4208-860e-6389ceb18886?syn-25a6b1a6=1) |
+| Finance | Oct 21, 2026 | [Amazon warns new cyber flaws detected using AI are being ‘broadly exploited’](https://www.ft.com/content/245778d9-597b-492d-b5b6-a2967c77e853?syn-25a6b1a6=1) |
+| Finance | Oct 21, 2026 | [Meta agrees deal to keep Zuckerberg in California despite wealth tax proposal](https://www.ft.com/content/b34502b6-38dc-4a46-a8e7-d9131726cd31?syn-25a6b1a6=1) |
 | Finance | Oct 21, 2026 | [The ‘adults in the room’ won’t save you](https://www.ft.com/content/2773c5ab-1bb6-4110-b6a7-c467b7b89717?syn-25a6b1a6=1) |
+| Finance | Oct 21, 2026 | [Iran’s foreign minister: The false assumptions about us are dangerous](https://www.ft.com/content/61bf9676-ea46-4956-b87f-6ab096accafa) |
 
 <!-- NEWS:END -->
 
