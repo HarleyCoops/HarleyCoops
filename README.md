@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 20, 2026 | [The world’s finance chiefs see new risks — and less China angst](https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html) |
 | Market | Oct 19, 2026 | [Anthropic is AI trade's last big hope for a major IPO this year](https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html) |
 | Market | Oct 19, 2026 | [Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments](https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html) |
-| Finance | Oct 22, 2026 | [OpenAI trims valuation target to $1.25tn after pitching higher price](https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc?syn-25a6b1a6=1) |
-| Finance | Oct 22, 2026 | [Europe’s bracing reality on US bond yields](https://www.ft.com/content/92e1700d-7990-4c6a-bd3f-63685df2fdf6?syn-25a6b1a6=1) |
-| Finance | Oct 22, 2026 | [Nasdaq tumbles while Treasuries soar as Meta rekindles AI spending fears](https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1) |
-| Finance | Oct 22, 2026 | [‘Know Your Agent’ will be the new rule of the AI age](https://www.ft.com/content/5116beca-1b6e-418e-99d7-462339b3b57e?syn-25a6b1a6=1) |
-| Finance | Oct 22, 2026 | [Europe’s moderates must stop treating politics as a spectator sport](https://www.ft.com/content/b97d2ce4-43b0-4551-8ad8-059abb9d3f3e) |
+| Finance | Oct 23, 2026 | [Global tech sell-off sparks flight to safety](https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1) |
+| Finance | Oct 23, 2026 | [Calpers retreats from Big Tech as AI rally falters](https://www.ft.com/content/e842173f-6f9f-4115-9e5f-a0f06f0df18d?syn-25a6b1a6=1) |
+| Finance | Oct 23, 2026 | [Winter arrives in markets](https://www.ft.com/content/ce0e9d68-c63f-4666-9909-512b929e6284?syn-25a6b1a6=1) |
+| Finance | Oct 23, 2026 | [The limits of Trump’s trade power](https://www.ft.com/content/0ce7d049-b264-47da-9aaa-08b33941585a?syn-25a6b1a6=1) |
+| Finance | Oct 23, 2026 | [AI oversight needs a different model to banking](https://www.ft.com/content/f98be079-49af-45c8-9954-ea3bd774c585) |
 
 <!-- NEWS:END -->
 
