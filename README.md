@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 20, 2026 | [The world’s finance chiefs see new risks — and less China angst](https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html) |
 | Market | Oct 19, 2026 | [Anthropic is AI trade's last big hope for a major IPO this year](https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html) |
 | Market | Oct 19, 2026 | [Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments](https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html) |
-| Finance | Oct 22, 2026 | [Meta sell-off drags US tech stocks lower as AI spending fears flare up](https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1) |
-| Finance | Oct 21, 2026 | [Bessent shrugs off ‘systemic’ AI risks at closed-door investor conference](https://www.ft.com/content/5b7c2fdf-2300-4208-860e-6389ceb18886?syn-25a6b1a6=1) |
+| Finance | Oct 22, 2026 | [OpenAI trims valuation target to $1.25tn after pitching higher price](https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc?syn-25a6b1a6=1) |
 | Finance | Oct 22, 2026 | [Europe’s bracing reality on US bond yields](https://www.ft.com/content/92e1700d-7990-4c6a-bd3f-63685df2fdf6?syn-25a6b1a6=1) |
-| Finance | Oct 22, 2026 | [A report card on Trump’s second term](https://www.ft.com/content/fead8c02-877a-4fd4-b940-71045266e2c4?syn-25a6b1a6=1) |
+| Finance | Oct 22, 2026 | [Nasdaq tumbles while Treasuries soar as Meta rekindles AI spending fears](https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1) |
 | Finance | Oct 22, 2026 | [‘Know Your Agent’ will be the new rule of the AI age](https://www.ft.com/content/5116beca-1b6e-418e-99d7-462339b3b57e?syn-25a6b1a6=1) |
+| Finance | Oct 22, 2026 | [Europe’s moderates must stop treating politics as a spectator sport](https://www.ft.com/content/b97d2ce4-43b0-4551-8ad8-059abb9d3f3e) |
 
 <!-- NEWS:END -->
 
