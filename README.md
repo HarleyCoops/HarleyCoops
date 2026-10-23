@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 20, 2026 | [The world’s finance chiefs see new risks — and less China angst](https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html) |
 | Market | Oct 19, 2026 | [Anthropic is AI trade's last big hope for a major IPO this year](https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html) |
 | Market | Oct 19, 2026 | [Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments](https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html) |
-| Finance | Oct 23, 2026 | [Oil hits $114 for first time since May as global stocks knocked by AI fears](https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1) |
-| Finance | Oct 23, 2026 | [Calpers retreats from Big Tech as AI rally falters](https://www.ft.com/content/e842173f-6f9f-4115-9e5f-a0f06f0df18d?syn-25a6b1a6=1) |
-| Finance | Oct 23, 2026 | [Winter arrives in markets](https://www.ft.com/content/ce0e9d68-c63f-4666-9909-512b929e6284?syn-25a6b1a6=1) |
+| Finance | Oct 23, 2026 | [Oil hits $117 for first time since April on fears of flare-up in Iran hostilities](https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1) |
+| Finance | Oct 23, 2026 | [US is prepared for long stand-off with Iran, says Trump envoy](https://www.ft.com/content/70379a26-c20e-4501-aec9-a9a0089cdd3d?syn-25a6b1a6=1) |
+| Finance | Oct 23, 2026 | [Gold drops below $4,000 as ‘haven’ asset joins market sell-off](https://www.ft.com/content/5a6e15e9-249d-4d59-a140-c51302930a9f?syn-25a6b1a6=1) |
 | Finance | Oct 23, 2026 | [The limits of Trump’s trade war](https://www.ft.com/content/0ce7d049-b264-47da-9aaa-08b33941585a?syn-25a6b1a6=1) |
-| Finance | Oct 23, 2026 | [AI oversight needs a different model to banking](https://www.ft.com/content/f98be079-49af-45c8-9954-ea3bd774c585) |
+| Finance | Oct 23, 2026 | [Winter arrives in markets](https://www.ft.com/content/ce0e9d68-c63f-4666-9909-512b929e6284?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
