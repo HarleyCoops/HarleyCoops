@@ -313,10 +313,10 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 19, 2026 | [Anthropic is AI trade's last big hope for a major IPO this year](https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html) |
 | Market | Oct 19, 2026 | [Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments](https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html) |
 | Finance | Oct 24, 2026 | [US executives quit $25bn gas venture over claims of secret Russian control](https://www.ft.com/content/e9cfbfbb-e65a-4303-aebb-20d59319ef1b?syn-25a6b1a6=1) |
-| Finance | Oct 23, 2026 | [Russia and Ukraine agree to temporary ceasefire around occupied town of Oleshky](https://www.ft.com/content/ba33fb18-1dea-4214-9221-228c155a6ac1?syn-25a6b1a6=1) |
-| Finance | Oct 23, 2026 | [Ukraine says Starlink speeds still throttled](https://www.ft.com/content/e67a3d0e-5893-45a5-b098-64a68a4ef032?syn-25a6b1a6=1) |
-| Finance | Oct 24, 2026 | [France is in revolt. But the real storm is yet to come](https://www.ft.com/content/62b83fcf-efad-418d-ba6a-569344fa7ecb) |
+| Finance | Oct 24, 2026 | [France is looking ungovernable. And it’s going to get worse](https://www.ft.com/content/62b83fcf-efad-418d-ba6a-569344fa7ecb) |
 | Finance | Oct 24, 2026 | [The young are conformists in denial](https://www.ft.com/content/70280c68-2ae0-4656-b013-281eb75a197a?syn-25a6b1a6=1) |
+| Finance | Oct 24, 2026 | [Gadi Eisenkot, the Israeli ex-military chief challenging Netanyahu](https://www.ft.com/content/5e9fc2a9-975b-46eb-ab5a-11615ca40459?syn-25a6b1a6=1) |
+| Finance | Oct 24, 2026 | [Ukraine military says Starlink service restrictions have been removed](https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8) |
 
 <!-- NEWS:END -->
 
