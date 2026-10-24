@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 20, 2026 | [The world’s finance chiefs see new risks — and less China angst](https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html) |
 | Market | Oct 19, 2026 | [Anthropic is AI trade's last big hope for a major IPO this year](https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html) |
 | Market | Oct 19, 2026 | [Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments](https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html) |
-| Finance | Oct 23, 2026 | [Oil hits $117 for first time since April on fears of flare-up in Iran hostilities](https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1) |
-| Finance | Oct 23, 2026 | [US is prepared for long stand-off with Iran, says Trump envoy](https://www.ft.com/content/70379a26-c20e-4501-aec9-a9a0089cdd3d?syn-25a6b1a6=1) |
-| Finance | Oct 23, 2026 | [Gold drops below $4,000 as ‘haven’ asset joins market sell-off](https://www.ft.com/content/5a6e15e9-249d-4d59-a140-c51302930a9f?syn-25a6b1a6=1) |
-| Finance | Oct 23, 2026 | [Xi gathers China’s top cadres with focus on discipline](https://www.ft.com/content/d11b743a-cd2c-4f0d-a464-8750aa8f4170?syn-25a6b1a6=1) |
-| Finance | Oct 23, 2026 | [Winter arrives in markets](https://www.ft.com/content/ce0e9d68-c63f-4666-9909-512b929e6284?syn-25a6b1a6=1) |
+| Finance | Oct 24, 2026 | [US executives quit $25bn gas venture over claims of secret Russian control](https://www.ft.com/content/e9cfbfbb-e65a-4303-aebb-20d59319ef1b?syn-25a6b1a6=1) |
+| Finance | Oct 23, 2026 | [Russia and Ukraine agree to temporary ceasefire around occupied town of Oleshky](https://www.ft.com/content/ba33fb18-1dea-4214-9221-228c155a6ac1?syn-25a6b1a6=1) |
+| Finance | Oct 23, 2026 | [Ukraine says Starlink speeds still throttled](https://www.ft.com/content/e67a3d0e-5893-45a5-b098-64a68a4ef032?syn-25a6b1a6=1) |
+| Finance | Oct 24, 2026 | [France is in revolt. But the real storm is yet to come](https://www.ft.com/content/62b83fcf-efad-418d-ba6a-569344fa7ecb) |
+| Finance | Oct 24, 2026 | [The young are conformists in denial](https://www.ft.com/content/70280c68-2ae0-4656-b013-281eb75a197a?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
