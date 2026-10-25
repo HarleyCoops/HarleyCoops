@@ -315,8 +315,8 @@ The linked training runs expose reward curves and component metrics. I use these
 | Finance | Oct 25, 2026 | [Luxury groups’ value drops by €250bn as Chinese consumer demand fades](https://www.ft.com/content/1c3065cf-538f-433a-9749-0355a3642c7c?syn-25a6b1a6=1) |
 | Finance | Oct 25, 2026 | [The right’s obsession with ‘civil war’ in Britain](https://www.ft.com/content/3736714a-2058-4413-ac91-e8f10f33ad69?syn-25a6b1a6=1) |
 | Finance | Oct 25, 2026 | [Why 17 is not the magic number in industrial policy](https://www.ft.com/content/3e405824-a44a-4cb7-bc80-acc5bc3b5b59?syn-25a6b1a6=1) |
-| Finance | Oct 25, 2026 | [Bolsonaro and Lula face off in knife-edge Brazil election](https://www.ft.com/content/29033fb9-2dc7-4af0-a2ff-55d1bdd5dece?syn-25a6b1a6=1) |
-| Finance | Oct 25, 2026 | [The Black Sea is now the world’s deadliest shipping route](https://www.ft.com/content/8c874f60-0041-476d-9c53-8524c374443f?syn-25a6b1a6=1) |
+| Finance | Oct 25, 2026 | [US voters worried about corruption under Trump — FT poll](https://www.ft.com/content/2770ef24-198c-49bc-8cb8-b9d40108d797?syn-25a6b1a6=1) |
+| Finance | Oct 25, 2026 | [Why students in a Pennsylvania midterm battleground fear AI is about to kill their future](https://www.ft.com/content/0a86d4f5-6046-4c1c-89e9-90583cff33f9?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
