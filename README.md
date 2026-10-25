@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 20, 2026 | [The world’s finance chiefs see new risks — and less China angst](https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html) |
 | Market | Oct 19, 2026 | [Anthropic is AI trade's last big hope for a major IPO this year](https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html) |
 | Market | Oct 19, 2026 | [Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments](https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html) |
-| Finance | Oct 24, 2026 | [US executives quit $25bn gas venture over claims of secret Russian control](https://www.ft.com/content/e9cfbfbb-e65a-4303-aebb-20d59319ef1b?syn-25a6b1a6=1) |
-| Finance | Oct 24, 2026 | [France is looking ungovernable. And it’s going to get worse](https://www.ft.com/content/62b83fcf-efad-418d-ba6a-569344fa7ecb) |
-| Finance | Oct 24, 2026 | [Tucker Carlson: ‘I so overstated my power it was embarrassing’](https://www.ft.com/content/98417e57-fe7e-4309-8f56-6e844c55c6e1?syn-25a6b1a6=1) |
-| Finance | Oct 24, 2026 | [The young are conformists in denial](https://www.ft.com/content/70280c68-2ae0-4656-b013-281eb75a197a?syn-25a6b1a6=1) |
-| Finance | Oct 24, 2026 | [Ukraine military says Starlink service restrictions have been lifted](https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8) |
+| Finance | Oct 25, 2026 | [Luxury groups’ value drops by €250bn as Chinese consumer demand fades](https://www.ft.com/content/1c3065cf-538f-433a-9749-0355a3642c7c?syn-25a6b1a6=1) |
+| Finance | Oct 25, 2026 | [The right’s obsession with ‘civil war’ in Britain](https://www.ft.com/content/3736714a-2058-4413-ac91-e8f10f33ad69?syn-25a6b1a6=1) |
+| Finance | Oct 25, 2026 | [Why 17 is not the magic number in industrial policy](https://www.ft.com/content/3e405824-a44a-4cb7-bc80-acc5bc3b5b59?syn-25a6b1a6=1) |
+| Finance | Oct 25, 2026 | [Bolsonaro and Lula face off in knife-edge Brazil election](https://www.ft.com/content/29033fb9-2dc7-4af0-a2ff-55d1bdd5dece?syn-25a6b1a6=1) |
+| Finance | Oct 25, 2026 | [The Black Sea is now the world’s deadliest shipping route](https://www.ft.com/content/8c874f60-0041-476d-9c53-8524c374443f?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
