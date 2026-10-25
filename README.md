@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 20, 2026 | [The world’s finance chiefs see new risks — and less China angst](https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html) |
 | Market | Oct 19, 2026 | [Anthropic is AI trade's last big hope for a major IPO this year](https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html) |
 | Market | Oct 19, 2026 | [Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments](https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html) |
-| Finance | Oct 25, 2026 | [Luxury groups’ value drops by €250bn as Chinese consumer demand fades](https://www.ft.com/content/1c3065cf-538f-433a-9749-0355a3642c7c?syn-25a6b1a6=1) |
-| Finance | Oct 25, 2026 | [The right’s obsession with ‘civil war’ in Britain](https://www.ft.com/content/3736714a-2058-4413-ac91-e8f10f33ad69?syn-25a6b1a6=1) |
-| Finance | Oct 25, 2026 | [Why 17 is not the magic number in industrial policy](https://www.ft.com/content/3e405824-a44a-4cb7-bc80-acc5bc3b5b59?syn-25a6b1a6=1) |
+| Finance | Oct 25, 2026 | [Why students in a midterm battleground fear AI will ruin their future](https://www.ft.com/content/0a86d4f5-6046-4c1c-89e9-90583cff33f9?syn-25a6b1a6=1) |
 | Finance | Oct 25, 2026 | [US voters worried about corruption under Trump — FT poll](https://www.ft.com/content/2770ef24-198c-49bc-8cb8-b9d40108d797?syn-25a6b1a6=1) |
-| Finance | Oct 25, 2026 | [Why students in a Pennsylvania midterm battleground fear AI is about to kill their future](https://www.ft.com/content/0a86d4f5-6046-4c1c-89e9-90583cff33f9?syn-25a6b1a6=1) |
+| Finance | Oct 25, 2026 | [Martin Wolf on the US midterms: What’s at stake for the world?](https://www.ft.com/content/01119d92-0d23-4d91-8a66-44ebd94c2356?syn-25a6b1a6=1) |
+| Finance | Oct 25, 2026 | [London’s most famous shopping street bans cars in bid to revive its fortunes](https://www.ft.com/content/73a2ca6f-29b7-49e5-b8c7-0bde6c4e945b?syn-25a6b1a6=1) |
+| Finance | Oct 25, 2026 | [Marco Rubio still owes Europe answers about America’s intentions](https://www.ft.com/content/899bc060-3f17-4ed9-bea7-710c467d92fd) |
 
 <!-- NEWS:END -->
 
