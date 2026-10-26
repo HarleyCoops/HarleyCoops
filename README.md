@@ -312,8 +312,8 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 20, 2026 | [The world’s finance chiefs see new risks — and less China angst](https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html) |
 | Market | Oct 19, 2026 | [Anthropic is AI trade's last big hope for a major IPO this year](https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html) |
 | Market | Oct 19, 2026 | [Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments](https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html) |
-| Finance | Oct 26, 2026 | [Anthropic publishes long-awaited IPO prospectus](https://www.ft.com/content/f6ecfecd-d797-4d2c-b427-d333297949cb?syn-25a6b1a6=1) |
-| Finance | Oct 26, 2026 | [Breaking down Anthropic’s 335-page S-1](https://www.ft.com/content/4b2b9c0e-adfb-4362-800f-950f5b905984?syn-25a6b1a6=1) |
+| Finance | Oct 26, 2026 | [‘Bold but sane’: what we learnt from Anthropic’s 240,000-word IPO filing](https://www.ft.com/content/a6c43402-719e-4295-ae5f-541edb0aeb29?syn-25a6b1a6=1) |
+| Finance | Oct 26, 2026 | [Why you shouldn’t bother reading the Anthropic IPO filing](https://www.ft.com/content/d2faa674-766b-4699-83d0-d1f9ed65edbf?syn-25a6b1a6=1) |
 | Finance | Oct 26, 2026 | [The reclusive quant billionaire coming into the light](https://www.ft.com/content/bc6bba42-0b33-4825-a2c5-cff9b8f5c591?syn-25a6b1a6=1) |
 | Finance | Oct 26, 2026 | [Trump, Netanyahu and the politics of escalation against Iran](https://www.ft.com/content/7b3c17e7-c0bf-4e93-bc5d-17f86fa1b2a5?syn-25a6b1a6=1) |
 | Finance | Oct 26, 2026 | [A day in Benjamin Netanyahu’s heartland](https://www.ft.com/content/470fbc3a-fd2e-4ad3-8999-25d71e53d173) |
