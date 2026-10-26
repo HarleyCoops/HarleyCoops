@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 20, 2026 | [The world’s finance chiefs see new risks — and less China angst](https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html) |
 | Market | Oct 19, 2026 | [Anthropic is AI trade's last big hope for a major IPO this year](https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html) |
 | Market | Oct 19, 2026 | [Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments](https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html) |
-| Finance | Oct 25, 2026 | [Why students in a midterm battleground fear AI will ruin their future](https://www.ft.com/content/0a86d4f5-6046-4c1c-89e9-90583cff33f9?syn-25a6b1a6=1) |
-| Finance | Oct 25, 2026 | [US voters worried about corruption under Trump — FT poll](https://www.ft.com/content/2770ef24-198c-49bc-8cb8-b9d40108d797?syn-25a6b1a6=1) |
-| Finance | Oct 25, 2026 | [Martin Wolf on the US midterms: What’s at stake for the world?](https://www.ft.com/content/01119d92-0d23-4d91-8a66-44ebd94c2356?syn-25a6b1a6=1) |
+| Finance | Oct 25, 2026 | [Brazil’s Supreme Court extends voting as transport complaints mar election](https://www.ft.com/content/29033fb9-2dc7-4af0-a2ff-55d1bdd5dece?syn-25a6b1a6=1) |
+| Finance | Oct 25, 2026 | [Venezuelan opposition leader Machado returns from exile](https://www.ft.com/content/f691e41e-dd01-4ac0-ade7-5f7ca23d6135?syn-25a6b1a6=1) |
 | Finance | Oct 25, 2026 | [London’s most famous shopping street bans cars in bid to revive its fortunes](https://www.ft.com/content/73a2ca6f-29b7-49e5-b8c7-0bde6c4e945b?syn-25a6b1a6=1) |
 | Finance | Oct 25, 2026 | [Marco Rubio still owes Europe answers about America’s intentions](https://www.ft.com/content/899bc060-3f17-4ed9-bea7-710c467d92fd) |
+| Finance | Oct 25, 2026 | [Weil’s incoming leader to walk away from top job as law firm faces talent crisis](https://www.ft.com/content/0ce8a176-19d9-4fb8-8708-0c3fbd04f89c?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
