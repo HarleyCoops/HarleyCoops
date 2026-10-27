@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 20, 2026 | [The world’s finance chiefs see new risks — and less China angst](https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html) |
 | Market | Oct 19, 2026 | [Anthropic is AI trade's last big hope for a major IPO this year](https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html) |
 | Market | Oct 19, 2026 | [Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments](https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html) |
-| Finance | Oct 27, 2026 | [Lula faces a fiscal reckoning after Brazil’s market rout](https://www.ft.com/content/0231b234-14dc-4ff0-8263-e1063b0a25d5?syn-25a6b1a6=1) |
-| Finance | Oct 27, 2026 | [Bolsonaro says he was forced to surrender passport as his party concedes election](https://www.ft.com/content/ae37754c-6200-425d-8f8f-ce0b0f7cc250?syn-25a6b1a6=1) |
-| Finance | Oct 27, 2026 | [Inside Trump Jr’s Mongolian hunting trip with a Kremlin-linked businessman](https://www.ft.com/content/f41fc704-c9e6-42de-b800-d43cabe61947?syn-25a6b1a6=1) |
+| Finance | Oct 27, 2026 | [Israel election turnout highest since 1973](https://www.ft.com/content/87d81352-5086-44bd-a5bb-797582e2d07c?syn-25a6b1a6=1) |
+| Finance | Oct 27, 2026 | [Dirty tricks and Maga theatrics shake up bruising battle for Texas Senate](https://www.ft.com/content/e9475864-d8ae-401e-8a3e-e3a7fa75f0c1?syn-25a6b1a6=1) |
 | Finance | Oct 27, 2026 | [US voters and Trump’s overflowing swamp](https://www.ft.com/content/51dbeefc-442b-4aac-b48b-042a0d6862a0?syn-25a6b1a6=1) |
-| Finance | Oct 27, 2026 | [The winners and losers of the weight-loss economy](https://www.ft.com/content/2f1667a8-ef1b-46a0-bc95-6061ec85fb8e?syn-25a6b1a6=1) |
+| Finance | Oct 27, 2026 | [Anthropic and the AI cluster effect in fundraising](https://www.ft.com/content/689a2114-57c5-4391-a335-dc97e5716610) |
+| Finance | Oct 27, 2026 | [US law firm Weil readies restructuring as options dwindle and partners exit](https://www.ft.com/content/69ccfcb0-3f5e-4b77-9e04-a386e827b872?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
