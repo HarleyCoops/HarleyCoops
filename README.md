@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 20, 2026 | [The world’s finance chiefs see new risks — and less China angst](https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html) |
 | Market | Oct 19, 2026 | [Anthropic is AI trade's last big hope for a major IPO this year](https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html) |
 | Market | Oct 19, 2026 | [Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments](https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html) |
-| Finance | Oct 28, 2026 | [Bolsonaro lands in US after fleeing Brazil](https://www.ft.com/content/ec7a3e3e-21e3-44de-81ee-db2f2073bee3?syn-25a6b1a6=1) |
+| Finance | Oct 28, 2026 | [Weil leadership tells partners firm should be dissolved](https://www.ft.com/content/0476f216-0060-475c-962f-61d73d7d660b?syn-25a6b1a6=1) |
+| Finance | Oct 28, 2026 | [Fed holds fire on interest rates despite intensifying inflation](https://www.ft.com/content/f31fccd8-e9b6-4b01-989d-790ca6bb4d29?syn-25a6b1a6=1) |
 | Finance | Oct 28, 2026 | [The globetrotting Trump brothers](https://www.ft.com/content/a89fa128-8fcb-4ff4-bd8b-6bb591ccd9c1?syn-25a6b1a6=1) |
-| Finance | Oct 28, 2026 | [Anthropic’s seven founders tighten grip ahead of blockbuster IPO](https://www.ft.com/content/24a35e41-2641-4cec-97f5-a974412f9952?syn-25a6b1a6=1) |
 | Finance | Oct 28, 2026 | [Why even America’s ‘haves’ are feeling the squeeze](https://www.ft.com/content/624f7138-96b0-4752-96f1-b54f2b18742b?syn-25a6b1a6=1) |
-| Finance | Oct 28, 2026 | [Fed to decide on interest rates as US midterm elections loom](https://www.ft.com/content/516063c6-3820-4803-836a-73e24ebee0da?syn-25a6b1a6=1) |
+| Finance | Oct 28, 2026 | [Google shares tumble 10% after $51bn AI outlay deepens cash burn](https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
