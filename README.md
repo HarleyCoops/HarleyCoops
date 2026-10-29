@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 20, 2026 | [The world’s finance chiefs see new risks — and less China angst](https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html) |
 | Market | Oct 19, 2026 | [Anthropic is AI trade's last big hope for a major IPO this year](https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html) |
 | Market | Oct 19, 2026 | [Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments](https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html) |
-| Finance | Oct 29, 2026 | [Christine Lagarde to step down as ECB president in February](https://www.ft.com/content/b9294b91-0eee-413b-bdde-0569f48539b9?syn-25a6b1a6=1) |
+| Finance | Oct 29, 2026 | [Alphabet shares tumble in $500bn rout](https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1) |
+| Finance | Oct 29, 2026 | [US tech stocks fall after earnings fuel AI spending concerns](https://www.ft.com/content/1639620b-99e7-47ed-8484-49646816489e?syn-25a6b1a6=1) |
+| Finance | Oct 29, 2026 | [US economy beats forecasts to grow at 3.4% rate in third quarter](https://www.ft.com/content/f2de9f3c-3290-4e87-bbc2-55430025f2ab?syn-25a6b1a6=1) |
 | Finance | Oct 29, 2026 | [How Flávio Bolsonaro fled Brazil](https://www.ft.com/content/0cb91253-62e1-4cdf-864e-61174b297e51?syn-25a6b1a6=1) |
-| Finance | Oct 29, 2026 | [Israel’s ‘Houdini’ and his latest escape](https://www.ft.com/content/5c95fc2e-4019-462f-99cd-aefb8005b9e4?syn-25a6b1a6=1) |
-| Finance | Oct 29, 2026 | [Private equity’s growing pains](https://www.ft.com/content/b36c5561-b601-48f4-bdbc-9a2227a958fa?syn-25a6b1a6=1) |
-| Finance | Oct 28, 2026 | [Google shares tumble 10% after $51bn AI outlay deepens cash burn](https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1) |
+| Finance | Oct 29, 2026 | [Two fears will decide the fate of Anthropic’s giant IPO](https://www.ft.com/content/9fd6faa4-0e06-4b2b-975a-3e6d3a7f3d7f?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
