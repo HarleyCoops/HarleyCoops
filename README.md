@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 20, 2026 | [The world’s finance chiefs see new risks — and less China angst](https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html) |
 | Market | Oct 19, 2026 | [Anthropic is AI trade's last big hope for a major IPO this year](https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html) |
 | Market | Oct 19, 2026 | [Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments](https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html) |
-| Finance | Oct 30, 2026 | [Binance halts withdrawals after record $6.3bn heist](https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1) |
-| Finance | Oct 30, 2026 | [How North Korea became a hacking superpower](https://www.ft.com/content/46c03338-63d5-43fc-a946-ebcbe9e1c07a?syn-25a6b1a6=1) |
-| Finance | Oct 30, 2026 | [Binance’s $6.3bn heist is the biggest . . . but not the first](https://www.ft.com/content/95d38ca9-9a70-4982-a797-cdad2afa3acf?syn-25a6b1a6=1) |
+| Finance | Oct 30, 2026 | [Anthropic may not secure investment-grade rating after IPO, Blackstone says](https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f?syn-25a6b1a6=1) |
+| Finance | Oct 30, 2026 | [US tech stocks tumble as earnings stoke AI spending fears](https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1) |
+| Finance | Oct 30, 2026 | [Did Anthropic value itself at $1.2tn in August?](https://www.ft.com/content/60fb40ed-f1bf-416e-982b-1b9b80582ab4) |
 | Finance | Oct 30, 2026 | [‘A pile of muscle’: Trump closes midterm pitch with surreal messaging](https://www.ft.com/content/b00495d4-c15d-4932-977e-27aebe05ba83?syn-25a6b1a6=1) |
-| Finance | Oct 29, 2026 | [What killed Weil Gotshal?](https://www.ft.com/content/98dfc71b-19eb-4194-8c6a-bb6d9b463074?syn-25a6b1a6=1) |
+| Finance | Oct 30, 2026 | [The trouble with small nuclear reactors](https://www.ft.com/content/da1af660-c1d0-4c8b-8f94-e84052344448?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
