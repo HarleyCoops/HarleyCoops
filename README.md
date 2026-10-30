@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 20, 2026 | [The world’s finance chiefs see new risks — and less China angst](https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html) |
 | Market | Oct 19, 2026 | [Anthropic is AI trade's last big hope for a major IPO this year](https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html) |
 | Market | Oct 19, 2026 | [Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments](https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html) |
-| Finance | Oct 30, 2026 | [Binance halts withdrawals after $6.3bn hack](https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1) |
-| Finance | Oct 29, 2026 | [What killed Weil Gotshal?](https://www.ft.com/content/98dfc71b-19eb-4194-8c6a-bb6d9b463074?syn-25a6b1a6=1) |
-| Finance | Oct 30, 2026 | [Why Trump’s tech dreams are quietly crumbling](https://www.ft.com/content/9cc8d4ce-22ec-45d7-8b74-71a1dfe9abcc?syn-25a6b1a6=1) |
+| Finance | Oct 30, 2026 | [Binance halts withdrawals after record $6.3bn heist](https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1) |
+| Finance | Oct 30, 2026 | [How North Korea became a hacking superpower](https://www.ft.com/content/46c03338-63d5-43fc-a946-ebcbe9e1c07a?syn-25a6b1a6=1) |
+| Finance | Oct 30, 2026 | [Binance’s $6.3bn heist is the biggest . . . but not the first](https://www.ft.com/content/95d38ca9-9a70-4982-a797-cdad2afa3acf?syn-25a6b1a6=1) |
 | Finance | Oct 30, 2026 | [‘A pile of muscle’: Trump closes midterm pitch with surreal messaging](https://www.ft.com/content/b00495d4-c15d-4932-977e-27aebe05ba83?syn-25a6b1a6=1) |
-| Finance | Oct 30, 2026 | [Inside the make-or-break AI mega-project behind Nscale’s $35bn IPO](https://www.ft.com/content/ee86c4b6-1fe4-467e-8f18-9c08df288aff?syn-25a6b1a6=1) |
+| Finance | Oct 29, 2026 | [What killed Weil Gotshal?](https://www.ft.com/content/98dfc71b-19eb-4194-8c6a-bb6d9b463074?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
