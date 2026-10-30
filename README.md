@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 20, 2026 | [The world’s finance chiefs see new risks — and less China angst](https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html) |
 | Market | Oct 19, 2026 | [Anthropic is AI trade's last big hope for a major IPO this year](https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html) |
 | Market | Oct 19, 2026 | [Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments](https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html) |
-| Finance | Oct 29, 2026 | [Intel shares fall 22% as weak sales outlook dents turnaround](https://www.ft.com/content/d7540e89-08db-43d3-92e0-3c15dd3a60cb?syn-25a6b1a6=1) |
-| Finance | Oct 29, 2026 | [Amazon shares slide on lower Christmas sales forecast](https://www.ft.com/content/8affd8dd-b783-48c8-86e2-ac4a647fa0f3?syn-25a6b1a6=1) |
-| Finance | Oct 29, 2026 | [Starbucks to resume share buybacks but China shift clouds growth outlook](https://www.ft.com/content/1f5eec1a-569a-493f-a0ce-bde2ca12a3cc?syn-25a6b1a6=1) |
+| Finance | Oct 30, 2026 | [Binance halts withdrawals after $6.3bn hack](https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1) |
 | Finance | Oct 29, 2026 | [What killed Weil Gotshal?](https://www.ft.com/content/98dfc71b-19eb-4194-8c6a-bb6d9b463074?syn-25a6b1a6=1) |
-| Finance | Oct 29, 2026 | [How Flávio Bolsonaro fled Brazil](https://www.ft.com/content/0cb91253-62e1-4cdf-864e-61174b297e51?syn-25a6b1a6=1) |
+| Finance | Oct 30, 2026 | [Why Trump’s tech dreams are quietly crumbling](https://www.ft.com/content/9cc8d4ce-22ec-45d7-8b74-71a1dfe9abcc?syn-25a6b1a6=1) |
+| Finance | Oct 30, 2026 | [‘A pile of muscle’: Trump closes midterm pitch with surreal messaging](https://www.ft.com/content/b00495d4-c15d-4932-977e-27aebe05ba83?syn-25a6b1a6=1) |
+| Finance | Oct 30, 2026 | [Inside the make-or-break AI mega-project behind Nscale’s $35bn IPO](https://www.ft.com/content/ee86c4b6-1fe4-467e-8f18-9c08df288aff?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
