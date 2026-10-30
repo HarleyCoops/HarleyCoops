@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 20, 2026 | [The world’s finance chiefs see new risks — and less China angst](https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html) |
 | Market | Oct 19, 2026 | [Anthropic is AI trade's last big hope for a major IPO this year](https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html) |
 | Market | Oct 19, 2026 | [Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments](https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html) |
-| Finance | Oct 29, 2026 | [Alphabet shares tumble in $500bn rout](https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1) |
-| Finance | Oct 29, 2026 | [US tech stocks fall after earnings fuel AI spending concerns](https://www.ft.com/content/1639620b-99e7-47ed-8484-49646816489e?syn-25a6b1a6=1) |
-| Finance | Oct 29, 2026 | [US economy beats forecasts to grow at 3.4% rate in third quarter](https://www.ft.com/content/f2de9f3c-3290-4e87-bbc2-55430025f2ab?syn-25a6b1a6=1) |
+| Finance | Oct 29, 2026 | [Intel shares fall 22% as weak sales outlook dents turnaround](https://www.ft.com/content/d7540e89-08db-43d3-92e0-3c15dd3a60cb?syn-25a6b1a6=1) |
+| Finance | Oct 29, 2026 | [Amazon shares slide on lower Christmas sales forecast](https://www.ft.com/content/8affd8dd-b783-48c8-86e2-ac4a647fa0f3?syn-25a6b1a6=1) |
+| Finance | Oct 29, 2026 | [Starbucks to resume share buybacks but China shift clouds growth outlook](https://www.ft.com/content/1f5eec1a-569a-493f-a0ce-bde2ca12a3cc?syn-25a6b1a6=1) |
+| Finance | Oct 29, 2026 | [What killed Weil Gotshal?](https://www.ft.com/content/98dfc71b-19eb-4194-8c6a-bb6d9b463074?syn-25a6b1a6=1) |
 | Finance | Oct 29, 2026 | [How Flávio Bolsonaro fled Brazil](https://www.ft.com/content/0cb91253-62e1-4cdf-864e-61174b297e51?syn-25a6b1a6=1) |
-| Finance | Oct 29, 2026 | [Two fears will decide the fate of Anthropic’s giant IPO](https://www.ft.com/content/9fd6faa4-0e06-4b2b-975a-3e6d3a7f3d7f?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
