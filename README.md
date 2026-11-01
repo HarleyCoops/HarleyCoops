@@ -316,7 +316,7 @@ The linked training runs expose reward curves and component metrics. I use these
 | Finance | Oct 31, 2026 | [Evacuees from Russian-occupied city arrive in Ukraine](https://www.ft.com/content/55dfa145-4078-450f-a853-5f2d551260f1) |
 | Finance | Nov 01, 2026 | [Military briefing: what would another US-Iran conflict look like?](https://www.ft.com/content/89e3ff89-c097-44cb-a290-0d46726e6075?syn-25a6b1a6=1) |
 | Finance | Nov 01, 2026 | [EU leaders risk breaking their promise to help European start-ups](https://www.ft.com/content/ce1e852d-c699-4cf6-b8a0-78fd283556f3?syn-25a6b1a6=1) |
-| Finance | Nov 01, 2026 | [Oil majors resist pressure to invest in new refineries as fuel prices keep rising](https://www.ft.com/content/4d63f08d-3556-4d84-8e1d-40f866741d15?syn-25a6b1a6=1) |
+| Finance | Nov 01, 2026 | [Binance restarts customer withdrawals after $6.3bn heist](https://www.ft.com/content/1d4dd7b2-9dee-433b-ac2a-e8022af1dd07?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
