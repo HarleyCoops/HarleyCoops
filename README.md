@@ -314,8 +314,8 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 19, 2026 | [Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments](https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html) |
 | Finance | Nov 02, 2026 | [Trump makes final pitch to restive voters in midterms campaign](https://www.ft.com/content/75e8405b-124f-44aa-9c5e-0a33d0ee5b92?syn-25a6b1a6=1) |
 | Finance | Nov 02, 2026 | [Petrol prices set to hit record high under Trump on eve of US elections](https://www.ft.com/content/ee2748fb-9f85-4095-b599-526e5a4a6baa?syn-25a6b1a6=1) |
-| Finance | Nov 02, 2026 | [The meaning of the midterms](https://www.ft.com/content/35d78f66-3558-402b-8816-356c0b6b2f81?syn-25a6b1a6=1) |
 | Finance | Nov 02, 2026 | [The race to keep AI under control](https://ig.ft.com/ai-safety/?syn-25a6b1a6=1) |
+| Finance | Nov 02, 2026 | [Why rich Ireland still feels poor](https://www.ft.com/content/637d66c0-0b2d-48b2-9d17-f2f5edb86971?syn-25a6b1a6=1) |
 | Finance | Nov 02, 2026 | [AI mania can’t survive higher interest rates](https://www.ft.com/content/6e99dc59-8bd0-4c5c-8186-f6ceed04233a?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
