@@ -312,8 +312,8 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 20, 2026 | [The world’s finance chiefs see new risks — and less China angst](https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html) |
 | Market | Oct 19, 2026 | [Anthropic is AI trade's last big hope for a major IPO this year](https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html) |
 | Market | Oct 19, 2026 | [Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments](https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html) |
-| Finance | Nov 01, 2026 | [Junk debt rout sparks ‘bloodbath’ for credit investors](https://www.ft.com/content/fdc9a85d-d2c4-465f-99ca-609d68b6d443?syn-25a6b1a6=1) |
-| Finance | Nov 01, 2026 | [Bond investors sit out ‘most consequential’ US midterm elections in years](https://www.ft.com/content/937308d7-aa2e-4dac-b19b-423d83bc1253?syn-25a6b1a6=1) |
+| Finance | Nov 01, 2026 | [Trump makes final pitch to restive voters in midterms campaign](https://www.ft.com/content/75e8405b-124f-44aa-9c5e-0a33d0ee5b92?syn-25a6b1a6=1) |
+| Finance | Nov 01, 2026 | [Trump loses Latino support](https://www.ft.com/video/fbc0f62e-50ea-4509-9fa7-32f00c98c424?syn-25a6b1a6=1) |
 | Finance | Nov 01, 2026 | [Inside the leaderless movement set to govern Serbia](https://www.ft.com/content/4e09cf90-7395-4dc4-afa8-a4fa71abe2b3?syn-25a6b1a6=1) |
 | Finance | Nov 01, 2026 | [Weil Gotshal: what happens now at the troubled Wall St law firm?](https://www.ft.com/content/8332fa3f-2a4a-41ca-8836-44d41d32fe8a?syn-25a6b1a6=1) |
 | Finance | Nov 01, 2026 | [France and the UK require a new entente](https://www.ft.com/content/e1f6ac62-d677-4a50-94c5-25605ae71eb7) |
