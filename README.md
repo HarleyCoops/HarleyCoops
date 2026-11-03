@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Nov 03, 2026 | [Blackstone president calls for more equity to fund AI buildout as debt risks mount](https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html) |
 | Market | Nov 02, 2026 | [Texas governor race tightens in prediction markets, but Abbott remains favored](https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html) |
 | Market | Nov 02, 2026 | [Stock market after midterm elections: What S&P 500 history shows](https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html) |
 | Market | Oct 31, 2026 | [Binance’s $6.3 billion hack raises questions about crypto wallet safety](https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html) |
 | Market | Oct 30, 2026 | [Halloween gets pricier as chocolate costs climb — Hershey may feel the pinch](https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html) |
-| Market | Oct 30, 2026 | [Fed officials are already saying they’ll need to get back to hiking rates](https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html) |
-| Finance | Nov 03, 2026 | [Nvidia orders data centre clients to reduce China exposure](https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2?syn-25a6b1a6=1) |
-| Finance | Nov 03, 2026 | [One battle after another: Trump’s turbulent 21 months](https://www.ft.com/content/703f842f-599f-4267-a7c9-1ec1d00ded00?syn-25a6b1a6=1) |
-| Finance | Nov 02, 2026 | [Key races that will decide the US midterm elections](https://www.ft.com/content/1626b14d-524f-4d2a-94d1-860ae4a68692?syn-25a6b1a6=1) |
-| Finance | Nov 03, 2026 | [The AI problem we feared is not the AI problem we got](https://www.ft.com/content/cf6fd711-cfa5-49f9-9958-3aec32369286?syn-25a6b1a6=1) |
-| Finance | Nov 03, 2026 | [US strikes Iran’s Qeshm Island on eve of election](https://www.ft.com/content/ebeaca62-8958-459a-be9d-d3d39e441a53?syn-25a6b1a6=1) |
+| Finance | Nov 03, 2026 | [US voters prepare to deliver verdict on Trump](https://www.ft.com/content/086e9324-9d27-43a7-9334-d743f7cf8626?syn-25a6b1a6=1) |
+| Finance | Nov 03, 2026 | [Americans begin voting in elections to decide control of Congress](https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1) |
+| Finance | Nov 03, 2026 | [What 21 months of Trump have done to America](https://www.ft.com/content/703f842f-599f-4267-a7c9-1ec1d00ded00?syn-25a6b1a6=1) |
+| Finance | Nov 02, 2026 | [US midterms: the races to watch](https://www.ft.com/content/1626b14d-524f-4d2a-94d1-860ae4a68692?syn-25a6b1a6=1) |
+| Finance | Nov 02, 2026 | [‘A massive piece of pool’: Trump talks algae and grass in final midterm push](https://www.ft.com/content/6ec53c14-0186-4b58-86db-cf200131680f?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
