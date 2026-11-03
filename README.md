@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
-| Market | Oct 21, 2026 | [Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge](https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html) |
-| Market | Oct 20, 2026 | [HSBC CEO warns the AI boom won’t make every data center a good bet](https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html) |
-| Market | Oct 20, 2026 | [The world’s finance chiefs see new risks — and less China angst](https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html) |
-| Market | Oct 19, 2026 | [Anthropic is AI trade's last big hope for a major IPO this year](https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html) |
-| Market | Oct 19, 2026 | [Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments](https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html) |
-| Finance | Nov 02, 2026 | [Petrol prices set to hit record high under Trump on eve of US elections](https://www.ft.com/content/ee2748fb-9f85-4095-b599-526e5a4a6baa?syn-25a6b1a6=1) |
-| Finance | Nov 02, 2026 | [The meaning of the midterms](https://www.ft.com/content/35d78f66-3558-402b-8816-356c0b6b2f81?syn-25a6b1a6=1) |
-| Finance | Nov 02, 2026 | [Donald Trump’s imperial presidency faces a popular uprising](https://www.ft.com/content/7ee57da7-9687-4ceb-8057-d5afab78d728?syn-25a6b1a6=1) |
+| Market | Nov 02, 2026 | [Texas governor race tightens in prediction markets, but Abbott remains favored](https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html) |
+| Market | Nov 02, 2026 | [Stock market after midterm elections: What S&P 500 history shows](https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html) |
+| Market | Oct 31, 2026 | [Binance’s $6.3 billion hack raises questions about crypto wallet safety](https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html) |
+| Market | Oct 30, 2026 | [Halloween gets pricier as chocolate costs climb — Hershey may feel the pinch](https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html) |
+| Market | Oct 30, 2026 | [Fed officials are already saying they’ll need to get back to hiking rates](https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html) |
+| Finance | Nov 02, 2026 | [Big majority of US voters disapprove of Trump’s handling of inflation: FT poll](https://www.ft.com/content/5ed63d08-66f3-4ad3-9ec7-2ec8b590fc85?syn-25a6b1a6=1) |
+| Finance | Nov 02, 2026 | [Democrats close ranks after shock Michigan defection](https://www.ft.com/content/17ea8ea2-a834-428b-8c93-bc1803ca4d9f?syn-25a6b1a6=1) |
+| Finance | Nov 02, 2026 | [Key races that will decide the US midterm elections](https://www.ft.com/content/1626b14d-524f-4d2a-94d1-860ae4a68692?syn-25a6b1a6=1) |
+| Finance | Nov 02, 2026 | [‘A massive piece of pool’: Trump talks algae and grass in final midterm push](https://www.ft.com/content/6ec53c14-0186-4b58-86db-cf200131680f?syn-25a6b1a6=1) |
 | Finance | Nov 02, 2026 | [How Putin has split the west](https://www.ft.com/content/eae872b0-69cb-445c-a107-aab95f9a8525?syn-25a6b1a6=1) |
-| Finance | Nov 02, 2026 | [Why rich Ireland still feels poor](https://www.ft.com/content/637d66c0-0b2d-48b2-9d17-f2f5edb86971?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
