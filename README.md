@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Oct 31, 2026 | [Binance’s $6.3 billion hack raises questions about crypto wallet safety](https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html) |
 | Market | Oct 30, 2026 | [Halloween gets pricier as chocolate costs climb — Hershey may feel the pinch](https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html) |
 | Market | Oct 30, 2026 | [Fed officials are already saying they’ll need to get back to hiking rates](https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html) |
-| Finance | Nov 02, 2026 | [Big majority of US voters disapprove of Trump’s handling of inflation: FT poll](https://www.ft.com/content/5ed63d08-66f3-4ad3-9ec7-2ec8b590fc85?syn-25a6b1a6=1) |
-| Finance | Nov 02, 2026 | [Democrats close ranks after shock Michigan defection](https://www.ft.com/content/17ea8ea2-a834-428b-8c93-bc1803ca4d9f?syn-25a6b1a6=1) |
+| Finance | Nov 03, 2026 | [Nvidia orders data centre clients to reduce China exposure](https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2?syn-25a6b1a6=1) |
+| Finance | Nov 03, 2026 | [One battle after another: Trump’s turbulent 21 months](https://www.ft.com/content/703f842f-599f-4267-a7c9-1ec1d00ded00?syn-25a6b1a6=1) |
 | Finance | Nov 02, 2026 | [Key races that will decide the US midterm elections](https://www.ft.com/content/1626b14d-524f-4d2a-94d1-860ae4a68692?syn-25a6b1a6=1) |
-| Finance | Nov 02, 2026 | [‘A massive piece of pool’: Trump talks algae and grass in final midterm push](https://www.ft.com/content/6ec53c14-0186-4b58-86db-cf200131680f?syn-25a6b1a6=1) |
-| Finance | Nov 02, 2026 | [How Putin has split the west](https://www.ft.com/content/eae872b0-69cb-445c-a107-aab95f9a8525?syn-25a6b1a6=1) |
+| Finance | Nov 03, 2026 | [The AI problem we feared is not the AI problem we got](https://www.ft.com/content/cf6fd711-cfa5-49f9-9958-3aec32369286?syn-25a6b1a6=1) |
+| Finance | Nov 03, 2026 | [US strikes Iran’s Qeshm Island on eve of election](https://www.ft.com/content/ebeaca62-8958-459a-be9d-d3d39e441a53?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
