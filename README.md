@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Nov 03, 2026 | [Texas governor race tightens in prediction markets, but Abbott remains favored](https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html) |
 | Market | Nov 03, 2026 | [Stock market after midterm elections: What S&P 500 history shows](https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html) |
 | Market | Oct 31, 2026 | [Binance’s $6.3 billion hack raises questions about crypto wallet safety](https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html) |
-| Finance | Nov 04, 2026 | [Democrats clinch majority in Senate as voters lash out at Trump’s Republicans](https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1) |
-| Finance | Nov 04, 2026 | [Global stocks slide as Democratic wins stoke fears for AI boom](https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1) |
-| Finance | Nov 04, 2026 | [James Talarico’s historic Texas Senate victory deals blow to Elon Musk](https://www.ft.com/content/b2d07a1f-dfa6-449b-a598-1db51951d6f6?syn-25a6b1a6=1) |
-| Finance | Nov 03, 2026 | [Live US midterm elections results — in charts and maps](https://www.ft.com/content/ca8ba515-592b-4c1d-a1d0-d8b2a94ccd30?syn-25a6b1a6=1) |
-| Finance | Nov 04, 2026 | [Trump’s American slapdown for the ages](https://www.ft.com/content/0a9d5d07-bc57-4348-b67e-54cf4f1a246e?syn-25a6b1a6=1) |
+| Finance | Nov 04, 2026 | [Americans deliver stunning rebuke to Trump as blue wave sweeps country](https://www.ft.com/content/b1eb9500-612a-4bb0-bdc3-0311cfc0ec99?syn-25a6b1a6=1) |
+| Finance | Nov 04, 2026 | [The great humbling of Donald Trump](https://www.ft.com/content/862ca6ad-2781-4117-8799-3205bbdbc5ea?syn-25a6b1a6=1) |
+| Finance | Nov 04, 2026 | [Trump’s slapdown by America is one for the ages](https://www.ft.com/content/0a9d5d07-bc57-4348-b67e-54cf4f1a246e?syn-25a6b1a6=1) |
+| Finance | Nov 04, 2026 | [Five takeaways from the midterm results](https://www.ft.com/content/2bfbe464-f070-44bb-a761-fecad1cde4d4?syn-25a6b1a6=1) |
+| Finance | Nov 04, 2026 | [Stocks rebound after Democrats’ sweep](https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
