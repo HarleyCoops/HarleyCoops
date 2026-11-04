@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Nov 03, 2026 | [Stock market after midterm elections: What S&P 500 history shows](https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html) |
 | Market | Oct 31, 2026 | [Binance’s $6.3 billion hack raises questions about crypto wallet safety](https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html) |
 | Market | Oct 30, 2026 | [Halloween gets pricier as chocolate costs climb — Hershey may feel the pinch](https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html) |
-| Finance | Nov 03, 2026 | [Americans vote in election that doubles as referendum on Trump’s presidency](https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1) |
-| Finance | Nov 03, 2026 | [US voters prepare to deliver verdict on Trump](https://www.ft.com/content/086e9324-9d27-43a7-9334-d743f7cf8626?syn-25a6b1a6=1) |
-| Finance | Nov 03, 2026 | [The FT’s guide to election night](https://www.ft.com/content/c3be88d4-37bb-4eff-8e12-34ab019012e5?syn-25a6b1a6=1) |
-| Finance | Nov 03, 2026 | [What 21 months of Trump have done to America](https://www.ft.com/content/703f842f-599f-4267-a7c9-1ec1d00ded00?syn-25a6b1a6=1) |
-| Finance | Nov 02, 2026 | [‘A massive piece of pool’: Trump talks algae and grass in final midterm push](https://www.ft.com/content/6ec53c14-0186-4b58-86db-cf200131680f?syn-25a6b1a6=1) |
+| Finance | Nov 03, 2026 | [First polls close in high-stakes vote for control of US Congress](https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1) |
+| Finance | Nov 03, 2026 | [The head-spinning turbulence of Trump’s second term](https://www.ft.com/content/703f842f-599f-4267-a7c9-1ec1d00ded00?syn-25a6b1a6=1) |
+| Finance | Nov 03, 2026 | [Investors watch US state races for signs of backlash against AI boom](https://www.ft.com/content/c8a092e5-c1e4-46b8-83e1-73404900a0c5?syn-25a6b1a6=1) |
+| Finance | Nov 03, 2026 | [Live US midterm elections results — in charts and maps](https://www.ft.com/content/ca8ba515-592b-4c1d-a1d0-d8b2a94ccd30?syn-25a6b1a6=1) |
+| Finance | Nov 03, 2026 | [US has no immediate plan to strike Iran, Trump tells FT](https://www.ft.com/content/f3afd549-65fc-487e-922e-2748fa6a8a5f?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
