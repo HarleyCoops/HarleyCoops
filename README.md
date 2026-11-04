@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Nov 04, 2026 | [Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off](https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html) |
 | Market | Nov 03, 2026 | [Blackstone president calls for more equity to fund AI buildout as debt risks mount](https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html) |
 | Market | Nov 03, 2026 | [Texas governor race tightens in prediction markets, but Abbott remains favored](https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html) |
 | Market | Nov 03, 2026 | [Stock market after midterm elections: What S&P 500 history shows](https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html) |
 | Market | Oct 31, 2026 | [Binance’s $6.3 billion hack raises questions about crypto wallet safety](https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html) |
-| Market | Oct 30, 2026 | [Halloween gets pricier as chocolate costs climb — Hershey may feel the pinch](https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html) |
-| Finance | Nov 03, 2026 | [First polls close in high-stakes vote for control of US Congress](https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1) |
-| Finance | Nov 03, 2026 | [The head-spinning turbulence of Trump’s second term](https://www.ft.com/content/703f842f-599f-4267-a7c9-1ec1d00ded00?syn-25a6b1a6=1) |
-| Finance | Nov 03, 2026 | [Investors watch US state races for signs of backlash against AI boom](https://www.ft.com/content/c8a092e5-c1e4-46b8-83e1-73404900a0c5?syn-25a6b1a6=1) |
+| Finance | Nov 04, 2026 | [Democrats clinch majority in Senate as voters lash out at Trump’s Republicans](https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1) |
+| Finance | Nov 04, 2026 | [Global stocks slide as Democratic wins stoke fears for AI boom](https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1) |
+| Finance | Nov 04, 2026 | [James Talarico’s historic Texas Senate victory deals blow to Elon Musk](https://www.ft.com/content/b2d07a1f-dfa6-449b-a598-1db51951d6f6?syn-25a6b1a6=1) |
 | Finance | Nov 03, 2026 | [Live US midterm elections results — in charts and maps](https://www.ft.com/content/ca8ba515-592b-4c1d-a1d0-d8b2a94ccd30?syn-25a6b1a6=1) |
-| Finance | Nov 03, 2026 | [US has no immediate plan to strike Iran, Trump tells FT](https://www.ft.com/content/f3afd549-65fc-487e-922e-2748fa6a8a5f?syn-25a6b1a6=1) |
+| Finance | Nov 04, 2026 | [Trump’s American slapdown for the ages](https://www.ft.com/content/0a9d5d07-bc57-4348-b67e-54cf4f1a246e?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
