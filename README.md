@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Nov 05, 2026 | [Barkin sees interest rate hikes ahead, but at a gradual pace](https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html) |
 | Market | Nov 05, 2026 | [What the Democratic midterms sweep changes for U.S.-China relations](https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html) |
 | Market | Nov 04, 2026 | [10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop](https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html) |
 | Market | Nov 03, 2026 | [Blackstone president calls for more equity to fund AI buildout as debt risks mount](https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html) |
 | Market | Nov 03, 2026 | [Texas governor race tightens in prediction markets, but Abbott remains favored](https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html) |
-| Market | Nov 03, 2026 | [Stock market after midterm elections: What S&P 500 history shows](https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html) |
-| Finance | Nov 05, 2026 | [Democrats look to reshape America after historic midterm victories](https://www.ft.com/content/9a4a7357-f783-462f-b5d3-9852daf0f328?syn-25a6b1a6=1) |
-| Finance | Nov 04, 2026 | [The beginning of the end of the age of Trump](https://www.ft.com/content/ab004bd1-4ae7-46a1-a41f-2266cd0f270c?syn-25a6b1a6=1) |
-| Finance | Nov 05, 2026 | [The next US presidential race has begun](https://www.ft.com/content/a7fe8e95-bd9a-4cd7-a308-f156073cd074?syn-25a6b1a6=1) |
+| Finance | Nov 05, 2026 | [Nasdaq tumbles in chaotic trading as Democratic ‘blue wave’ sparks AI fears](https://www.ft.com/content/7c6ceb4f-d7b1-49ec-9047-0e2e4cd2615c?syn-25a6b1a6=1) |
+| Finance | Nov 05, 2026 | [So, about that Anthropic IPO . . .](https://www.ft.com/content/2fbd60ee-060a-4957-b9c5-3b5a0ce88e1a?syn-25a6b1a6=1) |
+| Finance | Nov 05, 2026 | [Follow live: US chip stocks plummet](https://www.ft.com/content/7c6ceb4f-d7b1-49ec-9047-0e2e4cd2615c?syn-25a6b1a6=1) |
 | Finance | Nov 05, 2026 | [Morning in America, twilight in the markets](https://www.ft.com/content/d21e2a87-191b-447d-b81b-edcf7bc2f007) |
-| Finance | Nov 05, 2026 | [Trump’s economic agenda wasn’t Republican enough](https://www.ft.com/content/800da770-639b-406c-a46a-a30552aa1128) |
+| Finance | Nov 05, 2026 | [The next US presidential race has begun](https://www.ft.com/content/a7fe8e95-bd9a-4cd7-a308-f156073cd074?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
