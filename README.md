@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Nov 03, 2026 | [Texas governor race tightens in prediction markets, but Abbott remains favored](https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html) |
 | Market | Nov 03, 2026 | [Stock market after midterm elections: What S&P 500 history shows](https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html) |
 | Market | Oct 31, 2026 | [Binance’s $6.3 billion hack raises questions about crypto wallet safety](https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html) |
-| Finance | Nov 04, 2026 | [US stocks post best day since August after Democrats sweep midterms](https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1) |
+| Finance | Nov 05, 2026 | [Democrats look to reshape America after historic midterm victories](https://www.ft.com/content/9a4a7357-f783-462f-b5d3-9852daf0f328?syn-25a6b1a6=1) |
 | Finance | Nov 04, 2026 | [Vance blames Iran war for crushing Republican midterms defeat](https://www.ft.com/content/6bc8be51-5bd8-468c-bd3c-82bbc2866ba1?syn-25a6b1a6=1) |
-| Finance | Nov 04, 2026 | [Democrats debate how far to take their fight against Trump](https://www.ft.com/content/1b492f63-85b4-472c-9bbd-f741a1dfdb0b?syn-25a6b1a6=1) |
-| Finance | Nov 04, 2026 | [How Democrats pulled off the blue wave in maps and charts](https://www.ft.com/content/f27626ac-8427-45d7-a995-a8dfe8d01bd9?syn-25a6b1a6=1) |
-| Finance | Nov 04, 2026 | [Trump’s slapdown by America is one for the ages](https://www.ft.com/content/0a9d5d07-bc57-4348-b67e-54cf4f1a246e?syn-25a6b1a6=1) |
+| Finance | Nov 05, 2026 | [Asian tech stocks slide on post-midterm AI fears](https://www.ft.com/content/21755495-c68a-45a9-90d8-64f698cd1952?syn-25a6b1a6=1) |
+| Finance | Nov 05, 2026 | [The next US presidential race has begun](https://www.ft.com/content/a7fe8e95-bd9a-4cd7-a308-f156073cd074?syn-25a6b1a6=1) |
+| Finance | Nov 05, 2026 | [Morning in America, twilight in the markets](https://www.ft.com/content/d21e2a87-191b-447d-b81b-edcf7bc2f007) |
 
 <!-- NEWS:END -->
 
