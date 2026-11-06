@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Nov 05, 2026 | [Nasdaq drops into correction territory — here’s what typically happens next](https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html) |
+| Market | Nov 05, 2026 | [Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium ...](https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html) |
 | Market | Nov 05, 2026 | [Barkin sees interest rate hikes ahead, but at a gradual pace](https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html) |
 | Market | Nov 05, 2026 | [What the Democratic midterms sweep changes for U.S.-China relations](https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html) |
 | Market | Nov 04, 2026 | [10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop](https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html) |
-| Market | Nov 03, 2026 | [Blackstone president calls for more equity to fund AI buildout as debt risks mount](https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html) |
-| Market | Nov 03, 2026 | [Texas governor race tightens in prediction markets, but Abbott remains favored](https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html) |
-| Finance | Nov 05, 2026 | [Nasdaq tumbles in chaotic trading as Democratic ‘blue wave’ sparks AI fears](https://www.ft.com/content/7c6ceb4f-d7b1-49ec-9047-0e2e4cd2615c?syn-25a6b1a6=1) |
-| Finance | Nov 05, 2026 | [So, about that Anthropic IPO . . .](https://www.ft.com/content/2fbd60ee-060a-4957-b9c5-3b5a0ce88e1a?syn-25a6b1a6=1) |
-| Finance | Nov 05, 2026 | [Follow live: US chip stocks plummet](https://www.ft.com/content/7c6ceb4f-d7b1-49ec-9047-0e2e4cd2615c?syn-25a6b1a6=1) |
+| Finance | Nov 05, 2026 | [Wall Street sheds $3.2tn as Democratic midterm sweep triggers brutal AI rout](https://www.ft.com/content/3d079b3d-580d-400b-bf9c-56af6a08f60f?syn-25a6b1a6=1) |
+| Finance | Nov 05, 2026 | [Nasdaq drops the most since pandemic as Democratic ‘blue wave’ upends AI bets](https://www.ft.com/content/7c6ceb4f-d7b1-49ec-9047-0e2e4cd2615c?syn-25a6b1a6=1) |
+| Finance | Nov 05, 2026 | [Tech leaders need an urgent rethink of their political strategy](https://www.ft.com/content/6b64ea5b-48c3-474f-944b-845163db9b40?syn-25a6b1a6=1) |
+| Finance | Nov 05, 2026 | [Will Democrats stall the AI boom?](https://www.ft.com/content/5dedb9bf-bd12-4956-b2b7-ce968e1e1371?syn-25a6b1a6=1) |
 | Finance | Nov 05, 2026 | [Morning in America, twilight in the markets](https://www.ft.com/content/d21e2a87-191b-447d-b81b-edcf7bc2f007) |
-| Finance | Nov 05, 2026 | [The next US presidential race has begun](https://www.ft.com/content/a7fe8e95-bd9a-4cd7-a308-f156073cd074?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
