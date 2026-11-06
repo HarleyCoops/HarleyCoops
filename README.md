@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Nov 05, 2026 | [Barkin sees interest rate hikes ahead, but at a gradual pace](https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html) |
 | Market | Nov 05, 2026 | [What the Democratic midterms sweep changes for U.S.-China relations](https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html) |
 | Market | Nov 04, 2026 | [10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop](https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html) |
-| Finance | Nov 05, 2026 | [Wall Street sheds $3.2tn as Democratic midterm sweep triggers brutal AI rout](https://www.ft.com/content/3d079b3d-580d-400b-bf9c-56af6a08f60f?syn-25a6b1a6=1) |
-| Finance | Nov 05, 2026 | [Nasdaq drops the most since pandemic as Democratic ‘blue wave’ upends AI bets](https://www.ft.com/content/7c6ceb4f-d7b1-49ec-9047-0e2e4cd2615c?syn-25a6b1a6=1) |
-| Finance | Nov 05, 2026 | [Tech leaders need an urgent rethink of their political strategy](https://www.ft.com/content/6b64ea5b-48c3-474f-944b-845163db9b40?syn-25a6b1a6=1) |
-| Finance | Nov 05, 2026 | [Will Democrats stall the AI boom?](https://www.ft.com/content/5dedb9bf-bd12-4956-b2b7-ce968e1e1371?syn-25a6b1a6=1) |
-| Finance | Nov 05, 2026 | [Morning in America, twilight in the markets](https://www.ft.com/content/d21e2a87-191b-447d-b81b-edcf7bc2f007) |
+| Finance | Nov 05, 2026 | [Global stocks tumble as Democratic midterm sweep sparks AI rout](https://www.ft.com/content/7c6ceb4f-d7b1-49ec-9047-0e2e4cd2615c?syn-25a6b1a6=1) |
+| Finance | Nov 06, 2026 | [Asian tech stocks sink](https://www.ft.com/content/b77ebe43-a017-4e63-af84-5bdec8f47648?syn-25a6b1a6=1) |
+| Finance | Nov 06, 2026 | [America turns on Trump’s tech cheerleaders](https://www.ft.com/content/bda53f77-f391-4750-ab5d-55e09cbbdb7c?syn-25a6b1a6=1) |
+| Finance | Nov 06, 2026 | [Who’s in the line of fire after the midterm drubbing?](https://www.ft.com/content/580ab1bf-4e2e-46b8-9178-dbf765645754?syn-25a6b1a6=1) |
+| Finance | Nov 06, 2026 | [‘Blue wave’ hopes for US economic change are likely to be disappointed](https://www.ft.com/content/880c8ba8-2967-4d7a-87fb-d34135c676d8?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
