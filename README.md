@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Nov 05, 2026 | [Barkin sees interest rate hikes ahead, but at a gradual pace](https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html) |
 | Market | Nov 05, 2026 | [What the Democratic midterms sweep changes for U.S.-China relations](https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html) |
 | Market | Nov 04, 2026 | [10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop](https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html) |
-| Finance | Nov 05, 2026 | [Global stocks tumble as Democratic midterm sweep sparks AI rout](https://www.ft.com/content/7c6ceb4f-d7b1-49ec-9047-0e2e4cd2615c?syn-25a6b1a6=1) |
-| Finance | Nov 06, 2026 | [Asian tech stocks sink](https://www.ft.com/content/b77ebe43-a017-4e63-af84-5bdec8f47648?syn-25a6b1a6=1) |
+| Finance | Nov 06, 2026 | [Wall Street set to steady after tech rout](https://www.ft.com/content/642b32dc-e3a1-4df8-ae91-5c84bdeb89e0) |
+| Finance | Nov 06, 2026 | [Is the AI stock bubble finally bursting?](https://www.ft.com/content/e185d576-c4a6-4fb0-aa03-deda69c900c8?syn-25a6b1a6=1) |
+| Finance | Nov 06, 2026 | [The sell-off gets deep](https://www.ft.com/content/4ea585dd-6532-4839-a042-c9d1ad2e23f7?syn-25a6b1a6=1) |
 | Finance | Nov 06, 2026 | [America turns on Trump’s tech cheerleaders](https://www.ft.com/content/bda53f77-f391-4750-ab5d-55e09cbbdb7c?syn-25a6b1a6=1) |
-| Finance | Nov 06, 2026 | [Who’s in the line of fire after the midterm drubbing?](https://www.ft.com/content/580ab1bf-4e2e-46b8-9178-dbf765645754?syn-25a6b1a6=1) |
-| Finance | Nov 06, 2026 | [‘Blue wave’ hopes for US economic change are likely to be disappointed](https://www.ft.com/content/880c8ba8-2967-4d7a-87fb-d34135c676d8?syn-25a6b1a6=1) |
+| Finance | Nov 06, 2026 | [Who is in the line of fire after the midterm drubbing?](https://www.ft.com/content/580ab1bf-4e2e-46b8-9178-dbf765645754?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
