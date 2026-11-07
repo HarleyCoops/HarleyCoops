@@ -307,15 +307,15 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Nov 06, 2026 | [Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says](https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html) |
 | Market | Nov 06, 2026 | [The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%](https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html) |
 | Market | Nov 06, 2026 | [Nasdaq drops into correction territory — here’s what typically happens next](https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html) |
 | Market | Nov 05, 2026 | [Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium ...](https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html) |
 | Market | Nov 05, 2026 | [Barkin sees interest rate hikes ahead, but at a gradual pace](https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html) |
-| Market | Nov 05, 2026 | [What the Democratic midterms sweep changes for U.S.-China relations](https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html) |
-| Finance | Nov 06, 2026 | [US stocks rebound after tech rout](https://www.ft.com/content/642b32dc-e3a1-4df8-ae91-5c84bdeb89e0?syn-25a6b1a6=1) |
-| Finance | Nov 06, 2026 | [US economy outstrips forecasts to add 165,000 jobs in October](https://www.ft.com/content/f84c722c-99a9-4628-84dc-c42a192cb35c?syn-25a6b1a6=1) |
-| Finance | Nov 06, 2026 | [Is the AI stock bubble finally bursting?](https://www.ft.com/content/e185d576-c4a6-4fb0-aa03-deda69c900c8?syn-25a6b1a6=1) |
+| Finance | Nov 06, 2026 | [Trump taps immigration hardliner Stephen Miller as chief of staff](https://www.ft.com/content/6e8f2244-0e39-45cd-b415-e0be54b0351f?syn-25a6b1a6=1) |
+| Finance | Nov 06, 2026 | [Who is in the line of fire after the midterm drubbing?](https://www.ft.com/content/580ab1bf-4e2e-46b8-9178-dbf765645754?syn-25a6b1a6=1) |
 | Finance | Nov 06, 2026 | [James Talarico: the Democrats’ rising star who turned Texas blue](https://www.ft.com/content/7eb006c7-a430-40fd-bba6-48dcbb810ba2?syn-25a6b1a6=1) |
+| Finance | Nov 06, 2026 | [My portfolio returns went from hero to zero (actually I’d take zero)](https://www.ft.com/content/44211bf7-0f18-4e55-81b8-01e750ae785f?syn-25a6b1a6=1) |
 | Finance | Nov 06, 2026 | [Trump has taught the world that tariffs are useless](https://www.ft.com/content/aab95234-0b9a-4b95-b1e5-d932669076d5?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
