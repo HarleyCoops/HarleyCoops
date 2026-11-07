@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Nov 07, 2026 | [Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup](https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html) |
+| Market | Nov 07, 2026 | [Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline](https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html) |
 | Market | Nov 06, 2026 | [Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says](https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html) |
 | Market | Nov 06, 2026 | [The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%](https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html) |
 | Market | Nov 06, 2026 | [Nasdaq drops into correction territory — here’s what typically happens next](https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html) |
-| Market | Nov 05, 2026 | [Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium ...](https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html) |
-| Market | Nov 05, 2026 | [Barkin sees interest rate hikes ahead, but at a gradual pace](https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html) |
 | Finance | Nov 07, 2026 | [US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy](https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?syn-25a6b1a6=1) |
-| Finance | Nov 06, 2026 | [US warns China it must ‘immediately’ meet terms of Busan trade deal](https://www.ft.com/content/391bb785-0247-4c39-b53b-35007187d603?syn-25a6b1a6=1) |
+| Finance | Nov 06, 2026 | [Trump taps immigration hardliner Stephen Miller as chief of staff](https://www.ft.com/content/6e8f2244-0e39-45cd-b415-e0be54b0351f?syn-25a6b1a6=1) |
 | Finance | Nov 07, 2026 | [Trump’s defeat heralds a US retreat](https://www.ft.com/content/f80ff605-6f6e-4b5d-9fab-20276b78e9b7?syn-25a6b1a6=1) |
 | Finance | Nov 07, 2026 | [The mother of all American course corrections](https://www.ft.com/content/452cf328-c819-482e-8f2c-61b65c96f8ce?syn-25a6b1a6=1) |
-| Finance | Nov 07, 2026 | [A bittersweet year for liberals](https://www.ft.com/content/3370e949-4a32-4a2d-8738-2f1cde6a35ea?syn-25a6b1a6=1) |
+| Finance | Nov 07, 2026 | [Gillian Tett: Why does America hate AI?](https://www.ft.com/content/af97585a-3381-42a9-838b-9a205ab81232?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
