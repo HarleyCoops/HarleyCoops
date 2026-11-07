@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Nov 06, 2026 | [Nasdaq drops into correction territory — here’s what typically happens next](https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html) |
 | Market | Nov 05, 2026 | [Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium ...](https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html) |
 | Market | Nov 05, 2026 | [Barkin sees interest rate hikes ahead, but at a gradual pace](https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html) |
-| Finance | Nov 06, 2026 | [Trump taps immigration hardliner Stephen Miller as chief of staff](https://www.ft.com/content/6e8f2244-0e39-45cd-b415-e0be54b0351f?syn-25a6b1a6=1) |
-| Finance | Nov 06, 2026 | [Who is in the line of fire after the midterm drubbing?](https://www.ft.com/content/580ab1bf-4e2e-46b8-9178-dbf765645754?syn-25a6b1a6=1) |
-| Finance | Nov 06, 2026 | [James Talarico: the Democrats’ rising star who turned Texas blue](https://www.ft.com/content/7eb006c7-a430-40fd-bba6-48dcbb810ba2?syn-25a6b1a6=1) |
-| Finance | Nov 06, 2026 | [My portfolio returns went from hero to zero (actually I’d take zero)](https://www.ft.com/content/44211bf7-0f18-4e55-81b8-01e750ae785f?syn-25a6b1a6=1) |
-| Finance | Nov 06, 2026 | [Trump has taught the world that tariffs are useless](https://www.ft.com/content/aab95234-0b9a-4b95-b1e5-d932669076d5?syn-25a6b1a6=1) |
+| Finance | Nov 07, 2026 | [US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy](https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?syn-25a6b1a6=1) |
+| Finance | Nov 06, 2026 | [US warns China it must ‘immediately’ meet terms of Busan trade deal](https://www.ft.com/content/391bb785-0247-4c39-b53b-35007187d603?syn-25a6b1a6=1) |
+| Finance | Nov 07, 2026 | [Trump’s defeat heralds a US retreat](https://www.ft.com/content/f80ff605-6f6e-4b5d-9fab-20276b78e9b7?syn-25a6b1a6=1) |
+| Finance | Nov 07, 2026 | [The mother of all American course corrections](https://www.ft.com/content/452cf328-c819-482e-8f2c-61b65c96f8ce?syn-25a6b1a6=1) |
+| Finance | Nov 07, 2026 | [A bittersweet year for liberals](https://www.ft.com/content/3370e949-4a32-4a2d-8738-2f1cde6a35ea?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
