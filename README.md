@@ -316,7 +316,7 @@ The linked training runs expose reward curves and component metrics. I use these
 | Finance | Nov 08, 2026 | [‘Radical left’ get the headlines but centrists dominate new US Congress](https://www.ft.com/content/c8692ed7-f32b-487f-9efa-3ccd3d144f42?syn-25a6b1a6=1) |
 | Finance | Nov 08, 2026 | [Is Europe getting serious about ending tech dependence?](https://www.ft.com/content/bd763f67-4c23-4e55-8fbf-3ca0ed520175?syn-25a6b1a6=1) |
 | Finance | Nov 08, 2026 | [America is craving a return to community](https://www.ft.com/content/2a0bc83c-1c48-451a-a2b6-3371a36fc287?syn-25a6b1a6=1) |
-| Finance | Nov 07, 2026 | [Israel’s president gives Gadi Eisenkot first chance at forming a government](https://www.ft.com/content/bf737648-b974-4f87-ba0b-958f2aff1163?syn-25a6b1a6=1) |
+| Finance | Nov 08, 2026 | [Apple saves $2.7bn in taxes by booking profits in Singapore](https://www.ft.com/content/49453406-99f2-4f5b-8f5d-01dc8cac5ede?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
