@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Nov 06, 2026 | [Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says](https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html) |
 | Market | Nov 06, 2026 | [The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%](https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html) |
 | Market | Nov 06, 2026 | [Nasdaq drops into correction territory — here’s what typically happens next](https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html) |
+| Finance | Nov 08, 2026 | [Crypto industry braces for reckoning over Trump ties](https://www.ft.com/content/f1b98a61-4103-447c-bb9a-3dccc0819f61?syn-25a6b1a6=1) |
+| Finance | Nov 08, 2026 | [‘Radical left’ get the headlines but centrists dominate new US Congress](https://www.ft.com/content/c8692ed7-f32b-487f-9efa-3ccd3d144f42?syn-25a6b1a6=1) |
+| Finance | Nov 08, 2026 | [Is Europe getting serious about ending tech dependence?](https://www.ft.com/content/bd763f67-4c23-4e55-8fbf-3ca0ed520175?syn-25a6b1a6=1) |
+| Finance | Nov 08, 2026 | [America is craving a return to community](https://www.ft.com/content/2a0bc83c-1c48-451a-a2b6-3371a36fc287?syn-25a6b1a6=1) |
 | Finance | Nov 07, 2026 | [Israel’s president gives Gadi Eisenkot first chance at forming a government](https://www.ft.com/content/bf737648-b974-4f87-ba0b-958f2aff1163?syn-25a6b1a6=1) |
-| Finance | Nov 07, 2026 | [Trump’s defeat heralds a US retreat](https://www.ft.com/content/f80ff605-6f6e-4b5d-9fab-20276b78e9b7?syn-25a6b1a6=1) |
-| Finance | Nov 07, 2026 | [The mother of all American course corrections](https://www.ft.com/content/452cf328-c819-482e-8f2c-61b65c96f8ce?syn-25a6b1a6=1) |
-| Finance | Nov 07, 2026 | [Gillian Tett: Why does America hate AI?](https://www.ft.com/content/af97585a-3381-42a9-838b-9a205ab81232?syn-25a6b1a6=1) |
-| Finance | Nov 07, 2026 | [US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy](https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
