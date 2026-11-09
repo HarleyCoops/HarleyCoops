@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Nov 06, 2026 | [Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says](https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html) |
 | Market | Nov 06, 2026 | [The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%](https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html) |
 | Market | Nov 06, 2026 | [Nasdaq drops into correction territory — here’s what typically happens next](https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html) |
-| Finance | Nov 08, 2026 | [Democrats vow to impeach Trump officials and investigate Republican donors](https://www.ft.com/content/111fefdb-0f85-4f8f-854f-86a5f81aceec?syn-25a6b1a6=1) |
-| Finance | Nov 08, 2026 | [Republican infighting mounts over corruption claims after midterms wipeout](https://www.ft.com/content/66e9ca46-d1ea-473c-b8d6-06ba1dfc9e76?syn-25a6b1a6=1) |
-| Finance | Nov 08, 2026 | [Crypto industry braces for reckoning over Trump ties](https://www.ft.com/content/f1b98a61-4103-447c-bb9a-3dccc0819f61?syn-25a6b1a6=1) |
+| Finance | Nov 08, 2026 | [Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy](https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1) |
 | Finance | Nov 08, 2026 | [‘Radical left’ get the headlines but centrists dominate new US Congress](https://www.ft.com/content/c8692ed7-f32b-487f-9efa-3ccd3d144f42?syn-25a6b1a6=1) |
 | Finance | Nov 08, 2026 | [A new economic agenda for America](https://www.ft.com/content/81bd54ff-61b4-4fa6-83d3-5a73821a879c) |
+| Finance | Nov 08, 2026 | [America is craving a return to community](https://www.ft.com/content/2a0bc83c-1c48-451a-a2b6-3371a36fc287?syn-25a6b1a6=1) |
+| Finance | Nov 08, 2026 | [Democrats vow to impeach Trump officials and investigate Republican donors](https://www.ft.com/content/111fefdb-0f85-4f8f-854f-86a5f81aceec?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
