@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Nov 06, 2026 | [Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says](https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html) |
 | Market | Nov 06, 2026 | [The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%](https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html) |
 | Market | Nov 06, 2026 | [Nasdaq drops into correction territory — here’s what typically happens next](https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html) |
-| Finance | Nov 09, 2026 | [Nvidia shares slide as it probes alleged Chinese spy scandal](https://www.ft.com/content/fa3b0a35-1aa9-4f31-97b4-e4c599e3e654?syn-25a6b1a6=1) |
-| Finance | Nov 09, 2026 | [Tech sell-off raises risks for SoftBank’s massive AI bet](https://www.ft.com/content/e19c86dc-9437-4827-a5ae-14bd4033037b?syn-25a6b1a6=1) |
-| Finance | Nov 09, 2026 | [Global stocks steady after AI rout](https://www.ft.com/content/b8644327-86e7-4d1c-a71f-3fb1d552723b?syn-25a6b1a6=1) |
-| Finance | Nov 09, 2026 | [The great British sell-off](https://www.ft.com/content/805f0c1d-795b-4ee0-8fbd-e08ab1be1193?syn-25a6b1a6=1) |
-| Finance | Nov 09, 2026 | [Tech’s ‘vertical’ obsession doesn’t stack up](https://www.ft.com/content/d3f706c8-a936-4395-bcf1-7f8bc2bed99a?syn-25a6b1a6=1) |
+| Finance | Nov 09, 2026 | [Alleged Chinese spy linked to Nvidia chief pitched AI chip deals to investors](https://www.ft.com/content/5d8c1e1d-6ce0-4eb4-9f5c-722fa5c4841d?syn-25a6b1a6=1) |
+| Finance | Nov 09, 2026 | [How the world became too reliant on Jensen Huang](https://www.ft.com/content/509596ae-e981-4a31-80ec-d016ca01aa3b?syn-25a6b1a6=1) |
+| Finance | Nov 09, 2026 | [Nvidia shares fall as it probes alleged Chinese spy scandal](https://www.ft.com/content/fa3b0a35-1aa9-4f31-97b4-e4c599e3e654?syn-25a6b1a6=1) |
+| Finance | Nov 09, 2026 | [Can Jensen Huang survive as Nvidia’s CEO after spy scandal?](https://www.ft.com/content/0b20d24a-580a-41df-a5f3-7f7dba4f552f?syn-25a6b1a6=1) |
+| Finance | Nov 09, 2026 | [Trump, Putin and the short war illusion](https://www.ft.com/content/fa36233a-1ee0-4bd3-9521-c3defe10c173?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
