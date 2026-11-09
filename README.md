@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Nov 06, 2026 | [Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says](https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html) |
 | Market | Nov 06, 2026 | [The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%](https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html) |
 | Market | Nov 06, 2026 | [Nasdaq drops into correction territory — here’s what typically happens next](https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html) |
-| Finance | Nov 09, 2026 | [Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy](https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1) |
-| Finance | Nov 09, 2026 | [Russian military turns to deepfake videos to claim battlefield success](https://www.ft.com/content/7f36031b-ea90-4a3a-a570-a6c6ff96e45a?syn-25a6b1a6=1) |
-| Finance | Nov 09, 2026 | [What Democrats must do now](https://www.ft.com/content/ea60eed2-f307-425e-8d9a-7bd31d6ea81b?syn-25a6b1a6=1) |
-| Finance | Nov 09, 2026 | [Tech’s teetering towers](https://www.ft.com/content/d3f706c8-a936-4395-bcf1-7f8bc2bed99a?syn-25a6b1a6=1) |
-| Finance | Nov 09, 2026 | [Democrat triumph offers China ‘window to catch up’ on AI](https://www.ft.com/content/ff0e9974-b855-4b9a-a8c9-0782e7af16ff?syn-25a6b1a6=1) |
+| Finance | Nov 09, 2026 | [Nvidia shares slide as it probes alleged Chinese spy scandal](https://www.ft.com/content/fa3b0a35-1aa9-4f31-97b4-e4c599e3e654?syn-25a6b1a6=1) |
+| Finance | Nov 09, 2026 | [Tech sell-off raises risks for SoftBank’s massive AI bet](https://www.ft.com/content/e19c86dc-9437-4827-a5ae-14bd4033037b?syn-25a6b1a6=1) |
+| Finance | Nov 09, 2026 | [Global stocks steady after AI rout](https://www.ft.com/content/b8644327-86e7-4d1c-a71f-3fb1d552723b?syn-25a6b1a6=1) |
+| Finance | Nov 09, 2026 | [The great British sell-off](https://www.ft.com/content/805f0c1d-795b-4ee0-8fbd-e08ab1be1193?syn-25a6b1a6=1) |
+| Finance | Nov 09, 2026 | [Tech’s ‘vertical’ obsession doesn’t stack up](https://www.ft.com/content/d3f706c8-a936-4395-bcf1-7f8bc2bed99a?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
