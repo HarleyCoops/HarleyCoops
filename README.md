@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Nov 07, 2026 | [Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup](https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html) |
 | Market | Nov 07, 2026 | [Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline](https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html) |
 | Market | Nov 06, 2026 | [Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says](https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html) |
-| Finance | Nov 09, 2026 | [Trump says FBI is ‘looking into’ Nvidia’s Jensen Huang](https://www.ft.com/content/cbabf2da-2079-4b69-88e3-0ba84cf8d6fd?syn-25a6b1a6=1) |
-| Finance | Nov 09, 2026 | [Alleged Chinese spy linked to Nvidia chief pitched AI chip deals to investors](https://www.ft.com/content/5d8c1e1d-6ce0-4eb4-9f5c-722fa5c4841d?syn-25a6b1a6=1) |
-| Finance | Nov 09, 2026 | [How the world became too reliant on Jensen Huang](https://www.ft.com/content/509596ae-e981-4a31-80ec-d016ca01aa3b?syn-25a6b1a6=1) |
+| Finance | Nov 10, 2026 | [Trump says FBI is ‘looking into’ Nvidia’s Jensen Huang](https://www.ft.com/content/cbabf2da-2079-4b69-88e3-0ba84cf8d6fd?syn-25a6b1a6=1) |
 | Finance | Nov 09, 2026 | [Can Jensen Huang survive as Nvidia’s CEO after spy scandal?](https://www.ft.com/content/0b20d24a-580a-41df-a5f3-7f7dba4f552f?syn-25a6b1a6=1) |
-| Finance | Nov 09, 2026 | [Trump, Putin and the short war illusion](https://www.ft.com/content/fa36233a-1ee0-4bd3-9521-c3defe10c173?syn-25a6b1a6=1) |
+| Finance | Nov 09, 2026 | [How the world became too reliant on Jensen Huang](https://www.ft.com/content/509596ae-e981-4a31-80ec-d016ca01aa3b?syn-25a6b1a6=1) |
+| Finance | Nov 10, 2026 | [The last of the Botíns](https://www.ft.com/content/0eab6768-1bdb-4a6c-bf6a-2fb8d35eef03?syn-25a6b1a6=1) |
+| Finance | Nov 10, 2026 | [Japan can tell the world what really matters when prepping](https://www.ft.com/content/559a8eeb-0e91-4920-8321-5066f81ea015?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
