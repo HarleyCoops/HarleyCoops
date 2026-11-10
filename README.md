@@ -307,14 +307,14 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Nov 09, 2026 | [Jensen Huang exit odds are low on prediction markets after Nvidia probe](https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html) |
+| Market | Nov 09, 2026 | [Goldman CEO Solomon says AI financing remains strong despite market jitters](https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html) |
 | Market | Nov 07, 2026 | [Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup](https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html) |
 | Market | Nov 07, 2026 | [Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline](https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html) |
 | Market | Nov 06, 2026 | [Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says](https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html) |
-| Market | Nov 06, 2026 | [The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%](https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html) |
-| Market | Nov 06, 2026 | [Nasdaq drops into correction territory — here’s what typically happens next](https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html) |
+| Finance | Nov 09, 2026 | [Trump says FBI is ‘looking into’ Nvidia’s Jensen Huang](https://www.ft.com/content/cbabf2da-2079-4b69-88e3-0ba84cf8d6fd?syn-25a6b1a6=1) |
 | Finance | Nov 09, 2026 | [Alleged Chinese spy linked to Nvidia chief pitched AI chip deals to investors](https://www.ft.com/content/5d8c1e1d-6ce0-4eb4-9f5c-722fa5c4841d?syn-25a6b1a6=1) |
 | Finance | Nov 09, 2026 | [How the world became too reliant on Jensen Huang](https://www.ft.com/content/509596ae-e981-4a31-80ec-d016ca01aa3b?syn-25a6b1a6=1) |
-| Finance | Nov 09, 2026 | [Nvidia shares fall as it probes alleged Chinese spy scandal](https://www.ft.com/content/fa3b0a35-1aa9-4f31-97b4-e4c599e3e654?syn-25a6b1a6=1) |
 | Finance | Nov 09, 2026 | [Can Jensen Huang survive as Nvidia’s CEO after spy scandal?](https://www.ft.com/content/0b20d24a-580a-41df-a5f3-7f7dba4f552f?syn-25a6b1a6=1) |
 | Finance | Nov 09, 2026 | [Trump, Putin and the short war illusion](https://www.ft.com/content/fa36233a-1ee0-4bd3-9521-c3defe10c173?syn-25a6b1a6=1) |
 
