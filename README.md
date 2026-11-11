@@ -307,13 +307,13 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Nov 11, 2026 | [Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes](https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html) |
 | Market | Nov 11, 2026 | [Alibaba announces plans to list T-Head, its Nvidia chip rival](https://www.cnbc.com/2026/11/11/alibaba-pr.html) |
 | Market | Nov 10, 2026 | [U.S. gas prices fall below $4 for the first time since July](https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html) |
 | Market | Nov 10, 2026 | [Polymarket says annualized revenue has topped $1.8 billion](https://www.cnbc.com/2026/11/10/polymarket-annualized-revenue-us-growth.html) |
 | Market | Nov 10, 2026 | [Fed Governor Waller sees December hike likely, opens door to possible half-point increase](https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html) |
-| Market | Nov 09, 2026 | [Jensen Huang exit odds are low on prediction markets after Nvidia probe](https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html) |
-| Finance | Nov 11, 2026 | [US tech stocks set to extend rebound](https://www.ft.com/content/639de881-6017-454f-abfa-cfb191d1e7cd?syn-25a6b1a6=1) |
-| Finance | Nov 11, 2026 | [How much is Anthropic really worth? Use our calculator](https://www.ft.com/content/8281fcde-bcf7-4145-b785-bc0d12616c27?syn-25a6b1a6=1) |
+| Finance | Nov 11, 2026 | [US tech stocks surge as AI trade revives](https://www.ft.com/content/639de881-6017-454f-abfa-cfb191d1e7cd?syn-25a6b1a6=1) |
+| Finance | Nov 11, 2026 | [Single-stock perps look like pointiest horn of a bull market](https://www.ft.com/content/0ecbc732-4d5a-4a3e-97aa-86d19285bcf8?syn-25a6b1a6=1) |
 | Finance | Nov 11, 2026 | [Anthropic’s IPO is too important to fail](https://www.ft.com/content/26fd23df-830e-481b-a3bc-19bcab48c5f6) |
 | Finance | Nov 11, 2026 | [Inside Ken Griffin’s $5bn Miami takeover](https://www.ft.com/content/592a8b23-6095-42ba-bff6-2ec3b61ede65?syn-25a6b1a6=1) |
 | Finance | Nov 11, 2026 | [The Italians living atop one of the world’s ‘most dangerous volcanoes’](https://www.ft.com/content/debd52d9-fe0f-4b6d-b7b4-047635de85b0?syn-25a6b1a6=1) |
