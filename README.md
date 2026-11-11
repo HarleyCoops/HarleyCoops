@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Nov 10, 2026 | [Polymarket says annualized revenue has topped $1.8 billion](https://www.cnbc.com/2026/11/10/polymarket-annualized-revenue-us-growth.html) |
 | Market | Nov 10, 2026 | [Fed Governor Waller sees December hike likely, opens door to possible half-point increase](https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html) |
 | Market | Nov 09, 2026 | [Jensen Huang exit odds are low on prediction markets after Nvidia probe](https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html) |
-| Finance | Nov 11, 2026 | [Anthropic bankers prepare to increase IPO valuation to $1.5tn or more](https://www.ft.com/content/68bcba57-0575-44ee-80f4-2e5ea23a431e?syn-25a6b1a6=1) |
-| Finance | Nov 11, 2026 | [Anthropic IPO valuation calculator: How much is it really worth?](https://www.ft.com/content/8281fcde-bcf7-4145-b785-bc0d12616c27?syn-25a6b1a6=1) |
+| Finance | Nov 11, 2026 | [US tech stocks set to extend rebound](https://www.ft.com/content/639de881-6017-454f-abfa-cfb191d1e7cd?syn-25a6b1a6=1) |
+| Finance | Nov 11, 2026 | [How much is Anthropic really worth? Use our calculator](https://www.ft.com/content/8281fcde-bcf7-4145-b785-bc0d12616c27?syn-25a6b1a6=1) |
+| Finance | Nov 11, 2026 | [Anthropic’s IPO is too important to fail](https://www.ft.com/content/26fd23df-830e-481b-a3bc-19bcab48c5f6) |
 | Finance | Nov 11, 2026 | [Inside Ken Griffin’s $5bn Miami takeover](https://www.ft.com/content/592a8b23-6095-42ba-bff6-2ec3b61ede65?syn-25a6b1a6=1) |
-| Finance | Nov 11, 2026 | [Ukraine’s freedom must be defended](https://www.ft.com/content/64131ac1-a9bb-429b-b937-183a08f72bc6?syn-25a6b1a6=1) |
-| Finance | Nov 11, 2026 | [Three cheers for an independent American judiciary](https://www.ft.com/content/f368fe65-1a9e-425a-a4ac-2ab000e85249?syn-25a6b1a6=1) |
+| Finance | Nov 11, 2026 | [The Italians living atop one of the world’s ‘most dangerous volcanoes’](https://www.ft.com/content/debd52d9-fe0f-4b6d-b7b4-047635de85b0?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
