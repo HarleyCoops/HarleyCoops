@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Nov 10, 2026 | [Fed Governor Waller sees December hike likely, opens door to possible half-point increase](https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html) |
 | Market | Nov 09, 2026 | [Jensen Huang exit odds are low on prediction markets after Nvidia probe](https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html) |
 | Market | Nov 09, 2026 | [Goldman CEO Solomon says AI financing remains strong despite market jitters](https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html) |
-| Finance | Nov 10, 2026 | [Anthropic targets valuation of up to $1.4tn in IPO](https://www.ft.com/content/5654e210-4be3-4550-b975-129c9a2e7fe5?syn-25a6b1a6=1) |
-| Finance | Nov 10, 2026 | [Goldman Sachs expects Anthropic revenue to exceed $600bn by 2030](https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1) |
-| Finance | Nov 10, 2026 | [The index impact of SpaceX’s record-shattering IPO](https://www.ft.com/content/141176cd-79ce-4633-9def-eaee96db1762) |
+| Finance | Nov 10, 2026 | [US commerce department delays Megaspeed’s inclusion on trade blacklist](https://www.ft.com/content/afb6c960-a910-4d67-9588-73ba3bea5b06?syn-25a6b1a6=1) |
+| Finance | Nov 10, 2026 | [Nvidia hires former US prosecutor at Wachtell to lead Jensen Huang probe](https://www.ft.com/content/8d59bf02-960e-4eb1-b5dc-55397e31cea5?syn-25a6b1a6=1) |
 | Finance | Nov 10, 2026 | [Alice Huang’s tangled web of connections](https://www.ft.com/content/3238d92b-4074-478d-a7f2-d78b9e154fc7?syn-25a6b1a6=1) |
 | Finance | Nov 10, 2026 | [Trump is taking the Alamo route](https://www.ft.com/content/66e74f23-e61e-43de-aaf6-c2b61648da50?syn-25a6b1a6=1) |
+| Finance | Nov 10, 2026 | [VW pivots again as ‘In China, For China’ runs out of road](https://www.ft.com/content/1186c272-afc7-4561-9bf8-aa3bc0464a91?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
