@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Nov 11, 2026 | [Alibaba announces plans to list T-Head, its Nvidia chip rival](https://www.cnbc.com/2026/11/11/alibaba-pr.html) |
 | Market | Nov 10, 2026 | [U.S. gas prices fall below $4 for the first time since July](https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html) |
 | Market | Nov 10, 2026 | [Polymarket says annualized revenue has topped $1.8 billion](https://www.cnbc.com/2026/11/10/polymarket-annualized-revenue-us-growth.html) |
 | Market | Nov 10, 2026 | [Fed Governor Waller sees December hike likely, opens door to possible half-point increase](https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html) |
 | Market | Nov 09, 2026 | [Jensen Huang exit odds are low on prediction markets after Nvidia probe](https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html) |
-| Market | Nov 09, 2026 | [Goldman CEO Solomon says AI financing remains strong despite market jitters](https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html) |
-| Finance | Nov 10, 2026 | [US commerce department delays Megaspeed’s inclusion on trade blacklist](https://www.ft.com/content/afb6c960-a910-4d67-9588-73ba3bea5b06?syn-25a6b1a6=1) |
-| Finance | Nov 10, 2026 | [Nvidia hires former US prosecutor at Wachtell to lead Jensen Huang probe](https://www.ft.com/content/8d59bf02-960e-4eb1-b5dc-55397e31cea5?syn-25a6b1a6=1) |
-| Finance | Nov 10, 2026 | [Alice Huang’s tangled web of connections](https://www.ft.com/content/3238d92b-4074-478d-a7f2-d78b9e154fc7?syn-25a6b1a6=1) |
-| Finance | Nov 10, 2026 | [Trump is taking the Alamo route](https://www.ft.com/content/66e74f23-e61e-43de-aaf6-c2b61648da50?syn-25a6b1a6=1) |
-| Finance | Nov 10, 2026 | [VW pivots again as ‘In China, For China’ runs out of road](https://www.ft.com/content/1186c272-afc7-4561-9bf8-aa3bc0464a91?syn-25a6b1a6=1) |
+| Finance | Nov 11, 2026 | [Anthropic bankers prepare to increase IPO valuation to $1.5tn or more](https://www.ft.com/content/68bcba57-0575-44ee-80f4-2e5ea23a431e?syn-25a6b1a6=1) |
+| Finance | Nov 11, 2026 | [Anthropic IPO valuation calculator: How much is it really worth?](https://www.ft.com/content/8281fcde-bcf7-4145-b785-bc0d12616c27?syn-25a6b1a6=1) |
+| Finance | Nov 11, 2026 | [Inside Ken Griffin’s $5bn Miami takeover](https://www.ft.com/content/592a8b23-6095-42ba-bff6-2ec3b61ede65?syn-25a6b1a6=1) |
+| Finance | Nov 11, 2026 | [Ukraine’s freedom must be defended](https://www.ft.com/content/64131ac1-a9bb-429b-b937-183a08f72bc6?syn-25a6b1a6=1) |
+| Finance | Nov 11, 2026 | [Three cheers for an independent American judiciary](https://www.ft.com/content/f368fe65-1a9e-425a-a4ac-2ab000e85249?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
