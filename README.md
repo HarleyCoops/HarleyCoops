@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Nov 12, 2026 | [Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'](https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html) |
 | Market | Nov 12, 2026 | [China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair](https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html) |
 | Market | Nov 11, 2026 | [Prediction markets tied to clinical trials and drug approvals draw lawmakers' ire](https://www.cnbc.com/2026/11/11/kalsi-polymarket-prediction-market-senators-hhs-drug-approval.html) |
 | Market | Nov 11, 2026 | [Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes](https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html) |
 | Market | Nov 11, 2026 | [Alibaba announces plans to list T-Head, its Nvidia chip rival](https://www.cnbc.com/2026/11/11/alibaba-pr.html) |
-| Market | Nov 10, 2026 | [U.S. gas prices fall below $4 for the first time since July](https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html) |
-| Finance | Nov 12, 2026 | [Nvidia board to decide Jensen Huang’s fate](https://www.ft.com/content/d3838274-a055-4d5d-a1ff-48f2979a08f0?syn-25a6b1a6=1) |
-| Finance | Nov 12, 2026 | [China warns US not to use Nvidia scandal as pretext for tech curbs](https://www.ft.com/content/66e7337e-3696-4259-84f4-57533bc185bd?syn-25a6b1a6=1) |
-| Finance | Nov 12, 2026 | [Huang falls out of favour in Washington](https://www.ft.com/content/9ca8ba83-5a3c-409e-96d9-abee1323b688?syn-25a6b1a6=1) |
-| Finance | Nov 12, 2026 | [Who could run Nvidia after Jensen Huang?](https://www.ft.com/content/e47f7d4a-88d7-41e4-8c77-8ea8e0769353?syn-25a6b1a6=1) |
-| Finance | Nov 12, 2026 | [Ukraine says Starlink restrictions are back as US envoys land in Moscow](https://www.ft.com/content/6cd890f1-2e4d-468a-807f-529f45e1678e?syn-25a6b1a6=1) |
+| Finance | Nov 12, 2026 | [Jensen Huang resigns as Nvidia chief executive](https://www.ft.com/content/b4a0f3d9-f075-47ea-9a85-77cdade9a06f?syn-25a6b1a6=1) |
+| Finance | Nov 12, 2026 | [Meet the contenders to succeed Jensen Huang](https://www.ft.com/content/6f21835f-97a1-4f7a-bbb8-f38609998909) |
+| Finance | Nov 12, 2026 | [Singapore barred Alice Huang for giving police ‘inaccurate information’](https://www.ft.com/content/fa23a8ad-29bf-4971-aa44-6b25b247c193?syn-25a6b1a6=1) |
+| Finance | Nov 12, 2026 | [Nvidia shares tumble on Huang exit](https://www.ft.com/content/b4a0f3d9-f075-47ea-9a85-77cdade9a06f?syn-25a6b1a6=1) |
+| Finance | Nov 12, 2026 | [Jensen Huang is gone. Will the AI industry pay the price?](https://www.ft.com/content/dd9072bd-e8a3-4f8e-9985-550aa80a2fd4?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
