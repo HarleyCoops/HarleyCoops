@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Nov 11, 2026 | [Prediction markets tied to clinical trials and drug approvals draw lawmakers' ire](https://www.cnbc.com/2026/11/11/kalsi-polymarket-prediction-market-senators-hhs-drug-approval.html) |
 | Market | Nov 11, 2026 | [Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes](https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html) |
 | Market | Nov 11, 2026 | [Alibaba announces plans to list T-Head, its Nvidia chip rival](https://www.cnbc.com/2026/11/11/alibaba-pr.html) |
 | Market | Nov 10, 2026 | [U.S. gas prices fall below $4 for the first time since July](https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html) |
 | Market | Nov 10, 2026 | [Polymarket says annualized revenue has topped $1.8 billion](https://www.cnbc.com/2026/11/10/polymarket-annualized-revenue-us-growth.html) |
-| Market | Nov 10, 2026 | [Fed Governor Waller sees December hike likely, opens door to possible half-point increase](https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html) |
-| Finance | Nov 11, 2026 | [US tech stocks surge as AI trade revives](https://www.ft.com/content/639de881-6017-454f-abfa-cfb191d1e7cd?syn-25a6b1a6=1) |
-| Finance | Nov 11, 2026 | [Single-stock perps look like pointiest horn of a bull market](https://www.ft.com/content/0ecbc732-4d5a-4a3e-97aa-86d19285bcf8?syn-25a6b1a6=1) |
-| Finance | Nov 11, 2026 | [Anthropic’s IPO is too important to fail](https://www.ft.com/content/26fd23df-830e-481b-a3bc-19bcab48c5f6) |
+| Finance | Nov 11, 2026 | [Nvidia board set to meet after revelations Huang had affair with top company executive](https://www.ft.com/content/d3838274-a055-4d5d-a1ff-48f2979a08f0?syn-25a6b1a6=1) |
 | Finance | Nov 11, 2026 | [Inside Ken Griffin’s $5bn Miami takeover](https://www.ft.com/content/592a8b23-6095-42ba-bff6-2ec3b61ede65?syn-25a6b1a6=1) |
-| Finance | Nov 11, 2026 | [The Italians living atop one of the world’s ‘most dangerous volcanoes’](https://www.ft.com/content/debd52d9-fe0f-4b6d-b7b4-047635de85b0?syn-25a6b1a6=1) |
+| Finance | Nov 12, 2026 | [Can India clean up Delhi’s deadly smog?](https://www.ft.com/content/e58eec04-845b-4330-8d01-69b0313a60c1?syn-25a6b1a6=1) |
+| Finance | Nov 11, 2026 | [Three cheers for an independent American judiciary](https://www.ft.com/content/f368fe65-1a9e-425a-a4ac-2ab000e85249?syn-25a6b1a6=1) |
+| Finance | Nov 11, 2026 | [Scott Colom wins historic Senate race in Mississippi](https://www.ft.com/content/ed93bd25-3ae4-4845-ac2e-ccb6e9c741e6?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
