@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Nov 11, 2026 | [Alibaba announces plans to list T-Head, its Nvidia chip rival](https://www.cnbc.com/2026/11/11/alibaba-pr.html) |
 | Market | Nov 10, 2026 | [U.S. gas prices fall below $4 for the first time since July](https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html) |
 | Market | Nov 10, 2026 | [Polymarket says annualized revenue has topped $1.8 billion](https://www.cnbc.com/2026/11/10/polymarket-annualized-revenue-us-growth.html) |
-| Finance | Nov 11, 2026 | [Nvidia board set to meet after revelations Huang had affair with top company executive](https://www.ft.com/content/d3838274-a055-4d5d-a1ff-48f2979a08f0?syn-25a6b1a6=1) |
-| Finance | Nov 11, 2026 | [Inside Ken Griffin’s $5bn Miami takeover](https://www.ft.com/content/592a8b23-6095-42ba-bff6-2ec3b61ede65?syn-25a6b1a6=1) |
-| Finance | Nov 12, 2026 | [Can India clean up Delhi’s deadly smog?](https://www.ft.com/content/e58eec04-845b-4330-8d01-69b0313a60c1?syn-25a6b1a6=1) |
-| Finance | Nov 11, 2026 | [Three cheers for an independent American judiciary](https://www.ft.com/content/f368fe65-1a9e-425a-a4ac-2ab000e85249?syn-25a6b1a6=1) |
-| Finance | Nov 11, 2026 | [Scott Colom wins historic Senate race in Mississippi](https://www.ft.com/content/ed93bd25-3ae4-4845-ac2e-ccb6e9c741e6?syn-25a6b1a6=1) |
+| Finance | Nov 12, 2026 | [Nvidia board to decide Jensen Huang’s fate after revelation of affair with subordinate](https://www.ft.com/content/d3838274-a055-4d5d-a1ff-48f2979a08f0?syn-25a6b1a6=1) |
+| Finance | Nov 12, 2026 | [Nvidia shares tumble in after-market trading](https://www.ft.com/content/a93307a7-e2cd-4abd-bd89-c38832d8c40e?syn-25a6b1a6=1) |
+| Finance | Nov 12, 2026 | [State dinners to scrutiny: Nvidia’s Huang falls out of favour in Trump’s Washington](https://www.ft.com/content/9ca8ba83-5a3c-409e-96d9-abee1323b688?syn-25a6b1a6=1) |
+| Finance | Nov 12, 2026 | [Growth investing or gambling?](https://www.ft.com/content/92eb0eca-aee8-45af-b336-7a9a20da0a64?syn-25a6b1a6=1) |
+| Finance | Nov 12, 2026 | [Scott Colom wins historic Senate race in Mississippi](https://www.ft.com/content/ed93bd25-3ae4-4845-ac2e-ccb6e9c741e6?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
