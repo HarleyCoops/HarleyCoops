@@ -307,15 +307,15 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Nov 13, 2026 | [How the Jensen Huang affair changes the outlook for U.S.-China relations](https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html) |
 | Market | Nov 12, 2026 | [In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates](https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html) |
 | Market | Nov 13, 2026 | [Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'](https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html) |
 | Market | Nov 12, 2026 | [China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair](https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html) |
 | Market | Nov 11, 2026 | [Prediction markets tied to clinical trials and drug approvals draw lawmakers' ire](https://www.cnbc.com/2026/11/11/kalsi-polymarket-prediction-market-senators-hhs-drug-approval.html) |
-| Market | Nov 11, 2026 | [Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes](https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html) |
-| Finance | Nov 12, 2026 | [US lawmakers pile pressure on Howard Lutnick as Nvidia scandal widens](https://www.ft.com/content/190e5eea-7461-4b26-8b69-17a3288e31d4?syn-25a6b1a6=1) |
-| Finance | Nov 12, 2026 | [Jensen Huang resigns as Nvidia chief executive](https://www.ft.com/content/b4a0f3d9-f075-47ea-9a85-77cdade9a06f?syn-25a6b1a6=1) |
+| Finance | Nov 12, 2026 | [US lawmakers pile pressure on Lutnick as Nvidia scandal widens](https://www.ft.com/content/190e5eea-7461-4b26-8b69-17a3288e31d4?syn-25a6b1a6=1) |
 | Finance | Nov 12, 2026 | [AI boom will lift Nvidia even after Huang’s exit, investors say](https://www.ft.com/content/ecb2b4ed-1b61-4c8a-a2e7-a6f9c85a59ff?syn-25a6b1a6=1) |
-| Finance | Nov 12, 2026 | [Jensen Huang is gone. Will the AI industry pay the price?](https://www.ft.com/content/dd9072bd-e8a3-4f8e-9985-550aa80a2fd4?syn-25a6b1a6=1) |
+| Finance | Nov 13, 2026 | [The downfall of Jensen Huang](https://www.ft.com/content/ef8f85a6-e2d7-4d41-b70e-092b2567813a?syn-25a6b1a6=1) |
+| Finance | Nov 13, 2026 | [The Silicon Valley veterans now steering Nvidia](https://www.ft.com/content/74e95e42-3f1d-4128-98ef-9ce4c160b077?syn-25a6b1a6=1) |
 | Finance | Nov 12, 2026 | [Huang’s fall is an indictment of founder mode at Big Tech](https://www.ft.com/content/83051c3a-cab4-4c66-89fc-ae7149047a25?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
