@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Nov 13, 2026 | [Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker](https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html) |
 | Market | Nov 13, 2026 | [Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation](https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html) |
 | Market | Nov 13, 2026 | [How the Jensen Huang affair changes the outlook for U.S.-China relations](https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html) |
 | Market | Nov 12, 2026 | [In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates](https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html) |
 | Market | Nov 13, 2026 | [Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'](https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html) |
-| Market | Nov 12, 2026 | [China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair](https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html) |
-| Finance | Nov 13, 2026 | [Arm boss Rene Haas approached in Nvidia CEO search](https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926?syn-25a6b1a6=1) |
-| Finance | Nov 13, 2026 | [Jensen Huang’s final days at Nvidia](https://www.ft.com/content/ef8f85a6-e2d7-4d41-b70e-092b2567813a?syn-25a6b1a6=1) |
-| Finance | Nov 13, 2026 | [OK who just made $200mn shorting Nvidia ahead of Jensxit?](https://www.ft.com/content/13c485dc-2d51-4920-bd1f-13a11c79d96c) |
-| Finance | Nov 13, 2026 | [Jensen Huang’s years-long effort to get close to China](https://www.ft.com/content/3efa9733-fbb4-47c2-83ba-b01e548ef277?syn-25a6b1a6=1) |
+| Finance | Nov 13, 2026 | [US aviation regulator grounds all departing flights](https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1) |
+| Finance | Nov 13, 2026 | [Scott Colom: the Democrat who conquered the reddest of red states](https://www.ft.com/content/7c36144b-eef4-4822-81d0-4ef5b7a5724a?syn-25a6b1a6=1) |
 | Finance | Nov 13, 2026 | [AI believers hold the line after Nvidia ructions](https://www.ft.com/content/750e4304-7287-432a-8ac1-36db40d0d968?syn-25a6b1a6=1) |
+| Finance | Nov 13, 2026 | [Will Jensen Huang sell his $135bn of stock?](https://www.ft.com/content/7a1ee00c-ddbd-4ae2-8323-e4dc603d7a41?syn-25a6b1a6=1) |
+| Finance | Nov 13, 2026 | [Arm boss Rene Haas approached in Nvidia CEO search](https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
