@@ -307,11 +307,11 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Nov 14, 2026 | [How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts](https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html) |
+| Market | Nov 14, 2026 | [Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from ...](https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html) |
 | Market | Nov 13, 2026 | [Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker](https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html) |
 | Market | Nov 13, 2026 | [Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation](https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html) |
 | Market | Nov 13, 2026 | [How the Jensen Huang affair changes the outlook for U.S.-China relations](https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html) |
-| Market | Nov 12, 2026 | [In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates](https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html) |
-| Market | Nov 13, 2026 | [Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'](https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html) |
 | Finance | Nov 14, 2026 | [Passengers face widespread disruption after US air traffic control outage](https://www.ft.com/content/f66f9811-59a2-4e52-a944-c7ed81dabc50?syn-25a6b1a6=1) |
 | Finance | Nov 14, 2026 | [Record polar vortex breakdown raises cold weather risk](https://www.ft.com/content/576640c4-8d35-4504-b1a5-f01c0ca1f5bc?syn-25a6b1a6=1) |
 | Finance | Nov 14, 2026 | [The Nvidia board’s artificial independence](https://www.ft.com/content/e141a5ea-5aa4-491b-88a4-369cfc67693a) |
