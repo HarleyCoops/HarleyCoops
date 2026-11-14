@@ -312,10 +312,10 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Nov 13, 2026 | [How the Jensen Huang affair changes the outlook for U.S.-China relations](https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html) |
 | Market | Nov 12, 2026 | [In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates](https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html) |
 | Market | Nov 13, 2026 | [Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'](https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html) |
-| Finance | Nov 13, 2026 | [US aviation regulator grounds all departing flights](https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1) |
+| Finance | Nov 14, 2026 | [US aviation regulator lifts order that grounded thousands of flights](https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1) |
 | Finance | Nov 13, 2026 | [Scott Colom: the Democrat who conquered the reddest of red states](https://www.ft.com/content/7c36144b-eef4-4822-81d0-4ef5b7a5724a?syn-25a6b1a6=1) |
-| Finance | Nov 13, 2026 | [AI believers hold the line after Nvidia ructions](https://www.ft.com/content/750e4304-7287-432a-8ac1-36db40d0d968?syn-25a6b1a6=1) |
-| Finance | Nov 13, 2026 | [Will Jensen Huang sell his $135bn of stock?](https://www.ft.com/content/7a1ee00c-ddbd-4ae2-8323-e4dc603d7a41?syn-25a6b1a6=1) |
+| Finance | Nov 14, 2026 | [The Nvidia board’s artificial independence](https://www.ft.com/content/e141a5ea-5aa4-491b-88a4-369cfc67693a) |
+| Finance | Nov 14, 2026 | [Nvidia’s cult of personality was bound to end badly](https://www.ft.com/content/546ec5eb-fbc2-4600-9794-12b1749c1a04) |
 | Finance | Nov 13, 2026 | [Arm boss Rene Haas approached in Nvidia CEO search](https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
