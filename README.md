@@ -312,9 +312,9 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Nov 13, 2026 | [Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker](https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html) |
 | Market | Nov 13, 2026 | [Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation](https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html) |
 | Market | Nov 13, 2026 | [How the Jensen Huang affair changes the outlook for U.S.-China relations](https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html) |
-| Finance | Nov 15, 2026 | [Congress moves to pass tighter AI chip export rules following Nvidia scandal](https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29?syn-25a6b1a6=1) |
+| Finance | Nov 15, 2026 | [Bessent says Nvidia needs ‘shake-up’ with external CEO](https://www.ft.com/content/24edbb84-7520-4ef0-a57c-30359e12ccc5?syn-25a6b1a6=1) |
+| Finance | Nov 15, 2026 | [US and allies sign accord to protect AI supply chains from China](https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1) |
 | Finance | Nov 15, 2026 | [Anthropic’s IPO is the next big test for AI](https://www.ft.com/content/bc8ac781-9837-46de-b7ed-958886ba43af?syn-25a6b1a6=1) |
-| Finance | Nov 15, 2026 | [What will Nvidia’s post-Huang era look like?](https://www.ft.com/content/0e2720d7-ba0a-4469-a854-30931f907bd3) |
 | Finance | Nov 15, 2026 | [The world according to China](https://www.ft.com/content/fb667289-ae81-42c7-8eb8-ebda09dceff7?syn-25a6b1a6=1) |
 | Finance | Nov 15, 2026 | [How Infantino flew his way out of a Fifa rebellion](https://www.ft.com/content/f8a58159-463f-4b28-b83d-14b79cbd413b?syn-25a6b1a6=1) |
 
