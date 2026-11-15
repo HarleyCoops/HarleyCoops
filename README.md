@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Nov 13, 2026 | [Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker](https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html) |
 | Market | Nov 13, 2026 | [Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation](https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html) |
 | Market | Nov 13, 2026 | [How the Jensen Huang affair changes the outlook for U.S.-China relations](https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html) |
+| Finance | Nov 14, 2026 | [US air travel chaos exposes system held together by ‘string and duct tape’](https://www.ft.com/content/9df17e1c-c77a-4f67-b5b4-1adb64bcd063?syn-25a6b1a6=1) |
 | Finance | Nov 14, 2026 | [Passengers face widespread disruption after US air traffic control outage](https://www.ft.com/content/f66f9811-59a2-4e52-a944-c7ed81dabc50?syn-25a6b1a6=1) |
 | Finance | Nov 14, 2026 | [Record polar vortex breakdown raises cold weather risk](https://www.ft.com/content/576640c4-8d35-4504-b1a5-f01c0ca1f5bc?syn-25a6b1a6=1) |
 | Finance | Nov 14, 2026 | [The Nvidia board’s artificial independence](https://www.ft.com/content/e141a5ea-5aa4-491b-88a4-369cfc67693a) |
 | Finance | Nov 14, 2026 | [The citizens of nowhere won in the end](https://www.ft.com/content/9bc5e047-9993-4123-8f22-a59c5de245e9?syn-25a6b1a6=1) |
-| Finance | Nov 14, 2026 | [Nvidia exposed to possible lawsuits after Jensen Huang’s downfall](https://www.ft.com/content/4aba8386-35cc-463b-a79c-a0c85c362c89?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
