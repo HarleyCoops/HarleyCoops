@@ -313,10 +313,10 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Nov 15, 2026 | [Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker](https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html) |
 | Market | Nov 13, 2026 | [Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation](https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html) |
 | Finance | Nov 15, 2026 | [Jensen Huang discusses comeback as Nvidia CEO with allies](https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?syn-25a6b1a6=1) |
-| Finance | Nov 15, 2026 | [Bessent says Nvidia needs ‘shake-up’ with external CEO](https://www.ft.com/content/24edbb84-7520-4ef0-a57c-30359e12ccc5?syn-25a6b1a6=1) |
-| Finance | Nov 15, 2026 | [US and allies sign accord to protect AI supply chains from China](https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1) |
+| Finance | Nov 16, 2026 | [‘Success and fame’ undermine tech leaders, warns Nvidia and Tesla investor](https://www.ft.com/content/5b39e975-b9f5-4ff9-a7d2-ce6a30c4fdbd?syn-25a6b1a6=1) |
+| Finance | Nov 16, 2026 | [Huang’s fall hits ‘open’ models in boost to Anthropic and OpenAI](https://www.ft.com/content/418ca885-fbcf-4b9f-a8b9-2bd60b543fc5?syn-25a6b1a6=1) |
 | Finance | Nov 16, 2026 | [Yalta 2.0? Trump, Xi and Putin lead Asia’s week of high-stakes diplomacy](https://www.ft.com/content/5621d364-c767-4b40-a090-054042d1c49b?syn-25a6b1a6=1) |
-| Finance | Nov 16, 2026 | [The great migration slowdown](https://www.ft.com/content/12f76b96-6ef9-40fb-924f-60c348935a21?syn-25a6b1a6=1) |
+| Finance | Nov 16, 2026 | [The whole world is long America](https://www.ft.com/content/1f1a2a9b-9429-4e4b-8606-7be8a1fd701e?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
