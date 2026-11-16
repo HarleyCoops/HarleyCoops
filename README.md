@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Nov 16, 2026 | [China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates](https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html) |
 | Market | Nov 14, 2026 | [How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts](https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html) |
 | Market | Nov 14, 2026 | [Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from ...](https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html) |
 | Market | Nov 15, 2026 | [Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker](https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html) |
 | Market | Nov 13, 2026 | [Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation](https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html) |
-| Market | Nov 13, 2026 | [How the Jensen Huang affair changes the outlook for U.S.-China relations](https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html) |
 | Finance | Nov 15, 2026 | [Jensen Huang discusses comeback as Nvidia CEO with allies](https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?syn-25a6b1a6=1) |
 | Finance | Nov 15, 2026 | [Bessent says Nvidia needs ‘shake-up’ with external CEO](https://www.ft.com/content/24edbb84-7520-4ef0-a57c-30359e12ccc5?syn-25a6b1a6=1) |
 | Finance | Nov 15, 2026 | [US and allies sign accord to protect AI supply chains from China](https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1) |
-| Finance | Nov 15, 2026 | [From culture war to class war: US Democrats ditch woke politics](https://www.ft.com/content/82e2d624-65aa-4a8c-86ec-f99c0ce785ac?syn-25a6b1a6=1) |
-| Finance | Nov 15, 2026 | [How Infantino flew his way out of a Fifa rebellion](https://www.ft.com/content/f8a58159-463f-4b28-b83d-14b79cbd413b?syn-25a6b1a6=1) |
+| Finance | Nov 16, 2026 | [Yalta 2.0? Trump, Xi and Putin lead Asia’s week of high-stakes diplomacy](https://www.ft.com/content/5621d364-c767-4b40-a090-054042d1c49b?syn-25a6b1a6=1) |
+| Finance | Nov 16, 2026 | [The great migration slowdown](https://www.ft.com/content/12f76b96-6ef9-40fb-924f-60c348935a21?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
