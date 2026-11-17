@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Nov 16, 2026 | [Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’](https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html) |
 | Market | Nov 16, 2026 | [U.S. crude oil declines to $85 a barrel on recovering Middle East exports](https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html) |
 | Market | Nov 16, 2026 | [China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates](https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html) |
-| Finance | Nov 16, 2026 | [Nasdaq 100 sinks 2.7% in gloomy start to pivotal week for AI trade](https://www.ft.com/content/12d927a9-98b1-40b9-8f75-01fb56a693d1?syn-25a6b1a6=1) |
-| Finance | Nov 16, 2026 | [Nvidia board not considering reinstating Jensen Huang as chief executive](https://www.ft.com/content/e5275763-d7e2-4857-8ac6-6b888111986a?syn-25a6b1a6=1) |
-| Finance | Nov 16, 2026 | [The whole world is long America](https://www.ft.com/content/1f1a2a9b-9429-4e4b-8606-7be8a1fd701e?syn-25a6b1a6=1) |
-| Finance | Nov 16, 2026 | [Why Putin, Trump and Xi cannot be the new ‘big three’](https://www.ft.com/content/f87fc05f-6689-4051-9d6b-40754315355f?syn-25a6b1a6=1) |
-| Finance | Nov 16, 2026 | [OpenAI sued by California over 80 ‘loss of control’ incidents](https://www.ft.com/content/1e18af77-d434-4871-81cc-b0e74a0e97bd?syn-25a6b1a6=1) |
+| Finance | Nov 17, 2026 | [Banks seek to curb AI debt exposure as backlash mounts](https://www.ft.com/content/2351d9db-e938-4102-a449-318b1037765a?syn-25a6b1a6=1) |
+| Finance | Nov 17, 2026 | [Tech sell-off deepens as Nvidia results loom](https://www.ft.com/content/4a3b9892-67c6-4177-8503-80c0a5eb3b60?syn-25a6b1a6=1) |
+| Finance | Nov 17, 2026 | [‘There was a lot of gaslighting’: Why America’s podcast stars ditched Trump](https://www.ft.com/content/676d1291-3007-4a32-9332-abf803d0f581?syn-25a6b1a6=1) |
+| Finance | Nov 17, 2026 | [The AI sell-off makes sense. Staying bearish may not](https://www.ft.com/content/d94f5378-ae95-4bfd-ac01-3a65b387d4cf) |
+| Finance | Nov 17, 2026 | [Do we really want to make our work machine-readable?](https://www.ft.com/content/9df59321-a7a0-4ed7-b02f-60cfc5fdcb2e?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
