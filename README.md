@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Nov 17, 2026 | [U.S. companies from Nvidia to Apple face a growing China dilemma](https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html) |
 | Market | Nov 16, 2026 | [Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank hol...](https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html) |
 | Market | Nov 16, 2026 | [JPMorgan Chase says temporary software bug is affecting consumer banking](https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html) |
 | Market | Nov 16, 2026 | [Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’](https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html) |
 | Market | Nov 16, 2026 | [U.S. crude oil declines to $85 a barrel on recovering Middle East exports](https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html) |
-| Market | Nov 16, 2026 | [China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates](https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html) |
-| Finance | Nov 17, 2026 | [Banks seek to curb AI debt exposure as backlash mounts](https://www.ft.com/content/2351d9db-e938-4102-a449-318b1037765a?syn-25a6b1a6=1) |
-| Finance | Nov 17, 2026 | [Tech sell-off deepens as Nvidia results loom](https://www.ft.com/content/4a3b9892-67c6-4177-8503-80c0a5eb3b60?syn-25a6b1a6=1) |
+| Finance | Nov 17, 2026 | [Leak of 15mn Deutsche Bank files exposes systemic failures](https://www.ft.com/content/df518845-ed97-4a38-8a38-7fa9d4d24003?syn-25a6b1a6=1) |
+| Finance | Nov 17, 2026 | [Epstein’s dealings with Deutsche were far larger than previously known](https://www.ft.com/content/72ac6fee-55f3-4db5-a1e3-873ef39c0b96?syn-25a6b1a6=1) |
+| Finance | Nov 17, 2026 | [An ‘awful mistake’ that leaked Trump’s tax statements](https://www.ft.com/content/784cbdc7-c852-4081-b1e5-390779e9fad1?syn-25a6b1a6=1) |
+| Finance | Nov 17, 2026 | [‘Katastrophe’: inside the chaos at Germany’s biggest bank](https://www.ft.com/content/4f8dae68-bfec-43bd-bef6-b830815ec538?syn-25a6b1a6=1) |
 | Finance | Nov 17, 2026 | [‘There was a lot of gaslighting’: Why America’s podcast stars ditched Trump](https://www.ft.com/content/676d1291-3007-4a32-9332-abf803d0f581?syn-25a6b1a6=1) |
-| Finance | Nov 17, 2026 | [The AI sell-off makes sense. Staying bearish may not](https://www.ft.com/content/d94f5378-ae95-4bfd-ac01-3a65b387d4cf) |
-| Finance | Nov 17, 2026 | [Do we really want to make our work machine-readable?](https://www.ft.com/content/9df59321-a7a0-4ed7-b02f-60cfc5fdcb2e?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
