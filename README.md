@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Nov 16, 2026 | [Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank hol...](https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html) |
+| Market | Nov 16, 2026 | [JPMorgan Chase says temporary software bug is affecting consumer banking](https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html) |
 | Market | Nov 16, 2026 | [Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’](https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html) |
-| Market | Nov 16, 2026 | [U.S. crude oil declines to $87 a barrel on recovering Middle East exports](https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html) |
+| Market | Nov 16, 2026 | [U.S. crude oil declines to $85 a barrel on recovering Middle East exports](https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html) |
 | Market | Nov 16, 2026 | [China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates](https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html) |
-| Market | Nov 16, 2026 | [How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts](https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html) |
-| Market | Nov 16, 2026 | [Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from ...](https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html) |
+| Finance | Nov 16, 2026 | [Nasdaq 100 sinks 2.7% in gloomy start to pivotal week for AI trade](https://www.ft.com/content/12d927a9-98b1-40b9-8f75-01fb56a693d1?syn-25a6b1a6=1) |
 | Finance | Nov 16, 2026 | [Nvidia board not considering reinstating Jensen Huang as chief executive](https://www.ft.com/content/e5275763-d7e2-4857-8ac6-6b888111986a?syn-25a6b1a6=1) |
-| Finance | Nov 15, 2026 | [Jensen Huang discusses comeback as Nvidia CEO with allies](https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?syn-25a6b1a6=1) |
-| Finance | Nov 16, 2026 | [‘Success and fame’ undermine tech leaders, warns Nvidia and Tesla investor](https://www.ft.com/content/5b39e975-b9f5-4ff9-a7d2-ce6a30c4fdbd?syn-25a6b1a6=1) |
-| Finance | Nov 16, 2026 | [Yalta 2.0? Trump, Xi and Putin lead Asia’s week of high-stakes diplomacy](https://www.ft.com/content/5621d364-c767-4b40-a090-054042d1c49b?syn-25a6b1a6=1) |
 | Finance | Nov 16, 2026 | [The whole world is long America](https://www.ft.com/content/1f1a2a9b-9429-4e4b-8606-7be8a1fd701e?syn-25a6b1a6=1) |
+| Finance | Nov 16, 2026 | [Why Putin, Trump and Xi cannot be the new ‘big three’](https://www.ft.com/content/f87fc05f-6689-4051-9d6b-40754315355f?syn-25a6b1a6=1) |
+| Finance | Nov 16, 2026 | [OpenAI sued by California over 80 ‘loss of control’ incidents](https://www.ft.com/content/1e18af77-d434-4871-81cc-b0e74a0e97bd?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
