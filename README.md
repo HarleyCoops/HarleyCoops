@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
-| Market | Nov 17, 2026 | [JPMorgan is working on AI agent transactions that don’t involve humans](https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html) |
+| Market | Nov 18, 2026 | [Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi](https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html) |
+| Market | Nov 18, 2026 | [Three things to watch as Trump, Xi and Putin meet in China](https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html) |
+| Market | Nov 18, 2026 | [JPMorgan is working on AI agent transactions that don’t involve humans](https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html) |
 | Market | Nov 17, 2026 | [U.S. companies from Nvidia to Apple face a growing China dilemma](https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html) |
 | Market | Nov 16, 2026 | [Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank hol...](https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html) |
-| Market | Nov 16, 2026 | [JPMorgan Chase says temporary software bug is affecting consumer banking](https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html) |
-| Market | Nov 16, 2026 | [Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’](https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html) |
-| Finance | Nov 17, 2026 | [Nvidia insists Huang will not return as CEO as it reports strong sales](https://www.ft.com/content/3a8881b8-068c-4950-9238-4f8eb1efc870?syn-25a6b1a6=1) |
-| Finance | Nov 17, 2026 | [Jensen Huang says he is prepared to return as Nvidia CEO](https://www.ft.com/content/e265542c-25d9-4a82-8cb7-e4a4b641cdda?syn-25a6b1a6=1) |
+| Finance | Nov 18, 2026 | [Nvidia insists Huang will not return as CEO as it reports strong sales](https://www.ft.com/content/3a8881b8-068c-4950-9238-4f8eb1efc870?syn-25a6b1a6=1) |
+| Finance | Nov 18, 2026 | [Nvidia has a chance to trade drama for durability](https://www.ft.com/content/2d3e1b32-4b45-418b-8b06-90874057eac0?syn-25a6b1a6=1) |
 | Finance | Nov 17, 2026 | [How Jensen Huang’s family shaped Nvidia’s Megaspeed dealings](https://www.ft.com/content/65ff066f-a81c-4d24-95da-73c2d7b83a27?syn-25a6b1a6=1) |
-| Finance | Nov 17, 2026 | [Nvidia stopped disclosing Singapore sales as revenues hit $104bn](https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf?syn-25a6b1a6=1) |
-| Finance | Nov 17, 2026 | [‘There was a lot of gaslighting’: Why America’s podcast stars ditched Trump](https://www.ft.com/content/676d1291-3007-4a32-9332-abf803d0f581?syn-25a6b1a6=1) |
+| Finance | Nov 18, 2026 | [‘Witness the Wonders’: China touts miracle city for Trump summit](https://www.ft.com/content/9949ef98-c6e0-4891-bb3e-e8a0ecebfdee?syn-25a6b1a6=1) |
+| Finance | Nov 18, 2026 | [The good and the bad of climate policy](https://www.ft.com/content/68e72928-ef85-481e-adbd-46b7b654223e?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
