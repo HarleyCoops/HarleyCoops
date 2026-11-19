@@ -313,10 +313,10 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Nov 18, 2026 | [Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike](https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html) |
 | Market | Nov 18, 2026 | [Putin says EU is losing industry, falling behind competition, ahead of meeting with Trump and Xi](https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html) |
 | Finance | Nov 18, 2026 | [Anthropic raises $81bn in record IPO](https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1) |
-| Finance | Nov 18, 2026 | [SoftBank regrets ‘mistake’ of not backing Anthropic, says Son](https://www.ft.com/content/08086201-6359-47ec-8854-70462ad5a4c0?syn-25a6b1a6=1) |
-| Finance | Nov 18, 2026 | [Low-profile VCs set for $100bn windfall from Anthropic IPO](https://www.ft.com/content/a3430f0d-0080-4970-8eec-2c14c8438b3d?syn-25a6b1a6=1) |
-| Finance | Nov 18, 2026 | [‘Situational Awareness 2.0’: Leopold Aschenbrenner plots comeback](https://www.ft.com/content/1fcbc6ea-1be3-44d2-b564-8ebf91181639?syn-25a6b1a6=1) |
-| Finance | Nov 18, 2026 | [The only way out of populism is through it](https://www.ft.com/content/e71273dd-2748-4396-bb62-e75307105596?syn-25a6b1a6=1) |
+| Finance | Nov 19, 2026 | [Anthropic’s AI advances trigger new safety fears on eve of IPO](https://www.ft.com/content/d8be4655-211c-49a8-bfe4-18a00b8e8619?syn-25a6b1a6=1) |
+| Finance | Nov 19, 2026 | [Anthropic retail investors face squeeze in blockbuster IPO](https://www.ft.com/content/38c122d6-b533-4595-9554-3852c52e580f?syn-25a6b1a6=1) |
+| Finance | Nov 19, 2026 | [Trump meets ‘my friend’ Putin ahead of trilateral with Xi](https://www.ft.com/content/fcf6d27b-a04c-4cef-8b03-ce2423566f1f) |
+| Finance | Nov 19, 2026 | [Adani: the billionaire at the heart of Modi’s India](https://www.ft.com/content/e1867545-5142-4ee5-b092-b7e04ac04b66?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
