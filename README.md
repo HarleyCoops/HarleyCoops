@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Nov 18, 2026 | [I watched Trump, Xi and Putin gather in China. Here are my top takeaways](https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html) |
 | Market | Nov 18, 2026 | [Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says](https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html) |
 | Market | Nov 18, 2026 | [Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike](https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html) |
-| Finance | Nov 19, 2026 | [Anthropic to list on Wall Street in biggest IPO ever](https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1) |
+| Finance | Nov 19, 2026 | [Anthropic soars in Wall Street debut](https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1) |
 | Finance | Nov 19, 2026 | [Anthropic is a ‘must own’](https://www.ft.com/content/4224e2ed-116c-466b-97f4-54a5ef43a54e) |
-| Finance | Nov 19, 2026 | [Retail investors face squeeze in blockbuster IPO](https://www.ft.com/content/38c122d6-b533-4595-9554-3852c52e580f?syn-25a6b1a6=1) |
-| Finance | Nov 19, 2026 | [Trump hails historic meeting with Putin and Xi](https://www.ft.com/content/fcf6d27b-a04c-4cef-8b03-ce2423566f1f) |
-| Finance | Nov 19, 2026 | [Adani: the billionaire at the heart of Modi’s India](https://www.ft.com/content/e1867545-5142-4ee5-b092-b7e04ac04b66?syn-25a6b1a6=1) |
+| Finance | Nov 19, 2026 | [The key to Anthropic’s value](https://www.ft.com/content/aa8290dc-a20a-45af-97ab-1e71f97f236a?syn-25a6b1a6=1) |
+| Finance | Nov 19, 2026 | [Anthropic stock begins trading in record IPO](https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1) |
+| Finance | Nov 19, 2026 | [Angry America and its housing market](https://www.ft.com/content/9450175e-3da3-4df3-bd93-050683bbb98a?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
