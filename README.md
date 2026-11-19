@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Nov 18, 2026 | [Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show](https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html) |
 | Market | Nov 18, 2026 | [I watched Trump, Xi and Putin gather in China. Here are my top takeaways](https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html) |
 | Market | Nov 18, 2026 | [Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says](https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html) |
 | Market | Nov 18, 2026 | [Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike](https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html) |
 | Market | Nov 18, 2026 | [Putin says EU is losing industry, falling behind competition, ahead of meeting with Trump and Xi](https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html) |
-| Market | Nov 18, 2026 | [Three things to watch as Trump, Xi and Putin meet in China](https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html) |
-| Finance | Nov 18, 2026 | [US tech outages blamed on rush to fix bugs found by AI](https://www.ft.com/content/96c565f1-f229-40b6-91e8-7a849ec4b208?syn-25a6b1a6=1) |
-| Finance | Nov 18, 2026 | [AI borrowing binge has ‘historic parallels’ with subprime bubble, says ECB](https://www.ft.com/content/d16475ce-efce-4dc1-b5a3-2f7c79e9dea9?syn-25a6b1a6=1) |
-| Finance | Nov 18, 2026 | [Xi greets Trump with hug ahead of historic summit with Putin](https://www.ft.com/content/ae7d1b27-b892-48d6-ad47-41128a4b53a1?syn-25a6b1a6=1) |
+| Finance | Nov 18, 2026 | [Anthropic raises $81bn in record IPO](https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1) |
+| Finance | Nov 18, 2026 | [SoftBank regrets ‘mistake’ of not backing Anthropic, says Son](https://www.ft.com/content/08086201-6359-47ec-8854-70462ad5a4c0?syn-25a6b1a6=1) |
+| Finance | Nov 18, 2026 | [Low-profile VCs set for $100bn windfall from Anthropic IPO](https://www.ft.com/content/a3430f0d-0080-4970-8eec-2c14c8438b3d?syn-25a6b1a6=1) |
+| Finance | Nov 18, 2026 | [‘Situational Awareness 2.0’: Leopold Aschenbrenner plots comeback](https://www.ft.com/content/1fcbc6ea-1be3-44d2-b564-8ebf91181639?syn-25a6b1a6=1) |
 | Finance | Nov 18, 2026 | [The only way out of populism is through it](https://www.ft.com/content/e71273dd-2748-4396-bb62-e75307105596?syn-25a6b1a6=1) |
-| Finance | Nov 18, 2026 | [Deutsche Bank hired a Qatari royal. Why?](https://www.ft.com/content/9edd3730-3a15-4e1a-b33a-629aff00e847?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
