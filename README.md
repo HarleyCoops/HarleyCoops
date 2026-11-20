@@ -313,10 +313,10 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Nov 18, 2026 | [Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says](https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html) |
 | Market | Nov 18, 2026 | [Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike](https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html) |
 | Finance | Nov 19, 2026 | [Anthropic shares jump 17% after record Wall Street listing](https://www.ft.com/content/2b203097-7c61-464f-810f-962912a133dd?syn-25a6b1a6=1) |
-| Finance | Nov 19, 2026 | [Anthropic is a ‘must own’](https://www.ft.com/content/4224e2ed-116c-466b-97f4-54a5ef43a54e) |
-| Finance | Nov 19, 2026 | [US companies turn to robots to ease labour shortage crisis](https://www.ft.com/content/747f5533-1bab-4143-a78b-ed4e2b575340?syn-25a6b1a6=1) |
-| Finance | Nov 19, 2026 | [The dangers of AI ‘handoverism’](https://www.ft.com/content/45194ea4-4fa7-4c38-a5b2-137eb7402d57?syn-25a6b1a6=1) |
-| Finance | Nov 19, 2026 | [The key to Anthropic’s value](https://www.ft.com/content/aa8290dc-a20a-45af-97ab-1e71f97f236a?syn-25a6b1a6=1) |
+| Finance | Nov 20, 2026 | [So, Anthropic is finally a public company. What now?](https://www.ft.com/content/017044a9-76dc-4cb4-9259-a844a96f2757) |
+| Finance | Nov 20, 2026 | [How pensions ate the state](https://www.ft.com/content/6986a3b5-12ed-4aad-ac61-f86ded3e6fa3?syn-25a6b1a6=1) |
+| Finance | Nov 20, 2026 | [China revels in Xi’s high-stakes bet on ‘Yalta 2.0’](https://www.ft.com/content/c1c540af-f9ba-479a-8473-4b7619859453?syn-25a6b1a6=1) |
+| Finance | Nov 20, 2026 | [Can Nvidia learn from AIG’s mistakes?](https://www.ft.com/content/c1f1c0d2-466e-46b9-b346-5ce4677c55ea?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
