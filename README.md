@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Nov 18, 2026 | [I watched Trump, Xi and Putin gather in China. Here are my top takeaways](https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html) |
 | Market | Nov 18, 2026 | [Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says](https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html) |
 | Market | Nov 18, 2026 | [Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike](https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html) |
-| Finance | Nov 19, 2026 | [Anthropic shares jump 17% after record Wall Street listing](https://www.ft.com/content/2b203097-7c61-464f-810f-962912a133dd?syn-25a6b1a6=1) |
-| Finance | Nov 20, 2026 | [So, Anthropic is finally a public company. What now?](https://www.ft.com/content/017044a9-76dc-4cb4-9259-a844a96f2757) |
-| Finance | Nov 20, 2026 | [How pensions ate the state](https://www.ft.com/content/6986a3b5-12ed-4aad-ac61-f86ded3e6fa3?syn-25a6b1a6=1) |
-| Finance | Nov 20, 2026 | [China revels in Xi’s high-stakes bet on ‘Yalta 2.0’](https://www.ft.com/content/c1c540af-f9ba-479a-8473-4b7619859453?syn-25a6b1a6=1) |
-| Finance | Nov 20, 2026 | [Can Nvidia learn from AIG’s mistakes?](https://www.ft.com/content/c1f1c0d2-466e-46b9-b346-5ce4677c55ea?syn-25a6b1a6=1) |
+| Finance | Nov 20, 2026 | [UK and EU agree Brexit ‘reset’ but delivery rests on tuition fees](https://www.ft.com/content/8515b514-2067-43eb-a7f5-b5aa20ec4cc3) |
+| Finance | Nov 20, 2026 | [Rejoining the EU would boost UK economy twice as much as Swiss-style deal](https://www.ft.com/content/22c052bf-a9dc-49f3-a18b-02b5dc490635?syn-25a6b1a6=1) |
+| Finance | Nov 20, 2026 | [Pensions: unjust and unsustainable?](https://www.ft.com/content/6986a3b5-12ed-4aad-ac61-f86ded3e6fa3?syn-25a6b1a6=1) |
+| Finance | Nov 20, 2026 | [China revels in Xi’s ‘Yalta 2.0’ moment](https://www.ft.com/content/c1c540af-f9ba-479a-8473-4b7619859453?syn-25a6b1a6=1) |
+| Finance | Nov 20, 2026 | [Why Britons can feel smugger than the French](https://www.ft.com/content/b9b16f2f-f88e-454e-aa85-c131256310fe?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
