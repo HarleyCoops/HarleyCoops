@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Nov 20, 2026 | [Warsh wants Fed officials to talk less. Instead, they’re talking more](https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html) |
+| Market | Nov 20, 2026 | [The bull market has a new problem. The 'smart money' is selling](https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html) |
+| Market | Nov 20, 2026 | [U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia](https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html) |
 | Market | Nov 19, 2026 | [Trump praises ‘great relationship’ with Putin after meeting, as Ukraine war takes center stage](https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html) |
 | Market | Nov 18, 2026 | [Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show](https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html) |
-| Market | Nov 18, 2026 | [I watched Trump, Xi and Putin gather in China. Here are my top takeaways](https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html) |
-| Market | Nov 18, 2026 | [Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says](https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html) |
-| Market | Nov 18, 2026 | [Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike](https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html) |
-| Finance | Nov 20, 2026 | [UK and EU agree Brexit ‘reset’ but delivery rests on tuition fees](https://www.ft.com/content/8515b514-2067-43eb-a7f5-b5aa20ec4cc3) |
-| Finance | Nov 20, 2026 | [Rejoining the EU would boost UK economy twice as much as Swiss-style deal](https://www.ft.com/content/22c052bf-a9dc-49f3-a18b-02b5dc490635?syn-25a6b1a6=1) |
+| Finance | Nov 20, 2026 | [US tech rout deepens as Anthropic shares tumble](https://www.ft.com/content/23fa83d8-e078-4853-959e-bd1f19d14ff5?syn-25a6b1a6=1) |
+| Finance | Nov 20, 2026 | [The AI fever in markets is breaking](https://www.ft.com/content/b1b2e948-ff5e-48c4-bc3e-f8e75c9e4af1?syn-25a6b1a6=1) |
+| Finance | Nov 20, 2026 | [‘A necessary evil’: how Anthropic pulled off its IPO](https://www.ft.com/content/149d497e-0567-4467-bcfb-269b8b8eb157?syn-25a6b1a6=1) |
 | Finance | Nov 20, 2026 | [Pensions: unjust and unsustainable?](https://www.ft.com/content/6986a3b5-12ed-4aad-ac61-f86ded3e6fa3?syn-25a6b1a6=1) |
-| Finance | Nov 20, 2026 | [China revels in Xi’s ‘Yalta 2.0’ moment](https://www.ft.com/content/c1c540af-f9ba-479a-8473-4b7619859453?syn-25a6b1a6=1) |
-| Finance | Nov 20, 2026 | [Why Britons can feel smugger than the French](https://www.ft.com/content/b9b16f2f-f88e-454e-aa85-c131256310fe?syn-25a6b1a6=1) |
+| Finance | Nov 20, 2026 | [Maga dealmaking threatens US-brokered peace in the Balkans](https://www.ft.com/content/bc10dd9a-229f-440b-821e-465864447742?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
