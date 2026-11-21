@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Nov 20, 2026 | [Prediction markets outlook for stocks in 2026 dims amid AI sell-off](https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html) |
 | Market | Nov 20, 2026 | [Warsh wants Fed officials to talk less. Instead, they’re talking more](https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html) |
 | Market | Nov 20, 2026 | [The bull market has a new problem. The 'smart money' is selling](https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html) |
 | Market | Nov 20, 2026 | [U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia](https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html) |
 | Market | Nov 19, 2026 | [Trump praises ‘great relationship’ with Putin after meeting, as Ukraine war takes center stage](https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html) |
-| Market | Nov 18, 2026 | [Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show](https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html) |
-| Finance | Nov 20, 2026 | [US tech rout deepens as Anthropic shares tumble](https://www.ft.com/content/23fa83d8-e078-4853-959e-bd1f19d14ff5?syn-25a6b1a6=1) |
+| Finance | Nov 20, 2026 | [US tech stocks plunge into bear market in worst week since Covid-19 crisis](https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1) |
+| Finance | Nov 20, 2026 | [Nvidia faces US regulator’s probe into its accounting](https://www.ft.com/content/9b28ed72-aac4-4291-9734-bf60b66645ab?syn-25a6b1a6=1) |
+| Finance | Nov 20, 2026 | [Trump considering new Iran strikes as US military warns of strain on forces](https://www.ft.com/content/2daf570c-189a-4362-a128-828c520b902e) |
 | Finance | Nov 20, 2026 | [The AI fever in markets is breaking](https://www.ft.com/content/b1b2e948-ff5e-48c4-bc3e-f8e75c9e4af1?syn-25a6b1a6=1) |
-| Finance | Nov 20, 2026 | [‘A necessary evil’: how Anthropic pulled off its IPO](https://www.ft.com/content/149d497e-0567-4467-bcfb-269b8b8eb157?syn-25a6b1a6=1) |
-| Finance | Nov 20, 2026 | [Pensions: unjust and unsustainable?](https://www.ft.com/content/6986a3b5-12ed-4aad-ac61-f86ded3e6fa3?syn-25a6b1a6=1) |
-| Finance | Nov 20, 2026 | [Maga dealmaking threatens US-brokered peace in the Balkans](https://www.ft.com/content/bc10dd9a-229f-440b-821e-465864447742?syn-25a6b1a6=1) |
+| Finance | Nov 20, 2026 | [’Tis the season to be grateful to China](https://www.ft.com/content/3f972ef6-f945-4139-a2d0-124a5bfdf71e?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
