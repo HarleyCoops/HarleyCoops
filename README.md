@@ -312,8 +312,8 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Nov 20, 2026 | [Warsh wants Fed officials to talk less. Instead, they’re talking more](https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html) |
 | Market | Nov 20, 2026 | [The bull market has a new problem. The 'smart money' is selling](https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html) |
 | Market | Nov 20, 2026 | [U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia](https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html) |
-| Finance | Nov 20, 2026 | [US tech stocks plunge into bear market in worst week since Covid-19 crisis](https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1) |
-| Finance | Nov 20, 2026 | [Donald Trump threatens ‘tremendous’ tax on data centres built outside US](https://www.ft.com/content/ae564e09-eb0d-42c6-b61f-50a4e61d0240?syn-25a6b1a6=1) |
+| Finance | Nov 21, 2026 | [Alice Huang’s links to the chip underworld](https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9?syn-25a6b1a6=1) |
+| Finance | Nov 21, 2026 | [Nvidia affair puts Chinese spies in spotlight](https://www.ft.com/content/77a283dd-b7af-4e72-8d83-9b53ab86f3e0?syn-25a6b1a6=1) |
 | Finance | Nov 20, 2026 | [Nvidia faces US regulator’s probe into its accounting](https://www.ft.com/content/9b28ed72-aac4-4291-9734-bf60b66645ab?syn-25a6b1a6=1) |
 | Finance | Nov 21, 2026 | [The AI cyber threat is already here](https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b?syn-25a6b1a6=1) |
 | Finance | Nov 21, 2026 | [The dead hand of history weighs on Deutsche Bank](https://www.ft.com/content/bfa66957-73d4-44f1-bea5-6b141c197920) |
