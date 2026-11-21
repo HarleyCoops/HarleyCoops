@@ -313,10 +313,10 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Nov 20, 2026 | [U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia](https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html) |
 | Market | Nov 19, 2026 | [Trump praises ‘great relationship’ with Putin after meeting, as Ukraine war takes center stage](https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html) |
 | Finance | Nov 20, 2026 | [US tech stocks plunge into bear market in worst week since Covid-19 crisis](https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1) |
+| Finance | Nov 20, 2026 | [Donald Trump threatens ‘tremendous’ tax on data centres built outside US](https://www.ft.com/content/ae564e09-eb0d-42c6-b61f-50a4e61d0240?syn-25a6b1a6=1) |
 | Finance | Nov 20, 2026 | [Nvidia faces US regulator’s probe into its accounting](https://www.ft.com/content/9b28ed72-aac4-4291-9734-bf60b66645ab?syn-25a6b1a6=1) |
-| Finance | Nov 20, 2026 | [Trump considering new Iran strikes as US military warns of strain on forces](https://www.ft.com/content/2daf570c-189a-4362-a128-828c520b902e) |
-| Finance | Nov 20, 2026 | [The AI fever in markets is breaking](https://www.ft.com/content/b1b2e948-ff5e-48c4-bc3e-f8e75c9e4af1?syn-25a6b1a6=1) |
-| Finance | Nov 20, 2026 | [’Tis the season to be grateful to China](https://www.ft.com/content/3f972ef6-f945-4139-a2d0-124a5bfdf71e?syn-25a6b1a6=1) |
+| Finance | Nov 21, 2026 | [The AI cyber threat is already here](https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b?syn-25a6b1a6=1) |
+| Finance | Nov 21, 2026 | [The manufacturing of novelty](https://www.ft.com/content/99711b1a-3e54-4349-9c81-769cf7c96b97?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
