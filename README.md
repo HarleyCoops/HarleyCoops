@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Nov 20, 2026 | [Warsh wants Fed officials to talk less. Instead, they’re talking more](https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html) |
 | Market | Nov 20, 2026 | [The bull market has a new problem. The 'smart money' is selling](https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html) |
 | Market | Nov 20, 2026 | [U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia](https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html) |
-| Finance | Nov 21, 2026 | [Alice Huang’s links to the chip underworld](https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9?syn-25a6b1a6=1) |
 | Finance | Nov 22, 2026 | [Did Anthropic and its bankers get a key call wrong after IPO?](https://www.ft.com/content/d501198c-14a4-4b96-8880-c3997545902e) |
 | Finance | Nov 22, 2026 | [Napoleon’s warning to Nvidia’s Jensen Huang](https://www.ft.com/content/f4a9e8ac-9ba2-40ac-8d27-8ce2b9639e2a?syn-25a6b1a6=1) |
 | Finance | Nov 22, 2026 | [A rocky road to Irish unity](https://www.ft.com/content/4d467ab8-00a7-4937-8775-30a42a00131f?syn-25a6b1a6=1) |
-| Finance | Nov 22, 2026 | [Tech suppliers raise AI server prices up to 45% months after deals are signed](https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f?syn-25a6b1a6=1) |
+| Finance | Nov 22, 2026 | [COP31 climate talks fail after stand-off over fossil fuels](https://www.ft.com/content/1b6089f6-2201-43b4-8ed4-0c689a916afa?syn-25a6b1a6=1) |
+| Finance | Nov 22, 2026 | [FTSE 100 catering giant Compass plans to move main listing to New York](https://www.ft.com/content/7b48ea5e-6372-4bb7-ae5c-8b7ddd020883?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
