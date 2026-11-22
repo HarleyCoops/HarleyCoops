@@ -314,9 +314,9 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Nov 20, 2026 | [U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia](https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html) |
 | Finance | Nov 21, 2026 | [Alice Huang’s links to the chip underworld](https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9?syn-25a6b1a6=1) |
 | Finance | Nov 21, 2026 | [Nvidia affair puts Chinese spies in spotlight](https://www.ft.com/content/77a283dd-b7af-4e72-8d83-9b53ab86f3e0?syn-25a6b1a6=1) |
-| Finance | Nov 20, 2026 | [Nvidia faces US regulator’s probe into its accounting](https://www.ft.com/content/9b28ed72-aac4-4291-9734-bf60b66645ab?syn-25a6b1a6=1) |
 | Finance | Nov 21, 2026 | [The AI cyber threat is already here](https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b?syn-25a6b1a6=1) |
 | Finance | Nov 21, 2026 | [The dead hand of history weighs on Deutsche Bank](https://www.ft.com/content/bfa66957-73d4-44f1-bea5-6b141c197920) |
+| Finance | Nov 21, 2026 | [The manufacturing of novelty](https://www.ft.com/content/99711b1a-3e54-4349-9c81-769cf7c96b97?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
