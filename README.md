@@ -313,8 +313,8 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Nov 20, 2026 | [Warsh wants Fed officials to talk less. Instead, they’re talking more](https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html) |
 | Market | Nov 20, 2026 | [The bull market has a new problem. The 'smart money' is selling](https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html) |
 | Finance | Nov 23, 2026 | [Wall Street set to rebound after AI stock sell-off](https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1) |
-| Finance | Nov 23, 2026 | [Asian regulators rush to support sagging markets as AI trade falters](https://www.ft.com/content/69459363-8299-4555-a39c-8980ee6c3590?syn-25a6b1a6=1) |
 | Finance | Nov 23, 2026 | [The problem with the circular AI economy](https://www.ft.com/content/e49add11-3cc8-4edd-8daa-db8daaf994dd?syn-25a6b1a6=1) |
+| Finance | Nov 23, 2026 | [From rotation to contagion](https://www.ft.com/content/046984ab-9a7c-41fd-804c-fb356db28099?syn-25a6b1a6=1) |
 | Finance | Nov 23, 2026 | [China is winning the car war](https://www.ft.com/content/d279b04d-1fb7-49c7-a191-d34cf6467681?syn-25a6b1a6=1) |
 | Finance | Nov 23, 2026 | [Progressives are not radical enough on economics](https://www.ft.com/content/add930b5-5a4c-4226-a778-ffdd009915f0) |
 
