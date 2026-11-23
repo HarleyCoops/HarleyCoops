@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Nov 20, 2026 | [Prediction markets outlook for stocks in 2026 dims amid AI sell-off](https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html) |
 | Market | Nov 20, 2026 | [Warsh wants Fed officials to talk less. Instead, they’re talking more](https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html) |
 | Market | Nov 20, 2026 | [The bull market has a new problem. The 'smart money' is selling](https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html) |
-| Finance | Nov 22, 2026 | [House Democrats to start new Congress with largest majority this century](https://www.ft.com/content/9d2983a7-196d-4164-a0c1-e262f32fd8c9?syn-25a6b1a6=1) |
-| Finance | Nov 22, 2026 | [Democrats will seek to unwind Trump’s tax and tariff policies](https://www.ft.com/content/8af97161-2ae0-4655-9f8b-a560f9227359?syn-25a6b1a6=1) |
-| Finance | Nov 22, 2026 | [The American dream of home ownership recedes as mortgage rates surge](https://www.ft.com/content/168a7d3f-6e70-44da-9860-623bcf4fc023?syn-25a6b1a6=1) |
-| Finance | Nov 22, 2026 | [COP31 climate talks fail after stand-off over fossil fuels](https://www.ft.com/content/1b6089f6-2201-43b4-8ed4-0c689a916afa?syn-25a6b1a6=1) |
-| Finance | Nov 22, 2026 | [Bessent refuses to rule out Huang’s return to Nvidia](https://www.ft.com/content/91b7a3a6-8ac5-4327-ad03-6d951f287346?syn-25a6b1a6=1) |
+| Finance | Nov 23, 2026 | [Wall Street set to rebound after AI stock sell-off](https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1) |
+| Finance | Nov 23, 2026 | [Asian regulators rush to support sagging markets as AI trade falters](https://www.ft.com/content/69459363-8299-4555-a39c-8980ee6c3590?syn-25a6b1a6=1) |
+| Finance | Nov 23, 2026 | [The problem with the circular AI economy](https://www.ft.com/content/e49add11-3cc8-4edd-8daa-db8daaf994dd?syn-25a6b1a6=1) |
+| Finance | Nov 23, 2026 | [China is winning the car war](https://www.ft.com/content/d279b04d-1fb7-49c7-a191-d34cf6467681?syn-25a6b1a6=1) |
+| Finance | Nov 23, 2026 | [Progressives are not radical enough on economics](https://www.ft.com/content/add930b5-5a4c-4226-a778-ffdd009915f0) |
 
 <!-- NEWS:END -->
 
