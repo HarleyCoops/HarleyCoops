@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Nov 22, 2026 | [Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens](https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html) |
 | Market | Nov 21, 2026 | [How China is using summits to expand its global influence](https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html) |
 | Market | Nov 20, 2026 | [Prediction markets outlook for stocks in 2026 dims amid AI sell-off](https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html) |
 | Market | Nov 20, 2026 | [Warsh wants Fed officials to talk less. Instead, they’re talking more](https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html) |
 | Market | Nov 20, 2026 | [The bull market has a new problem. The 'smart money' is selling](https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html) |
-| Market | Nov 20, 2026 | [U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia](https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html) |
-| Finance | Nov 22, 2026 | [Did Anthropic and its bankers get a key call wrong after IPO?](https://www.ft.com/content/d501198c-14a4-4b96-8880-c3997545902e) |
-| Finance | Nov 22, 2026 | [Napoleon’s warning to Nvidia’s Jensen Huang](https://www.ft.com/content/f4a9e8ac-9ba2-40ac-8d27-8ce2b9639e2a?syn-25a6b1a6=1) |
-| Finance | Nov 22, 2026 | [A rocky road to Irish unity](https://www.ft.com/content/4d467ab8-00a7-4937-8775-30a42a00131f?syn-25a6b1a6=1) |
+| Finance | Nov 22, 2026 | [House Democrats to start new Congress with largest majority this century](https://www.ft.com/content/9d2983a7-196d-4164-a0c1-e262f32fd8c9?syn-25a6b1a6=1) |
+| Finance | Nov 22, 2026 | [Democrats will seek to unwind Trump’s tax and tariff policies](https://www.ft.com/content/8af97161-2ae0-4655-9f8b-a560f9227359?syn-25a6b1a6=1) |
+| Finance | Nov 22, 2026 | [The American dream of home ownership recedes as mortgage rates surge](https://www.ft.com/content/168a7d3f-6e70-44da-9860-623bcf4fc023?syn-25a6b1a6=1) |
 | Finance | Nov 22, 2026 | [COP31 climate talks fail after stand-off over fossil fuels](https://www.ft.com/content/1b6089f6-2201-43b4-8ed4-0c689a916afa?syn-25a6b1a6=1) |
-| Finance | Nov 22, 2026 | [FTSE 100 catering giant Compass plans to move main listing to New York](https://www.ft.com/content/7b48ea5e-6372-4bb7-ae5c-8b7ddd020883?syn-25a6b1a6=1) |
+| Finance | Nov 22, 2026 | [Bessent refuses to rule out Huang’s return to Nvidia](https://www.ft.com/content/91b7a3a6-8ac5-4327-ad03-6d951f287346?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
