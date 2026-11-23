@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Nov 23, 2026 | [‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html) |
 | Market | Nov 22, 2026 | [Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens](https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html) |
 | Market | Nov 21, 2026 | [How China is using summits to expand its global influence](https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html) |
 | Market | Nov 20, 2026 | [Prediction markets outlook for stocks in 2026 dims amid AI sell-off](https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html) |
 | Market | Nov 20, 2026 | [Warsh wants Fed officials to talk less. Instead, they’re talking more](https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html) |
-| Market | Nov 20, 2026 | [The bull market has a new problem. The 'smart money' is selling](https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html) |
-| Finance | Nov 23, 2026 | [Wall Street set to rebound after AI stock sell-off](https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1) |
-| Finance | Nov 23, 2026 | [The problem with the circular AI economy](https://www.ft.com/content/e49add11-3cc8-4edd-8daa-db8daaf994dd?syn-25a6b1a6=1) |
-| Finance | Nov 23, 2026 | [From rotation to contagion](https://www.ft.com/content/046984ab-9a7c-41fd-804c-fb356db28099?syn-25a6b1a6=1) |
-| Finance | Nov 23, 2026 | [China is winning the car war](https://www.ft.com/content/d279b04d-1fb7-49c7-a191-d34cf6467681?syn-25a6b1a6=1) |
-| Finance | Nov 23, 2026 | [Progressives are not radical enough on economics](https://www.ft.com/content/add930b5-5a4c-4226-a778-ffdd009915f0) |
+| Finance | Nov 23, 2026 | [Nvidia reinstates Jensen Huang as chief executive](https://www.ft.com/content/08914b05-bbfa-478d-b38a-549acfc1aae6?syn-25a6b1a6=1) |
+| Finance | Nov 23, 2026 | [The tragedy — or is it farce? — of Jensen Huang](https://www.ft.com/content/611430d0-9aec-4e5e-95d7-615e86f692ce?syn-25a6b1a6=1) |
+| Finance | Nov 23, 2026 | [Huang’s return is a triumph of money over morals](https://www.ft.com/content/189b5df2-2d06-42db-8843-1a542efb0a8f?syn-25a6b1a6=1) |
+| Finance | Nov 23, 2026 | [Nvidia and Nasdaq soar after board reinstates Huang](https://www.ft.com/content/20d2ebe3-e945-4659-a122-31bf85a4e4e5?syn-25a6b1a6=1) |
+| Finance | Nov 23, 2026 | [The trouble with the middle powers project](https://www.ft.com/content/cf3b03e3-3fbf-489b-a292-33596ea64eea?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
