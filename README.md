@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Nov 23, 2026 | [Fed's John Williams indicates higher interest rates likely 'over time' to address inflation](https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html) |
 | Market | Nov 23, 2026 | [‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html) |
-| Market | Nov 22, 2026 | [Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens](https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html) |
+| Market | Nov 23, 2026 | [Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens](https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html) |
 | Market | Nov 21, 2026 | [How China is using summits to expand its global influence](https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html) |
 | Market | Nov 20, 2026 | [Prediction markets outlook for stocks in 2026 dims amid AI sell-off](https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html) |
-| Market | Nov 20, 2026 | [Warsh wants Fed officials to talk less. Instead, they’re talking more](https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html) |
-| Finance | Nov 23, 2026 | [Nvidia reinstates Jensen Huang as chief executive](https://www.ft.com/content/08914b05-bbfa-478d-b38a-549acfc1aae6?syn-25a6b1a6=1) |
-| Finance | Nov 23, 2026 | [The tragedy — or is it farce? — of Jensen Huang](https://www.ft.com/content/611430d0-9aec-4e5e-95d7-615e86f692ce?syn-25a6b1a6=1) |
+| Finance | Nov 23, 2026 | [Nvidia adds nearly $1tn to market value after it reinstates Jensen Huang](https://www.ft.com/content/08914b05-bbfa-478d-b38a-549acfc1aae6?syn-25a6b1a6=1) |
+| Finance | Nov 23, 2026 | [US lawmakers vow to sharpen Huang probes as he returns to Nvidia](https://www.ft.com/content/6b4e5bfb-d566-4a61-a12c-057881a261b8?syn-25a6b1a6=1) |
+| Finance | Nov 23, 2026 | [The startling return of Jensen Huang](https://www.ft.com/content/d23fd311-ac96-4dfb-88ef-b1ccb2197f13?syn-25a6b1a6=1) |
+| Finance | Nov 23, 2026 | [Inside the ‘war room’ that lobbied Trump to bring back Nvidia’s Huang](https://www.ft.com/content/82d3be02-8ac7-4acb-aefa-6e3722ee05cc?syn-25a6b1a6=1) |
 | Finance | Nov 23, 2026 | [Huang’s return is a triumph of money over morals](https://www.ft.com/content/189b5df2-2d06-42db-8843-1a542efb0a8f?syn-25a6b1a6=1) |
-| Finance | Nov 23, 2026 | [Nvidia and Nasdaq soar after board reinstates Huang](https://www.ft.com/content/20d2ebe3-e945-4659-a122-31bf85a4e4e5?syn-25a6b1a6=1) |
-| Finance | Nov 23, 2026 | [The trouble with the middle powers project](https://www.ft.com/content/cf3b03e3-3fbf-489b-a292-33596ea64eea?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
