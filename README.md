@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Nov 23, 2026 | [Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens](https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html) |
 | Market | Nov 21, 2026 | [How China is using summits to expand its global influence](https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html) |
 | Market | Nov 20, 2026 | [Prediction markets outlook for stocks in 2026 dims amid AI sell-off](https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html) |
-| Finance | Nov 23, 2026 | [Nvidia adds nearly $1tn to market value after it reinstates Jensen Huang](https://www.ft.com/content/08914b05-bbfa-478d-b38a-549acfc1aae6?syn-25a6b1a6=1) |
+| Finance | Nov 23, 2026 | [Inside the ‘war room’ that lobbied Trump to bring back ousted tech boss](https://www.ft.com/content/82d3be02-8ac7-4acb-aefa-6e3722ee05cc?syn-25a6b1a6=1) |
+| Finance | Nov 23, 2026 | [Trump made up to $15mn on Nvidia shares after Huang’s return](https://www.ft.com/content/67b0a070-c2a9-4229-885a-383cca657763?syn-25a6b1a6=1) |
 | Finance | Nov 23, 2026 | [US lawmakers vow to sharpen Huang probes as he returns to Nvidia](https://www.ft.com/content/6b4e5bfb-d566-4a61-a12c-057881a261b8?syn-25a6b1a6=1) |
-| Finance | Nov 23, 2026 | [The startling return of Jensen Huang](https://www.ft.com/content/d23fd311-ac96-4dfb-88ef-b1ccb2197f13?syn-25a6b1a6=1) |
-| Finance | Nov 23, 2026 | [Inside the ‘war room’ that lobbied Trump to bring back Nvidia’s Huang](https://www.ft.com/content/82d3be02-8ac7-4acb-aefa-6e3722ee05cc?syn-25a6b1a6=1) |
-| Finance | Nov 23, 2026 | [Huang’s return is a triumph of money over morals](https://www.ft.com/content/189b5df2-2d06-42db-8843-1a542efb0a8f?syn-25a6b1a6=1) |
+| Finance | Nov 24, 2026 | [The spies are coming for Big Tech](https://www.ft.com/content/c96c40c5-6b07-4433-b65f-19105e9ccb44?syn-25a6b1a6=1) |
+| Finance | Nov 24, 2026 | [Britain bought fake C4 explosives for Ukraine](https://www.ft.com/content/b5873050-2b90-4889-bbf6-902234e51e9f?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
