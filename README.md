@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Nov 25, 2026 | [Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips](https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html) |
 | Market | Nov 24, 2026 | [Kalshi daily volume of ‘perps’ trading begins to top its prediction markets](https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html) |
 | Market | Nov 24, 2026 | [Utah drops criminal charges against Kalshi founders after company suspended operations in state](https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html) |
 | Market | Nov 24, 2026 | [Fed's John Williams indicates higher interest rates likely 'over time' to address inflation](https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html) |
 | Market | Nov 23, 2026 | [‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html) |
-| Market | Nov 23, 2026 | [Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens](https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html) |
-| Finance | Nov 24, 2026 | [Huang says he still does not believe in CEO succession planning at Nvidia](https://www.ft.com/content/cd1831d0-c3f1-4705-b8e2-badfb5e39764?syn-25a6b1a6=1) |
-| Finance | Nov 24, 2026 | [Anthropic closes below IPO price as tech rally fades](https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1) |
-| Finance | Nov 24, 2026 | [SpaceX-Tesla: the directors negotiating the biggest merger ever](https://www.ft.com/content/2585e45e-9133-4215-a2d8-e1275e1033b9?syn-25a6b1a6=1) |
-| Finance | Nov 24, 2026 | [Russian navy licks its wounds as another warship is sunk](https://www.ft.com/content/ef3cfa29-4613-426c-9b87-dd76664e6859?syn-25a6b1a6=1) |
-| Finance | Nov 24, 2026 | [Trump readies raft of new tariffs on major economies](https://www.ft.com/content/335b593d-1478-4550-ab0a-71fec6280eb0?syn-25a6b1a6=1) |
+| Finance | Nov 25, 2026 | [Trump shelves plans for business deals with Russia](https://www.ft.com/content/36e342f2-17d4-48a7-80f6-2456dfdd6f91?syn-25a6b1a6=1) |
+| Finance | Nov 25, 2026 | [‘Tech bros strike back’ as Trump rescues Nvidia’s Huang](https://www.ft.com/content/a1374617-d3a2-415a-8490-72b164eefc0e?syn-25a6b1a6=1) |
+| Finance | Nov 25, 2026 | [A French crisis would be a threat — and opportunity — for Europe](https://www.ft.com/content/c72a8e34-13c2-4336-90b1-e59bac95c78b) |
+| Finance | Nov 25, 2026 | [How an ex-McKinsey partner is using new money to chase old wealth](https://www.ft.com/content/2a40938d-d3c8-47dd-a5e9-b728b685a5ed?syn-25a6b1a6=1) |
+| Finance | Nov 25, 2026 | [Asian markets lose ground as AI fears return](https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
