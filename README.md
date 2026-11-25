@@ -307,16 +307,16 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Nov 24, 2026 | [Kalshi daily volume of ‘perps’ trading begins to top its prediction markets](https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html) |
+| Market | Nov 24, 2026 | [Utah drops criminal charges against Kalshi founders after company suspended operations in state](https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html) |
 | Market | Nov 24, 2026 | [Fed's John Williams indicates higher interest rates likely 'over time' to address inflation](https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html) |
 | Market | Nov 23, 2026 | [‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html) |
 | Market | Nov 23, 2026 | [Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens](https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html) |
-| Market | Nov 21, 2026 | [How China is using summits to expand its global influence](https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html) |
-| Market | Nov 20, 2026 | [Prediction markets outlook for stocks in 2026 dims amid AI sell-off](https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html) |
-| Finance | Nov 24, 2026 | [Anthropic falls below IPO price as tech rally fades](https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1) |
-| Finance | Nov 23, 2026 | [Inside the ‘war room’ that lobbied Trump to bring back Jensen Huang](https://www.ft.com/content/82d3be02-8ac7-4acb-aefa-6e3722ee05cc?syn-25a6b1a6=1) |
-| Finance | Nov 24, 2026 | [Jensen Huang’s return should not stop tighter US chip controls](https://www.ft.com/content/55a32e72-2cee-4a7f-874f-0936e2581a8a) |
-| Finance | Nov 24, 2026 | [Big Tech’s blind spot](https://www.ft.com/content/c96c40c5-6b07-4433-b65f-19105e9ccb44?syn-25a6b1a6=1) |
-| Finance | Nov 24, 2026 | [Britain bought fake C4 explosives for Ukraine](https://www.ft.com/content/b5873050-2b90-4889-bbf6-902234e51e9f?syn-25a6b1a6=1) |
+| Finance | Nov 24, 2026 | [Huang says he still does not believe in CEO succession planning at Nvidia](https://www.ft.com/content/cd1831d0-c3f1-4705-b8e2-badfb5e39764?syn-25a6b1a6=1) |
+| Finance | Nov 24, 2026 | [Anthropic closes below IPO price as tech rally fades](https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1) |
+| Finance | Nov 24, 2026 | [SpaceX-Tesla: the directors negotiating the biggest merger ever](https://www.ft.com/content/2585e45e-9133-4215-a2d8-e1275e1033b9?syn-25a6b1a6=1) |
+| Finance | Nov 24, 2026 | [Russian navy licks its wounds as another warship is sunk](https://www.ft.com/content/ef3cfa29-4613-426c-9b87-dd76664e6859?syn-25a6b1a6=1) |
+| Finance | Nov 24, 2026 | [Trump readies raft of new tariffs on major economies](https://www.ft.com/content/335b593d-1478-4550-ab0a-71fec6280eb0?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
