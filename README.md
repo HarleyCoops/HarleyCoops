@@ -307,15 +307,15 @@ The linked training runs expose reward curves and component metrics. I use these
 <!-- NEWS:START -->
 | Category | Date | Headline |
 |----------|------|----------|
+| Market | Nov 26, 2026 | [Robots could be doing household chores in just 1-2 years, Chinese EV firm says](https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html) |
 | Market | Nov 26, 2026 | [Beware higher correlation but nab high U.S. credit yields, fund managers say](https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html) |
 | Market | Nov 25, 2026 | [Prediction markets push OpenAI IPO expectations later into 2027](https://www.cnbc.com/2026/11/25/openai-ipo-odds-2027-prediction-markets.html) |
 | Market | Nov 25, 2026 | [Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals](https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html) |
 | Market | Nov 25, 2026 | [Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips](https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html) |
-| Market | Nov 24, 2026 | [Kalshi daily volume of ‘perps’ trading begins to top its prediction markets](https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html) |
 | Finance | Nov 26, 2026 | [Nvidia halts chip shipments to south-east Asia](https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370?syn-25a6b1a6=1) |
 | Finance | Nov 26, 2026 | [‘Jensanity’ erupts in Taiwan and China on Nvidia founder’s comeback](https://www.ft.com/content/368c4526-a0ce-4951-a847-f039af2a51af?syn-25a6b1a6=1) |
 | Finance | Nov 26, 2026 | [Huang’s return is a terrible signal for US capitalism](https://www.ft.com/content/cd688a72-04ed-40fb-9c26-5cae522a0abd) |
-| Finance | Nov 26, 2026 | [Britain’s 1,000-year-old tax travails](https://www.ft.com/content/168aa97b-1a58-480e-a995-31287308432f?syn-25a6b1a6=1) |
+| Finance | Nov 26, 2026 | [How Britain taxed itself into a corner](https://www.ft.com/content/168aa97b-1a58-480e-a995-31287308432f?syn-25a6b1a6=1) |
 | Finance | Nov 26, 2026 | [Mrs Takaichi vs Mrs Watanabe: Japan’s coming financial clash](https://www.ft.com/content/e6adc42b-2851-4122-80cc-326312d823ee?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
