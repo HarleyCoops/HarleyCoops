@@ -312,11 +312,11 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Nov 26, 2026 | [Robots could be doing household chores in just 1-2 years, Chinese EV firm says](https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html) |
 | Market | Nov 26, 2026 | [Beware higher correlation but nab high U.S. credit yields, fund managers say](https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html) |
 | Market | Nov 25, 2026 | [Prediction markets push OpenAI IPO expectations later into 2027](https://www.cnbc.com/2026/11/25/openai-ipo-odds-2027-prediction-markets.html) |
-| Finance | Nov 26, 2026 | [Hawkish Fed poised to raise rates despite stock market turmoil](https://www.ft.com/content/3890f725-66dd-4613-8a60-d9e3ea38d25a?syn-25a6b1a6=1) |
-| Finance | Nov 26, 2026 | [The ICE raids ‘wreaking havoc’ across American academia](https://www.ft.com/content/125e9b6d-4e45-4554-9a86-a3ce172bcf65?syn-25a6b1a6=1) |
-| Finance | Nov 26, 2026 | [Angry young men turn against their elders in ‘two Spains’ election](https://www.ft.com/content/6b8ac07d-d589-4ff2-9ad3-8cda56287a8e?syn-25a6b1a6=1) |
-| Finance | Nov 26, 2026 | [Do voters want vision or concision from politicians?](https://www.ft.com/content/af51083d-f076-44c0-8858-c9e9d4487fcc?syn-25a6b1a6=1) |
-| Finance | Nov 26, 2026 | [Andrew Bailey says unreleased AI models have raised encryption concerns](https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae?syn-25a6b1a6=1) |
+| Finance | Nov 27, 2026 | [Chinese households shed billions in consumer debt](https://www.ft.com/content/8c5e0298-58f0-47e9-a843-513178d9fa2e?syn-25a6b1a6=1) |
+| Finance | Nov 27, 2026 | [Marine Le Pen: the woman who could break the EU](https://www.ft.com/content/9bbd926e-ccef-4717-9044-48a23c9353ba?syn-25a6b1a6=1) |
+| Finance | Nov 27, 2026 | [The US and Europe have opposite economic problems](https://www.ft.com/content/047e1a9d-0448-4ccd-aaec-c5c06125d111?syn-25a6b1a6=1) |
+| Finance | Nov 27, 2026 | [Is the Fed ready for its next fight?](https://www.ft.com/content/71ffa69f-2a07-44e4-8305-ae5548b89828?syn-25a6b1a6=1) |
+| Finance | Nov 27, 2026 | [Tech stocks set for worst month in four years as volatility surges](https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
