@@ -313,9 +313,9 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Nov 26, 2026 | [Robots could be doing household chores in just 1-2 years, Chinese EV firm says](https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html) |
 | Market | Nov 26, 2026 | [Beware higher correlation but nab high U.S. credit yields, fund managers say](https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html) |
 | Finance | Nov 27, 2026 | [Wave of cyber incidents rattles western economies](https://www.ft.com/content/6ab1172b-4f27-49f5-ad53-b384df82da77?syn-25a6b1a6=1) |
-| Finance | Nov 27, 2026 | [Marine Le Pen: the woman who could break the EU](https://www.ft.com/content/9bbd926e-ccef-4717-9044-48a23c9353ba?syn-25a6b1a6=1) |
-| Finance | Nov 27, 2026 | [From Jobs to Jensen: tech’s metamorphosis](https://www.ft.com/content/5b10a0e6-aad6-403b-9f2e-23b5ca78897d) |
-| Finance | Nov 27, 2026 | [Warsh’s ‘good family fight’ could turn ugly](https://www.ft.com/content/71ffa69f-2a07-44e4-8305-ae5548b89828?syn-25a6b1a6=1) |
+| Finance | Nov 27, 2026 | [Can AI crack encryption?](https://www.ft.com/content/1a29e62d-b18d-4bad-937d-34f3eae0587a?syn-25a6b1a6=1) |
+| Finance | Nov 27, 2026 | [Trump’s Nvidia intervention has a cost for US stocks](https://www.ft.com/content/3318a827-bf20-4826-947d-9327381c3c10?syn-25a6b1a6=1) |
+| Finance | Nov 27, 2026 | [AI and the decryption nightmare](https://www.ft.com/content/4114d053-de5e-46a5-8b46-758726abdcb7?syn-25a6b1a6=1) |
 | Finance | Nov 27, 2026 | [US tech stocks rise in latest market swing](https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
