@@ -313,10 +313,10 @@ The linked training runs expose reward curves and component metrics. I use these
 | Market | Nov 26, 2026 | [Robots could be doing household chores in just 1-2 years, Chinese EV firm says](https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html) |
 | Market | Nov 26, 2026 | [Beware higher correlation but nab high U.S. credit yields, fund managers say](https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html) |
 | Finance | Nov 27, 2026 | [Wave of cyber incidents rattles western economies](https://www.ft.com/content/6ab1172b-4f27-49f5-ad53-b384df82da77?syn-25a6b1a6=1) |
-| Finance | Nov 27, 2026 | [Can AI crack encryption?](https://www.ft.com/content/1a29e62d-b18d-4bad-937d-34f3eae0587a?syn-25a6b1a6=1) |
-| Finance | Nov 27, 2026 | [Trump’s Nvidia intervention has a cost for US stocks](https://www.ft.com/content/3318a827-bf20-4826-947d-9327381c3c10?syn-25a6b1a6=1) |
-| Finance | Nov 27, 2026 | [AI and the decryption nightmare](https://www.ft.com/content/4114d053-de5e-46a5-8b46-758726abdcb7?syn-25a6b1a6=1) |
-| Finance | Nov 27, 2026 | [US tech stocks rise in latest market swing](https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1) |
+| Finance | Nov 28, 2026 | [AI agents are coming for big business](https://www.ft.com/content/c9de05b8-0916-436a-87fc-40337067b0d2?syn-25a6b1a6=1) |
+| Finance | Nov 28, 2026 | [‘Only in America’ and other good lies](https://www.ft.com/content/322f3ecd-f513-45aa-9b2f-adf63e104638?syn-25a6b1a6=1) |
+| Finance | Nov 28, 2026 | [Pedro Sánchez: the partisan warrior fighting to the last](https://www.ft.com/content/ad9ff980-d165-42ef-8c74-4ff5acabe09a?syn-25a6b1a6=1) |
+| Finance | Nov 28, 2026 | [Iran hitting same ships twice to deter traffic from Strait of Hormuz](https://www.ft.com/content/f9c4da80-cc2c-4b0b-b083-b7acd0337790?syn-25a6b1a6=1) |
 
 <!-- NEWS:END -->
 
